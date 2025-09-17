@@ -8,7 +8,7 @@ export class TableSubTopics1758146428056 implements MigrationInterface {
             "Id" serial primary key,
             "TopicId" integer not null,
             "SubTopicName" varchar(50) not null,
-            add constraint "Topic_fk" foreign key (TopicId) references "Topics"(Id)
+            constraint Topic_fk foreign key ("TopicId") references Topics("Id")
             )
             `) 
     }

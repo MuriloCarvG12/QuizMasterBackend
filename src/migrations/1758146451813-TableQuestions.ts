@@ -19,9 +19,9 @@ export class TableQuestions1758146451813 implements MigrationInterface {
             "QuestionAltE" text,
             "CorrectAlternative" char,
             "QuestionDifficulty" varchar(20),
-            constraint "SubjectFk" foreign key "SubjectId" references "Subjects"(id),
-            constraint "TopicFk" foreign key "TopicId" references "Topics"(id),
-            constraint "SubTopicFk" foreign key "SubTopicId" references "SubTopics"(id),
+            constraint Subject_Fk foreign key ("SubjectId") references Subjects("Id"),
+            constraint Topic_Fk foreign key ("TopicId") references Topics("Id"),
+            constraint SubTopic_Fk foreign key ("SubTopicId") references SubTopics("Id")
             )
             `)
     }
