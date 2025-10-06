@@ -2,9 +2,10 @@ require("dotenv").config();
 
 import "reflect-metadata";
 import express from "express";
-import { AppDataSource } from "./data_source";
+import  AppDataSource  from "./data_source";
 
 import cors from "cors";
+import subjectRouter from "./routes/Subject";
 
 const app = express();
 
@@ -12,7 +13,7 @@ app.use(cors()); // Permite que o express entenda requisições de outros domín
 
 app.use(express.json()); // Permite que o express entenda JSON
 
-
+app.use("/Subject", subjectRouter);
 
 app.get("/env", (req, res) => {
   res.json({
