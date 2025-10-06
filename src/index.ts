@@ -6,6 +6,7 @@ import  AppDataSource  from "./data_source";
 
 import cors from "cors";
 import subjectRouter from "./routes/Subject";
+
 const app = express();
 
 app.use(cors()); // Permite que o express entenda requisições de outros domínios
