@@ -73,7 +73,7 @@ subjectRouter.post('/CreateSubject', async(req:Request, res: Response) =>
     }
 })
 
-subjectRouter.delete('/CreateSubject', async(req:Request, res: Response) => 
+subjectRouter.delete('/DeleteSubject', async(req:Request, res: Response) => 
 {
   const BodySubjectName = req.body.SubjectName; 
   try 
@@ -83,7 +83,7 @@ subjectRouter.delete('/CreateSubject', async(req:Request, res: Response) =>
         return res.status(400).json("A Subject Name must be provided!");
       } 
      
-      const Subject  = await SubjectRepository.findOneBy({SubjectName: String(BodySubjectName)});  
+      const Subject  = await SubjectRepository.findOneBy({SubjectName: BodySubjectName});  
       if(Subject == null)
       {
         return res.status(404).json("Coudlnt find a subject with this name!");
@@ -105,9 +105,10 @@ subjectRouter.delete('/CreateSubject', async(req:Request, res: Response) =>
   }
 })
 
-subjectRouter.post('/UpdateSubject', async(req:Request, res: Response) => 
+subjectRouter.put('/UpdateSubject', async(req:Request, res: Response) => 
 {
   const BodySubjectName = req.body.SubjectName; 
+  const BodyNewSubjectName = req.body.NewSubjectName; 
   try 
   {
     if(BodySubjectName == '')
@@ -119,7 +120,7 @@ subjectRouter.post('/UpdateSubject', async(req:Request, res: Response) =>
       {
         return res.status(404).json("Coudnlt find a subject with this name!");
       }
-    Subject.SubjectName = BodySubjectName;
+    Subject.SubjectName = BodyNewSubjectName;
     await SubjectRepository.save(Subject) 
     return res.status(200).json({ message: "Subject updated successfully", Subject })
   } 
