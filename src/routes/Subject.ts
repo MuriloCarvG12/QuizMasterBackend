@@ -105,4 +105,31 @@ subjectRouter.delete('/CreateSubject', async(req:Request, res: Response) =>
   }
 })
 
+subjectRouter.post('/UpdateSubject', async(req:Request, res: Response) => 
+{
+  const BodySubjectName = req.body.SubjectName; 
+  try 
+  {
+    if(BodySubjectName == '')
+    {
+      return res.status(400).json("A Subject Name must be provided!");
+    } 
+    const Subject  = await SubjectRepository.findOneBy({SubjectName: String(BodySubjectName)});
+    if(Subject == null)
+      {
+        return res.status(404).json("Coudnlt find a subject with this name!");
+      }
+    Subject.SubjectName = BodySubjectName;
+    await SubjectRepository.save(Subject) 
+    return res.status(200).json({ message: "Subject updated successfully", Subject })
+  } 
+
+  catch (error) 
+  {
+    console.error(error)
+    return res.status(500).json({ message: "Error updating subject ", error })
+  }
+
+})
+
 export default subjectRouter;
