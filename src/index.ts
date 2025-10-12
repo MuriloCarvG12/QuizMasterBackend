@@ -7,6 +7,7 @@ import  AppDataSource  from "./data_source";
 import cors from "cors";
 import subjectRouter from "./routes/Subject";
 import topicRouter from "./routes/Topic";
+import subtopicRouter from "./routes/SubTopic";
 
 const app = express();
 
@@ -16,6 +17,8 @@ app.use(express.json()); // Permite que o express entenda JSON
 
 app.use("/Subject", subjectRouter);
 app.use("/Topic", topicRouter);
+app.use("/SubTopic", subtopicRouter);
+
 app.get("/env", (req, res) => {
   res.json({
     port: process.env.PORT,

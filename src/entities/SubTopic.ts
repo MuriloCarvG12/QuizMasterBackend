@@ -1,7 +1,7 @@
 import { Entity, PrimaryGeneratedColumn, Column, ManyToOne, JoinColumn } from "typeorm"
 import { Topic } from "./Topic"
 
-@Entity()
+@Entity("subtopics")
 export class Subtopic {
     @PrimaryGeneratedColumn()
     Id: number
@@ -10,7 +10,7 @@ export class Subtopic {
     SubTopicName: string
 
     @ManyToOne(() => Topic, { eager: false }) 
-        @JoinColumn({ name: "topicId" }) 
+        @JoinColumn({ name: "Id" }) 
         Topic: Topic
     
         @Column()
