@@ -4,7 +4,7 @@ import { Topic } from "./Topic"
 @Entity()
 export class Subtopic {
     @PrimaryGeneratedColumn()
-    id: number
+    Id: number
 
     @Column()
     SubTopicName: string

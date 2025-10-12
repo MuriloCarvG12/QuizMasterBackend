@@ -30,6 +30,11 @@ topicRouter.get('/getTopic', async( req:Request, res: Response) => {
     const ReqBodyName = req.body.TopicName;
     try 
     {
+        if(ReqBodyName == "")
+            {
+                return res.status(400).json("Couldn't find a Topic with that code!");    
+            }
+
         const TopicFound = await TopicRepository.findBy({TopicName: ReqBodyName});
         if(! TopicFound)
             {
@@ -64,7 +69,7 @@ topicRouter.post('/createTopic', async( req:Request, res: Response) =>
                 const newTopic = TopicRepository.create
                 ({
                         TopicName: BodyTopicName,
-                        subjectId: TopicSubject
+                        SubjectId: TopicSubject
                 }) 
 
                 await TopicRepository.save(newTopic)
@@ -81,3 +86,34 @@ topicRouter.post('/createTopic', async( req:Request, res: Response) =>
         return res.status(500).json("An error occured while acessing this route! " + error);      
     }
 })
+
+topicRouter.delete('/deleteTopic', async( req:Request, res: Response) => 
+{
+    try 
+    {
+        const BodyTopicName = req.body.TopicName;
+
+        if(BodyTopicName == "")
+            {
+                return res.status(400).json("A Subject Name must be provided!");
+            }
+        const Topicfound = await TopicRepository.findOneBy({TopicName: BodyTopicName});
+
+        if(!Topicfound)
+            {
+              return res.status(400).json("Couldn't find a Topic with that Name!");  
+            }
+
+        await TopicRepository.delete(Topicfound?.Id);
+        return res.status(200).json({ message: "Topic deleted successfully" })
+
+    } 
+
+    catch (error) 
+    {
+        return res.status(500).json("An error occured while acessing this route! " + error);  
+    }
+
+})
+
+export default topicRouter;
