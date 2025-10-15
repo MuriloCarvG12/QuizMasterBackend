@@ -117,4 +117,31 @@ topicRouter.delete('/deleteTopic', async( req:Request, res: Response) =>
 
 })
 
+topicRouter.put('/updateTopic', async( req:Request, res: Response) => {
+    try 
+    {
+        const NewTopicName = req.body.NewTopicName;
+        const TopicName = req.body.TopicName;
+        
+        const TopicFound = await TopicRepository.findOneBy({TopicName: TopicName});
+
+        if(!TopicFound)
+            {
+                return res.status(404).json("Couldn't find the specified Topic!");
+            }
+
+        TopicFound.TopicName = NewTopicName;
+
+        await TopicRepository.save(TopicFound);
+        return res.status(200).json({ message: "Error updating subject ", TopicFound });
+
+    } 
+
+    catch (error) 
+    {
+        return res.status(500).json("An error occured while acessing this route! " + error);    
+    }
+
+})
+
 export default topicRouter;
