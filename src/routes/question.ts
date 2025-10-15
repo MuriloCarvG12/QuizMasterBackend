@@ -55,3 +55,5 @@ questionRouter.get('/getQuestion', async (req:Request, res: Response) => {
         return res.status(500).json("An error occured while acessing this route! " + error);      
     }
 })
+
+export default questionRouter;

@@ -8,6 +8,7 @@ import cors from "cors";
 import subjectRouter from "./routes/Subject";
 import topicRouter from "./routes/Topic";
 import subtopicRouter from "./routes/SubTopic";
+import questionRouter from "./routes/question";
 
 const app = express();
 
@@ -18,6 +19,7 @@ app.use(express.json()); // Permite que o express entenda JSON
 app.use("/Subject", subjectRouter);
 app.use("/Topic", topicRouter);
 app.use("/SubTopic", subtopicRouter);
+app.use("/Question", questionRouter);
 
 app.get("/env", (req, res) => {
   res.json({
