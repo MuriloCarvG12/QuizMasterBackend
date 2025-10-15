@@ -63,8 +63,8 @@ subtopicRouter.post('/CreateSubtopic', async( req:Request, res: Response) => {
             TopicId: BodyTopicId
         }) 
 
-        await TopicRepository.save(newSubTopic);
-        return res.status(201).json(TopicRepository) 
+        await SubTopicRepository.save(newSubTopic);
+        return res.status(201).json({message:"New SubTopic Created! ", newSubTopic}) 
     }         
     catch (error) 
     {
@@ -96,7 +96,7 @@ subtopicRouter.delete('/DeleteSubTopic', async(req:Request, res: Response) =>
     }
 })
 
-subtopicRouter.delete('/AlterSubTopic', async(req:Request, res: Response) => 
+subtopicRouter.put('/AlterSubTopic', async(req:Request, res: Response) => 
 {
     try 
     {
@@ -117,7 +117,7 @@ subtopicRouter.delete('/AlterSubTopic', async(req:Request, res: Response) =>
 
     catch (error) 
     {
-        
+        return res.status(500).json("An error occured while acessing this route! " + error);     
     }
 })
 
