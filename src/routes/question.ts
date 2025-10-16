@@ -167,4 +167,29 @@ questionRouter.post('/createQuestion', async (req:Request, res: Response) => {
     }
 })
 
+questionRouter.delete('/deleteQuestion', async (req:Request, res: Response) => {
+    try 
+    {
+        const QuestionId = req.body.questionId;
+        if(QuestionId == '')
+            {
+                res.status(400).json("The Question id supplied is empty!")
+            }
+
+        const QuestionFound = await QuestionRepository.findOneBy({id: QuestionId});
+
+        if(!QuestionFound)   
+            {
+                return res.status(404).json("Couldn't find the specified question!")
+            }
+
+        await QuestionRepository.delete(QuestionFound?.id);
+        return res.status(200).json({ message: "Question deleted successfully" })
+    } 
+    catch (error) 
+    {
+      return res.status(500).json("An error occured while acessing this route! " + error);       
+    }
+})
+
 export default questionRouter;
