@@ -40,7 +40,7 @@ questionRouter.get('/getQuestion', async (req:Request, res: Response) => {
                 return res.status(400).json("No Question has been specified")
             }
         
-        const QuestionFound = await QuestionRepository.findOneBy({id: QuestionId})
+        const QuestionFound = await QuestionRepository.findOneBy({Id: QuestionId})
 
         if(!QuestionFound)
             {
@@ -142,7 +142,7 @@ questionRouter.post('/createQuestion', async (req:Request, res: Response) => {
         const NewQuestion = await QuestionRepository.create
         ({
             ImageUrl: ImageUrl,
-            subjectId: SubjectId, 
+            SubjectId: SubjectId, 
             TopicId: TopicId,
             SubTopicId: SubTopicId,
             QuestionText:   QuestionText,
@@ -176,19 +176,32 @@ questionRouter.delete('/deleteQuestion', async (req:Request, res: Response) => {
                 res.status(400).json("The Question id supplied is empty!")
             }
 
-        const QuestionFound = await QuestionRepository.findOneBy({id: QuestionId});
+        const QuestionFound = await QuestionRepository.findOneBy({Id: QuestionId});
 
         if(!QuestionFound)   
             {
                 return res.status(404).json("Couldn't find the specified question!")
             }
 
-        await QuestionRepository.delete(QuestionFound?.id);
+        await QuestionRepository.delete(QuestionFound?.Id);
         return res.status(200).json({ message: "Question deleted successfully" })
     } 
     catch (error) 
     {
       return res.status(500).json("An error occured while acessing this route! " + error);       
+    }
+})
+
+questionRouter.delete('/changeQuestion', async (req:Request, res: Response) => {
+    try 
+    {
+        const QuestionId = req.body.questionId;
+      
+    } 
+
+    catch (error) 
+    {
+        
     }
 })
 

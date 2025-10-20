@@ -3,10 +3,10 @@ import { Subject } from "./Subject"
 import { Topic } from "./Topic"
 import { Subtopic } from "./SubTopic"
 
-@Entity()
+@Entity("questions")
 export class Question {
     @PrimaryGeneratedColumn()
-    id: number
+    Id: number
 
     @Column()
     ImageUrl: string
@@ -39,11 +39,11 @@ export class Question {
     QuestionDifficulty: string
 
     @ManyToOne(() => Subject, { eager: false }) 
-        @JoinColumn({ name: "subjectId" }) 
+        @JoinColumn({ name: "SubjectId" }) 
         subject: Subject
     
     @Column()
-    subjectId: number 
+    SubjectId: number 
 
     @ManyToOne(() => Topic, { eager: false }) 
         @JoinColumn({ name: "TopicId" }) 
