@@ -119,7 +119,7 @@ class subjectController {
                     return res.status(500).json("Couldnt fetch the subject's id!");
                 }
                 await this.SubjectRepository.delete(subject_id);
-                return res.status(200).json({ message: "User deleted successfully" })
+                return res.status(200).json({ message: "Subject deleted successfully" })
 
         }
         catch (error) 

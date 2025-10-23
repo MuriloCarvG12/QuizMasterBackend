@@ -1,13 +1,6 @@
 import { Router, Request , Response } from "express";
 
-import AppDataSource from "../data_source";
-
-import { Subject } from "../entities/Subject";
 import subjectController from "../controllers/subjectControllers";
-
-
-
-const SubjectRepository = AppDataSource.getRepository(Subject)
 
 const SubjectController = new subjectController()
 
