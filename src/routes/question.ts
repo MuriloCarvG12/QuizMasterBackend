@@ -40,7 +40,7 @@ questionRouter.get('/getQuestion', async (req:Request, res: Response) => {
                 return res.status(400).json("No Question has been specified")
             }
         
-        const QuestionFound = await QuestionRepository.findOneBy({id: QuestionId})
+        const QuestionFound = await QuestionRepository.findOneBy({Id: QuestionId})
 
         if(!QuestionFound)
             {
@@ -142,7 +142,7 @@ questionRouter.post('/createQuestion', async (req:Request, res: Response) => {
         const NewQuestion = await QuestionRepository.create
         ({
             ImageUrl: ImageUrl,
-            subjectId: SubjectId, 
+            SubjectId: SubjectId, 
             TopicId: TopicId,
             SubTopicId: SubTopicId,
             QuestionText:   QuestionText,
@@ -176,19 +176,166 @@ questionRouter.delete('/deleteQuestion', async (req:Request, res: Response) => {
                 res.status(400).json("The Question id supplied is empty!")
             }
 
-        const QuestionFound = await QuestionRepository.findOneBy({id: QuestionId});
+        const QuestionFound = await QuestionRepository.findOneBy({Id: QuestionId});
 
         if(!QuestionFound)   
             {
                 return res.status(404).json("Couldn't find the specified question!")
             }
 
-        await QuestionRepository.delete(QuestionFound?.id);
+        await QuestionRepository.delete(QuestionFound?.Id);
         return res.status(200).json({ message: "Question deleted successfully" })
     } 
     catch (error) 
     {
       return res.status(500).json("An error occured while acessing this route! " + error);       
+    }
+})
+
+questionRouter.put('/changeQuestion', async (req:Request, res: Response) => {
+    try 
+    {
+        const QuestionId = req.body.questionId;
+        const NewTopicId = req.body.TopicId;
+        const NewSubTopicId = req.body.SubTopicId;
+        const NewQuestionText = req.body.NewQuestionText;
+        const NewQuestionPrompt = req.body.NewQuestionPrompt;
+        const NewQuestionAltA = req.body.NewQuestionAltA;
+        const NewQuestionAltB = req.body.NewQuestionAltB;
+        const NewQuestionAltC = req.body.NewQuestionAltC;
+        const NewQuestionAltD = req.body.NewQuestionAltD;
+        const NewQuestionAltE = req.body.NewQuestionAltE;
+        const NewCorrectAlternative = req.body.NewCorrectAlternative;
+
+        const QuestionFound  = await QuestionRepository.findOneBy({Id: QuestionId})
+        if(!QuestionFound)
+        {
+            return res.status(404).json("Question Not Found!")
+        }
+      
+
+        if(!await TopicRepository.findOneBy({Id: NewTopicId}))
+        {
+            return res.status(404).json("Topic Not Found!")
+        }
+
+        if(!await SubTopicRepository.findOneBy({Id: NewSubTopicId}))
+        {
+            return res.status(404).json("SubTopic Not Found!")
+        }
+
+        QuestionFound.TopicId = NewTopicId;
+        QuestionFound.SubTopicId = NewSubTopicId;
+
+        if((typeof NewQuestionText) == "string")
+            {
+                if(NewQuestionText != "")
+                    {
+                       QuestionFound.QuestionText = NewQuestionText; 
+                    }
+            }
+        else
+            {
+                 return res.status(400).json("Question Text must be a string!")
+            }
+
+        if((typeof NewQuestionPrompt) == "string")
+            {
+                if(NewQuestionPrompt != "")
+                    {
+                       QuestionFound.QuestionPrompt = NewQuestionPrompt;
+                    }
+            }
+        else
+            {
+                 return res.status(400).json("Question Prompt must be a string!")
+            }
+
+
+        if((typeof NewQuestionAltA) == "string")
+            {
+                if(NewQuestionAltA != "")
+                    {
+                       QuestionFound.QuestionAltA = NewQuestionAltA;
+                    }       
+            }
+        else
+            {
+                 return res.status(400).json("Alt A Text must be a string!")
+            }
+            
+        if((typeof NewQuestionAltB) == "string")
+            {
+                if(NewQuestionAltB != "")
+                    {
+                       QuestionFound.QuestionAltB = NewQuestionAltB;
+                    } 
+            }
+        else
+            {
+                 return res.status(400).json("Alt B  Text must be a string!")
+            }
+            
+        if((typeof NewQuestionAltC) == "string")
+            {
+                if(NewQuestionAltC != "")
+                    {
+                       QuestionFound.QuestionAltC = NewQuestionAltC;
+                    } 
+            }
+        else
+            {
+                 return res.status(400).json("Alt C Text must be a string!")
+            }
+            
+        if((typeof NewQuestionAltD) == "string")
+            {
+                if(NewQuestionAltD != "")
+                    {
+                       QuestionFound.QuestionAltD = NewQuestionAltD;
+                    } 
+            }
+        else
+            {
+                 return res.status(400).json("Alt D Text must be a string!")
+            }
+            
+        if((typeof NewQuestionAltE) == "string")
+            {
+                if(NewQuestionAltE != "")
+                    {
+                       QuestionFound.QuestionAltD = NewQuestionAltD;
+                    } 
+            }
+        else
+            {
+                 return res.status(400).json("Alt E Text must be a string!")
+            }
+
+                
+        if((typeof NewCorrectAlternative) == "string")
+            {
+                if((NewCorrectAlternative.length) == 1 && (["A", "B", "C", "D", "E"].includes(NewCorrectAlternative)))
+                    {
+                        if(NewCorrectAlternative != "")
+                        {
+                            QuestionFound.CorrectAlternative = NewCorrectAlternative;
+                        } 
+                    }
+                else
+                    {
+                        return res.status(400).json("The Correct Alternative must be either A, B , C , D  or if present E")
+                    }
+                    
+            }
+        await QuestionRepository.save(QuestionFound);
+        return res.status(200).json({ message: "Updated Question ", QuestionFound });
+      
+    } 
+
+    catch (error) 
+    {
+        return res.status(500).json("An error occured while acessing this route! " + error);    
     }
 })
 

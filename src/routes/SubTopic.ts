@@ -30,6 +30,10 @@ subtopicRouter.get('/GetSubTopic', async( req:Request, res: Response) => {
     try 
     {
         const BodySubTopicName = req.body.SubTopicName;
+        if(BodySubTopicName == "")
+            {
+                return res.status(400).json("No Subtopic specified!")
+            }
         const SubTopicFound = await SubTopicRepository.findOneBy({SubTopicName: BodySubTopicName});
         return res.status(200).json(SubTopicFound); 
     } 
@@ -46,7 +50,11 @@ subtopicRouter.post('/CreateSubtopic', async( req:Request, res: Response) => {
     {
         const BodySubTopicName = req.body.SubTopicName;
         const BodyTopicId = req.body.TopicId;
-        
+        if(BodySubTopicName == "")
+            {
+                return res.status(400).json("No Subtopic specified!")
+            }
+
         if( !(await TopicRepository.findOneBy({Id: BodyTopicId})) )  
         {
             return res.status(404).json("Couldn't find the specified topic!")
@@ -85,7 +93,7 @@ subtopicRouter.delete('/DeleteSubTopic', async(req:Request, res: Response) =>
                 return res.status(404).json("Couldn't find the specified SubTopic!")
             }
         
-        await TopicRepository.delete(SubTopicFound?.Id);
+        await SubTopicRepository.delete(SubTopicFound?.Id);
         return res.status(200).json("Subtopic deleted successfully!")
 
     } 
@@ -96,7 +104,7 @@ subtopicRouter.delete('/DeleteSubTopic', async(req:Request, res: Response) =>
     }
 })
 
-subtopicRouter.put('/AlterSubTopic', async(req:Request, res: Response) => 
+subtopicRouter.put('/ChangeSubTopic', async(req:Request, res: Response) => 
 {
     try 
     {
