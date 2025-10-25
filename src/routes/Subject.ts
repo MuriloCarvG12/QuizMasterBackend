@@ -1,6 +1,6 @@
 import { Router, Request , Response } from "express";
 
-import subjectController from "../controllers/subjectControllers";
+import subjectController from "../controllers/subjectController";
 
 const SubjectController = new subjectController()
 
