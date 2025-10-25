@@ -2,6 +2,7 @@ import AppDataSource from "../data_source";
 import { Request , Response } from "express";
 import { Topic } from "../entities/Topic";
 import { Subject } from "../entities/Subject";
+import ConstTopics from "../consts/ConstTopic";
 
 
 class topicController {
@@ -23,7 +24,7 @@ class topicController {
 
     catch (error) 
     {
-        res.status(500).json("An error occured while acessing this route! " + error);    
+        res.status(500).json(ConstTopics["GenericError"] + error);    
     }
   }
 
@@ -34,13 +35,13 @@ class topicController {
     {
         if(ReqBodyName == "")
             {
-                return res.status(400).json("Couldn't find a Topic with that code!");    
+                return res.status(400).json(ConstTopics["NoTopicName"]);    
             }
 
         const TopicFound = await this.TopicRepository.findOneBy({TopicName: ReqBodyName});
         if(! TopicFound)
             {
-                res.status(400).json("Couldn't find a topic with that name!");    
+                res.status(400).json(ConstTopics["NoTopic"]);    
             }
 
         res.status(200).json(TopicFound); 
@@ -48,7 +49,7 @@ class topicController {
 
     catch (error) 
     {
-        res.status(500).json("An error occured while acessing this route! " + error);    
+        res.status(500).json(ConstTopics["GenericError"] + error);    
     }
   
 }
@@ -59,11 +60,17 @@ class topicController {
         {
             const BodyTopicName = req.body.TopicName;
             const TopicSubject = req.body.SubjectId;   
+
+            if(TopicSubject == "")
+            {
+                return res.status(400).json(ConstTopics["NoSubjectId"]);    
+            }
+            
             const Subjectfound = await this.SubjectRepository.findOneBy({Id: TopicSubject});
     
             if(!Subjectfound)
                  {
-                    res.status(400).json("Couldn't find a subject with that code!");    
+                    res.status(400).json(ConstTopics["NoSubject"]);    
                 }
             
             const TopicFound = await this.TopicRepository.findOneBy({TopicName: BodyTopicName});
@@ -80,13 +87,13 @@ class topicController {
                 }
             else
                 {
-                    res.status(400).json("This topic already exists!")
+                    res.status(400).json(ConstTopics["TopicAlreadyExists"])
                 }
                 
         } 
         catch (error) 
         {
-            res.status(500).json("An error occured while acessing this route! " + error);      
+            res.status(500).json(ConstTopics["GenericError"] + error);      
         }
     }
 
@@ -98,25 +105,25 @@ class topicController {
     
             if(BodyTopicName == "")
                 {
-                    res.status(400).json("A Subject Name must be provided!");
+                    res.status(400).json(ConstTopics["NoTopicName"]);
                 }
             const Topicfound = await this.TopicRepository.findOneBy({TopicName: BodyTopicName});
     
             if(!Topicfound)
                 {
-                  res.status(400).json("Couldn't find a Topic with that Name!");  
+                  res.status(400).json(ConstTopics["NoTopic"]);  
                 }
             else
                 {
                     await this.TopicRepository.delete(Topicfound?.Id);
-                    res.status(200).json({ message: "Topic deleted successfully" })
+                    res.status(200).json({ message: ConstTopics["TopicDeleted"] })
                 } 
     
         } 
     
         catch (error) 
         {
-            res.status(500).json("An error occured while acessing this route! " + error);  
+            res.status(500).json(ConstTopics["GenericError"] + error);  
         }
     
     }
@@ -131,19 +138,19 @@ class topicController {
     
             if(!TopicFound)
                 {
-                    return res.status(404).json("Couldn't find the specified Topic!");
+                    return res.status(404).json(ConstTopics["NoSpecificTopic"]);
                 }
     
             TopicFound.TopicName = NewTopicName;
     
             await this.TopicRepository.save(TopicFound);
-            res.status(200).json({ message: "Error updating subject ", TopicFound });
+            res.status(200).json(ConstTopics["TopicUpdated"] + TopicFound ); 
     
         } 
     
         catch (error) 
         {
-            res.status(500).json("An error occured while acessing this route! " + error);    
+            res.status(500).json(ConstTopics["GenericError"] + error);    
         }
     
     }
