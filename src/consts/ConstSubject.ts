@@ -1,8 +1,8 @@
-interface ConstStrings<T> {
+interface ConstSubjects<T> {
   [Key: string]: T;
 }
 
-const ConstStrings: ConstStrings<string> = {
+const ConstSubjects: ConstSubjects<string> = {
   "NoSubject": "Couldn't find a subject with that name!",
   "NoName": "A Subject Name must be provided!",
   "NoId": "Couldnt fetch the subject's id!",
@@ -12,4 +12,4 @@ const ConstStrings: ConstStrings<string> = {
 
 };
 
-export default ConstStrings;
+export default ConstSubjects;
