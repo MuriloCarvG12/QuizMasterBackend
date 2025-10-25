@@ -1,10 +1,10 @@
 import AppDataSource from "../data_source";
 import { Request , Response } from "express";
 
-import ConstSubjects from "../consts/ConstSubject";
 import { Subtopic } from "../entities/SubTopic";
 import { Subject } from "../entities/Subject";
 import { Topic } from "../entities/Topic";
+import ConstSubTopics from "../consts/ConstSubTopic";
 
 
 
@@ -28,7 +28,7 @@ class subTopicController {
   
       catch (error) 
       {
-           return res.status(500).json("An error occured while acessing this route! " + error);    
+           return res.status(500).json(ConstSubTopics["GenericError"] + error);    
       }
     
   }
@@ -39,7 +39,7 @@ class subTopicController {
           const BodySubTopicName = req.body.SubTopicName;
           if(BodySubTopicName == "")
               {
-                  return res.status(400).json("No Subtopic specified!")
+                  return res.status(400).json(ConstSubTopics["NoSubtopic"])
               }
           const SubTopicFound = await this.SubTopicRepository.findOneBy({SubTopicName: BodySubTopicName});
           return res.status(200).json(SubTopicFound); 
@@ -47,7 +47,7 @@ class subTopicController {
   
       catch (error) 
       {
-           return res.status(500).json("An error occured while acessing this route! " + error);    
+           return res.status(500).json(ConstSubTopics["GenericError"] + error);    
       }
     }
 
@@ -58,17 +58,17 @@ class subTopicController {
             const BodyTopicId = req.body.TopicId;
             if(BodySubTopicName == "")
                 {
-                    return res.status(400).json("No Subtopic specified!")
+                    return res.status(400).json(ConstSubTopics["NoSubTopicFound"])
                 }
     
             if( !(await this.TopicRepository.findOneBy({Id: BodyTopicId})) )  
             {
-                return res.status(404).json("Couldn't find the specified topic!")
+                return res.status(404).json(ConstSubTopics["NoTopic"])
             }
     
             if( (await this.SubTopicRepository.findOneBy({SubTopicName: BodySubTopicName})) )
                 {
-                     return res.status(400).json("A subtopic with this name has already been created!")
+                     return res.status(400).json(ConstSubTopics["SubTopicExists"])
                 }
     
             const newSubTopic = this.SubTopicRepository.create
@@ -78,11 +78,11 @@ class subTopicController {
             }) 
     
             await this.SubTopicRepository.save(newSubTopic);
-            return res.status(201).json({message:"New SubTopic Created! ", newSubTopic}) 
+            return res.status(201).json(ConstSubTopics["SubTopicCreated"] +  newSubTopic) 
         }         
         catch (error) 
         {
-             return res.status(500).json("An error occured while acessing this route! " + error);    
+             return res.status(500).json(ConstSubTopics["GenericError"] + error);    
         }
       
     }
@@ -96,17 +96,17 @@ class subTopicController {
     
             if(!SubTopicFound)
                 {
-                    return res.status(404).json("Couldn't find the specified SubTopic!")
+                    return res.status(404).json(ConstSubTopics["NoSubTopicFound"])
                 }
             
             await this.SubTopicRepository.delete(SubTopicFound?.Id);
-            return res.status(200).json("Subtopic deleted successfully!")
+            return res.status(200).json(ConstSubTopics["SubTopicDeleted"])
     
         } 
     
         catch (error) 
         {
-            return res.status(500).json("An error occured while acessing this route! " + error);     
+            return res.status(500).json(ConstSubTopics["GenericError"] + error);     
         }
     }
 
@@ -121,17 +121,17 @@ class subTopicController {
     
             if(!SubTopicFound)
                 {
-                   return res.status(404).json("Couldn't find the specified SubTopic!") 
+                   return res.status(404).json(ConstSubTopics["NoSubTopicFound"]) 
                 }
             
             SubTopicFound.SubTopicName = NewSubTopicName;
             await this.SubTopicRepository.save(SubTopicFound) 
-            return res.status(200).json({ message: "Subject updated successfully", SubTopicFound })
+            return res.status(200).json(ConstSubTopics["SubTopicUpdated"] + SubTopicFound )
         } 
     
         catch (error) 
         {
-            return res.status(500).json("An error occured while acessing this route! " + error);     
+            return res.status(500).json(ConstSubTopics["GenericError"]+ error);     
         }
     }
 
