@@ -10,7 +10,7 @@ export class OrganicChemistry1763075217585 implements MigrationInterface {
                     (2, 'Isomery')
                     (3, 'NitrogenFunctions')
                     (3, 'OxygenatedFunctions')
-                    (3, 'HidroCarbons')
+                    (3, 'HydroCarbons')
             `);    
     }
 
