@@ -1,8 +1,15 @@
 import { MigrationInterface, QueryRunner } from "typeorm";
 
-export class GenerateLiteratureSubTopics1762997026363 implements MigrationInterface {
+export class GenerateBrasilianHistory1762997026363 implements MigrationInterface {
 
     public async up(queryRunner: QueryRunner): Promise<void> {
+        await queryRunner.query(`
+            INSERT INTO "Topics" ("SubjectId", "TopicName")
+                VALUES 
+                    (1, 'Colony')
+                    (2, 'Empire')
+                    (3, 'Republic')
+            `);  
     }
 
     public async down(queryRunner: QueryRunner): Promise<void> {
