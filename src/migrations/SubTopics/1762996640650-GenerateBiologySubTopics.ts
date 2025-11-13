@@ -6,16 +6,16 @@ export class GenerateBiologySubTopics1762996640650 implements MigrationInterface
         await queryRunner.query(`
             INSERT INTO "Topics" ("SubjectId", "TopicName")
             VALUES 
-                (1, 'FirstDegreeFunctions')
-                (2, 'CombinatoryAnalysis')
-                (3, 'Packages')
-                (4, 'Statistics')
-                (5, 'Functions')
-                (6, 'AnalyticalGeometry')
-                (7, 'FlatGeometry')
-                (8, 'Logarithms')
-                (9, 'Probability')
-                (10, 'SecondDegreeFunctions')
+                (1, 'BioEnergetics')
+                (2, 'Ecology')
+                (3, 'Evolution')
+                (4, 'Physiology')
+                (5, 'Genetics')
+                (6, 'Histology')
+                (7, 'MicroBiology')
+                (8, 'Nucleus')
+                (9, 'HumanReproduction')
+                (10, 'BioChemistry')
                 (11, 'ExponentialFunctions')
         `);      
     }
