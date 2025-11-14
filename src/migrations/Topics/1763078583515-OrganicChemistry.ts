@@ -1,16 +1,17 @@
 import { MigrationInterface, QueryRunner } from "typeorm";
 
-export class GenerateLiteratureTopics1762996259725 implements MigrationInterface {
+export class OrganicChemistry1763078583515 implements MigrationInterface {
 
     public async up(queryRunner: QueryRunner): Promise<void> {
         await queryRunner.query(`
             INSERT INTO "Topics" ("SubjectId", "TopicName")
                 VALUES 
-                    (6, 'Colony')
-                    (6, 'Empire')
-                    (6, 'Republic')
+                    (4, 'Introduction')
+                    (4, 'Isomery')
+                    (4, 'NitrogenFunctions')
+                    (4, 'OxygenatedFunctions')
+                    (4, 'HydroCarbons')
             `);  
-        
     }
 
     public async down(queryRunner: QueryRunner): Promise<void> {

@@ -7,16 +7,16 @@ export class GenerateMathTopics1762996186545 implements MigrationInterface {
             INSERT INTO "Topics" ("SubjectId", "TopicName")
             VALUES 
                 (1, 'FirstDegreeFunctions')
-                (2, 'CombinatoryAnalysis')
-                (3, 'Packages')
-                (4, 'Statistics')
-                (5, 'Functions')
-                (6, 'AnalyticalGeometry')
-                (7, 'FlatGeometry')
-                (8, 'Logarithms')
-                (9, 'Probability')
-                (10, 'SecondDegreeFunctions')
-                (11, 'ExponentialFunctions')
+                (1, 'CombinatoryAnalysis')
+                (1, 'Packages')
+                (1, 'Statistics')
+                (1, 'Functions')
+                (1, 'AnalyticalGeometry')
+                (1, 'FlatGeometry')
+                (1, 'Logarithms')
+                (1, 'Probability')
+                (1, 'SecondDegreeFunctions')
+                (1, 'ExponentialFunctions')
         `);         
     }
 

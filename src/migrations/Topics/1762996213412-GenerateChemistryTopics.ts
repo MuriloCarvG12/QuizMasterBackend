@@ -6,17 +6,17 @@ export class GenerateChemistryTopics1762996213412 implements MigrationInterface 
         await queryRunner.query(`
             INSERT INTO "Topics" ("SubjectId", "TopicName")
             VALUES 
-                (1, 'ElectroChemistry')
-                (2, 'Equilibrium')
+                (3, 'ElectroChemistry')
+                (3, 'Equilibrium')
                 (3, 'Stoichiometry')
-                (4, 'Oxygenated Functions')
-                (5, 'Gases')
-                (6, 'ChemicalBonds')
-                (7, 'NOX')
-                (8, 'Kinetics')
-                (9, 'ColigativeProperties')
-                (10, 'PhysicalChemicalOfOrganicalCompounds')
-                (11, 'EnviromentalChemistry')
+                (3, 'Oxygenated Functions')
+                (3, 'Gases')
+                (3, 'ChemicalBonds')
+                (3, 'NOX')
+                (3, 'Kinetics')
+                (3, 'ColigativeProperties')
+                (3, 'PhysicalChemicalOfOrganicalCompounds')
+                (3, 'EnviromentalChemistry')
         `);  
     }
 

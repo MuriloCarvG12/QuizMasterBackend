@@ -6,17 +6,17 @@ export class GenerateBiologyTopics1762996203325 implements MigrationInterface {
          await queryRunner.query(`
             INSERT INTO "Topics" ("SubjectId", "TopicName")
             VALUES 
-                (1, 'BioEnergetics')
+                (2, 'BioEnergetics')
                 (2, 'Ecology')
-                (3, 'Evolution')
-                (4, 'Physiology')
-                (5, 'Genetics')
-                (6, 'Histology')
-                (7, 'MicroBiology')
-                (8, 'Nucleus')
-                (9, 'HumanReproduction')
-                (10, 'BioChemistry')
-                (11, 'ExponentialFunctions')
+                (2, 'Evolution')
+                (2, 'Physiology')
+                (2, 'Genetics')
+                (2, 'Histology')
+                (2, 'MicroBiology')
+                (2, 'Nucleus')
+                (2, 'HumanReproduction')
+                (2, 'BioChemistry')
+                (2, 'ExponentialFunctions')
         `);      
     }
 

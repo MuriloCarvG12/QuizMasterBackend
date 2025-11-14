@@ -6,11 +6,11 @@ export class GenerateHistoryTopics1762996299806 implements MigrationInterface {
         await queryRunner.query(`
             INSERT INTO "Topics" ("SubjectId", "TopicName")
                 VALUES 
-                    (1, 'AncientAge')
-                    (2, 'MediumAge')
-                    (3, 'ModernAge')
-                    (3, 'ContemporaryAge')
-                    (3, 'Histografy')
+                    (8, 'AncientAge')
+                    (8, 'MediumAge')
+                    (8, 'ModernAge')
+                    (8, 'ContemporaryAge')
+                    (8, 'Histografy')
             `); 
             
     }

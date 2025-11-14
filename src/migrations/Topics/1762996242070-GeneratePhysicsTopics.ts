@@ -6,17 +6,17 @@ export class GeneratePhysicsTopics1762996242070 implements MigrationInterface {
         await queryRunner.query(`
             INSERT INTO "Topics" ("SubjectId", "TopicName")
             VALUES 
-                (1, 'Cinematics')
-                (2, 'Dinamics')
-                (3, 'ElectroDynamics')
-                (4, 'ElectroStatics')
+                (5, 'Cinematics')
+                (5, 'Dinamics')
+                (5, 'ElectroDynamics')
+                (5, 'ElectroStatics')
                 (5, 'Static')
-                (6, 'Gravitation')
-                (7, 'HydroDynamics')
-                (8, 'HydroStatics')
-                (9, 'Ondulatory')
-                (10, 'Optics')
-                (11, 'Thermology')
+                (5, 'Gravitation')
+                (5, 'HydroDynamics')
+                (5, 'HydroStatics')
+                (5, 'Ondulatory')
+                (5, 'Optics')
+                (5, 'Thermology')
         `); 
     }
 
