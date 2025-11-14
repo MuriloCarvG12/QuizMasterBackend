@@ -16,7 +16,6 @@ export class GenerateBiologyTopics1762996203325 implements MigrationInterface {
                 (2, 'Nucleus')
                 (2, 'HumanReproduction')
                 (2, 'BioChemistry')
-                (2, 'ExponentialFunctions')
         `);      
     }
 
