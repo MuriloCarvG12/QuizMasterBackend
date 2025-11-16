@@ -6,7 +6,7 @@ export class GenerateGeographySubTopics1762997044409 implements MigrationInterfa
         await queryRunner.query(`
             INSERT INTO "Topics" ("SubjectId", "TopicName")
                 VALUES 
-                    (1, 'America')
+                    (70, 'America')
                     (2, 'Biosphere')
                     (3, 'ModernAge')
                     (3, 'Demography')
