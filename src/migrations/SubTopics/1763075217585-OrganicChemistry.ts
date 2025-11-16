@@ -6,11 +6,13 @@ export class OrganicChemistry1763075217585 implements MigrationInterface {
         await queryRunner.query(`
             INSERT INTO "Topics" ("SubjectId", "TopicName")
                 VALUES 
-                    (1, 'Introduction')
-                    (2, 'Isomery')
-                    (3, 'NitrogenFunctions')
-                    (3, 'OxygenatedFunctions')
-                    (3, 'HydroCarbons')
+                    (87, 'CarbonicChains')
+                    (87, 'FunctionsAndOrganicSeries')
+                    (88, 'GeometricIsomery')
+                    (88, 'PlaneIsomery')
+                    (89, 'NitrogenatedFunctions')
+                    (90, 'OxigenatedFunctions')
+                    (89, 'HidroCarbons')
             `);    
     }
 
