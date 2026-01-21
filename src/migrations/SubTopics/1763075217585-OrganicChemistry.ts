@@ -1,16 +1,35 @@
 import { MigrationInterface, QueryRunner } from "typeorm";
+import { selectTopicId } from "../../utils/selectTopicId";
 
 export class OrganicChemistry1763075217585 implements MigrationInterface {
 
     public async up(queryRunner: QueryRunner): Promise<void> {
+
+        const OrganicChemistryIntroductionTopicId =
+        await selectTopicId(queryRunner, "Introduction");
+
+        const IsomerismTopicId =
+        await selectTopicId(queryRunner, "Isomery");
+
+        const NitrogenFunctionsTopicId =
+        await selectTopicId(queryRunner, "NitrogenFunctions");
+
+        const OxygenatedFunctionsTopicId =
+        await selectTopicId(queryRunner, "OxygenatedFunctions");
+
+        const HydrocarbonsTopicId =
+        await selectTopicId(queryRunner, "Hydrocarbons");
+
         await queryRunner.query(`
             INSERT INTO "Topics" ("SubjectId", "TopicName")
                 VALUES 
-                    (1, 'Introduction')
-                    (2, 'Isomery')
-                    (3, 'NitrogenFunctions')
-                    (3, 'OxygenatedFunctions')
-                    (3, 'HydroCarbons')
+                    (${OrganicChemistryIntroductionTopicId}, 'CarbonicChains')
+                    (${OrganicChemistryIntroductionTopicId}, 'FunctionsAndOrganicSeries')
+                    (${IsomerismTopicId}, 'GeometricIsomery')
+                    (${IsomerismTopicId}, 'PlaneIsomery')
+                    (${NitrogenFunctionsTopicId}, 'NitrogenFunctions')
+                    (${OxygenatedFunctionsTopicId}, 'OxygenatedFunctions')
+                    (${HydrocarbonsTopicId}, 'HydroCarbons')
             `);    
     }
 

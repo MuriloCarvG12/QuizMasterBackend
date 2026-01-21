@@ -43,7 +43,7 @@ export class GeneratePhysicsSubTopics1762996660486 implements MigrationInterface
                   (${CinematicsTopicId}, 'HorizontalThrows')
                 (${CinematicsTopicId}, 'ObliqueThrows')
                 (${CinematicsTopicId}, 'CircularMovement')
-                (${CinematicsTopicId}, 'UniformMovementAccelaration')
+                (${CinematicsTopicId}, 'UniformMovementAcceleration')
                 (${CinematicsTopicId}, 'UniformMovement')
                 (${CinematicsTopicId}, 'VerticalMovement')
                 (${CinematicsTopicId}, 'Vectors')
