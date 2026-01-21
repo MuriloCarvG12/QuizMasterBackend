@@ -21,7 +21,7 @@ export class OrganicChemistry1763075217585 implements MigrationInterface {
         await selectTopicId(queryRunner, "Hydrocarbons");
 
         await queryRunner.query(`
-            INSERT INTO "Topics" ("SubjectId", "TopicName")
+            INSERT INTO "SubTopics" ("SubjectId", "TopicName")
                 VALUES 
                     (${OrganicChemistryIntroductionTopicId}, 'CarbonicChains')
                     (${OrganicChemistryIntroductionTopicId}, 'FunctionsAndOrganicSeries')
