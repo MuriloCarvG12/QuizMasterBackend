@@ -1,68 +1,89 @@
 import { MigrationInterface, QueryRunner } from "typeorm";
+import { selectTopicId } from "../../utils/selectTopicId";
 
 export class GenerateBiologySubTopics1762996640650 implements MigrationInterface {
-
     public async up(queryRunner: QueryRunner): Promise<void> {
+
+            const BioEnergeticsTopicId = await selectTopicId(queryRunner, "BioEnergetics");
+
+            const EcologyTopicId = await selectTopicId(queryRunner, "Ecology");
+
+            const EvolutionTopicId = await selectTopicId(queryRunner, "Evolution");
+
+            const PhysiologyTopicId = await selectTopicId(queryRunner, "Physiology");
+
+            const GeneticsTopicId = await selectTopicId(queryRunner, "Genetics");
+
+            const HistologyTopicId = await selectTopicId(queryRunner, "Histology");
+
+            const MicroBiologyTopicId = await selectTopicId(queryRunner, "MicroBiology");
+
+            const NucleusTopicId = await selectTopicId(queryRunner, "Nucleus");
+
+            const HumanReproductionTopicId = await selectTopicId(queryRunner, "HumanReproduction");
+
+            const BioChemistryTopicId = await selectTopicId(queryRunner, "BioChemistry");
+
         await queryRunner.query(`
             INSERT INTO "Topics" ("SubjectId", "TopicName")
             VALUES 
-                (12, 'BioChemistry')
-                (13, 'Botanics')
-                (12, 'Cytology')
-                (12, 'Embryology')
-                (12, 'FactorsThatImpactPhotoSynthesis')
-                (12, 'Fermentation')
-                (12, 'Photosynthesis')
-                (12, 'AerobicRespiration')
-                (13, 'Biomes')
-                (13, 'BioGeoChemicalCycles')
-                (13, 'Unbalances')
-                (13, 'EnergyFluxes')
-                (13, 'Introduction')
-                (13, 'Polution')
-                (13, 'EcologicalRelations')
-                (13, 'EcologicalSucession')
-                (13, 'BioGeoChemicalCycles')
-                (14, 'ConceptsAndEvidances')
-                (14, 'Speciation')
-                (14, 'EvolutionFactors')
-                (14, 'PopulationGenes')
-                (14, 'EvolutionTheories')
-                (14, 'EcologicalSucession')
-                (15, 'CirculatorySystem')
-                (15, 'DigestiveSystem')
-                (15, 'ExcretorySystem')
-                (15, 'NervousSystem')
-                (15, 'RespiratorySystem')
-                (16, 'LethalAndErrorGenes')
-                (16, 'GenealogiesAndProbability')
-                (16, 'Introduction')
-                (16, 'AboSYstemAndPolyAleles')
-                (16, 'Sex')
-                (16, 'RhSystem')
-                (17, 'Skin')
-                (17, 'ImuneSystem')
-                (17, 'CartilageousAndBoneTissue')
-                (17, 'ConjuctiveTissue')
-                (17, 'EpitilealTissue')
-                (17, 'MuscularTissue')
-                (17, 'NervousSystem')
-                (17, 'BloodTissue')
-                (18, 'DiseasesCausedByRiboViruses')
-                (18, 'DiseasesCausedByRetroViruses')
-                (18, 'Introduction')
-                (18, 'Virus')
-                (19, 'Cariotype')
-                (19, 'StemCells')
-                (19, 'CelularCycleAndCancer')
-                (19, 'Meiosis')
-                (19, 'Mitosis')
-                (19, 'Nucleus')
-                (20, 'OvarianCycle')
-                (20, 'Fecundation')
-                (20, 'GametGenesis')
-                (20, 'ReproductiveSystem')
-                (21, 'BioChemistry')
+                (${BioEnergeticsTopicId}, 'BioChemistry')
+                (${EcologyTopicId}, 'Botanics')
+                (${BioEnergeticsTopicId}, 'Cytology')
+                (${BioEnergeticsTopicId}, 'Embryology')
+                (${BioEnergeticsTopicId}, 'FactorsThatImpactPhotoSynthesis')
+                (${BioEnergeticsTopicId}, 'Fermentation')
+                (${BioEnergeticsTopicId}, 'Photosynthesis')
+                (${BioEnergeticsTopicId}, 'AerobicRespiration')
+                (${EcologyTopicId}, 'Biomes')
+                (${EcologyTopicId}, 'BioGeoChemicalCycles')
+                (${EcologyTopicId}, 'Unbalances')
+                (${EcologyTopicId}, 'EnergyFluxes')
+                (${EcologyTopicId}, 'Introduction')
+                (${EcologyTopicId}, 'Polution')
+                (${EcologyTopicId}, 'EcologicalRelations')
+                (${EcologyTopicId}, 'EcologicalSucession')
+                (${EcologyTopicId}, 'BioGeoChemicalCycles')
+                (${EvolutionTopicId}, 'ConceptsAndEvidances')
+                (${EvolutionTopicId}, 'Speciation')
+                (${EvolutionTopicId}, 'EvolutionFactors')
+                (${EvolutionTopicId}, 'PopulationGenes')
+                (${EvolutionTopicId}, 'EvolutionTheories')
+                (${EvolutionTopicId}, 'EcologicalSucession')
+                (${PhysiologyTopicId}, 'CirculatorySystem')
+                (${PhysiologyTopicId}, 'DigestiveSystem')
+                (${PhysiologyTopicId}, 'ExcretorySystem')
+                (${PhysiologyTopicId}, 'NervousSystem')
+                (${PhysiologyTopicId}, 'RespiratorySystem')
+                (${GeneticsTopicId}, 'LethalAndErrorGenes')
+                (${GeneticsTopicId}, 'GenealogiesAndProbability')
+                (${GeneticsTopicId}, 'Introduction')
+                (${GeneticsTopicId}, 'AboSYstemAndPolyAleles')
+                (${GeneticsTopicId}, 'Sex')
+                (${GeneticsTopicId}, 'RhSystem')
+                (${HistologyTopicId}, 'Skin')
+                (${HistologyTopicId}, 'ImuneSystem')
+                (${HistologyTopicId}, 'CartilageousAndBoneTissue')
+                (${HistologyTopicId}, 'ConjuctiveTissue')
+                (${HistologyTopicId}, 'EpitilealTissue')
+                (${HistologyTopicId}, 'MuscularTissue')
+                (${HistologyTopicId}, 'NervousSystem')
+                (${HistologyTopicId}, 'BloodTissue')
+                (${MicroBiologyTopicId}, 'DiseasesCausedByRiboViruses')
+                (${MicroBiologyTopicId}, 'DiseasesCausedByRetroViruses')
+                (${MicroBiologyTopicId}, 'Introduction')
+                (${MicroBiologyTopicId}, 'Virus')
+                (${NucleusTopicId}, 'Cariotype')
+                (${NucleusTopicId}, 'StemCells')
+                (${NucleusTopicId}, 'CelularCycleAndCancer')
+                (${NucleusTopicId}, 'Meiosis')
+                (${NucleusTopicId}, 'Mitosis')
+                (${NucleusTopicId}, 'Nucleus')
+                (${HumanReproductionTopicId}, 'OvarianCycle')
+                (${HumanReproductionTopicId}, 'Fecundation')
+                (${HumanReproductionTopicId}, 'GametGenesis')
+                (${HumanReproductionTopicId}, 'ReproductiveSystem')
+                (${BioChemistryTopicId}, 'BioChemistry')
         `);      
     }
 

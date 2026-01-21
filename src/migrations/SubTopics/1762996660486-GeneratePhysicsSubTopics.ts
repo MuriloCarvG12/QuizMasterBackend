@@ -1,59 +1,94 @@
 import { MigrationInterface, QueryRunner } from "typeorm";
+import { selectTopicId } from "../../utils/selectTopicId";
 
 export class GeneratePhysicsSubTopics1762996660486 implements MigrationInterface {
 
     public async up(queryRunner: QueryRunner): Promise<void> {
+        const CinematicsTopicId =
+            await selectTopicId(queryRunner, "Cinematics");
+
+            const DinamicsTopicId =
+            await selectTopicId(queryRunner, "Dinamics");
+
+            const ElectroDynamicsTopicId =
+            await selectTopicId(queryRunner, "ElectroDynamics");
+
+            const ElectroStaticsTopicId =
+            await selectTopicId(queryRunner, "ElectroStatics");
+
+            const StaticTopicId =
+            await selectTopicId(queryRunner, "Static");
+
+            const GravitationTopicId =
+            await selectTopicId(queryRunner, "Gravitation");
+
+            const HydroDynamicsTopicId =
+            await selectTopicId(queryRunner, "HydroDynamics");
+
+            const HydroStaticsTopicId =
+            await selectTopicId(queryRunner, "HydroStatics");
+
+            const OndulatoryTopicId =
+            await selectTopicId(queryRunner, "Ondulatory");
+
+            const OpticsTopicId =
+            await selectTopicId(queryRunner, "Optics");
+
+            const ThermologyTopicId =
+            await selectTopicId(queryRunner, "Thermology");
+
         await queryRunner.query(`
             INSERT INTO "Topics" ("SubjectId", "TopicName")
             VALUES 
-                (34, 'HorizontalThrows')
-                (34, 'ObliqueThrows')
-                (34, 'CircularMovement')
-                (34, 'UniformMovementAccelaration')
-                (34, 'UniformMovement')
-                (34, 'VerticalMovement')
-                (34, 'Vectors')
-                (35, 'Friction')
-                (35, 'Elastics')
-                (35, 'CentripetalForce')
-                (35, 'Newton')
-                (35, 'InclinatedSurfaces')
-                (35, 'QuantityOfMovement')
-                (35, 'Pulleys')
-                (36, 'ResistorAssociation')
-                (36, 'Circuits')
-                (36, 'ElectricalCurrent')
-                (36, 'Generators')
-                (36, 'Instruments')
-                (36, 'LawsOfOhm')
-                (36, 'PotentialEnergy')
-                (37, 'ElectricalFields')
-                (37, 'Capacitors')
-                (37, 'CoulombLaw')
-                (37, 'ElectricalPotential')
-                (38, 'Statics')
-                (39, 'Gravitation')
-                (40, 'HydroDynamics')
-                (41, 'Density')
-                (41, 'Pressure')
-                (41, 'ArquimedesPrinciples')
-                (41, 'PascalPrinciples')
-                (42, 'StringsAndTubes')
-                (42, 'OndulatoryPhenomenons')
-                (42, 'SonoryPhenomenons')
-                (42, 'OndulatoryFundaments')
-                (42, 'PhysiologicalPropertiesOfSounds')
-                (43, 'SphericalMirrors')
-                (43, 'OpticalFundaments')
-                (43, 'LensAndVision')
-                (43, 'Refraction')
-                (44, 'Calorimetry')
-                (44, 'Dilatation')
-                (44, 'TermoDynamicScales')
-                (44, 'TermologyFundaments')
-                (44, 'TermologyGases')
-                (44, 'TermoDynamics')
-                (44, 'HeatTransfer')
+                  (${CinematicsTopicId}, 'HorizontalThrows')
+                (${CinematicsTopicId}, 'ObliqueThrows')
+                (${CinematicsTopicId}, 'CircularMovement')
+                (${CinematicsTopicId}, 'UniformMovementAccelaration')
+                (${CinematicsTopicId}, 'UniformMovement')
+                (${CinematicsTopicId}, 'VerticalMovement')
+                (${CinematicsTopicId}, 'Vectors')
+                (${DinamicsTopicId}, 'Friction')
+                (${DinamicsTopicId}, 'Elastics')
+                (${DinamicsTopicId}, 'CentripetalForce')
+                (${DinamicsTopicId}, 'Newton')
+                (${DinamicsTopicId}, 'InclinatedSurfaces')
+                (${DinamicsTopicId}, 'QuantityOfMovement')
+                (${DinamicsTopicId}, 'Pulleys')
+                (${ElectroDynamicsTopicId}, 'ResistorAssociation')
+                (${ElectroDynamicsTopicId}, 'Circuits')
+                (${ElectroDynamicsTopicId}, 'ElectricalCurrent')
+                (${ElectroDynamicsTopicId}, 'Generators')
+                (${ElectroDynamicsTopicId}, 'Instruments')
+                (${ElectroDynamicsTopicId}, 'LawsOfOhm')
+                (${ElectroStaticsTopicId}, 'PotentialEnergy')
+                (${ElectroStaticsTopicId}, 'ElectricalFields')
+                (${ElectroStaticsTopicId}, 'Capacitors')
+                (${ElectroStaticsTopicId}, 'CoulombLaw')
+                (${ElectroStaticsTopicId}, 'ElectricalPotential')
+                (${StaticTopicId}, 'Statics')
+                (${GravitationTopicId}, 'Gravitation')
+                (${HydroDynamicsTopicId}%, 'HydroDynamics')
+                (${HydroStaticsTopicId}, 'Density')
+                (${HydroStaticsTopicId}, 'Pressure')
+                (${HydroStaticsTopicId}, 'ArquimedesPrinciples')
+                (${HydroStaticsTopicId}, 'PascalPrinciples')
+                (${OndulatoryTopicId}, 'StringsAndTubes')
+                (${OndulatoryTopicId}, 'OndulatoryPhenomenons')
+                (${OndulatoryTopicId}, 'SonoryPhenomenons')
+                (${OndulatoryTopicId}, 'OndulatoryFundaments')
+                (${OndulatoryTopicId}, 'PhysiologicalPropertiesOfSounds')
+                (${OpticsTopicId}, 'SphericalMirrors')
+                (${OpticsTopicId}, 'OpticalFundaments')
+                (${OpticsTopicId}, 'LensAndVision')
+                (${OpticsTopicId}, 'Refraction')
+                (${ThermologyTopicId}, 'Calorimetry')
+                (${ThermologyTopicId}, 'Dilatation')
+                (${ThermologyTopicId}, 'TermoDynamicScales')
+                (${ThermologyTopicId}, 'TermologyFundaments')
+                (${ThermologyTopicId}, 'TermologyGases')
+                (${ThermologyTopicId}, 'TermoDynamics')
+                (${ThermologyTopicId}, 'HeatTransfer')
+
 
         `);  
     }
