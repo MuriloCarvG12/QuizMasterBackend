@@ -1,22 +1,29 @@
-import { MigrationInterface, QueryRunner } from "typeorm";
+import { MigrationInterface, QueryBuilder, QueryRunner } from "typeorm";
 
 export class GenerateMathTopics1762996186545 implements MigrationInterface {
 
     public async up(queryRunner: QueryRunner): Promise<void> {
+
+        const math_code_bd = await queryRunner.query(
+            "Select Id from Subjects where  SubjectName = 'Math'"
+        )
+
+        const math_id = math_code_bd[0].id;
+        
         await queryRunner.query(`
             INSERT INTO "Topics" ("SubjectId", "TopicName")
             VALUES 
-                (1, 'FirstDegreeFunctions')
-                (1, 'CombinatoryAnalysis')
-                (1, 'Packages')
-                (1, 'Statistics')
-                (1, 'Functions')
-                (1, 'AnalyticalGeometry')
-                (1, 'FlatGeometry')
-                (1, 'Logarithms')
-                (1, 'Probability')
-                (1, 'SecondDegreeFunctions')
-                (1, 'ExponentialFunctions')
+                (${math_id}, 'FirstDegreeFunctions')
+                (${math_id}, 'CombinatoryAnalysis')
+                (${math_id}, 'Packages')
+                (${math_id}, 'Statistics')
+                (${math_id}, 'Functions')
+                (${math_id}, 'AnalyticalGeometry')
+                (${math_id}, 'FlatGeometry')
+                (${math_id}, 'Logarithms')
+                (${math_id}, 'Probability')
+                (${math_id}, 'SecondDegreeFunctions')
+                (${math_id}, 'ExponentialFunctions')
         `);         
     }
 

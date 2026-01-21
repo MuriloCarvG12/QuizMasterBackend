@@ -3,26 +3,31 @@ import { MigrationInterface, QueryRunner } from "typeorm";
 export class GenerateGrammarTopics1762996251077 implements MigrationInterface {
 
     public async up(queryRunner: QueryRunner): Promise<void> {
+
+        const grammar_code_bd = await queryRunner.query('Select Id from Subjects where SubjectName = "Grammar"')
+
+        const grammar_id = grammar_code_bd[0].Id;
+
         await queryRunner.query(`
             INSERT INTO "Topics" ("SubjectId", "TopicName")
             VALUES 
-                (9, 'Pronoums')
-                (9, 'NameClasses')
-                (9, 'VerbClasses')
-                (9, 'RelationalClasses')
-                (9, 'Cohesion')
-                (9, 'PronomialPlacement')
-                (9, 'Agreement')
-                (9, 'Stylistics')
-                (9, 'WordFormation')
-                (9, 'FunctionsOfQueAndSe')
-                (9, 'Ortography')
-                (9, 'CompoundPeriod')
-                (9, 'Punctuation')
-                (9, 'RegencyAndCrase')
-                (9, 'AcessoryTerms')
-                (9, 'EssentialTerms')
-                (9, 'IntegrantTerms')
+                    (${grammar_id}, 'Pronouns'),
+                    (${grammar_id}, 'NameClasses'),
+                    (${grammar_id}, 'VerbClasses'),
+                    (${grammar_id}, 'RelationalClasses'),
+                    (${grammar_id}, 'Cohesion'),
+                    (${grammar_id}, 'PronominalPlacement'),
+                    (${grammar_id}, 'Agreement'),
+                    (${grammar_id}, 'Stylistics'),
+                    (${grammar_id}, 'WordFormation'),
+                    (${grammar_id}, 'FunctionsOfQueAndSe'),
+                    (${grammar_id}, 'Orthography'),
+                    (${grammar_id}, 'CompoundPeriod'),
+                    (${grammar_id}, 'Punctuation'),
+                    (${grammar_id}, 'RegencyAndCrase'),
+                    (${grammar_id}, 'AccessoryTerms'),
+                    (${grammar_id}, 'EssentialTerms'),
+                    (${grammar_id}, 'IntegrantTerms')
         `);  
     }
 

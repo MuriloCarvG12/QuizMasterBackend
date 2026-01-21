@@ -3,14 +3,17 @@ import { MigrationInterface, QueryRunner } from "typeorm";
 export class GenerateHistoryTopics1762996299806 implements MigrationInterface {
 
     public async up(queryRunner: QueryRunner): Promise<void> {
+        const history_code_bd = await queryRunner.query('Select Id from Subjects where SubjectName = "History"')
+
+        const history_code_id = history_code_bd[0].Id;
         await queryRunner.query(`
             INSERT INTO "Topics" ("SubjectId", "TopicName")
                 VALUES 
-                    (8, 'AncientAge')
-                    (8, 'MediumAge')
-                    (8, 'ModernAge')
-                    (8, 'ContemporaryAge')
-                    (8, 'Histografy')
+                    (${history_code_id}, 'AncientAge'),
+                    (${history_code_id}, 'MiddleAge'),
+                    (${history_code_id}, 'ModernAge'),
+                    (${history_code_id}, 'ContemporaryAge'),
+                    (${history_code_id}, 'Histografy')
             `); 
             
     }
