@@ -39,7 +39,7 @@ export class GenerateChemistrySubTopics1762996651184 implements MigrationInterfa
         await selectTopicId(queryRunner, "EnviromentalChemistry");      
     
         await queryRunner.query(`
-            INSERT INTO "Topics" ("SubjectId", "TopicName")
+            INSERT INTO "SubTopics" ("SubjectId", "TopicName")
             VALUES 
                 (${ElectroChemistryTopicId}, 'Electrolysis')
                 (${ElectroChemistryTopicId}, 'Batteries')

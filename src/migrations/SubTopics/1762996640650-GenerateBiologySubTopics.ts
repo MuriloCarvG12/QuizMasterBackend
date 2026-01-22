@@ -25,7 +25,7 @@ export class GenerateBiologySubTopics1762996640650 implements MigrationInterface
             const BioChemistryTopicId = await selectTopicId(queryRunner, "BioChemistry");
 
         await queryRunner.query(`
-            INSERT INTO "Topics" ("SubjectId", "TopicName")
+            INSERT INTO "SubTopics" ("SubjectId", "TopicName")
             VALUES 
                 (${BioEnergeticsTopicId}, 'BioChemistry')
                 (${EcologyTopicId}, 'Botanics')

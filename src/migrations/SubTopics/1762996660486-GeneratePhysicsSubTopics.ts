@@ -38,7 +38,7 @@ export class GeneratePhysicsSubTopics1762996660486 implements MigrationInterface
             await selectTopicId(queryRunner, "Thermology");
 
         await queryRunner.query(`
-            INSERT INTO "Topics" ("SubjectId", "TopicName")
+            INSERT INTO "SubTopics" ("SubjectId", "TopicName")
             VALUES 
                   (${CinematicsTopicId}, 'HorizontalThrows')
                 (${CinematicsTopicId}, 'ObliqueThrows')

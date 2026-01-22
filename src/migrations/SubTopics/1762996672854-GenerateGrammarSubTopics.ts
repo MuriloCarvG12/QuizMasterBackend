@@ -4,7 +4,7 @@ import { selectTopicId } from "../../utils/selectTopicId";
 export class GenerateGrammarSubTopics1762996672854 implements MigrationInterface {
 
     public async up(queryRunner: QueryRunner): Promise<void> {
-        
+
         const PronounsTopicId =
         await selectTopicId(queryRunner, "Pronouns");
 
@@ -57,7 +57,7 @@ export class GenerateGrammarSubTopics1762996672854 implements MigrationInterface
         await selectTopicId(queryRunner, "IntegrantTerms");
 
         await queryRunner.query(`
-            INSERT INTO "Topics" ("SubjectId", "TopicName")
+            INSERT INTO "SubTopics" ("SubjectId", "TopicName")
             VALUES 
                 (${PronounsTopicId}, 'Pronoums')
                 (${NameClassesTopicId}, 'NameClasses')

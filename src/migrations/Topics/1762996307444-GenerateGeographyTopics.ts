@@ -13,7 +13,7 @@ export class GenerateGeographyTopics1762996307444 implements MigrationInterface 
                 VALUES 
                     (${geography_code_id}, 'America'),
                     (${geography_code_id}, 'Biosphere'),
-                    (${geography_code_id}, 'ModernAge'),
+                    (${geography_code_id}, 'Europe'),
                     (${geography_code_id}, 'Demography'),
                     (${geography_code_id}, 'CapitalismPhases'),
                     (${geography_code_id}, 'EnergySources'),
