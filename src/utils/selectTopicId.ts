@@ -8,7 +8,7 @@
 {
 
     const result = await queryRunner.query(`
-                    SELECT "Id" FROM "Topics" WHERE "TopicName" = ${topicName}
+                    SELECT "Id" FROM "Topics" WHERE "TopicName" = '${topicName}'
                 `);
                 
     return result[0].Id
