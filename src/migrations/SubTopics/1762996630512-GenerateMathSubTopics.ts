@@ -1,5 +1,5 @@
 import { MigrationInterface, QueryRunner } from "typeorm";
-import { selectTopicId } from "../../utils/selectTopicId";
+import { selectTopicId } from "../../utils/selectTopicId.js";
 
 
 export class GenerateMathSubTopics1762996630512 implements MigrationInterface {
@@ -30,18 +30,18 @@ export class GenerateMathSubTopics1762996630512 implements MigrationInterface {
         
         
         await queryRunner.query(`
-            INSERT INTO "SubTopics" ("SubjectId", "TopicName")
+            INSERT INTO "SubTopics" ("TopicId", "SubTopicName")
             VALUES 
-                (${FirstDegreeFunctionsTopicId}, 'FirstDegreeFunctions')
-                (${CombinatoryAnalysisTopicId}, 'CombinatoryAnalysis')
-                (${PackagesTopicId}, 'Packages')
-                (${StatisticsTopicId}, 'Statistics')
-                (${FunctionsTopicId}, 'Functions')
-                (${AnalyticalGeometryTopicId}, 'AnalyticalGeometry')
-                (${FlatGeometryTopicId}, 'FlatGeometry')
-                (${LogarithmsTopicId}, 'Logarithms')
-                (${ProbabilityTopicId}, 'Probability')
-                (${SecondDegreeFunctionsTopicId}, 'SecondDegreeFunctions')
+                (${FirstDegreeFunctionsTopicId}, 'FirstDegreeFunctions'),
+                (${CombinatoryAnalysisTopicId}, 'CombinatoryAnalysis'),
+                (${PackagesTopicId}, 'Packages'),
+                (${StatisticsTopicId}, 'Statistics'),
+                (${FunctionsTopicId}, 'Functions'),
+                (${AnalyticalGeometryTopicId}, 'AnalyticalGeometry'),
+                (${FlatGeometryTopicId}, 'FlatGeometry'),
+                (${LogarithmsTopicId}, 'Logarithms'),
+                (${ProbabilityTopicId}, 'Probability'),
+                (${SecondDegreeFunctionsTopicId}, 'SecondDegreeFunctions'),
                 (${ExponentialFunctionsTopicId}, 'ExponentialFunctions')
         `);    
     }

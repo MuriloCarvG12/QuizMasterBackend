@@ -2,9 +2,12 @@
   "name": "quizmasterbackend",
   "version": "1.0.0",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "ts-node-dev --respawn --transpile-only src/index.ts"
+    "start": "ts-node-dev --respawn --transpile-only src/index.ts",
+    "migration:run": "typeorm-ts-node-commonjs migration:run -d src/data_source.ts",
+    "insert:questions": "ts-node src/utils/insertQuestions.ts"
   },
   "keywords": [],
   "author": "",

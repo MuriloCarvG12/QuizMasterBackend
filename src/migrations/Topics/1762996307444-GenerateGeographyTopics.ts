@@ -4,7 +4,7 @@ export class GenerateGeographyTopics1762996307444 implements MigrationInterface 
 
     public async up(queryRunner: QueryRunner): Promise<void> {
         
-        const geography_code_bd = await queryRunner.query('Select Id from Subjects where SubjectName = "Geography"')
+        const geography_code_bd = await queryRunner.query(`Select "Id" from "Subjects" where "SubjectName" = 'Geography'`)
         
         const geography_code_id = geography_code_bd[0].Id;
 

@@ -3,7 +3,7 @@ import { MigrationInterface, QueryRunner } from "typeorm";
 export class GenerateLiteratureTopics1762996259725 implements MigrationInterface {
 
     public async up(queryRunner: QueryRunner): Promise<void> {
-        const brazilian_history_code_bd = await queryRunner.query('Select Id from Subjects where SubjectName = "BrazilianHistory"');
+        const brazilian_history_code_bd = await queryRunner.query(`Select "Id" from "Subjects" where "SubjectName" = 'BrazilianHistory'`);
 
         const brazilian_history_id = brazilian_history_code_bd[0].Id;
 

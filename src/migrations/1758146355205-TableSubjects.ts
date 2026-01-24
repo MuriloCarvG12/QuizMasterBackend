@@ -4,10 +4,10 @@ export class TableSubjects1758146355205 implements MigrationInterface {
 
     public async up(queryRunner: QueryRunner): Promise<void> {
          await queryRunner.query(
-            `create table if not exists Subjects 
+            `create table if not exists "Subjects" 
             (
                 "Id" serial primary key, 
-                "SubjectName" varchar(15) not null 
+                "SubjectName" varchar(50) not null 
             )`
            
          )    

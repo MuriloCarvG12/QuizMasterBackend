@@ -3,9 +3,9 @@ import { MigrationInterface, QueryRunner } from "typeorm";
 export class GeneratePhysicsTopics1762996242070 implements MigrationInterface {
 
     public async up(queryRunner: QueryRunner): Promise<void> {
-        const physics_code_bd = await queryRunner.query(`Select Id from Subjects where SubjectName = 'Physics'`)
+        const physics_code_bd = await queryRunner.query(`Select "Id" from "Subjects" where "SubjectName" = 'Physics'`)
 
-        const physics_id = physics_code_bd[0].id;
+        const physics_id = physics_code_bd[0].Id;
 
         await queryRunner.query(`
             INSERT INTO "Topics" ("SubjectId", "TopicName")

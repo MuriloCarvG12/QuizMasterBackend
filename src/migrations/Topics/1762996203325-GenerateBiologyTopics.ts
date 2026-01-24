@@ -4,7 +4,7 @@ export class GenerateBiologyTopics1762996203325 implements MigrationInterface {
 
     public async up(queryRunner: QueryRunner): Promise<void> {
 
-        const biology_code_bd = await queryRunner.query(`SELECT "Id" FROM "Subjects" WHERE "Name" = 'Biology'`)
+        const biology_code_bd = await queryRunner.query(`SELECT "Id" FROM "Subjects" WHERE "SubjectName" = 'Biology'`)
 
         const biology_id = biology_code_bd[0].Id;
         

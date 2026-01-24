@@ -1,5 +1,5 @@
 import { MigrationInterface, QueryRunner } from "typeorm";
-import { selectTopicId } from "../../utils/selectTopicId";
+import { selectTopicId } from "../../utils/selectTopicId.js";
 
 export class GenerateGrammarSubTopics1762996672854 implements MigrationInterface {
 
@@ -57,24 +57,24 @@ export class GenerateGrammarSubTopics1762996672854 implements MigrationInterface
         await selectTopicId(queryRunner, "IntegrantTerms");
 
         await queryRunner.query(`
-            INSERT INTO "SubTopics" ("SubjectId", "TopicName")
+            INSERT INTO "SubTopics" ("TopicId", "SubTopicName")
             VALUES 
-                (${PronounsTopicId}, 'Pronoums')
-                (${NameClassesTopicId}, 'NameClasses')
-                (${VerbClassesTopicId}, 'VerbClasses')
-                (${RelationalClassesTopicId}, 'RelationalClasses')
-                (${CohesionTopicId}, 'Cohesion')
-                (${PronomialPlacementTopicId}, 'PronomialPlacement')
-                (${AgreementTopicId}, 'Agreement')
-                (${StylisticsTopicId}, 'Stylistics')
-                (${WordFormationTopicId}, 'WordFormation')
-                (${FunctionsOfQueAndSeTopicId}, 'FunctionsOfQueAndSe')
-                (${OrtographyTopicId}, 'Ortography')
-                (${CompoundPeriodTopicId}, 'CompoundPeriod')
-                (${PunctuationTopicId}, 'Punctuation')
-                (${RegencyAndCraseTopicId}, 'RegencyAndCrase')
-                (${AcessoryTermsTopicId}, 'AcessoryTerms')
-                (${EssentialTermsTopicId}, 'EssentialTerms')
+                (${PronounsTopicId}, 'Pronouns'),
+                (${NameClassesTopicId}, 'NameClasses'),
+                (${VerbClassesTopicId}, 'VerbClasses'),
+                (${RelationalClassesTopicId}, 'RelationalClasses'),
+                (${CohesionTopicId}, 'Cohesion'),
+                (${PronomialPlacementTopicId}, 'PronomialPlacement'),
+                (${AgreementTopicId}, 'Agreement'),
+                (${StylisticsTopicId}, 'Stylistics'),
+                (${WordFormationTopicId}, 'WordFormation'),
+                (${FunctionsOfQueAndSeTopicId}, 'FunctionsOfQueAndSe'),
+                (${OrtographyTopicId}, 'Orthography'),
+                (${CompoundPeriodTopicId}, 'CompoundPeriod'),
+                (${PunctuationTopicId}, 'Punctuation'),
+                (${RegencyAndCraseTopicId}, 'RegencyAndCrase'),
+                (${AcessoryTermsTopicId}, 'AccessoryTerms'),
+                (${EssentialTermsTopicId}, 'EssentialTerms'),
                 (${IntegrantTermsTopicId}, 'IntegrantTerms')
         `);  
     }

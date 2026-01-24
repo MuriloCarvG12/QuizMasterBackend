@@ -1,5 +1,5 @@
 import { MigrationInterface, QueryRunner } from "typeorm";
-import { selectTopicId } from "../../utils/selectTopicId";
+import { selectTopicId } from "../../utils/selectTopicId.js";
 
 export class GenerateChemistrySubTopics1762996651184 implements MigrationInterface {
 
@@ -13,9 +13,6 @@ export class GenerateChemistrySubTopics1762996651184 implements MigrationInterfa
 
         const StoichiometryTopicId =
         await selectTopicId(queryRunner, "Stoichiometry");
-
-        const OxygenatedFunctionsTopicId =
-        await selectTopicId(queryRunner, "Oxygenated Functions");
 
         const GasesTopicId =
         await selectTopicId(queryRunner, "Gases");
@@ -36,35 +33,57 @@ export class GenerateChemistrySubTopics1762996651184 implements MigrationInterfa
         await selectTopicId(queryRunner, "PhysicalChemicalOfOrganicalCompounds");
 
         const EnviromentalChemistryTopicId =
-        await selectTopicId(queryRunner, "EnviromentalChemistry");      
+        await selectTopicId(queryRunner, "EnviromentalChemistry");  
+        
+        const OrganicChemistryIntroductionTopicId =
+        await selectTopicId(queryRunner, "Introduction");
+
+        const IsomerismTopicId =
+        await selectTopicId(queryRunner, "Isomery");
+
+        const NitrogenFunctionsTopicId =
+        await selectTopicId(queryRunner, "NitrogenFunctions");
+
+        const OxygenatedFunctionsTopicId =
+        await selectTopicId(queryRunner, "OxygenatedFunctions");
+
+        const HydrocarbonsTopicId =
+        await selectTopicId(queryRunner, "HydroCarbons");
     
         await queryRunner.query(`
-            INSERT INTO "SubTopics" ("SubjectId", "TopicName")
+            INSERT INTO "SubTopics" ("TopicId", "SubTopicName")
             VALUES 
-                (${ElectroChemistryTopicId}, 'Electrolysis')
-                (${ElectroChemistryTopicId}, 'Batteries')
-                (${EquilibriumTopicId}, 'EquilibriumConstant')
-                (${EquilibriumTopicId}, 'Dislocation')
-                (${EquilibriumTopicId}, 'IonicBalance')
-                (${EquilibriumTopicId}, 'Hydrolysis')
-                (${StoichiometryTopicId}, 'StoichiometryFactors')
-                (${StoichiometryTopicId}, 'StoichiometryFormulas')
-                (${StoichiometryTopicId}, 'StoichiometryUnits')
-             	(${OxygenatedFunctionsTopicId}, 'OxygenatedFunctionsSaltsAndBases')
-                (${OxygenatedFunctionsTopicId}, 'OxygenatedFunctionsAcidsAndBases')
-                (${OxygenatedFunctionsTopicId}, 'OxygenatedFunctionsOxideStudies')
-                (${OxygenatedFunctionsTopicId}, 'OxygenatedFunctionsInorganicReactions')
-                (${GasesTopicId}, 'Gases')
-                (${ChemicalBondsTopicId}, 'IntermolecularStrenghts')
-                (${ChemicalBondsTopicId}, 'HibridizationAndPolarization')
-                (${ChemicalBondsTopicId}, 'Bonds')
-                (${NOXTopicId}, 'NoxCalculus')
-                (${NOXTopicId}, 'NoxRedox')
-                (${NOXTopicId}, 'NoxReductionOxidation')
-                (${KineticsTopicId}, 'Kinetics')
-                (${ColigativePropertiesTopicId}, 'ColigativeProperties')
-                (${PhysicalChemicalOfOrganicalCompoundsTopicId}, 'PhysicalChemicalOfOrganicalCompounds')
-                (${EnviromentalChemistryTopicId}, 'EnviromentalChemistry')
+                (${ElectroChemistryTopicId}, 'Electrolysis'),
+                (${ElectroChemistryTopicId}, 'Batteries'),
+                (${EquilibriumTopicId}, 'EquilibriumConstant'),
+                (${EquilibriumTopicId}, 'Dislocation'),
+                (${EquilibriumTopicId}, 'IonicBalance'),
+                (${EquilibriumTopicId}, 'Hydrolysis'),
+                (${StoichiometryTopicId}, 'StoichiometryFactors'),
+                (${StoichiometryTopicId}, 'StoichiometryFormulas'),
+                (${StoichiometryTopicId}, 'StoichiometryUnits'),
+                (${OxygenatedFunctionsTopicId}, 'OxygenatedFunctionsSaltsAndBases'),
+                (${OxygenatedFunctionsTopicId}, 'OxygenatedFunctionsAcidsAndBases'),
+                (${OxygenatedFunctionsTopicId}, 'OxygenatedFunctionsOxideStudies'),
+                (${OxygenatedFunctionsTopicId}, 'OxygenatedFunctionsInorganicReactions'),
+                (${GasesTopicId}, 'Gases'),
+                (${ChemicalBondsTopicId}, 'IntermolecularStrenghts'),
+                (${ChemicalBondsTopicId}, 'HibridizationAndPolarization'),
+                (${ChemicalBondsTopicId}, 'Bonds'),
+                (${NOXTopicId}, 'NoxCalculus'),
+                (${NOXTopicId}, 'NoxRedox'),
+                (${NOXTopicId}, 'NoxReductionOxidation'),
+                (${KineticsTopicId}, 'Kinetics'),
+                (${ColigativePropertiesTopicId}, 'ColigativeProperties'),
+                (${PhysicalChemicalOfOrganicalCompoundsTopicId}, 'PhysicalChemicalOfOrganicalCompounds'),
+                (${EnviromentalChemistryTopicId}, 'EnviromentalChemistry'),
+                (${OrganicChemistryIntroductionTopicId}, 'CarbonicChains'),
+                (${OrganicChemistryIntroductionTopicId}, 'FunctionsAndOrganicSeries'),
+                (${IsomerismTopicId}, 'GeometricIsomery'),
+                (${IsomerismTopicId}, 'PlaneIsomery'),
+                (${NitrogenFunctionsTopicId}, 'NitrogenFunctions'),
+                (${OxygenatedFunctionsTopicId}, 'OxygenatedFunctions'),
+                (${HydrocarbonsTopicId}, 'HydroCarbons')
         `);  
     }
 

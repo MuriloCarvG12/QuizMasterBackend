@@ -6,14 +6,14 @@ export class GenerateSubjects1762995811498 implements MigrationInterface {
         await queryRunner.query(`
             INSERT INTO "Subjects" ("SubjectName")
             VALUES 
-                ('Math')
-                ('Biology')
-                ('Chemistry')
-                ('OrganicChemistry')
-                ('Physics')
-                ('BrazilianHistory')
-                ('Geography')
-                ('History')
+                ('Math'),
+                ('Biology'),
+                ('Chemistry'),
+                ('OrganicChemistry'),
+                ('Physics'),
+                ('BrazilianHistory'),
+                ('Geography'),
+                ('History'),
                 ('Grammar')
         `);
 

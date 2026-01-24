@@ -4,7 +4,7 @@ export class GenerateGrammarTopics1762996251077 implements MigrationInterface {
 
     public async up(queryRunner: QueryRunner): Promise<void> {
 
-        const grammar_code_bd = await queryRunner.query('Select Id from Subjects where SubjectName = "Grammar"')
+        const grammar_code_bd = await queryRunner.query(`Select "Id" from "Subjects" where "SubjectName" = 'Grammar'`)
 
         const grammar_id = grammar_code_bd[0].Id;
 

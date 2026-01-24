@@ -1,6 +1,8 @@
 {
   "compilerOptions": {
     "allowJs": true,
+     "module": "NodeNext",
+     "moduleResolution": "NodeNext",
      "outDir": "build",
      "strict": true,
      "noImplicitAny": true,
