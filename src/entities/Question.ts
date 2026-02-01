@@ -9,52 +9,52 @@ export class Question {
     @PrimaryGeneratedColumn()
     Id: number
 
-    @Column()
+    @Column("integer")
     QuestionId: string
 
-    @Column()
+    @Column("text")
     QuestionText: string
 
-    @Column()
+    @Column("text")
     QuestionPrompt: string
 
-    @Column()
+    @Column("text")
     QuestionAltA: string
 
-    @Column()
+    @Column("text")
     QuestionAltB: string
 
-    @Column()
+    @Column("text")
     QuestionAltC: string
 
-    @Column()
+    @Column("text")
     QuestionAltD: string
 
-    @Column()
+    @Column("text")
     QuestionAltE: string
 
-    @Column()
+    @Column("char")
     CorrectAlternative: string
 
     @ManyToOne(() => Subject, { eager: false }) 
         @JoinColumn({ name: "SubjectId" }) 
         subject: Subject
     
-    @Column()
+    @Column("integer")
     SubjectId: number 
 
     @ManyToOne(() => Topic, { eager: false }) 
         @JoinColumn({ name: "TopicId" }) 
         Topic: Topic
     
-    @Column()
+    @Column("integer")
     TopicId: number 
 
     @ManyToOne(() => Subtopic) 
         @JoinColumn({ name: "SubTopicId" })
         SubTopic: Subtopic
     
-    @Column()
+    @Column("integer")
     SubTopicId: number 
 
     @OneToMany("Image", "question")

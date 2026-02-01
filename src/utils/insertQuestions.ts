@@ -128,11 +128,11 @@ async function processFile(fullPath: string, fileName: string, relativeDir: stri
 } // ✅ closes: processFile function
 
 process.on("unhandledRejection", (reason) => {
-  console.error("🔥 UNHANDLED REJECTION:", reason);
+  console.error("UNHANDLED REJECTION:", reason);
 });
 
 process.on("uncaughtException", (err) => {
-  console.error("🔥 UNCAUGHT EXCEPTION:", err);
+  console.error("UNCAUGHT EXCEPTION:", err);
 });
 
 async function main() {
@@ -150,9 +150,9 @@ async function main() {
     console.log("Releasing queryRunner...");
     await queryRunner.release();
 
-    console.log("✅ Done.");
+    console.log("Done.");
   } catch (err) {
-    console.error("❌ REAL ERROR:", err);
+    console.error("REAL ERROR:", err);
   }
 }
 

@@ -1,18 +1,18 @@
 import { Entity, PrimaryGeneratedColumn, Column, ManyToOne, JoinColumn } from "typeorm"
 import { Subject } from "./Subject.js"
 
-@Entity({ name: "topics" })
+@Entity({ name: "Topics" })
 export class Topic {
     @PrimaryGeneratedColumn()
     Id: number
 
-    @Column()
+    @Column({ type: "varchar" })
     TopicName: string
 
     @ManyToOne(() => Subject, { eager: false }) 
     @JoinColumn({ name: "SubjectId" }) 
     subject: Subject
 
-    @Column()
+    @Column({ type: "integer" })
     SubjectId: number 
 }

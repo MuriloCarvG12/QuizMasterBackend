@@ -9,9 +9,9 @@ export class Image {
   @JoinColumn({ name: "QuestionId" })
   question: any;
 
-  @Column()
+  @Column("integer")
   QuestionId: number;
 
-  @Column()
+  @Column("text")
   ImageUrl: string;
 }
