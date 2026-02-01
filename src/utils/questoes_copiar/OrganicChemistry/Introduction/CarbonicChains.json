@@ -1,0 +1,382 @@
+{
+    "examTitle": "Cadeias Carbonicas",
+    "questions": [
+            {
+      "questionId": "Ifsul_Q0839",
+      "questionText": "O 2,2,4-trimetilpentano, conforme a fórmula estrutural representada abaixo, é um alcano isômero do octano. Ele é o padrão (100) na escala de octanagem da gasolina e é impropriamente conhecido por iso-octano. Quanto maior é o índice de octanagem, melhor é a qualidade da gasolina.",
+      "question": "Sobre a cadeia do iso-octano, afirma-se que ela é",
+      "images": [
+        "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/e391f289-4650-42f3-83d1-39fcd017211b-arquivo-editor"
+      ],
+      "alternatives": {
+        "A": "saturada, aberta, normal e heterogênea.",
+        "B": "insaturada, cíclica, normal e heterogênea.",
+        "C": "saturada, aberta, ramificada e homogênea.",
+        "D": "insaturada, cíclica, ramificada e homogênea.",
+        "E": ""
+      },
+      "answer": "C"
+    },
+    {
+      "questionId": "Uece_Q0835",
+      "questionText": "Assinale a opção que completa correta e respectivamente o seguinte enunciado: “Muitas substâncias orgânicas têm em sua estrutura um ciclo formado por _____________1átomos de carbono com três ligações duplas _____________2. Compostos que têm esse ciclo são chamados de _____________3”.",
+      "question": "Qual opção completa corretamente o enunciado?",
+      "images": [],
+      "alternatives": {
+        "A": "seis, alternadas, parafínicos",
+        "B": "cinco, contínuas, aromáticos",
+        "C": "cinco, contínuas, parafínicos",
+        "D": "seis, alternadas, aromáticos",
+        "E": ""
+      },
+      "answer": "D"
+    },
+    {
+      "questionId": "Enem_Q0846",
+      "questionText": "As moléculas de nanoputians lembram figuras humanas e foram criadas para estimular o interesse de jovens na compreensão da linguagem expressa em fórmulas estruturais, muito usadas em química orgânica. Um exemplo é o NanoKid, representado na figura.",
+      "question": "Em que parte do corpo do NanoKid existe carbono quaternário?",
+      "images": [
+        "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/755008c8-6629-48f9-ad4a-78518c9d20b6-arquivo-editor"
+      ],
+      "alternatives": {
+        "A": "Mãos.",
+        "B": "Cabeça.",
+        "C": "Tórax.",
+        "D": "Abdômen.",
+        "E": "Pés."
+      },
+      "answer": "A"
+    },
+    {
+      "questionId": "Ufrgs_Q0856",
+      "questionText": "A levedura Saccharomyces cerevisiae é responsável por transformar o caldo de cana em etanol. Modificações genéticas permitem que esse micro-organismo secrete uma substância chamada farneseno, em vez de etanol. O processo produz, então, um combustível derivado da cana-de-açúcar, com todas as propriedades essenciais do diesel de petróleo, com as vantagens de ser renovável e não conter enxofre. Considere as seguintes afirmações a respeito do farneseno.",
+      "question": "Quais afirmações estão corretas?",
+      "images": [
+        "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/a4e03f20-1237-4be5-9588-94e5a423df1e-arquivo-editor"
+      ],
+      "alternatives": {
+        "A": "Apenas I.",
+        "B": "Apenas II.",
+        "C": "Apenas III.",
+        "D": "Apenas I e II.",
+        "E": "I, II e III."
+      },
+      "answer": "B"
+    },
+        {
+      "questionId": "Pucrj_Q0841",
+      "questionText": "O óleo de citronela é muito utilizado na produção de velas e repelentes. Na composição desse óleo, a substância representada a seguir está presente em grande quantidade, sendo, dentre outras, uma das responsáveis pela ação repelente do óleo.",
+      "question": "A cadeia carbônica dessa substância é classificada como aberta,",
+      "images": [
+        "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/d1950aca-f512-4931-ba71-7146d890f7f6-arquivo-editor"
+      ],
+      "alternatives": {
+        "A": "saturada, homogênea e normal.",
+        "B": "saturada, heterogênea e ramificada.",
+        "C": "insaturada, ramificada e homogênea.",
+        "D": "insaturada, aromática e homogênea.",
+        "E": "insaturada, normal e heterogênea."
+      },
+      "answer": "C"
+    },
+    {
+      "questionId": "Unesp_Q0838",
+      "questionText": "Um dos responsáveis pelo aroma de noz é o composto 2,5 – dimetil – 3 – acetiltiofeno, cuja fórmula estrutural é:",
+      "question": "Examinando essa fórmula, é correto afirmar que a molécula desse composto apresenta",
+      "images": [
+        "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/5a1f83fc-7cb9-4638-8a3f-754a58ec7fdc-arquivo-editor"
+      ],
+      "alternatives": {
+        "A": "isomeria óptica.",
+        "B": "heteroátomo.",
+        "C": "cadeia carbônica saturada.",
+        "D": "átomo de carbono quaternário.",
+        "E": "função orgânica aldeído."
+      },
+      "answer": "B"
+    },
+    {
+      "questionId": "Ufjf_Q0854",
+      "questionText": "O BHT é um importante antioxidante sintético utilizado na indústria alimentícia.",
+      "question": "Sobre o BHT é correto afirmar que ele apresenta:",
+      "images": [
+        "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/ce1704c0-bd72-4d1b-851e-7f7706143ca6-arquivo-editor"
+      ],
+      "alternatives": {
+        "A": "2 carbonos quaternários.",
+        "B": "fórmula molecular C14H21O.",
+        "C": "2 substituintes n-butila.",
+        "D": "3 carbonos com hibridação sp2.",
+        "E": "5 carbonos terciários."
+      },
+      "answer": "A"
+    },
+    {
+      "questionId": "Uepg_Q0842",
+      "questionText": "(Adaptada) Sobre a piperidina, de fórmula estrutural representada abaixo, assinale o que for correto.\n\nI. É uma molécula acíclica.\nII. Todos os átomos de carbono são hibridizados em sp2.\nIII. É um composto de cadeia saturada.\nIV. Apresenta heteroátomo.",
+      "question": "Está(ão) correta(s) apenas:",
+      "images": [
+        "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/27a030aa-9da5-4ab1-9ace-d062cf2b156e-arquivo-editor"
+      ],
+      "alternatives": {
+        "A": "I",
+        "B": "III",
+        "C": "II e III",
+        "D": "III e IV",
+        "E": "I e IV"
+      },
+      "answer": "D"
+    },
+        {
+      "questionId": "Uea_Q0845",
+      "questionText": "O óleo da amêndoa da andiroba, árvore de grande porte encontrada na região da Floresta Amazônica, tem aplicações medicinais como antisséptico, cicatrizante e anti-inflamatório. Um dos principais constituintes desse óleo é a oleína, cuja estrutura química está representada a seguir.",
+      "question": "O número de átomos de carbono na estrutura da oleína é igual a",
+      "images": [
+        "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/8a353d55-21ac-4661-ba5e-84646bf519f5-arquivo-editor"
+      ],
+      "alternatives": {
+        "A": "16.",
+        "B": "18.",
+        "C": "19.",
+        "D": "20.",
+        "E": "17."
+      },
+      "answer": "B"
+    },
+    {
+      "questionId": "Pucrj_Q0843",
+      "questionText": "A seguir está representada a estrutura do ácido fumárico.",
+      "question": "A respeito desse ácido, é correto afirmar que ele possui",
+      "images": [
+        "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/62e67964-8f88-4c75-82be-2d0d60c083c4-arquivo-editor"
+      ],
+      "alternatives": {
+        "A": "somente átomos de carbono secundários e cadeia carbônica normal.",
+        "B": "átomos de carbono primários e secundários, e cadeia carbônica ramificada.",
+        "C": "átomos de carbono primários e secundários, e cadeia carbônica insaturada.",
+        "D": "átomos de carbono primários e terciários, e cadeia carbônica saturada.",
+        "E": "átomos de carbono primários e terciários, e cadeia carbônica ramificada."
+      },
+      "answer": "C"
+    },
+    {
+      "questionId": "Uece_Q0849",
+      "questionText": "A coniina é um alcaloide venenoso. Suas propriedades tóxicas eram conhecidas desde a antiguidade e já eram usadas na época dos gregos como um veneno para ser administrado àqueles condenados à morte.\n\nAtente ao que se diz a seguir sobre essa substância:\n\nI. Contém carbono terciário.\nII. É um composto aromático.\nIII. É um composto nitrogenado heterocíclico.\nIV. Tem fórmula molecular C8H17N.",
+      "question": "Está correto o que se afirma somente em",
+      "images": [
+        "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/2e6d6d9e-432e-4437-886c-fd47aabc62c0-arquivo-editor"
+      ],
+      "alternatives": {
+        "A": "III e IV.",
+        "B": "I e II.",
+        "C": "I, II e III.",
+        "D": "IV.",
+        "E": ""
+      },
+      "answer": "A"
+    },
+    {
+      "questionId": "Ifpe_Q0853",
+      "questionText": "Há algumas décadas, fumar era moda. Nessa época, o cigarro não era considerado um vilão, até profissionais de saúde, como médicos, eram garotos-propaganda de marcas de cigarro e incentivavam o vício de fumar. Com o passar dos anos, pesquisas mostraram que o cigarro é sim extremamente prejudicial à saúde. Estudos mostram que existem mais de 4.000 substâncias químicas no cigarro, das quais, 50 são comprovadamente cancerígenas, dentre elas, podemos citar: arsênio, polônio – 210, DDT, benzeno e benzopireno. Abaixo temos as fórmulas estruturais de duas dessas substâncias que estão na lista das 50 substâncias cancerígenas, o benzeno e o benzopireno.",
+      "question": "Em relação às substâncias benzeno e benzopireno, assinale a única alternativa CORRETA.",
+      "images": [
+        "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/469cce39-90a2-4f2a-aeda-3112bdcadcf4-arquivo-editor"
+      ],
+      "alternatives": {
+        "A": "Tanto o benzeno quanto o benzopireno são hidrocarbonetos aromáticos.",
+        "B": "O benzopireno apresenta hibridação sp3 em todos os seus carbonos.",
+        "C": "O benzeno, por ser polar, é uma molécula insolúvel na água já que a mesma é apolar.",
+        "D": "Ambos são hidrocarbonetos que apresentam apenas carbonos secundários.",
+        "E": "O benzopireno apresenta fórmula molecular C20H16."
+      },
+      "answer": "A"
+    },
+        {
+      "questionId": "Enem_Q1290",
+      "questionText": "Um microempresário do ramo de cosméticos utiliza óleos essenciais e quer produzir um creme com fragrância de rosas. O principal componente do óleo de rosas tem cadeia poli-insaturada e hidroxila em carbono terminal. O catálogo dos óleos essenciais apresenta, para escolha da essência, estas estruturas químicas:",
+      "question": "Qual substância o empresário deverá utilizar?",
+      "images": [
+        "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/ed37d341-e824-4fc8-aac2-ecf64b5224cd-arquivo-editor"
+      ],
+      "alternatives": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4",
+        "E": "5"
+      },
+      "answer": "A"
+    },
+    {
+      "questionId": "Unigranrio_Q0836",
+      "questionText": "O eugenol ou óleo de cravo, é um forte antisséptico. Seus efeitos medicinais auxiliam no tratamento de náuseas, indigestão e diarreia. Contém propriedades bactericidas, antivirais, e é também usado como anestésico e antisséptico para o alívio de dores de dente. A fórmula estrutural deste composto orgânico pode ser vista abaixo:",
+      "question": "O número de átomos de carbono secundário neste composto é:",
+      "images": [
+        "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/428f61b0-0498-490c-8737-315dc5b8b1bd-arquivo-editor"
+      ],
+      "alternatives": {
+        "A": "2",
+        "B": "3",
+        "C": "7",
+        "D": "8",
+        "E": "10"
+      },
+      "answer": "C"
+    },
+    {
+      "questionId": "Ifsul_Q0847",
+      "questionText": "A molécula abaixo representa o β–caroteno, uma substância encontrada na cenoura, que é precursora da vitamina A.",
+      "question": "A respeito dessa substância, é correto afirmar que ela",
+      "images": [
+        "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/831ae95b-d80d-47cd-8b92-e9fce6b87ca8-arquivo-editor"
+      ],
+      "alternatives": {
+        "A": "apresenta massa molar igual a 510 g/mol.",
+        "B": "possui fórmula molecular C40H30.",
+        "C": "contém 22 carbonos sp2.",
+        "D": "é um hidrocarboneto de cadeia saturada.",
+        "E": ""
+      },
+      "answer": "C"
+    },
+    {
+      "questionId": "Ifsul_Q0855",
+      "questionText": "Observe o remédio a seguir e sua composição para responder à(s) questão(ões).\n\nGoogle Imagens. Disponível em:<http://www.aspirina-ca.com/scripts/pages/es/home/index.php> Acesso em: 15 abr. 2015 (Com adaptações).",
+      "question": "O composto orgânico reproduzido no início da página apresenta várias características, dentre as quais, caracteriza-se como correta a",
+      "images": [
+        "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/31fc1221-672f-4cc8-ad35-8ed7336feb4d-arquivo-editor"
+      ],
+      "alternatives": {
+        "A": "presença de anel aromático com quatro ligações duplas alternadas.",
+        "B": "existência de três átomos de carbono com hibridização sp.",
+        "C": "massa molar aproximadamente igual a 200 g/mol.",
+        "D": "presença de cinco ligações covalentes em eixos paralelos (ligação pi).",
+        "E": ""
+      },
+      "answer": "D"
+    },
+        {
+      "questionId": "Ifsul_Q0851",
+      "questionText": "A qualidade da gasolina é definida de acordo com o índice de octanagem do combustível. A gasolina é uma mistura de hidrocarbonetos que variam sua cadeia carbônica de quatro a doze átomos de carbono (gasolina automotiva) e de cinco a dez átomos de carbono (gasolina de aviação), a média de átomos de carbono geral das cadeias é de oito carbonos. As gasolinas que possuem alto índice de isoctano são considerados combustíveis de alta qualidade e poder de combustão. A equação não-balanceada abaixo representa a reação de combustão do isoctano:\n\nCH3C(CH3)2CH2CH(CH3)2 + O2 → H2O + CO2\n\nΔH = –11,5 kcal/mol",
+      "question": "O isoctano é um hidrocarboneto que apresenta cadeia carbônica",
+      "images": [],
+      "alternatives": {
+        "A": "normal e insaturada.",
+        "B": "ramificada e saturada.",
+        "C": "ramificada e insaturada.",
+        "D": "normal e saturada.",
+        "E": ""
+      },
+      "answer": "B"
+    },
+    {
+      "questionId": "Uemg_Q0858",
+      "questionText": "Óleos essenciais são compostos aromáticos voláteis extraídos de plantas aromáticas por processos de destilação, compressão de frutos ou extração com o uso de solventes. Geralmente, são altamente complexos, compostos às vezes de mais de uma centena de componentes químicos.\n\nSão encontrados em pequenas bolsas (glândulas secretoras) existentes na superfície de folhas, flores ou no interior de talos, cascas e raízes.\n\nAs fórmulas estruturais de alguns componentes de óleos essenciais, responsáveis pelo aroma de certas ervas e flores, são:",
+      "question": "Em relação a esses compostos, é CORRETO afirmar que",
+      "images": [
+        "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/d76a48fe-0a42-462f-9145-eec6fe6a2e41-arquivo-editor"
+      ],
+      "alternatives": {
+        "A": "o linalol e o citronelal possuem mesma fórmula molecular.",
+        "B": "o linalol é um álcool de cadeia carbônica não ramificada.",
+        "C": "os óleos essenciais são compostos que possuem altas temperaturas de ebulição.",
+        "D": "o citronelal é um ácido carboxílico de cadeia carbônica saturada.",
+        "E": ""
+      },
+      "answer": "A"
+    },
+    {
+      "questionId": "Pucrj_Q0844",
+      "questionText": "A seguir está representada a estrutura do metacrilato de metila.",
+      "question": "Essa substância possui fórmula molecular",
+      "images": [
+        "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/bb94d8c2-c10e-4597-b444-2462ae63261a-arquivo-editor"
+      ],
+      "alternatives": {
+        "A": "C4H6O2 e 2 ligações pi π.",
+        "B": "C4H6O2 e 4 ligações pi π.",
+        "C": "C5H8O2 e 4 ligações pi π.",
+        "D": "C5H8O2 e 10 ligações sigma σ.",
+        "E": "C5H8O2 e 14 ligações sigma σ."
+      },
+      "answer": "E"
+    },
+    {
+      "questionId": "Udesc_Q0848",
+      "questionText": "Analise o composto representado na figura a seguir.",
+      "question": "Assinale a alternativa correta em relação ao composto.",
+      "images": [
+        "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/f394b028-9b26-4465-ba2b-1a33c8bcc2eb-arquivo-editor"
+      ],
+      "alternatives": {
+        "A": "Este composto representa um alcano de cadeia linear.",
+        "B": "Este composto possui apenas três carbonos terciários.",
+        "C": "Este composto possui quatro insaturações.",
+        "D": "Neste composto encontra-se apenas um carbono assimétrico.",
+        "E": "Este composto é representando pela forma molecular C16H32."
+      },
+      "answer": "B"
+    },
+        {
+      "questionId": "Ufpa_Q0840",
+      "questionText": "Um anel aromático tem estrutura plana porque seus carbonos têm hibridação",
+      "question": "Um anel aromático tem estrutura plana porque seus carbonos têm hibridação",
+      "images": [],
+      "alternatives": {
+        "A": "somente sp.",
+        "B": "somente sp2.",
+        "C": "somente sp3.",
+        "D": "sp e sp2 alternadas.",
+        "E": "sp2 e sp3 alternadas."
+      },
+      "answer": "B"
+    },
+    {
+      "questionId": "Pucrj_Q0859",
+      "questionText": "Recentemente, os produtores de laranja do Brasil foram surpreendidos com a notícia de que a exportação de suco de laranja para os Estados Unidos poderia ser suspensa por causa da contaminação pelo agrotóxico carbendazim, representado a seguir.\n\nDe acordo com a estrutura, afirma-se que o carbendazim possui:",
+      "question": "De acordo com a estrutura, afirma-se que o carbendazim possui:",
+      "images": [
+        "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/88c84227-3d87-4d70-92fb-d7dbc59a3a4a-arquivo-editor"
+      ],
+      "alternatives": {
+        "A": "fórmula molecular C9H11N3O2 e um carbono terciário.",
+        "B": "fórmula molecular C9H9N3O2 e sete carbonos secundários.",
+        "C": "fórmula molecular C9H13N3O2 e três carbonos primários.",
+        "D": "cinco ligações pi π e vinte e quatro ligações sigma σ.",
+        "E": "duas ligações pi π e dezenove ligações sigma σ."
+      },
+      "answer": "D"
+    },
+    {
+      "questionId": "Enem_Q1449",
+      "questionText": "A utilização de corantes na indústria de alimentos é bastante difundida e a escolha por corantes naturais vem sendo mais explorada por diversas razões. A seguir são mostradas três estruturas de corantes naturais.",
+      "question": "A propriedade comum às estruturas que confere cor a esses compostos é a presença de",
+      "images": [
+        "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/43176e49-f6c2-4d29-832b-8fc0743cf0f1-arquivo-editor"
+      ],
+      "alternatives": {
+        "A": "cadeia conjugada.",
+        "B": "cadeia ramificada.",
+        "C": "átomos de carbonos terciários.",
+        "D": "ligações duplas de configuração cis.",
+        "E": "átomos de carbonos de hibridação sp3."
+      },
+      "answer": "A"
+    },
+    {
+      "questionId": "Enem_PPL_Q1767",
+      "questionText": "Lavar a seco significa lavar por meio de fluido ou solvente não aquoso, isto é, trata-se de um processo que limpa sem utilizar a água. Dessa forma, apesar de o nome ser lavagem a seco, o processo deixa o que está sendo lavado molhado pelo solvente utilizado, o qual poderá ser facilmente evaporado ao final do processo. Entre 1850 e 1940, foram empregados na lavagem a seco alguns hidrocarbonetos e organoclorados líquidos, como os que estão representados a seguir, entre os quais apenas um se mostrou seguro por não ser inflamável, em função da sua menor quantidade de ligações C–H.",
+      "question": "Pela análise das estruturas químicas, o solvente que se mostrou seguro é o",
+      "images": [
+        "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/556df675-a8a6-40d3-9630-49ad27fcb1d2-arquivo-editor"
+      ],
+      "alternatives": {
+        "A": "hexano.",
+        "B": "canfeno.",
+        "C": "benzeno.",
+        "D": "iso-octano.",
+        "E": "tricloroetileno."
+      },
+      "answer": "E"
+    }
+    ]}

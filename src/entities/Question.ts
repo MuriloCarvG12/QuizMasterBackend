@@ -1,7 +1,8 @@
-import { Entity, PrimaryGeneratedColumn, Column, JoinColumn, ManyToOne } from "typeorm"
-import { Subject } from "./Subject"
-import { Topic } from "./Topic"
-import { Subtopic } from "./SubTopic"
+import { Entity, PrimaryGeneratedColumn, Column, JoinColumn, ManyToOne, OneToMany } from "typeorm"
+import { Subject } from "./Subject.js"
+import { Topic } from "./Topic.js"
+import { Subtopic } from "./SubTopic.js"
+import { Image } from "./Images.ts"
 
 @Entity("questions")
 export class Question {
@@ -9,7 +10,7 @@ export class Question {
     Id: number
 
     @Column()
-    ImageUrl: string
+    QuestionId: string
 
     @Column()
     QuestionText: string
@@ -35,9 +36,6 @@ export class Question {
     @Column()
     CorrectAlternative: string
 
-    @Column()
-    QuestionDifficulty: string
-
     @ManyToOne(() => Subject, { eager: false }) 
         @JoinColumn({ name: "SubjectId" }) 
         subject: Subject
@@ -52,10 +50,13 @@ export class Question {
     @Column()
     TopicId: number 
 
-    @ManyToOne(() => Topic, { eager: false }) 
-        @JoinColumn({ name: "TopicId" }) 
+    @ManyToOne(() => Subtopic) 
+        @JoinColumn({ name: "SubTopicId" })
         SubTopic: Subtopic
     
     @Column()
     SubTopicId: number 
+
+    @OneToMany("Image", "question")
+    images: Image[];
 }

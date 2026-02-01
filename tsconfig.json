@@ -1,17 +1,20 @@
 {
   "compilerOptions": {
-    "allowJs": true,
-     "module": "NodeNext",
-     "moduleResolution": "NodeNext",
+    "allowJs": false,
+    "module": "NodeNext",
+    "moduleResolution": "NodeNext",
+    "noEmit": true,
+    "target": "ES2022",
+    "esModuleInterop": true,
+    "allowImportingTsExtensions": true,
      "outDir": "build",
      "strict": true,
      "noImplicitAny": true,
      "strictPropertyInitialization": false,
-     "esModuleInterop": true,
      "resolveJsonModule": true,
      "experimentalDecorators": true, 
      "emitDecoratorMetadata": true, 
      "skipLibCheck": true, 
-     "forceConsistentCasingInFileNames": true                             /* Skip type checking all .d.ts files. */
+     "forceConsistentCasingInFileNames": true                             
   }
 }

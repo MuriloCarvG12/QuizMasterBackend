@@ -1,0 +1,291 @@
+{
+    "examTitle": "Forca centripeta",
+    "questions": [
+        {
+            "questionId": "Uerj_F0721",
+            "questionText": "Um carro de automobilismo se desloca com velocidade de módulo constante por uma pista de corrida plana. A figura abaixo representa a pista vista de cima, destacando quatro trechos: AB, BC, CD e DE.\n\nhttps://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/ferrettopublic/9aff1d4b-1030-4faa-a8e7-323aaef54d88.png",
+            "question": "A força resultante que atua sobre o carro é maior que zero nos seguintes trechos:",
+            "images": [
+              "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/ferrettopublic/9aff1d4b-1030-4faa-a8e7-323aaef54d88.png"
+            ],
+            "alternatives": {
+              "A": "AB e BC",
+              "B": "BC e DE",
+              "C": "DE e CD",
+              "D": "CD e AB"
+            },
+            "answer": "B"
+          },
+          {
+            "questionId": "Ufrrj_F0724",
+            "questionText": "Um motoqueiro deseja realizar uma manobra radical num 'globo da morte' (gaiola esférica) de 4,9 m de raio.\n\nPara que o motoqueiro efetue o 'looping' (uma curva completa no plano vertical) sem cair, o módulo da velocidade mínima no ponto mais alto da curva deve ser de\n\nDado: Considere g ~ 10 m/s².",
+            "question": "Qual deve ser o módulo da velocidade mínima no ponto mais alto da curva?",
+            "images": [],
+            "alternatives": {
+              "A": "0,49 m/s",
+              "B": "3,5 m/s",
+              "C": "7 m/s",
+              "D": "49 m/s",
+              "E": "70 m/s"
+            },
+            "answer": "C"
+          },
+          {
+            "questionId": "Ufpr_F0723",
+            "questionText": "Um motociclista descreve uma trajetória circular de raio R = 5 m, com uma velocidade de módulo v = 10 m/s medida por um observador inercial.\n\nConsiderando que a massa combinada do motociclista e da motocicleta vale 250 kg, assinale a alternativa que expressa corretamente o módulo da força centrípeta necessária para a realização da trajetória circular.",
+            "question": "Qual é o módulo da força centrípeta necessária?",
+            "images": [],
+            "alternatives": {
+              "A": "F = 1 kN.",
+              "B": "F = 5 kN.",
+              "C": "F = 10 kN.",
+              "D": "F = 50 kN.",
+              "E": "F = 100 kN."
+            },
+            "answer": "B"
+          },
+          {
+            "questionId": "Mackenzie_F1690",
+            "questionText": "Uma esfera de massa 2,00 kg que está presa na extremidade de uma corda de 1,00 m de comprimento, de massa desprezível, descreve um movimento circular uniforme sobre uma mesa horizontal, sem atrito. A força de tração na corda é de 18,0 N, constante. A velocidade de escape ao romper a corda é:",
+            "question": "Qual é a velocidade de escape ao romper a corda?",
+            "images": [
+              "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/c721d227-a06a-49f9-9b97-33ffc0e4ca25-arquivo-editor"
+            ],
+            "alternatives": {
+              "A": "0,30 m/s.",
+              "B": "1,00 m/s.",
+              "C": "3,00 m/s.",
+              "D": "6,00 m/s.",
+              "E": "9,00 m/s."
+            },
+            "answer": "C"
+          },
+          {
+            "questionId": "Famerp_F1696",
+            "questionText": "Em uma exibição de acrobacias aéreas, um avião pilotado por uma pessoa de 80 kg faz manobras e deixa no ar um rastro de fumaça indicando sua trajetória. Na figura, está representado um looping circular de raio 50 m contido em um plano vertical, descrito por esse avião.\n\nAdotando g = 10 m/s² e considerando que ao passar pelo ponto A, ponto mais alto da trajetória circular, a velocidade do avião é de 180 km/h, a intensidade da força exercida pelo assento sobre o piloto, nesse ponto, é igual a:",
+            "question": "Qual é a intensidade da força exercida pelo assento sobre o piloto no ponto mais alto do looping?",
+            "images": [
+              "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/41246f28-c926-4953-a88c-a495b23dea27-arquivo-editor"
+            ],
+            "alternatives": {
+              "A": "3.000 N.",
+              "B": "2.800 N.",
+              "C": "3.200 N.",
+              "D": "2.600 N.",
+              "E": "2.400 N."
+            },
+            "answer": "C"
+          },
+          {
+            "questionId": "Eear_F0722",
+            "questionText": "Uma criança gira no plano horizontal, uma pedra com massa igual a 40 g presa em uma corda, produzindo um Movimento Circular Uniforme. A pedra descreve uma trajetória circular, de raio igual a 72 cm, sob a ação de uma força resultante centrípeta de módulo igual a 2 N. Se a corda se romper, qual será a velocidade, em m/s, com que a pedra se afastará da criança?\n\nObs.: desprezar a resistência do ar e admitir que a pedra se afastará da criança com uma velocidade constante.",
+            "question": "Qual será a velocidade, em m/s, com que a pedra se afastará da criança se a corda se romper?",
+            "images": [],
+            "alternatives": {
+              "A": "6",
+              "B": "12",
+              "C": "18",
+              "D": "36"
+            },
+            "answer": "A"
+          },
+          {
+            "questionId": "Cps_F1694",
+            "questionText": "A apresentação de motociclistas dentro do globo da morte é sempre um momento empolgante de uma sessão de circo, pois ao atingir o ponto mais alto do globo, eles ficam de ponta cabeça. Para que, nesse momento, o motociclista não caia, é necessário que ele esteja a uma velocidade mínima (v) que se relaciona com o raio do globo (R) e a aceleração da gravidade (g) pela expressão: v = √(R·g), com R dado em metros.\n\nConsidere que no ponto mais alto de um globo da morte, um motociclista não caiu, pois estava com a velocidade mínima de 27 km/h.\n\nAssim sendo, o raio do globo é, aproximadamente, em metros. Adote g ~ 10 m/s².",
+            "question": "Qual é o raio aproximado do globo da morte, em metros?",
+            "images": [
+              "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/7a8bcbe7-7bf7-4e1f-8834-290d9852bcfc-arquivo-editor"
+            ],
+            "alternatives": {
+              "A": "5,6",
+              "B": "6,3",
+              "C": "7,5",
+              "D": "8,2",
+              "E": "9,8"
+            },
+            "answer": "A"
+          },
+          {
+            "questionId": "Epcar_F0121",
+            "questionText": "Uma determinada caixa é transportada em um caminhão que percorre, com velocidade escalar constante, uma estrada plana e horizontal. Em um determinado instante, o caminhão entra em uma curva circular de raio igual a 51,2 m, mantendo a mesma velocidade escalar. Sabendo-se que os coeficientes de atrito cinético e estático entre a caixa e o assoalho horizontal são, respectivamente, 0,4 e 0,5 e considerando que as dimensões do caminhão, em relação ao raio da curva, são desprezíveis e que a caixa esteja apoiada apenas no assoalho da carroceria, pode-se afirmar que a máxima velocidade, em m/s, que o caminhão poderá desenvolver, sem que a caixa escorregue é:",
+            "question": "Qual é a máxima velocidade que o caminhão pode atingir sem que a caixa escorregue?",
+            "images": [],
+            "alternatives": {
+              "A": "14,3",
+              "B": "16,0",
+              "C": "18,0",
+              "D": "21,5"
+            },
+            "answer": "B"
+          },
+          {
+            "questionId": "Ifce_F1697",
+            "questionText": "Considere a figura a seguir, na qual é mostrado um piloto acrobata fazendo sua moto girar por dentro de um 'globo da morte'.\n\nAo realizar o movimento de loop dentro do globo da morte (ou seja, percorrendo a trajetória ABCD mostrada acima), o piloto precisa manter uma velocidade mínima de sua moto para que a mesma não caia ao passar pelo ponto mais alto do globo (ponto 'A').\n\nNestas condições, a velocidade mínima 'v' da moto, de forma que a mesma não caia ao passar pelo ponto 'A', dado que o globo da morte tem raio R de 3,60 m, é\n\n(Considere a aceleração da gravidade com o valor g = 10 m/s².)",
+            "question": "Qual é a velocidade mínima da moto para que ela não caia ao passar pelo ponto mais alto do globo?",
+            "images": [
+              "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/985a431a-30bf-4e2f-85ff-070aa1d31eec-arquivo-editor"
+            ],
+            "alternatives": {
+              "A": "6 km/h",
+              "B": "12 km/h",
+              "C": "21,6 km/h",
+              "D": "15 km/h",
+              "E": "18 km/h"
+            },
+            "answer": "C"
+          },
+          {
+            "questionId": "Pucrj_F0123",
+            "questionText": "Um bloco de massa 0,50 kg está preso a um fio ideal de 40 cm de comprimento cuja extremidade está fixa à mesa, sem atrito, conforme mostrado na figura. Esse bloco se encontra em movimento circular uniforme com velocidade de 2,0 m/s.\n\nSobre o movimento do bloco, é correto afirmar que:",
+            "question": "Qual afirmação está correta sobre o movimento do bloco?",
+            "images": [
+              "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/ferrettopublic/be069da0-203e-4c75-9562-4b96f6fe7518.png"
+            ],
+            "alternatives": {
+              "A": "como não há atrito, a força normal da mesa sobre o bloco é nula.",
+              "B": "o bloco está sofrendo uma força resultante de módulo igual a 5,0 N.",
+              "C": "a aceleração tangencial do bloco é 10 m/s².",
+              "D": "a aceleração total do bloco é nula pois sua velocidade é constante.",
+              "E": "ao cortar o fio, o bloco cessa imediatamente o seu movimento."
+            },
+            "answer": "B"
+          },
+          {
+            "questionId": "Unesp_F0727",
+            "questionText": "Curvas com ligeiras inclinações em circuitos automobilísticos são indicadas para aumentar a segurança do carro a altas velocidades, como, por exemplo, no Talladega Superspeedway, um circuito utilizado para corridas promovidas pela NASCAR. Considere um carro como sendo um ponto material percorrendo uma pista circular, de centro C, inclinada de um ângulo α e com raio R, constantes, como mostra a figura.\n\nSe a velocidade do carro tem módulo constante, é correto afirmar que o carro:",
+            "question": "Qual é a característica correta da aceleração do carro?",
+            "images": [
+              "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/ferrettopublic/cdf0995a-babf-4cba-acf0-787b900f08cd.png"
+            ],
+            "alternatives": {
+              "A": "não possui aceleração vetorial.",
+              "B": "possui aceleração com módulo variável, direção radial e no sentido para o ponto C.",
+              "C": "possui aceleração com módulo variável e tangente à trajetória circular.",
+              "D": "possui aceleração com módulo constante, direção radial e no sentido para o ponto C.",
+              "E": "possui aceleração com módulo constante e tangente à trajetória circular."
+            },
+            "answer": "D"
+          },
+          {
+            "questionId": "Uece_F1691",
+            "questionText": "Uma criança deixa sua sandália sobre o disco girante que serve de piso em um carrossel. Considere que a sandália não desliza em relação ao piso do carrossel, que gira com velocidade angular constante ω.\n\nA força de atrito estático sobre a sandália é proporcional a:",
+            "question": "A que potência de ω a força de atrito estático é proporcional?",
+            "images": [],
+            "alternatives": {
+              "A": "ω",
+              "B": "ω²",
+              "C": "ω^(1/2)",
+              "D": "ω^(3/2)"
+            },
+            "answer": "B"
+          },
+          {
+            "questionId": "Pucsp_F0130",
+            "questionText": "Um automóvel de massa 800 kg, dirigido por um motorista de massa igual a 60 kg, passa pela parte mais baixa de uma depressão de raio = 20 m com velocidade escalar de 72 km/h. Nesse momento, a intensidade da força de reação que a pista aplica no veículo é: (Adote g = 10m/s²).",
+            "question": "Qual é a intensidade da força de reação que a pista aplica no veículo?",
+            "images": [
+              "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/ferrettopublic/0e43bc78-1c00-46ec-a282-6869305ac67a.png"
+            ],
+            "alternatives": {
+              "A": "231512 N",
+              "B": "215360 N",
+              "C": "1800 N",
+              "D": "25800 N",
+              "E": "24000 N"
+            },
+            "answer": "D"
+          },
+          {
+            "questionId": "Enem_F1695",
+            "questionText": "No dia 27 de junho de 2011, o asteroide 2011 MD, com cerca de 10 m de diâmetro, passou a 12 mil quilômetros do planeta Terra, uma distância menor do que a órbita de um satélite. A trajetória do asteroide é apresentada.\n\nA explicação física para a trajetória descrita é o fato de o asteroide:",
+            "question": "Qual é a explicação física para a trajetória descrita do asteroide?",
+            "images": [
+              "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/ffc4892e-3e64-4954-a2cc-aff3260736de-arquivo-editor"
+            ],
+            "alternatives": {
+              "A": "deslocar-se em um local onde a resistência do ar é nula.",
+              "B": "deslocar-se em um ambiente onde não há interação gravitacional.",
+              "C": "sofrer a ação de uma força resultante no mesmo sentido de sua velocidade.",
+              "D": "sofrer a ação de uma força gravitacional resultante no sentido contrário ao de sua velocidade.",
+              "E": "estar sob a ação de uma força resultante cuja direção é diferente da direção de sua velocidade."
+            },
+            "answer": "E"
+          },
+          {
+            "questionId": "Unesp_F0729",
+            "questionText": "A figura representa, de forma simplificada, o autódromo de Tarumã, localizado na cidade de Viamão, na Grande Porto Alegre. Em um evento comemorativo, três veículos de diferentes categorias do automobilismo, um kart (K), um fórmula 1 (F) e um stock-car (S), passam por diferentes curvas do circuito, com velocidades escalares iguais e constantes.\n\nAs tabelas 1 e 2 indicam, respectivamente e de forma comparativa, as massas de cada veículo e os raios de curvatura das curvas representadas na figura, nas posições onde se encontram os veículos.\n\nSendo FK, FF e FS os módulos das forças resultantes centrípetas que atuam em cada um dos veículos nas posições em que eles se encontram na figura, é correto afirmar que:",
+            "question": "Qual a relação correta entre as forças centrípetas nos veículos?",
+            "images": [
+              "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/ferrettopublic/901bbdbb-a841-47ee-9597-60723d64a2a3.png",
+              "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/ferrettopublic/271c8dfe-52eb-4f31-a383-bdfe27116668.png"
+            ],
+            "alternatives": {
+              "A": "FS < FK < FF.",
+              "B": "FK < FS < FF.",
+              "C": "FK < FF < FS.",
+              "D": "FF < FS < FK.",
+              "E": "FS < FF < FK."
+            },
+            "answer": "B"
+          },
+          {
+            "questionId": "Fuvest_F0730",
+            "questionText": "O pêndulo de um relógio é constituído por uma haste rígida com um disco de metal preso em uma de suas extremidades. O disco oscila entre as posições A e C, enquanto a outra extremidade da haste permanece imóvel no ponto P. A figura abaixo ilustra o sistema. A força resultante que atua no disco quando ele passa por B, com a haste na direção vertical, é:",
+            "question": "Qual é a força resultante que atua no disco quando ele passa por B?",
+            "images": [
+              "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/ferrettopublic/ferrettopublic/figura_2.png"
+            ],
+            "alternatives": {
+              "A": "nula.",
+              "B": "vertical, com sentido para cima.",
+              "C": "vertical, com sentido para baixo.",
+              "D": "horizontal, com sentido para a direita.",
+              "E": "horizontal, com sentido para a esquerda."
+            },
+            "answer": "B"
+          },
+          {
+            "questionId": "Uemg_F1693",
+            "questionText": "A figura representa o instante em que um carro de massa M passa por uma lombada existente em uma estrada. Considerando o raio da lombada igual a R, o módulo da velocidade do carro igual a V, e a aceleração da gravidade local g, a força exercida pela pista sobre o carro, nesse ponto, pode ser calculada por:",
+            "question": "Qual é a fórmula para a força exercida pela pista sobre o carro?",
+            "images": [
+              "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/d1f75302-4110-407f-be62-6299675b5627-arquivo-editor"
+            ],
+            "alternatives": {
+              "A": "(MV²/R) + Mg",
+              "B": "Mg – (MV²/R)",
+              "C": "Mg – (MR²/V)",
+              "D": "(MR²/V) + Mg"
+            },
+            "answer": "B"
+          },
+          {
+            "questionId": "Ibmecrj_F0128",
+            "questionText": "Um avião de acrobacias descreve a seguinte trajetória descrita na figura abaixo:\n\nAo passar pelo ponto mais baixo da trajetória a força exercida pelo banco da aeronave sobre o piloto que a comanda é:",
+            "question": "Qual é a força exercida pelo banco da aeronave sobre o piloto ao passar pelo ponto mais baixo da trajetória?",
+            "images": [
+              "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/ferrettopublic/731d5e85-c70d-4813-bf52-a52125822373.png"
+            ],
+            "alternatives": {
+              "A": "igual ao peso do piloto.",
+              "B": "maior que o peso do piloto.",
+              "C": "menor que o peso do piloto.",
+              "D": "nula.",
+              "E": "duas vezes maior do que o peso do piloto."
+            },
+            "answer": "B"
+          },
+          {
+            "questionId": "Ifmg_F1692",
+            "questionText": "Um livro de física de massa m está pendurado por um fio de comprimento L. Em seguida, segurando o fio com uma das mãos e movimentando-a, ele é colocado em movimento circular uniforme vertical, de forma que o livro descreve círculos sucessivos.\n\nA tensão no fio no ponto mais baixo da trajetória:",
+            "question": "Qual é a tensão no fio no ponto mais baixo da trajetória do livro?",
+            "alternatives": {
+              "A": "é igual ao peso do livro.",
+              "B": "é igual à força centrípeta.",
+              "C": "é menor que o peso do livro.",
+              "D": "é maior que a força centrípeta."
+            },
+            "answer": "D"
+          }
+        ]
+}

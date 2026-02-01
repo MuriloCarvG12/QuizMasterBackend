@@ -1,0 +1,955 @@
+{
+    "examTitle": "Botanica",
+    "questions": [
+{
+  "questionId": "Unifor_B3538",
+  "questionText": "Recentemente, a mídia vem noticiando o enorme aumento do buraco de ozônio sobre o continente Antártico e áreas adjacentes. As populações humanas do sul do Chile e da Argentina estão sendo aconselhadas a não se manterem no sol durante as horas mais quentes do dia para que não estejam sujeitas a sofrer",
+  "question": "",
+  "images": [],
+  "alternatives": {
+    "A": "queimaduras e câncer de pele provocados pelo excesso de radiação ultravioleta.",
+    "B": "problemas respiratórios decorrentes do excesso de ozônio no ar.",
+    "C": "danos cerebrais ocasionados pela falta de ozônio no ar.",
+    "D": "micoses na pele, propiciados pelo aumento do número de fungos na atmosfera.",
+    "E": "problemas digestivos causados pela não-dissipação do monóxido de carbono produzido por automóveis."
+  },
+  "answer": "A"
+},
+{
+  "questionId": "Ufpi_B3504",
+  "questionText": "Observe a reprodução do diálogo entre o Rei Mufasa e seu pequeno filho Simba, personagens centrais do filme “O Rei Leão” de Walt Disney.\n\nMufasa – Tudo o que você vê, faz parte de um delicado equilíbrio. Como rei, você tem que entender esse equilíbrio e respeitar todos os animais, desde as formiguinhas até o maior dos antílopes.\n\nSimba – Mas nós não comemos antílopes?\n\nMufasa – Sim, Simba. Mas deixe-me explicar. Quando você morre, seu corpo se torna grama e o antílope a come. E, assim, estamos todos ligados no grande círculo da vida.\n\nSobre as lições ecológicas que podemos tirar do diálogo, é correto afirmar que",
+  "question": "",
+  "images": [],
+  "alternatives": {
+    "A": "o grande círculo da vida corresponde ao ciclo da matéria nos ecossistemas.",
+    "B": "na natureza a predação é permitida somente ao mais forte.",
+    "C": "o antílope é um consumidor secundário.",
+    "D": "o leão é um consumidor primário.",
+    "E": "leão e antílope estão no mesmo nível da cadeia alimentar."
+  },
+  "answer": "A"
+},
+{
+  "questionId": "Enem_B3517",
+  "questionText": "De acordo com o relatório “A Grande Sombra da Pecuária” (Livestock’s Long Shadow), feito pela Organização das Nações Unidas para a Agricultura e a Alimentação, o gado é responsável por cerca de 18% do aquecimento global, uma contribuição maior que a do setor de transportes.\n\nDisponível em: www.conpet.gov.br. Acesso em: 22 jun. 2010.",
+  "question": "A criação de gado em larga escala contribui para o aquecimento global por meio da emissão de",
+  "images": [
+    "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/3afd7e5b-4cc1-43b0-a7ee-145c30fb253c-arquivo-editor"
+  ],
+  "alternatives": {
+    "A": "metano durante o processo de digestão.",
+    "B": "óxido nitroso durante o processo de ruminação.",
+    "C": "clorofluorcarbono durante o transporte de carne.",
+    "D": "óxido nitroso durante o processo respiratório.",
+    "E": "dióxido de enxofre durante o consumo de pastagens."
+  },
+  "answer": "A"
+},
+{
+  "questionId": "Enem_B3516",
+  "questionText": "Algumas estimativas apontam que, nos últimos cem anos, a concentração de gás carbônico na atmosfera aumentou em cerca de 40%, devido principalmente à utilização de combustíveis fósseis pela espécie humana. Alguns estudos demonstram que essa utilização em larga escala promove o aumento do efeito estufa. Outros fatores de origem antrópica que aumentam o efeito estufa são",
+  "question": "",
+  "images": [],
+  "alternatives": {
+    "A": "chuva ácida e destruição da camada de ozônio.",
+    "B": "alagamento e inversão térmica.",
+    "C": "erosão e extinção das espécies.",
+    "D": "poluição das águas e do solo.",
+    "E": "queimada e desmatamento."
+  },
+  "answer": "E"
+},
+{
+  "questionId": "Enem_B3523",
+  "questionText": "Suponha que você seja um consultor e foi contratado para assessorar a implantação de uma matriz energética em um pequeno país com as seguintes características: região plana, chuvosa e com ventos constantes, dispondo de poucos recursos hídricos e sem reservatórios de combustíveis fósseis. De acordo com as características desse país, a matriz energética de menor impacto e risco ambientais é a baseada na energia",
+  "question": "",
+  "images": [],
+  "alternatives": {
+    "A": "Dos biocombustíveis, pois tem menor impacto ambiental e maior disponibilidade.",
+    "B": "Solar, pelo seu baixo custo e pelas características do país favoráveis à sua implantação.",
+    "C": "Nuclear, por ter menor risco ambiental e ser adequada a locais com menor extensão territorial.",
+    "D": "Hidráulica, devido ao relevo, à extensão territorial do país e aos recursos naturais disponíveis.",
+    "E": "Eólica, pelas características do país e por não gerar gases do efeito estufa nem resíduos de operação."
+  },
+  "answer": "E"
+},
+{
+  "questionId": "Enem_B3530",
+  "questionText": "A Lei Federal n.º 11.097/2005 dispõe sobre a introdução do biodiesel na matriz energética brasileira e fixa em 5%, em volume, o percentual mínimo obrigatório a ser adicionado ao óleo diesel vendido ao consumidor. De acordo com essa lei, biocombustível é “derivado de biomassa renovável para uso em motores a combustão interna com ignição por compressão ou, conforme regulamento, para geração de outro tipo de energia, que possa substituir parcial ou totalmente combustíveis de origem fóssea”. A introdução de biocombustíveis na matriz energética brasileira",
+  "question": "",
+  "images": [],
+  "alternatives": {
+    "A": "colabora na redução dos efeitos da degradação ambiental global produzida pelo uso de combustíveis fósseis, como os derivados do petróleo.",
+    "B": "provoca uma redução de 5% na quantidade de carbono emitido pelos veículos automotores e colabora no controle do desmatamento.",
+    "C": "incentiva o setor econômico brasileiro a se adaptar ao uso de uma fonte de energia derivada de uma biomassa inesgotável.",
+    "D": "aponta para pequena possibilidade de expansão do uso de biocombustíveis, fixado, por lei, em 5% do consumo de derivados do petróleo.",
+    "E": "diversifica o uso de fontes alternativas de energia que reduzem os impactos da produção do etanol por meio da monocultura da cana-de-açúcar."
+  },
+  "answer": "A"
+},
+{
+  "questionId": "Enem_B3531",
+  "questionText": "Os biocombustíveis de primeira geração são derivados da soja, milho e cana-de-açúcar e sua produção ocorre através da fermentação. Biocombustíveis derivados de material celulósico ou biocombustíveis de segunda geração — coloquialmente chamados de “gasolina de capim” – são aqueles produzidos a partir de resíduos de madeira (serragem, por exemplo), talos de milho, palha de trigo ou capim de crescimento rápido e se apresentam como uma alternativa para os problemas enfrentados pelos de primeira geração, já que as matérias-primas são baratas e abundantes.\n\nDALE, B. E.; HUBER, G. W. Gasolina de capim e outros vegetais. Scientific American Brasil. Ago. 2009, nº 87 (adaptado).\n\nO texto mostra um dos pontos de vista a respeito do uso dos biocombustíveis na atualidade, os quais",
+  "question": "",
+  "images": [],
+  "alternatives": {
+    "A": "são matrizes energéticas com menor carga de poluição para o ambiente e podem propiciar a geração de novos empregos, entretanto, para serem oferecidos com baixo custo, a tecnologia da degradação da celulose nos biocombustíveis de segunda geração devem ser extremamente eficientes.",
+    "B": "oferecem múltiplas dificuldades, pois a produção é de alto custo, sua implantação não gera empregos, e deve-se ter cuidado com o risco ambiental, pois eles oferecerem os mesmos riscos que o uso de combustíveis fósseis.",
+    "C": "sendo de segunda geração, são produzidos por uma tecnologia que acarreta problemas sociais, sobretudo decorrente do fato de a matéria-prima ser abundante e facilmente encontrada, o que impede a geração de novos empregos.",
+    "D": "sendo de primeira e segunda geração, são produzidos por tecnologias que devem passar por uma avaliação criteriosa quanto ao uso, pois uma enfrenta o problema da falta de espaço para plantio da matéria-prima e a outra impede a geração de novas fontes de emprego.",
+    "E": "podem acarretar sérios problemas econômicos e sociais, pois a substituição do uso de petróleo afeta negativamente toda uma cadeia produtiva na medida em que exclui diversas fontes de emprego nas refinarias, postos de gasolina e no transporte de petróleo e gasolina."
+  },
+  "answer": "A"
+},
+{
+  "questionId": "Enem_B3505",
+  "questionText": "Ao percorrer o trajeto de uma cadeia alimentar, o carbono, elemento essencial e majoritário da matéria orgânica que compõe os indivíduos, ora se encontra em sua forma inorgânica, ora se encontra em sua forma orgânica. Em uma cadeia alimentar composta por fitoplâncton, zooplâncton, moluscos, crustáceos e peixes ocorre a transição desse elemento da forma inorgânica para a orgânica.",
+  "question": "Em qual grupo de organismos ocorre essa transição?",
+  "images": [],
+  "alternatives": {
+    "A": "Fitoplâncton.",
+    "B": "Zooplâncton.",
+    "C": "Moluscos.",
+    "D": "Crustáceos.",
+    "E": "Peixes."
+  },
+  "answer": "A"
+},
+{
+  "questionId": "Unifor_B3522",
+  "questionText": "A Grande Barreira de Coral da Austrália passa pelo mais grave processo de branqueamento já registrado, anunciaram cientistas, com 93% dos recifes, que integram a lista de patrimônio mundial da humanidade da Unesco, afetados. Após uma série de inspeções aéreas e submarinas, cientistas da Universidade James Cook de Townsville, no estado de Queensland (nordeste), constataram que apenas 7% da Grande Barreira conseguiu escapar do processo de branqueamento, que pode ser fatal para o coral.\n\nFonte: http://g1.globo.com/natureza/noticia/2016/04/grande-barreira-de-coral-australiana-perdeu-93-da-cor.html. Acesso em 20 abr. 2015 (adaptado).\n\nApós a leitura da notícia acima, julgue as afirmativas que se seguem.\n\nI. Os ecossistemas recifais são muito sensíveis a variações da temperatura das águas oceânicas, e o aumento da temperatura das águas superficiais, bem como sua acidez, podem provocar a ocorrência do branqueamento.\n\nII. O branqueamento é um processo relacionado à perda, pelos corais, das algas fotossintetizantes - as zooxantelas, que estão presentes no tecido dos corais e que participam de uma cooperação vital que beneficia ambos os organismos, e/ou a perda dos pigmentos por estas algas.\n\nIII. As zooxantelas, além de darem a cor ao coral, produzem componentes orgânicos que lhes servem de alimento e, em contrapartida, o coral provê abrigo para as algas e lhes fornece elementos químicos necessários à sua sobrevivência.\n\nIV. Evitar a destruição de manguezais, assim como controlar o desenvolvimento urbano das regiões costeiras e a poluição são fatores que não interferem no processo de branqueamento de corais.",
+  "question": "É correto apenas o que se afirma em",
+  "images": [],
+  "alternatives": {
+    "A": "I e II.",
+    "B": "II e III.",
+    "C": "I, III e IV.",
+    "D": "I, II e III.",
+    "E": "II, III e IV."
+  },
+  "answer": "D"
+},
+{
+  "questionId": "Uece_B3527",
+  "questionText": "Leia o texto a seguir:\n\nREFLORESTAMENTO É MELHOR QUE BIOCOMBUSTÍVEL PARA AMBIENTE, DIZ ESTUDO DA BBC BRASIL\n\nA preservação de áreas verdes e o reflorestamento são maneiras mais eficientes de combater o aquecimento global do que o uso de biocombustíveis, segundo um estudo britânico publicado na revista Science. O estudo é o primeiro a calcular as emissões de carbono durante todo o ciclo dos biocombustíveis – das plantações à extração e à transformação em combustível – e a comparar os resultados ao armazenamento de carbono em ecossistemas.\n\nFonte: http://www1.folha.uol.com.br/folha/bbc/ult272u321455.shtml",
+  "question": "Pode-se afirmar corretamente que o reflorestamento contribui para a diminuição do efeito estufa, pois",
+  "images": [],
+  "alternatives": {
+    "A": "promove o aumento da fixação do carbono durante a fotossíntese.",
+    "B": "devido ao aumento da respiração vegetal, provoca o aumento da concentração de oxigênio.",
+    "C": "garante a utilização do gás metano atmosférico, devido ao maior número de plantas disponíveis.",
+    "D": "determina uma maior fixação do nitrogênio disponível na atmosfera, devido à intensificação da atividade bacteriana nas raízes das plantas replantadas."
+  },
+  "answer": "A"
+},
+{
+  "questionId": "Fuvest_B3507",
+  "questionText": "O ciclo do carbono pode ser resumido no esquema abaixo:",
+  "question": "As etapas I e II podem ser, respectivamente,",
+  "images": [
+    "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/4d9d7d30-9a50-4635-93f9-9b3a63a91b74-arquivo-editor"
+  ],
+  "alternatives": {
+    "A": "fotossíntese e quimiossíntese.",
+    "B": "decomposição e queima de combustíveis.",
+    "C": "fotossíntese e queima de combustíveis.",
+    "D": "quimiossíntese e fotossíntese.",
+    "E": "fermentação e respiração."
+  },
+  "answer": "C"
+},
+{
+  "questionId": "Fuvest_B3535",
+  "questionText": "Um importante poluente atmosférico das grandes cidades, emitido principalmente por automóveis, tem a propriedade de se combinar com a hemoglobina do sangue, inutilizando-a para o transporte de gás oxigênio. Esse poluente é o",
+  "question": "",
+  "images": [],
+  "alternatives": {
+    "A": "dióxido de carbono.",
+    "B": "dióxido de enxofre.",
+    "C": "metano.",
+    "D": "monóxido de carbono.",
+    "E": "ozônio."
+  },
+  "answer": "D"
+},
+{
+  "questionId": "Uern_B3518",
+  "questionText": "Estudos recentes apontam que há um aumento dramático na liberação de metano no fundo do Oceano Ártico, o que vem preocupando ambientalistas de todo o mundo.",
+  "question": "Essa intensa preocupação se deve ao fato de esse gás",
+  "images": [],
+  "alternatives": {
+    "A": "causar o envenenamento e consequente morte de diversas formas de vida, mesmo em pequenas quantidades, alterando assim comunidades biológicas locais.",
+    "B": "ser muito mais potente que o CO2 em seu efeito de aprisionar o calor na atmosfera terrestre, elevando assim o efeito estufa.",
+    "C": "combinar-se, em grandes quantidades, com o ozônio, impossibilitando a formação da camada que protege o planeta da radiação solar.",
+    "D": "impossibilitar o metabolismo de organismos saprófitos, responsáveis pela decomposição de matéria orgânica morta."
+  },
+  "answer": "B"
+},
+{
+  "questionId": "Enem_B3540",
+  "questionText": "O rótulo de um desodorante aerossol informa ao consumidor que o produto possui em sua composição os gases isobutano, butano e propano, dentre outras substâncias. Além dessa informação, o rótulo traz, ainda, a inscrição “Não contém CFC”. As reações a seguir, que ocorrem na estratosfera, justificam a não utilização de CFC (clorofluorcarbono ou Freon) nesse desodorante:\n\nI. CF2Cl2 → CF2Cl• + Cl•\n\nII. Cl• + O3 → O2 + ClO•\n\nA preocupação com as possíveis ameaças à camada de ozônio (O3) baseia-se na sua principal função: proteger a matéria viva na Terra dos efeitos prejudiciais dos raios solares ultravioleta. A absorção da radiação ultravioleta pelo ozônio estratosférico é intensa o suficiente para eliminar boa parte da fração de ultravioleta que é prejudicial à vida.",
+  "question": "A finalidade da utilização dos gases isobutano, butano e propano neste aerossol é",
+  "images": [],
+  "alternatives": {
+    "A": "substituir o CFC, pois não reagem com o ozônio, servindo como gases propelentes em aerossóis.",
+    "B": "servir como propelentes, pois, como são muito reativos, capturam o Freon existente livre na atmosfera, impedindo a destruição do ozônio.",
+    "C": "reagir com o ar, pois se decompõem espontaneamente em dióxido de carbono (CO2) e água (H2O), que não atacam o ozônio.",
+    "D": "impedir a destruição do ozônio pelo CFC, pois os hidrocarbonetos gasosos reagem com a radiação UV, liberando hidrogênio (H2), que reage com o oxigênio do ar (O2), formando água (H2O).",
+    "E": "destruir o CFC, pois reagem com a radiação UV, liberando carbono (C), que reage com o oxigênio do ar (O2), formando dióxido de carbono (CO2), que é inofensivo para a camada de ozônio."
+  },
+  "answer": "A"
+},
+{
+  "questionId": "Uerj_B3536",
+  "questionText": "Em túneis muito extensos, existem placas orientando os motoristas a desligarem seus carros em caso de engarrafamento, pois a combustão incompleta que ocorre nos motores produz um gás extremamente tóxico para o organismo humano. Tal medida visa a evitar, principalmente, o aumento da concentração desse gás.",
+  "question": "A alternativa que combina corretamente a fórmula do gás e dois dos sistemas vitais atingidos pelo aumento de sua concentração é:",
+  "images": [],
+  "alternatives": {
+    "A": "CO – circulatório e nervoso.",
+    "B": "O2 – respiratório e nervoso.",
+    "C": "CO2 – circulatório e endócrino.",
+    "D": "N2 – respiratório e endócrino."
+  },
+  "answer": "A"
+},
+{
+  "questionId": "Enem_B3524",
+  "questionText": "Com a crescente demanda de energia elétrica, decorrente do modo de vida da sociedade moderna, tornou-se necessário que mais de uma fonte de energia seja estudada e aplicada, levando-se em conta os impactos ambientais e sociais a serem gerados em curto e longo prazo. Com isso, o uso da energia nuclear tem sido muito debatido no mundo. O questionamento principal é se valerá a pena construir centrais de produção nuclear ou é preferível investir em outros tipos de energias que sejam renováveis.\n\nDisponível em: http://energiaeambiente.wordpress.com. http://www.comciencia.br. Acesso em: 27 jan. 2009 (adaptado).",
+  "question": "Um argumento favorável ao uso da energia nuclear é o fato de",
+  "images": [],
+  "alternatives": {
+    "A": "seu preço de instalação ser menor que o das demais fontes de energia.",
+    "B": "o tratamento de seus rejeitos ser um processo simples.",
+    "C": "de ser uma energia limpa, de baixo custo, que não causa impactos ambientais.",
+    "D": "ser curto o tempo de atividade dos resíduos produzidos na sua geração.",
+    "E": "ser uma energia limpa embora não seja renovável."
+  },
+  "answer": "E"
+},
+{
+  "questionId": "Unichristus_B3537",
+  "questionText": "A industrialização e a urbanização trazem como consequência os desequilíbrios ambientais vividos atualmente. Uma dessas consequências é a redução no tipo de proteção natural que existe no planeta, ilustrado abaixo. Essa redução se deve diretamente à emissão de",
+  "question": "Essa redução se deve diretamente à emissão de",
+  "images": [
+    "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/fad87dc2-2514-47db-b82e-3d7cf741e9d9-arquivo-editor"
+  ],
+  "alternatives": {
+    "A": "ácido sulfúrico nos ecossistemas aquáticos.",
+    "B": "gás metano na atmosfera.",
+    "C": "DDT nos ecossistemas aquáticos.",
+    "D": "monóxido de carbono na atmosfera.",
+    "E": "gás CFC na atmosfera."
+  },
+  "answer": "E"
+},
+{
+  "questionId": "Uel_B3510",
+  "questionText": "A utilização de combustíveis fósseis pela espécie humana tem restituído à atmosfera, na forma de CO2, átomos de carbono que ficaram fora de circulação durante milhões de anos. O ciclo do carbono consiste na passagem de átomos de carbono (C) presentes nas moléculas de gás carbônico (CO2) disponíveis no ecossistema para moléculas que constituem as substâncias orgânicas dos seres vivos (proteínas, glicídios, lipídios etc.) e vice-versa. Relacione as afirmativas a seguir com as etapas do ciclo do carbono indicadas no esquema.\n\nI. Grande parte das substâncias orgânicas incorporadas pelos herbívoros são degradadas na respiração celular e o carbono, liberado na forma de gás carbônico.\n\nII. O gás carbônico é captado pelos organismos fotossintetizantes e seus átomos são utilizados na síntese de moléculas orgânicas.\n\nIII. O carbono constituinte da biomassa é transferido aos herbívoros.\n\nIV. Parte das moléculas orgânicas produzidas na fotossíntese é degradada pelo próprio organismo em sua respiração celular e o carbono, devolvido ao ambiente na forma de gás carbônico.\n\nV. O carbono constituinte da biomassa é restituído ao ambiente com a morte do organismo.\n\nAssinale a alternativa que contém a associação correta.",
+  "question": "",
+  "images": [
+    "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/99090add-6adf-4425-b380-7b813249c7c1-arquivo-editor"
+  ],
+  "alternatives": {
+    "A": "I-C, II-B, III-F, IV-G, V-A.",
+    "B": "I-D, II-C, III-B, IV-G, V-F.",
+    "C": "I-G, II-B, III-D, IV-C, V-E.",
+    "D": "I-G, II-C, III-D, IV-A, V-H.",
+    "E": "I-H, II-D, III-B, IV-C, V-A."
+  },
+  "answer": "C"
+},
+{
+  "questionId": "Unichristus_B3514",
+  "questionText": "A ideia de que é inevitável conter as emissões de gás carbônico na atmosfera se concretizou durante a conferência da ONU sobre o meio ambiente em 1992, no Rio de Janeiro [...] Para não ter de diminuir o ritmo de sua produção industrial ou investir em tecnologias limpas e muito caras, algumas empresas estão preferindo compensar o que despejam na atmosfera plantando árvores em áreas desmatadas.\n\nSobre esse tema, qual é a principal consequência do acúmulo de CO2 na atmosfera?",
+  "question": "",
+  "images": [],
+  "alternatives": {
+    "A": "O CO2 é um dos gases atmosféricos que contribui para o efeito estufa, pois retém grande quantidade de radiação infravermelha que reirradia para a atmosfera terrestre.",
+    "B": "O CO2 é um dos gases atmosféricos que contribui para a camada de ozônio, pois retém grande quantidade de radiação infravermelha que reirradia para a atmosfera terrestre.",
+    "C": "O CO2 é um dos gases atmosféricos que contribui para o efeito estufa, pois libera grande quantidade de radiação ultravioleta que irradia para a atmosfera.",
+    "D": "O CO2 é um dos gases atmosféricos que contribui para o efeito estufa, pois retém pequena quantidade de radiação ultravioleta que irradia para a atmosfera.",
+    "E": "O CO2 é um dos gases que contribui para o efeito estufa, pois libera pequena quantidade de radiação ultravioleta que reirradia para a atmosfera terrestre."
+  },
+  "answer": "A"
+},
+{
+  "questionId": "Fcm_B3513",
+  "questionText": "O efeito estufa é de grande importância, desde a origem da vida sobre a Terra, para manter a superfície terrestre aquecida, impedindo a perda rápida de calor para o espaço. Este fenômeno resulta:",
+  "question": "",
+  "images": [],
+  "alternatives": {
+    "A": "da presença dos gases atmosféricos de vapor d’água, gás carbônico (CO2), metano (CH4) e óxido nitroso (N2O).",
+    "B": "do aumento significativo do gás carbônico (CO2) na atmosfera.",
+    "C": "da quantidade de metano (CH4) resultante da decomposição da natureza inorgânica do ambiente.",
+    "D": "das alterações climáticas e existência dos desertos.",
+    "E": "da presença de poluentes perigosos como monóxido de carbono (CO) e metano (CH4) mais leves que o ar e muito tóxico."
+  },
+  "answer": "A"
+},
+{
+  "questionId": "Enem_B3529",
+  "questionText": "Sabe-se que o aumento da concentração de gases como CO2, CH4 e N2O na atmosfera é um dos fatores responsáveis pelo agravamento do efeito estufa; a agricultura é uma das atividades humanas que pode contribuir tanto para a emissão quanto para o sequestro desses gases, dependendo do manejo da matéria orgânica do solo.\n\nDe que maneira as práticas agrícolas podem ajudar a minimizar o agravamento do efeito estufa?",
+  "question": "",
+  "images": [],
+  "alternatives": {
+    "A": "Evitando a rotação de culturas.",
+    "B": "Liberando o CO2 presente no solo.",
+    "C": "Aumentando a quantidade de matéria orgânica do solo.",
+    "D": "Queimando a matéria orgânica que se deposita no solo.",
+    "E": "Atenuando a concentração de resíduos vegetais do solo."
+  },
+  "answer": "C"
+},
+{
+  "questionId": "Enem_B3521",
+  "questionText": "Os corais funcionam como termômetros, capazes de indicar, mudando de coloração, pequenas alterações na temperatura da água dos oceanos. Mas, um alerta, eles estão ficando brancos. O seu clareamento progressivo acontece pela perda de minúsculas algas, chamadas zooxantelas, que vivem dentro de seus tecidos, numa relação de mutualismo.\n\nO desequilíbrio dessa relação faz com que os pólipos que formam os corais tenham dificuldade em:",
+  "question": "",
+  "images": [],
+  "alternatives": {
+    "A": "Produzir o próprio alimento.",
+    "B": "Obter compostos nitrogenados.",
+    "C": "Realizar a reprodução sexuada.",
+    "D": "Absorver o oxigênio dissolvido na água.",
+    "E": "Adquirir nutrientes derivados da fotossíntese."
+  },
+  "answer": "E"
+},
+{
+  "questionId": "Enem_B3533",
+  "questionText": "Os oceanos absorvem aproximadamente um terço das emissões de CO2 procedentes de atividades humanas, como a queima de combustíveis fósseis e as queimadas. O CO2 combina-se com as águas dos oceanos, provocando uma alteração importante em suas propriedades. Pesquisas com vários organismos marinhos revelam que essa alteração nos oceanos afeta uma série de processos biológicos necessários para o desenvolvimento e a sobrevivência de várias espécies da vida marinha.\n\nA alteração a que se refere o texto diz respeito ao aumento:",
+  "question": "",
+  "images": [],
+  "alternatives": {
+    "A": "da acidez das águas dos oceanos.",
+    "B": "do estoque de pescado nos oceanos.",
+    "C": "da temperatura média dos oceanos.",
+    "D": "do nível das águas dos oceanos.",
+    "E": "da salinização das águas dos oceanos."
+  },
+  "answer": "A"
+},
+{
+  "questionId": "Enem_B3525",
+  "questionText": "Do ponto de vista ambiental, uma distinção importante que se faz entre os combustíveis é serem provenientes ou não de fontes renováveis. No caso dos derivados de petróleo e do álcool de cana, essa distinção se caracteriza:",
+  "question": "",
+  "images": [],
+  "alternatives": {
+    "A": "pela diferença nas escalas de tempo de formação das fontes, período geológico no caso do petróleo e anual no da cana.",
+    "B": "pelo maior ou menor tempo para se reciclar o combustível utilizado, tempo muito maior no caso do álcool.",
+    "C": "pelo maior ou menor tempo para se reciclar o combustível utilizado, tempo muito maior no caso dos derivados do petróleo.",
+    "D": "pelo tempo de combustão de uma mesma quantidade de combustível, tempo muito maior para os derivados do petróleo do que do álcool.",
+    "E": "pelo tempo de produção de combustível, pois o refino do petróleo leva dez vezes mais tempo do que a destilação do fermento de cana."
+  },
+  "answer": "A"
+},
+{
+  "questionId": "Uel_B3541",
+  "questionText": "Os refrigeradores e aparelhos de ar condicionado produzidos no Brasil até 2000 contêm clorofluorcarbonos (CFCs). Quando liberados, esses gases sobem até as altas camadas da atmosfera e destroem o ozônio, que nos protege das radiações solares. O Brasil é signatário do Protocolo de Montreal, acordo internacional assinado em 1987 para banir os CFCs do planeta. Segundo o IBGE, entre 1997 e 2000, houve uma redução de 21% na utilização desse gás no Brasil.\n\nCom base no texto e nos conhecimentos sobre as camadas da atmosfera, assinale a alternativa correta:",
+  "question": "",
+  "images": [],
+  "alternatives": {
+    "A": "A ação destrutiva dos CFCs ocorre na ozonosfera e seus efeitos são verificados na troposfera.",
+    "B": "A ação destrutiva dos CFCs ocorre na litosfera e seus efeitos são verificados na hidrosfera.",
+    "C": "A ação destrutiva dos CFCs ocorre na hidrosfera e seus efeitos são verificados na estratosfera.",
+    "D": "A ação destrutiva dos CFCs ocorre na biosfera e seus efeitos são verificados na ionosfera.",
+    "E": "A ação destrutiva dos CFCs ocorre na estratosfera e seus efeitos são verificados na biosfera."
+  },
+  "answer": "E"
+},
+{
+  "questionId": "Fuvest_B3520",
+  "questionText": "Uma das consequências do “efeito estufa” é o aquecimento dos oceanos. Esse aumento de temperatura provoca:",
+  "question": "",
+  "images": [],
+  "alternatives": {
+    "A": "menor dissolução de CO2 nas águas oceânicas, o que leva ao consumo de menor quantidade desse gás pelo fitoplâncton, contribuindo, assim, para o aumento do efeito estufa global.",
+    "B": "menor dissolução de O2 nas águas oceânicas, o que leva ao consumo de maior quantidade de CO2 pelo fitoplâncton, contribuindo, assim, para a redução do efeito estufa global.",
+    "C": "menor dissolução de CO2 e O2 nas águas oceânicas, o que leva ao consumo de maior quantidade de O2 pelo fitoplâncton, contribuindo, assim, para a redução do efeito estufa global.",
+    "D": "maior dissolução de CO2 nas águas oceânicas, o que leva ao consumo de maior quantidade desse gás pelo fitoplâncton, contribuindo, assim, para a redução do efeito estufa global.",
+    "E": "maior dissolução de O2 nas águas oceânicas, o que leva à liberação de maior quantidade de CO2 pelo fitoplâncton, contribuindo, assim, para o aumento do efeito estufa global."
+  },
+  "answer": "A"
+},
+{
+  "questionId": "Enem_B3512",
+  "questionText": "Plantas terrestres que ainda estão em fase de crescimento fixam grandes quantidades de CO2, utilizando-o para formar novas moléculas orgânicas, e liberam grande quantidade de O2. No entanto, em florestas maduras, cujas árvores já atingiram o equilíbrio, o consumo de O2 pela respiração tende a igualar a sua produção pela fotossíntese. A morte natural de árvores nessas florestas afeta temporariamente a concentração de O2 e de CO2 próximo à superfície do solo onde elas caíram. A concentração de O2 próximo ao solo, no local da queda, será:",
+  "question": "",
+  "images": [],
+  "alternatives": {
+    "A": "menor, pois haverá consumo de O2 durante a decomposição dessas árvores.",
+    "B": "maior, pois haverá economia de O2 pela ausência de árvores mortas.",
+    "C": "maior, pois haverá liberação de O2 durante a fotossíntese das árvores jovens.",
+    "D": "igual, pois haverá consumo e produção de O2 pelas árvores maduras restantes.",
+    "E": "menor, pois haverá redução de O2 pela falta da fotossíntese realizada pelas árvores mortas."
+  },
+  "answer": "A"
+},
+{
+  "questionId": "Enem_B3508",
+  "questionText": "As células e os organismos precisam realizar trabalho para permanecerem vivos e se reproduzirem. A energia metabólica necessária para a realização desse trabalho é oriunda da oxidação de combustíveis, gerados no ciclo do carbono, por meio de processos capazes de interconverter diferentes formas da energia.\n\nNesse ciclo, a formação de combustíveis está vinculada à conversão de energia:",
+  "question": "",
+  "images": ["https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/1d0e4a7f-073c-4ed3-9504-91d31784e58b-arquivo-editor"],
+  "alternatives": {
+    "A": "térmica em cinética.",
+    "B": "química em térmica.",
+    "C": "eletroquímica em calor.",
+    "D": "cinética em eletromagnética.",
+    "E": "eletromagnética em química."
+  },
+  "answer": "E"
+},
+{
+  "questionId": "EnemPPL_B3915",
+  "questionText": "No esquema representado, o processo identificado pelo número 2 é realizado por:",
+  "question": "",
+  "images": ["https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/6435d623-b95c-49e2-bc7f-c94733c0bf32-arquivo-editor"],
+  "alternatives": {
+    "A": "seres herbívoros.",
+    "B": "fungos fermentadores.",
+    "C": "bactérias heterótrofas.",
+    "D": "organismos produtores.",
+    "E": "microrganismos decompositores."
+  },
+  "answer": "D"
+},
+{
+  "questionId": "Enem_PPL_B3946",
+  "questionText": "Os impactos ambientais das usinas hidrelétricas são motivo de polêmica nas discussões sobre desenvolvimento sustentável. Embora usualmente relacionadas ao conceito de “energia limpa” ou associadas à ideia de “sustentabilidade”, essas usinas podem causar vários problemas ambientais. Destaca-se a proliferação de determinadas espécies aquáticas em relação a outras, ocasionando a perda de diversidade das comunidades de peixes (ictiofauna) do local.\n\nEm um primeiro momento, as mudanças na composição dessas comunidades devem-se",
+  "question": "",
+  "images": [],
+  "alternatives": {
+    "A": "às alterações nos hábitats causadas pela construção das barragens.",
+    "B": "à poluição das águas por substâncias liberadas no funcionamento da usina.",
+    "C": "ao aumento da concentração de CO2 na água produzido pelo represamento do rio.",
+    "D": "às emissões de gases de efeito estufa pela decomposição da matéria orgânica submersa.",
+    "E": "aos impactos nas margens da barragem em função da pressão exercida pela água represada."
+  },
+  "answer": "A"
+},
+{
+  "questionId": "Enem_PPL_B3948",
+  "questionText": "As plantas, em sua fase de crescimento, necessitam de grande quantidade de carbono, sequestrado pela fotossíntese, para a produção de biomassa.\n\nO sequestro de carbono pelas plantas é aumentado",
+  "question": "",
+  "images": [],
+  "alternatives": {
+    "A": "reciclando papel.",
+    "B": "mantendo intactas as florestas nativas.",
+    "C": "fazendo o replantio das áreas degradadas.",
+    "D": "evitando a queima de madeira e de áreas de floresta.",
+    "E": "substituindo a madeira de bens duráveis por materiais alternativos."
+  },
+  "answer": "C"
+},
+{
+  "questionId": "Enem_PPL_B3951",
+  "questionText": "O Protocolo de Montreal é um tratado internacional que diz respeito à defesa do meio ambiente. Uma de suas recomendações é a redução da utilização de substâncias propelentes, como os CFCs (Cloro-Flúor-Carbono), em aerossóis e aparelhos de refrigeração.\n\nEssa recomendação visa",
+  "question": "",
+  "images": [],
+  "alternatives": {
+    "A": "evitar a chuva ácida.",
+    "B": "prevenir a inversão térmica.",
+    "C": "preservar a camada de ozônio.",
+    "D": "controlar o aquecimento global.",
+    "E": "impedir a formação de ilhas de calor."
+  },
+  "answer": "C"
+},
+{
+  "questionId": "Enem_PPL_B3980",
+  "questionText": "O Brasil foi o primeiro país a usar o álcool em larga escala como combustível de automóvel. Hoje, a indústria automobilística produz e equipa os automóveis com motores que funcionam tanto com gasolina como com álcool, ou ainda com uma mistura dos dois. No Brasil, o álcool é obtido principalmente da cana-de-açúcar, razão pela qual o classificam como biocombustível.\n\nCom essa atitude, contribui-se diretamente para a",
+  "question": "",
+  "images": [],
+  "alternatives": {
+    "A": "preservação de rios e lagos.",
+    "B": "preservação da biodiversidade.",
+    "C": "diminuição do buraco da camada de ozônio.",
+    "D": "preservação de espécies ameaçadas de extinção.",
+    "E": "diminuição da emissão efetiva de dióxido de carbono."
+  },
+  "answer": "E"
+},
+{
+  "questionId": "Enem_B3568",
+  "questionText": "Nos últimos 60 anos, a população mundial duplicou, enquanto o consumo de água foi multiplicado por sete. Da água existente no planeta, 97% são água salgada (mares e oceanos), 2% formam geleiras inacessíveis e apenas 1% corresponde à água doce, armazenada em lençóis subterrâneos rios e lagos. A poluição pela descarga de resíduos municipais e industriais, combinada com exploração excessiva dos recursos hídricos disponíveis, ameaça o meio ambiente, comprometendo a disponibilidade de água doce para o abastecimento das populações humanas. Se esse ritmo se mantiver em alguns anos à água potável tornar-se-á um bem extremamente raro e caro. Considerando o texto, uma proposta viável para conservar o meio ambiente e água doce seria",
+  "question": "",
+  "images": [],
+  "alternatives": {
+    "A": "Fazer uso exclusivo da água subterrânea, pois ela pouco interfere na quantidade de água dos rios.",
+    "B": "Desviar a água dos mares para os rios e lagos, de maneira a aumentar o volume de água doce nos pontos de captação.",
+    "C": "Promover a adaptação das populações humanas ao consumo de água do mar, diminuindo a demanda sobre a água doce.",
+    "D": "Reduzir a poluição e exploração dos recursos naturais, otimizar o uso da água potável e aumentar a captação da água da chuva.",
+    "E": "Realizar a descarga dos resíduos municipais e industriais diretamente nos mares, de maneira a não afetar água doce disponível."
+  },
+  "answer": "D"
+},
+{
+  "questionId": "Enem_B3571",
+  "questionText": "Em nosso planeta a quantidade de água está estimada em 1,36 × 10^6 trilhões de toneladas. Desse total, calcula-se que cerca de 95% são de água salgada e dos 5% restantes, quase a metade está retida nos polos e geleiras. O uso de água do mar para obtenção de água potável ainda não é realidade em larga escala. Isso porque, entre outras razões,",
+  "question": "",
+  "images": [],
+  "alternatives": {
+    "A": "o custo dos processos tecnológicos de dessalinização é muito alto.",
+    "B": "não se sabe como separar adequadamente os sais nela dissolvidos.",
+    "C": "comprometeria muito a vida aquática dos oceanos.",
+    "D": "a água do mar possui materiais irremovíveis.",
+    "E": "a água salgada do mar tem temperatura de ebulição alta."
+  },
+  "answer": "A"
+},
+{
+  "questionId": "Enem_B3569",
+  "questionText": "Na região semiárida do nordeste brasileiro, mesmo nos anos mais secos, chove pelo menos 200 milímetros por ano. Durante a seca, muitas pessoas, em geral as mães de família, têm de caminhar várias horas em busca de água, utilizando açudes compartilhados com animais e frequentemente contaminados. Sem tratamento, essa água é fonte de diarreias, parasitas intestinais, e uma das responsáveis pela elevada mortalidade infantil da região. Os açudes secam com frequência, tornando necessário o abastecimento das populações por carro-pipa, uma alternativa cara e que não traz solução definitiva ao abastecimento de água. Considerando o texto, a proposta mais eficaz para reduzir os impactos da falta de água na região seria",
+  "question": "",
+  "images": [],
+  "alternatives": {
+    "A": "Subsidiar a venda de água mineral nos estabelecimentos comerciais.",
+    "B": "Distribuir gratuitamente remédios contra parasitas e outras moléstias intestinais.",
+    "C": "Desenvolver carros-pipa maiores e mais econômicos, de forma a baratear o custo da água transportada.",
+    "D": "Captar água da chuva em cisternas, permitindo seu adequado tratamento e armazenamento para consumo.",
+    "E": "Promover a migração das famílias mais necessitadas para as regiões sudeste e sul onde as chuvas são abundantes."
+  },
+  "answer": "D"
+},
+{
+  "questionId": "Unesp_B3549",
+  "questionText": "A amônia (NH3) é obtida industrialmente pelo processo Haber-Bosch, que consiste na reação química entre o gás nitrogênio proveniente do ar e o gás hidrogênio. O processo ocorre em temperaturas superiores a 500 ºC e pressões maiores que 200 atm e pode ser representado pela equação química: N2(g) + H2(g) → 2NH3(g). A amônia produzida por esse processo tem como uma de suas aplicações a fabricação de fertilizantes para o aumento da produção agrícola. Na natureza, a amônia também é produzida tendo o ar como fonte de gás nitrogênio, que é assimilado",
+  "question": "",
+  "images": [],
+  "alternatives": {
+    "A": "pelo micélio dos fungos filamentosos.",
+    "B": "pela respiração dos animais invertebrados que vivem no solo.",
+    "C": "por bactérias no solo e nas raízes de leguminosas.",
+    "D": "pelo processo de fotossíntese realizado por plantas e algas.",
+    "E": "pela decomposição dos tecidos dos seres vivos."
+  },
+  "answer": "C"
+},
+{
+  "questionId": "EnemPPL_B3550",
+  "questionText": "Um produtor rural registrou queda de produtividade numa das áreas de plantio de arroz de sua propriedade. Análises químicas revelaram concentrações elevadas do íon amônia (NH4+) e baixas dos íons nitrito (NO2-) e nitrato (NO3-) no solo. Esses compostos nitrogenados são necessários para o crescimento dos vegetais e participam do ciclo biogeoquímico do nitrogênio. Em qual etapa desse ciclo biogeoquímico são formados os compostos que estão em baixa concentração nesse solo?",
+  "question": "",
+  "images": [],
+  "alternatives": {
+    "A": "Nitrificação.",
+    "B": "Assimilação.",
+    "C": "Amonização.",
+    "D": "Desnitrificação.",
+    "E": "Fixação de nitrogênio."
+  },
+  "answer": "A"
+},
+{
+  "questionId": "Enem_B3578",
+  "questionText": "Grandes quantidades de enxofre são lançadas na atmosfera diariamente, na forma de dióxido de enxofre (SO2), como decorrência de atividades industriais e de queima de combustíveis fósseis. Em razão da alta concentração desses compostos na atmosfera, regiões com conglomerados urbanos e polos industriais apresentam ocorrência sazonal de",
+  "question": "",
+  "images": [],
+  "alternatives": {
+    "A": "precipitação ácida.",
+    "B": "alteração do ciclo hidrológico.",
+    "C": "alteração no ciclo do carbono.",
+    "D": "intensificação do efeito estufa.",
+    "E": "precipitação de íons metálicos tóxicos na superfície."
+  },
+  "answer": "A"
+},
+{
+  "questionId": "Enem_B3553",
+  "questionText": "A aplicação excessiva de fertilizantes nitrogenados na agricultura pode acarretar alterações no solo e na água pelo acúmulo de compostos nitrogenados, principalmente a forma mais oxidada, favorecendo a proliferação de algas e plantas aquáticas e alterando o ciclo do nitrogênio, representado no esquema. A espécie nitrogenada mais oxidada tem sua quantidade controlada por ação de microrganismos que promovem a reação de redução dessa espécie, no processo denominado desnitrificação. O processo citado está representado na etapa",
+  "question": "",
+  "images": [
+    "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/430d587e-9835-4ec5-a5a4-86ffce3f5353-arquivo-editor"
+  ],
+  "alternatives": {
+    "A": "I.",
+    "B": "II.",
+    "C": "III.",
+    "D": "IV.",
+    "E": "V."
+  },
+  "answer": "E"
+},
+{
+  "questionId": "Upe_B3562",
+  "questionText": "O ciclo da água, também denominado ciclo hidrológico, é responsável pela renovação da água no planeta. A água é fator decisivo para o surgimento e o desenvolvimento da vida na Terra. Observe a figura a seguir e faça as correlações adequadas.\n\nI. O ciclo da água tem início com a radiação solar, que incide sobre a Terra. O calor provoca a evaporação da água dos oceanos, dos rios e dos lagos. Também há evaporação de parte da água presente no solo.\n\nII. A transferência da superfície terrestre para a atmosfera também ocorre por meio da transpiração das plantas e dos animais.\n\nIII. Após a evaporação, a água, em forma de vapor, é transportada pelas massas de ar para as regiões mais altas da atmosfera. Lá em cima, ao ser submetida a baixas temperaturas, o vapor se condensa e se liquefaz. É assim que se formam as nuvens.\n\nIV. Quando a nuvem fica carregada de pequenas gotas, estas se reúnem formando gotas maiores que se tornam pesadas e caem sobre a superfície terrestre, em forma de chuva, granizo ou neve.\n\nV. Da água que se precipita sobre o planeta, uma parte cai diretamente nos reservatórios de água como rios, lagos e oceanos.\n\nVI. Parte da água que cai sobre o planeta infiltra-se no solo e nas rochas, através dos seus poros e fissuras, alimentando as reservas subterrâneas de água, chamadas lençóis freáticos.\n\nAssinale a alternativa que apresenta a correlação correta entre as proposições e as letras destacadas no ciclo.",
+  "question": "",
+  "images": [
+    "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/88720871-af8f-48b7-b438-4f96967443d7-arquivo-editor"
+  ],
+  "alternatives": {
+    "A": "I-A; II-B; III-C; IV-D; V-E; VI-F.",
+    "B": "I-B; II-D; III-A; IV-C; V-F; VI-E.",
+    "C": "I-C; II-A; III-B; IV-E; V-F; VI-D.",
+    "D": "I-C; II-D; III-A; IV-B; V-F; VI-E.",
+    "E": "I-D; II-C; III-A; IV-E; V-F; VI-B."
+  },
+  "answer": "D"
+},
+{
+    "questionId": "Unicamp_B3546",
+    "questionText": "O nitrogênio é um elemento essencial para as plantas, podendo ser obtido do solo ou da atmosfera. No último caso, verifica-se a associação entre plantas e bactérias, que irão captar moléculas de nitrogênio e convertê-las em compostos nitrogenados usados na nutrição das plantas. Em contrapartida, as bactérias se aproveitam dos produtos oriundos da fotossíntese realizada pelas plantas. Essa associação é denominada:",
+    "question": "",
+    "images": [],
+    "alternatives": {
+      "A": "Mutualismo. O texto se refere a bactérias do gênero Rhizobium, que produzem amônio.",
+      "B": "Comensalismo. O texto se refere a bactérias do gênero Rhizobium, que produzem amônio.",
+      "C": "Mutualismo. O texto se refere a bactérias do gênero Nitrosomonas, que produzem proteínas.",
+      "D": "Comensalismo. O texto se refere a bactérias do gênero Nitrosomonas, que produzem proteínas."
+    },
+    "answer": "A"
+  },
+  {
+    "questionId": "Unicamp_B3591",
+    "questionText": "Em junho de 2012 ocorreu na cidade do Rio de Janeiro a Conferência Rio+20. Os principais focos de discussão dessa conferência diziam respeito à sustentabilidade do planeta e à poluição da água e do ar. Em relação a esse último aspecto, sabemos que alguns gases são importantes para a vida no planeta. A preocupação com esses gases é justificada, pois, de um modo geral, pode-se afirmar que:",
+    "question": "",
+    "images": [],
+    "alternatives": {
+      "A": "o CH4 e o CO2 estão relacionados à radiação ultravioleta, o O3, à chuva ácida e os NOx, ao efeito estufa.",
+      "B": "o CH4 está relacionado à radiação ultravioleta, o O3 e o CO2, ao efeito estufa e os NOx, à chuva ácida.",
+      "C": "os NOx estão relacionados ao efeito estufa, o CH4 e o CO2, à radiação ultravioleta e o O3, à chuva ácida.",
+      "D": "o O3 está relacionado à radiação ultravioleta, o CH4 e o CO2, ao efeito estufa e os NOx, à chuva ácida."
+    },
+    "answer": "D"
+  },
+  {
+    "questionId": "Enem_B3559",
+    "questionText": "A cada safra, a quantidade de café beneficiado é igual à quantidade de resíduos gerados pelo seu beneficiamento. Esse resíduo contém pectina, açúcares fermentáveis e alcaloides. Esse resíduo contribui para a fertilidade do solo, pois:",
+    "question": "",
+    "images": [],
+    "alternatives": {
+      "A": "possibilita a reciclagem de carbono e nitrogênio.",
+      "B": "promove o deslocamento do alumínio, que é tóxico.",
+      "C": "melhora a compactação do solo por causa da presença de pectina.",
+      "D": "eleva o pH do solo em função da degradação dos componentes do resíduo.",
+      "E": "apresenta efeitos inibidores de crescimento para a maioria das espécies vegetais pela cafeína."
+    },
+    "answer": "A"
+  },
+  {
+    "questionId": "Enem_PPL_B3590",
+    "questionText": "Na natureza, a matéria é constantemente transformada pelos ciclos biogeoquímicos. Entre os ciclos da água, carbono, enxofre, fósforo, nitrogênio e oxigênio, o elemento presente em todos eles é:",
+    "question": "",
+    "images": [],
+    "alternatives": {
+      "A": "fósforo.",
+      "B": "enxofre.",
+      "C": "carbono.",
+      "D": "oxigênio.",
+      "E": "nitrogênio."
+    },
+    "answer": "D"
+  },
+  {
+    "questionId": "Enem_B3547",
+    "questionText": "A modernização da agricultura, também conhecida como Revolução Verde, ficou marcada pela expansão da agricultura nacional. No entanto, trouxe consequências como o empobrecimento do solo, o aumento da erosão e dos custos de produção, entre outras. Atualmente, a preocupação com a agricultura sustentável tem suscitado práticas como a adubação verde, que consiste na incorporação ao solo de fitomassa de espécies vegetais distintas, sendo as mais difundidas as leguminosas.\n\nA utilização de leguminosas nessa prática de cultivo visa reduzir a",
+    "question": "A utilização de leguminosas na adubação verde visa reduzir a",
+    "images": [],
+    "alternatives": {
+      "A": "utilização de agrotóxicos.",
+      "B": "atividade biológica do solo.",
+      "C": "necessidade do uso de fertilizantes.",
+      "D": "decomposição da matéria orgânica.",
+      "E": "capacidade de armazenamento de água no solo."
+    },
+    "answer": "C"
+  },
+  {
+    "questionId": "Enem_B3584",
+    "questionText": "O fósforo, geralmente representado pelo íon de fosfato (PO43-), é um ingrediente insubstituível da vida, já que é parte constituinte das membranas celulares e das moléculas do DNA e do trifosfato de adenosina (ATP), principal forma de armazenamento de energia das células. O fósforo utilizado nos fertilizantes agrícolas é extraído de minas, cujas reservas estão cada vez mais escassas. Certas práticas agrícolas aceleram a erosão do solo, provocando o transporte de fósforo para sistemas aquáticos, que fica imobilizado nas rochas. Ainda, a colheita das lavouras e o transporte dos restos alimentares para os lixões diminuem a disponibilidade dos íons no solo. Tais fatores têm ameaçado a sustentabilidade desse íon. Uma medida que amenizaria esse problema seria:",
+    "question": "Qual medida pode amenizar o problema da diminuição da disponibilidade de fósforo no solo?",
+    "images": [],
+    "alternatives": {
+      "A": "Incentivar a reciclagem de resíduos biológicos, utilizando dejetos animais e restos de culturas para produção de adubo.",
+      "B": "Repor o estoque retirado das minas com um íon sintético de fósforo para garantir o abastecimento da indústria de fertilizantes.",
+      "C": "Aumentar a importação de íons fosfato dos países ricos para suprir as exigências das indústrias nacionais de fertilizantes.",
+      "D": "Substituir o fósforo dos fertilizantes por outro elemento com a mesma função para suprir as necessidades do uso de seus íons.",
+      "E": "Proibir, por meio de lei federal, o uso de fertilizantes com fósforo pelos agricultores, para diminuir sua extração das reservas naturais."
+    },
+    "answer": "A"
+  },
+  {
+    "questionId": "Ufpe_B3561",
+    "questionText": "Na adubação artificial são empregados fertilizantes sintéticos que, transportados pelas chuvas, podem atingir rios, mares e lençóis freáticos, e comprometer seriamente a vida humana, causando uma grave doença, a meta-hemoglobinemia; o homem pode, por exemplo, ingerir água ou verduras com certas substâncias desses fertilizantes. Tais substâncias são:",
+    "question": "Quais substâncias presentes em fertilizantes sintéticos podem causar meta-hemoglobinemia?",
+    "images": [],
+    "alternatives": {
+      "A": "Hidrogênio líquido.",
+      "B": "Nitratos.",
+      "C": "Clorofluorbenzenos.",
+      "D": "Metano.",
+      "E": "Esteroides."
+    },
+    "answer": "B"
+  },
+  {
+    "questionId": "Ufpi_B3574",
+    "questionText": "O Rio São Francisco representa uma fonte de energia para a região Nordeste, resultado de um processo de implantação de diversas hidrelétricas como Três Marias, Paulo Afonso e Itaparica. Como exemplo de impacto ambiental causado por estes empreendimentos podemos citar:",
+    "question": "Qual é um exemplo de impacto ambiental causado pela implantação de hidrelétricas no Rio São Francisco?",
+    "images": [],
+    "alternatives": {
+      "A": "interrupção da reprodução de peixes que realizam a piracema.",
+      "B": "aumento da quantidade e qualidade da água a jusante do rio.",
+      "C": "contaminação do ambiente aquático por derivados do petróleo.",
+      "D": "eutrofização das águas na nascente do rio.",
+      "E": "assoreamento do leito a montante do rio."
+    },
+    "answer": "A"
+  },
+  {
+    "questionId": "Unifor_B3543",
+    "questionText": "O nitrogênio é um elemento químico indispensável pois faz parte das moléculas de:",
+    "question": "O nitrogênio é indispensável por fazer parte de quais moléculas?",
+    "images": [],
+    "alternatives": {
+      "A": "açúcares, proteínas e hormônios.",
+      "B": "aminoácidos, hormônios e lipídios.",
+      "C": "ácidos nucléicos, enzimas e outras proteínas.",
+      "D": "enzimas, gorduras e carboidratos.",
+      "E": "DNA, lipídios e aminoácidos."
+    },
+    "answer": "C"
+  },
+  {
+    "questionId": "Enem_B3589",
+    "questionText": "Os seres vivos mantêm constantes trocas de matéria com o ambiente mediante processos conhecidos como ciclos biogeoquímicos. O esquema representa um dos ciclos que ocorrem nos ecossistemas.\n\nO esquema apresentado corresponde ao ciclo biogeoquímico do(a):",
+    "question": "O esquema apresentado corresponde a qual ciclo biogeoquímico?",
+    "images": [
+      "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/ea2c5b12-7785-420f-b334-c9cdaff9be5a-arquivo-editor"
+    ],
+    "alternatives": {
+      "A": "água.",
+      "B": "fósforo.",
+      "C": "enxofre.",
+      "D": "carbono.",
+      "E": "nitrogênio."
+    },
+    "answer": "D"
+  },
+  {
+    "questionId": "Ufrgs_B3588",
+    "questionText": "O efeito estufa leva ao aquecimento global que, a longo prazo, pode ocasionar derretimento das calotas polares, aumento dos níveis dos mares e alteração nos ciclos das chuvas. Com base nas causas do efeito estufa, assinale com V (verdadeiro) ou F (falso) as afirmações abaixo.\n\n( ) O metano é um potente gás-estufa que contribui para o aquecimento global.\n( ) Depósitos massivos de metano presos sob camadas de gelo muito antigas que estão derretendo irão agravar o efeito estufa nos próximos anos.\n( ) O aumento da concentração de fósforo atmosférico intensifica o efeito estufa.\n( ) Duas grandes fontes de emissão de metano são a flatulência dos ruminantes e as plantações de arroz.\n\nA sequência correta de preenchimento dos parênteses, de cima para baixo, é:",
+    "question": "Assinale a sequência correta (V/F) sobre as causas do efeito estufa.",
+    "images": [],
+    "alternatives": {
+      "A": "VVFV.",
+      "B": "VFVF.",
+      "C": "FVVF.",
+      "D": "FFVV.",
+      "E": "VFFV."
+    },
+    "answer": "A"
+  },
+   {
+    "questionId": "Uece_B3585",
+    "questionText": "O movimento entre as substâncias provenientes do meio abiótico para o mundo vivo e o retorno delas a partir dos seres vivos para o meio ambiente se dá por meio dos ciclos biogeoquímicos. Assinale com V (verdadeiro) ou F (falso) o que se afirma sobre os ciclos biogeoquímicos. \n\n(_) O CO2 que passa a circular na atmosfera é retirado do ambiente através processo de fotossíntese realizado exclusivamente pelas plantas.\n\n(_) No ciclo hidrológico, a água circula entre animais da cadeia alimentar, retornando à superfície através de evapotranspiração, respiração, fezes, urina ou decomposição.\n\n(_) A maioria dos seres vivos consegue incorporar e utilizar o nitrogênio na forma de gás presente no ar.\n\n(_) As rochas fosfatadas sofrem erosão e liberam para o solo o fósforo, elemento que será absorvido pelos vegetais, para a produção de ATP e ácidos nucleicos.\n\nA sequência correta, de cima para baixo, é:",
+    "question": "A sequência correta, de cima para baixo, é:",
+    "images": [],
+    "alternatives": {
+      "A": "VFVV.",
+      "B": "FVFV.",
+      "C": "VFVF.",
+      "D": "FFFV."
+    },
+    "answer": "B"
+  },
+  {
+    "questionId": "Enem_B3551",
+    "questionText": "Uma grande virada na moderna história da agricultura ocorreu depois da Segunda Guerra Mundial. Após a guerra, os governos haviam se deparado com um enorme excedente de nitrato de amônio, ingrediente usado na fabricação de explosivos. A partir daí as fábricas de munição foram adaptadas para começar a produzir fertilizantes tendo como componente principal os nitratos. \n\nSOUZA, F.A. Agricultura natural/orgânica como instrumento de fixação biológica e manutenção do nitrogênio no solo: um modelo sustentável de MDL. Disponível em: www. planetaorganico.com.br. Acesso em: 17 jul. 2015 (adaptado). \n\nNo ciclo natural do nitrogênio, o equivalente ao principal componente desses fertilizantes industriais é produzido na etapa de",
+    "question": "No ciclo natural do nitrogênio, o equivalente ao principal componente desses fertilizantes industriais é produzido na etapa de",
+    "images": [],
+    "alternatives": {
+      "A": "nitratação.",
+      "B": "nitrosação.",
+      "C": "amonificação.",
+      "D": "desnitrificação.",
+      "E": "fixação biológica do N2."
+    },
+    "answer": "A"
+  },
+  {
+    "questionId": "Fps_B3555",
+    "questionText": "O nitrogênio (N2) é um gás presente na atmosfera que, porém, não é utilizado de forma direta pela maior parte dos seres vivos. Para ser aproveitado pela maioria dos organismos, esse gás depende da sua fixação, sendo a biofixação o processo mais importante. Acerca do nitrogênio e dos processos para sua fixação, analise as afirmativas a seguir.\n\n(1) Rhizobium, bactérias fixadoras de nitrogênio, transformam o N2 atmosférico em íons amônio.\n\n(2) Nitrobacter transformam o íon amônio em nitrato.\n\n(3) Nitrosomonas transformam íons de amônio em nitrito.\n\n(4) Nitrobacter transforma o íon nitrito em nitrato.\n\nEstão corretas apenas:",
+    "question": "Estão corretas apenas:",
+    "images": [],
+    "alternatives": {
+      "A": "1, 2 e 4.",
+      "B": "2, 3 e 4.",
+      "C": "1, 3 e 4.",
+      "D": "1, 2 e 3.",
+      "E": "2 e 3."
+    },
+    "answer": "C"
+  },
+  {
+    "questionId": "Enem_B3544",
+    "questionText": "Recentemente um estudo feito em campos de trigo mostrou que níveis elevados do dióxido de carbono na atmosfera prejudicam a absorção de nitrato pelas plantas. Consequentemente, a qualidade nutricional desses alimentos pode diminuir à medida que os níveis de dióxido de carbono na atmosfera atingirem as estimativas para as próximas décadas.\n\nBloom, A J et al. Nitrate assimilation is inhibited by elevated CO2 in field grown wheat. Nature Climate Change, n. 4., abr 2014, adaptado.\n\nNesse contexto, a qualidade nutricional do grão de trigo será modificada primeiramente pela redução de",
+    "question": "A qualidade nutricional do grão de trigo será modificada primeiramente pela redução de:",
+    "images": [],
+    "alternatives": {
+      "A": "amido.",
+      "B": "frutose.",
+      "C": "lipídeos.",
+      "D": "celulose.",
+      "E": "proteínas."
+    },
+    "answer": "E"
+  },
+  {
+    "questionId": "Facisa_B3581",
+    "questionText": "O genitor explica que essa chuva é diferente, pois é decorrência da poluição ambiental, e que nela estão envolvidos, principalmente, os ácidos",
+    "question": "Nessa chuva decorrente da poluição ambiental, estão envolvidos principalmente os ácidos:",
+    "images": [
+      "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/3021bd33-299b-4095-862d-bd9f6b1a5bad-arquivo-editor"
+    ],
+    "alternatives": {
+      "A": "carbônico e sulfúrico.",
+      "B": "nítrico e carbônico.",
+      "C": "sulfúrico e nítrico.",
+      "D": "sulfúrico e cianídrico."
+    },
+    "answer": "C"
+  },
+   {
+    "questionId": "Enem_B3565",
+    "questionText": "Os ingredientes que compõem uma gotícula de nuvem são o vapor de água e um núcleo de condensação de nuvens (NCN). Em torno desse núcleo, que consiste em uma minúscula partícula em suspensão no ar, o vapor de água se condensa, formando uma gotícula microscópica, que, devido a uma série de processos físicos, cresce até precipitar-se como chuva. Na floresta Amazônica, a principal fonte natural de NCN é a própria vegetação. As chuvas de nuvens baixas, na estação chuvosa, devolvem os NCNs, aerossóis, à superfície, praticamente no mesmo lugar em que foram gerados pela floresta. As nuvens altas são carregadas por ventos mais intensos, de altitude, e viajam centenas de quilômetros de seu local de origem, exportando as partículas contidas no interior das gotas de chuva. Na Amazônia, cuja taxa de precipitação é uma das mais altas do mundo, o ciclo de evaporação e precipitação natural é altamente eficiente. Com a chegada, em larga escala, dos seres humanos à Amazônia, ao longo dos últimos 30 anos, parte dos ciclos naturais está sendo alterada. As emissões de poluentes atmosféricos pelas queimadas, na época da seca, modificam as características físicas e químicas da atmosfera amazônica, provocando o seu aquecimento, com modificação do perfil natural da variação da temperatura com a altura, o que torna mais difícil a formação de nuvens.\n\nPaulo Artaxo et al. O mecanismo da floresta para fazer chover. In: Scientific American Brasil, ano 1, n.º 11, abr./2003, p. 38-45 (com adaptações).\n\nNa Amazônia, o ciclo hidrológico depende fundamentalmente",
+    "question": "Na Amazônia, o ciclo hidrológico depende fundamentalmente:",
+    "images": [],
+    "alternatives": {
+      "A": "da produção de CO2 oriundo da respiração das árvores.",
+      "B": "da evaporação, da transpiração e da liberação de aerossóis que atuam como NCNs.",
+      "C": "das queimadas, que produzem gotículas microscópicas de água, as quais crescem até se precipitarem como chuva.",
+      "D": "das nuvens de maior altitude, que trazem para a floresta NCNs produzidos a centenas de quilômetros de seu local de origem.",
+      "E": "da intervenção humana, mediante ações que modificam as características físicas e químicas da atmosfera da região."
+    },
+    "answer": "B"
+  },
+  {
+    "questionId": "Uerj_B3554",
+    "questionText": "O nitrogênio é um dos principais gases que compõem o ar atmosférico. No esquema abaixo, estão resumidas algumas etapas do ciclo biogeoquímico desse gás na natureza.",
+    "question": "O processo de nitrificação, composto de duas etapas, e o de desnitrificação, ambos executados por microrganismos, estão identificados, respectivamente, pelos seguintes números:",
+    "images": [
+      "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/ce4c3d08-04f7-4d1f-a9d5-d6a8e0618912-arquivo-editor"
+    ],
+    "alternatives": {
+      "A": "2 e 3; 4.",
+      "B": "1 e 5; 7.",
+      "C": "4 e 6; 8.",
+      "D": "2 e 5; 1."
+    },
+    "answer": "A"
+  },
+  {
+    "questionId": "Enem_B3545",
+    "questionText": "Com a utilização dos biocombustíveis, grandes áreas estão sendo ocupadas com a cultura da cana-de-açúcar, o que acarreta o desgaste do solo. Para contrabalançar esse desgaste, tem-se iniciado o plantio alternado de cana-de-açúcar com algumas espécies de leguminosas, já que essa rotação dispensa a adubação nitrogenada.\n\nDisponível em: http://www.agencia.cnptia.embrapa.br. Acesso em: 16 jun. 2011 (adaptado).\n\nEssa prática agrícola ocasiona o enriquecimento do solo, porque as leguminosas possuem bactérias em associação com suas raízes, que favorecem o processo de",
+    "question": "Essa prática agrícola ocasiona o enriquecimento do solo porque as leguminosas possuem bactérias associadas às suas raízes que favorecem qual processo?",
+    "images": [],
+    "alternatives": {
+      "A": "nitrosação, no qual a amônia não absorvida pelas plantas é oxidada e convertida em nitrito.",
+      "B": "fixação, no qual o nitrogênio do ar é convertido em amônia e incorporado em compostos nitrogenados.",
+      "C": "amonificação, no qual os decompositores devolvem ao solo os compostos minerais e liberam nitrogênio na forma de amônia.",
+      "D": "desnitrificação, no qual o nitrato é oxidado em compostos orgânicos que retornam ao solo.",
+      "E": "nitratação, no qual os nitritos formados são liberados no solo e oxidados, formando nitratos."
+    },
+    "answer": "B"
+  },
+{
+    "questionId": "Enem_B3573",
+    "questionText": "No ciclo da água, usado para produzir eletricidade, a água de lagos e oceanos, irradiada pelo Sol, evapora-se dando origem a nuvens e se precipita como chuva. É então represada, corre de alto a baixo e move turbinas de uma usina, acionando geradores. A eletricidade produzida é transmitida através de cabos e fios e é utilizada em motores e outros aparelhos elétricos. Assim, para que o ciclo seja aproveitado na geração de energia elétrica, constrói-se uma barragem para represar a água. Entre os possíveis impactos ambientais causados por essa construção, devem ser destacados:",
+    "question": "Entre os possíveis impactos ambientais causados por essa construção, devem ser destacados:",
+    "images": [],
+    "alternatives": {
+      "A": "aumento do nível dos oceanos e chuva ácida.",
+      "B": "chuva ácida e efeito estufa.",
+      "C": "alagamentos e intensificação do efeito estufa.",
+      "D": "alagamentos e desequilíbrio da fauna e da flora.",
+      "E": "alteração do curso natural dos rios e poluição atmosférica."
+    },
+    "answer": "D"
+  },
+  {
+    "questionId": "Enem_B3582",
+    "questionText": "Numa rodovia pavimentada, ocorreu o tombamento de um caminhão que transportava ácido sulfúrico concentrado. Parte da sua carga fluiu para um curso d’água não poluído que deve ter sofrido, como consequência,\n\nI. mortandade de peixes acima da normal no local do derrame de ácido e em suas proximidades.  \n\nII. variação do pH em função da distância e da direção da corrente de água.\n\nIII. danos permanentes na qualidade de suas águas.\n\nIV. aumento momentâneo da temperatura da água no local do derrame.\n\nÉ correto afirmar que, dessas consequências, apenas podem ocorrer",
+    "question": "É correto afirmar que, dessas consequências, apenas podem ocorrer",
+    "images": [],
+    "alternatives": {
+      "A": "I e II.",
+      "B": "II e III.",
+      "C": "II e IV.",
+      "D": "I, II e IV.",
+      "E": "II, III e IV."
+    },
+    "answer": "D"
+  },
+  {
+    "questionId": "Enem_B3557",
+    "questionText": "O nitrogênio é essencial para a vida e o maior reservatório global desse elemento, na forma de N2, é a atmosfera. Os principais responsáveis por sua incorporação na matéria orgânica são microrganismos fixadores de N2, que ocorrem de forma livre ou simbiontes com plantas.\n\nADUAN, R. E. et al. Os grandes ciclos biogeoquímicos do planeta. Planaltina: Embrapa, 2004 (adaptado).\n\nAnimais garantem suas necessidades metabólicas desse elemento pela",
+    "question": "Animais garantem suas necessidades metabólicas desse elemento pela",
+    "images": [],
+    "alternatives": {
+      "A": "absorção do gás nitrogênio pela respiração.",
+      "B": "ingestão de moléculas de carboidratos vegetais.",
+      "C": "incorporação de nitritos dissolvidos na água consumida.",
+      "D": "transferência da matéria orgânica pelas cadeias tróficas.",
+      "E": "protocooperação com microrganismos fixadores de nitrogênio."
+    },
+    "answer": "D"
+  },
+  {
+    "questionId": "Enem_B3575",
+    "questionText": "O fenômeno da piracema (subida do rio) é um importante mecanismo que influencia a reprodução de algumas espécies de peixes, pois induz o processo que estimula a queima de gordura e ativa mecanismos hormonais complexos, preparando-os para a reprodução. Intervenções antrópicas nos ambientes aquáticos, como a construção de barragens, interferem na reprodução desses animais.\n\nEssa intervenção antrópica prejudica a piracema porque reduz o(a)",
+    "question": "Essa intervenção antrópica prejudica a piracema porque reduz o(a)",
+    "images": [],
+    "alternatives": {
+      "A": "percurso da migração.",
+      "B": "longevidade dos indivíduos.",
+      "C": "disponibilidade de alimentos.",
+      "D": "período de migração da espécie.",
+      "E": "número de espécies de peixes no local."
+    },
+    "answer": "A"
+  },
+  {
+    "questionId": "Enem_B3579",
+    "questionText": "Diretores de uma grande indústria siderúrgica, para evitar o desmatamento e adequar a empresa às normas de proteção ambiental, resolveram mudar o combustível dos fornos da indústria. O carvão vegetal foi então substituído pelo carvão mineral. Entretanto, foram observadas alterações ecológicas graves em um riacho das imediações, tais como a morte dos peixes e dos vegetais ribeirinhos. Tal fato pode ser justificado em decorrência",
+    "question": "Tal fato pode ser justificado em decorrência",
+    "images": [],
+    "alternatives": {
+      "A": "da diminuição de resíduos orgânicos na água do riacho, reduzindo a demanda de oxigênio na água.",
+      "B": "do aquecimento da água do riacho devido ao monóxido de carbono liberado na queima do carvão.",
+      "C": "da formação de ácido clorídrico no riacho a partir de produtos da combustão na água, diminuindo o pH.",
+      "D": "do acúmulo de elementos no riacho, tais como, ferro, derivados do novo combustível utilizado.",
+      "E": "da formação de ácido sulfúrico no riacho a partir dos óxidos de enxofre liberados na combustão."
+    },
+    "answer": "E"
+  },
+  {
+    "questionId": "Enem_B3576",
+    "questionText": "Há estudos que apontam razões econômicas e ambientais para que o gás natural possa vir a tornar-se, ao longo deste século, a principal fonte de energia em lugar do petróleo. Justifica-se essa previsão, entre outros motivos, porque o gás natural",
+    "question": "Justifica-se essa previsão, entre outros motivos, porque o gás natural",
+    "images": [],
+    "alternatives": {
+      "A": "além de muito abundante na natureza é um combustível renovável.",
+      "B": "tem novas jazidas sendo exploradas e é menos poluente que o petróleo.",
+      "C": "vem sendo produzido com sucesso a partir do carvão mineral.",
+      "D": "pode ser renovado em escala de tempo muito inferior à do petróleo.",
+      "E": "não produz CO2 em sua queima, impedindo o efeito estufa."
+    },
+    "answer": "B"
+  },
+  {
+  "questionId": "Enem_B3577",
+  "questionText": "O esquema representa o ciclo do enxofre na natureza, sem considerar a intervenção humana.\n\nO ciclo representado mostra que a atmosfera, a litosfera, a hidrosfera e a biosfera, naturalmente,\n\nI. são poluídas por compostos de enxofre.\nII. são destinos de compostos de enxofre.\nIII. transportam compostos de enxofre.\nIV. são fontes de compostos de enxofre.\n\nDessas afirmações, estão corretas, apenas,",
+  "question": "Quais afirmações sobre o ciclo do enxofre estão corretas?",
+  "images": [
+    "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/23d1d786-fbee-425f-a43b-6f93d3a83cd3-arquivo-editor"
+  ],
+  "alternatives": {
+    "A": "I e II.",
+    "B": "I e III.",
+    "C": "II e IV.",
+    "D": "I, II e III.",
+    "E": "II, III e IV."
+  },
+  "answer": "E"
+}
+]
+}

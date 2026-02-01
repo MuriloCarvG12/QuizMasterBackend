@@ -2,13 +2,13 @@ require("dotenv").config();
 
 import "reflect-metadata";
 import express from "express";
-import  AppDataSource  from "./data_source";
+import  AppDataSource  from "./data_source.js";
 
 import cors from "cors";
-import subjectRouter from "./routes/Subject";
-import topicRouter from "./routes/Topic";
-import subtopicRouter from "./routes/SubTopic";
-import questionRouter from "./routes/question";
+import subjectRouter from "./routes/Subject.js";
+import topicRouter from "./routes/Topic.js";
+import subtopicRouter from "./routes/SubTopic.js";
+import questionRouter from "./routes/question.js";
 
 const app = express();
 

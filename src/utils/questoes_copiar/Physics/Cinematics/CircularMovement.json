@@ -1,0 +1,438 @@
+{
+    "examTitle": "Mov Circular",
+    "questions": [
+        {
+            "questionId": "Espcex_F0639",
+            "questionText": "Duas polias, A e B, ligadas por uma correia inextensível têm raios RA = 60 cm e RB = 20 cm, conforme o desenho abaixo. Admitindo que não haja escorregamento da correia e sabendo que a frequência da polia A é fA = 30 rpm, então a frequência da polia B é",
+            "question": "",
+            "images": [
+              "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/ferrettopublic/0ee29182-42ca-43b6-9b2f-940f40b90f78.png"
+            ],
+            "alternatives": {
+              "A": "10 rpm",
+              "B": "20 rpm",
+              "C": "80 rpm",
+              "D": "90 rpm",
+              "E": "120 rpm"
+            },
+            "answer": "D"
+          },
+          {
+            "questionId": "Unicamp_F0044",
+            "questionText": "As máquinas cortadeiras e colheitadeiras de cana-de-açúcar podem substituir dezenas de trabalhadores rurais, o que pode alterar de forma significativa a relação de trabalho nas lavouras de cana-de-açúcar. A pá cortadeira da máquina ilustrada na figura abaixo gira em movimento circular uniforme a uma frequência de 300 rpm. A velocidade de um ponto extremo P da pá vale (Considere π ~ 3)",
+            "question": "",
+            "images": [
+              "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/ferrettopublic/4e18276e-cfa8-4897-b661-b6841f0621cb.png"
+            ],
+            "alternatives": {
+              "A": "9 m/s",
+              "B": "15 m/s",
+              "C": "18 m/s",
+              "D": "60 m/s"
+            },
+            "answer": "C"
+          },
+          {
+            "questionId": "Cps_F1573",
+            "questionText": "Salto de penhasco é um esporte que consiste em saltar de uma plataforma elevada, em direção à água, realizando movimentos estéticos durante a queda. O saltador é avaliado nos seguintes aspectos: criatividade, destreza, rigor na execução do salto previsto, simetria, cadência dos movimentos e entrada na água.\n\nConsidere que um atleta salte de uma plataforma e realize 4 rotações completas durante a sua apresentação, entrando na água 2 segundos após o salto, quando termina a quarta rotação.\n\nSabendo que a velocidade angular para a realização de n rotações é calculada pela expressão\n\nω = 360n / Δt\n\nem que n é o número de rotações e Δt é o tempo em segundos, assinale a alternativa que representa a velocidade angular das rotações desse atleta, em graus por segundo.",
+            "question": "",
+            "images": [],
+            "alternatives": {
+              "A": "360",
+              "B": "720",
+              "C": "900",
+              "D": "1080",
+              "E": "1440"
+            },
+            "answer": "B"
+          },
+          {
+            "questionId": "Uerj_F0636",
+            "questionText": "Em um equipamento industrial, duas engrenagens, A e B, giram 100 vezes por segundo e 6.000 vezes por minuto, respectivamente. O período da engrenagem A equivale a TA e o da engrenagem B, a TB.\n\nA razão TA/TB é igual a:",
+            "question": "",
+            "images": [],
+            "alternatives": {
+              "A": "1/6",
+              "B": "3/5",
+              "C": "1",
+              "D": "6"
+            },
+            "answer": "C"
+          },
+          {
+            "questionId": "Pucmg_F1559",
+            "questionText": "“Nada como um dia após o outro”. Certamente esse dito popular está relacionado de alguma forma com a rotação da Terra em torno de seu próprio eixo, realizando uma rotação completa a cada 24 horas.\n\nPode-se, então, dizer que cada hora corresponde a uma rotação de:",
+            "question": "",
+            "images": [],
+            "alternatives": {
+              "A": "180o",
+              "B": "360o",
+              "C": "15o",
+              "D": "90o"
+            },
+            "answer": "C"
+          },
+          {
+            "questionId": "Upf_F0634",
+            "questionText": "Um corpo descreve um movimento circular uniforme cuja trajetória tem 5 m de raio. Considerando que o objeto descreve 2 voltas em 12 s, é possível afirmar que sua velocidade tangencial, em m/s, é de, aproximadamente\n\n(Considere π = 3,14 rad)",
+            "question": "",
+            "images": [],
+            "alternatives": {
+              "A": "3,14",
+              "B": "5,2",
+              "C": "15,7",
+              "D": "6,28",
+              "E": "31,4"
+            },
+            "answer": "B"
+          },
+          {
+            "questionId": "Unicamp_F1370",
+            "questionText": "Ao passar pelo sensor magnético, a velocidade linear de um ponto de uma fita cassete é v = 0,045 m/s. Depois de passar pelo sensor, a fita é enrolada em uma bobina circular de diâmetro d = 6,0 cm. Em quanto tempo a bobina completa uma volta? (use π = 3)",
+            "question": "",
+            "images": [],
+            "alternatives": {
+              "A": "0,65 s",
+              "B": "1,3 s",
+              "C": "4,0 s",
+              "D": "0,27 s"
+            },
+            "answer": "C"
+          },
+          {
+            "questionId": "Eear_F0637",
+            "questionText": "Um ponto material descreve um movimento circular uniforme com o módulo da velocidade angular igual a 10 rad/s. Após 100 s, o número de voltas completas percorridas por esse ponto material é. Adote π = 3.",
+            "question": "",
+            "images": [],
+            "alternatives": {
+              "A": "150",
+              "B": "166",
+              "C": "300",
+              "D": "333"
+            },
+            "answer": "B"
+          },
+          {
+            "questionId": "Uern_F0038",
+            "questionText": "Dois exaustores eólicos instalados no telhado de um galpão se encontram em movimento circular uniforme com frequências iguais a 2,0 Hz e 2,5 Hz. A diferença entre os períodos desses dois movimentos é igual a.",
+            "question": "",
+            "images": [],
+            "alternatives": {
+              "A": "0,1s.",
+              "B": "0,3s.",
+              "C": "0,5s.",
+              "D": "0,6s."
+            },
+            "answer": "A"
+          },
+          {
+            "questionId": "Pucrj_F1563",
+            "questionText": "O ponteiro dos minutos de um relógio tem 1 cm. Supondo que o movimento deste ponteiro é contínuo e que π = 3, a velocidade de translação na extremidade deste ponteiro é:",
+            "question": "",
+            "images": [],
+            "alternatives": {
+              "A": "0,1 cm/min.",
+              "B": "0,2 cm/min.",
+              "C": "0,3 cm/min.",
+              "D": "0,4 cm/min.",
+              "E": "0,5 cm/min."
+            },
+            "answer": "A"
+          },
+          {
+            "questionId": "Uece_F0043",
+            "questionText": "Durante uma hora o ponteiro dos minutos de um relógio de parede executa um determinado deslocamento angular. Nesse intervalo de tempo, sua velocidade angular, em graus/minuto, é dada por:",
+            "question": "",
+            "images": [],
+            "alternatives": {
+              "A": "360.",
+              "B": "36.",
+              "C": "6.",
+              "D": "1."
+            },
+            "answer": "C"
+          },
+          {
+            "questionId": "Pucrj_F1566",
+            "questionText": "Um satélite geoestacionário encontra-se sempre posicionado sobre o mesmo ponto em relação à Terra. Sabendo-se que o raio da órbita deste satélite é de 36 × 103 km e considerando-se π = 3, podemos dizer que sua velocidade é:",
+            "question": "",
+            "images": [],
+            "alternatives": {
+              "A": "0,5 km/s.",
+              "B": "1,5 km/s.",
+              "C": "2,5 km/s.",
+              "D": "3,5 km/s.",
+              "E": "4,5 km/s."
+            },
+            "answer": "C"
+          },
+          {
+            "questionId": "Puccamp_F1575",
+            "questionText": "Para que um satélite seja utilizado para transmissões de televisão, quando em órbita, deve ter a mesma velocidade angular de rotação da Terra, de modo que se mantenha sempre sobre um mesmo ponto da superfície terrestre. Considerando R o raio da órbita do satélite, dado em km, o módulo da velocidade escalar do satélite, em km/h, em torno do centro de sua órbita, considerada circular, é:",
+            "question": "",
+            "images": [],
+            "alternatives": {
+              "A": "πR/24.",
+              "B": "πR/12.",
+              "C": "πR.",
+              "D": "2πR.",
+              "E": "12πR."
+            },
+            "answer": "B"
+          },
+          
+            {
+                "questionId": "Ufrgs_F1560",
+                "questionText": "Levando-se em conta unicamente o movimento de rotação da Terra em torno de seu eixo imaginário, qual é aproximadamente a velocidade tangencial de um ponto na superfície da Terra, localizado sobre o equador terrestre?\n\n(Considere π = 3,14; raio da Terra RT = 6.000 km.)",
+                "question": "",
+                "images": [],
+                "alternatives": {
+                "A": "440 km/h.",
+                "B": "800 km/h.",
+                "C": "880 km/h.",
+                "D": "1.600 km/h.",
+                "E": "3.200 km/h."
+                },
+                "answer": "D"
+            },
+            {
+                "questionId": "Uece_F0632",
+                "questionText": "Considere um carrinho sobre trilhos em uma trajetória circular, como em um brinquedo de parque de diversões. Por questões de segurança, foi necessário duplicar o raio da trajetória sem que haja mudança na velocidade linear do carrinho. Para isso, a velocidade angular do móvel deve",
+                "question": "",
+                "images": [],
+                "alternatives": {
+                "A": "dobrar de valor.",
+                "B": "ser reduzida à metade.",
+                "C": "manter-se constante.",
+                "D": "quadruplicar."
+                },
+                "answer": "B"
+            },
+            {
+                "questionId": "Uece_F0633",
+                "questionText": "Um disco, do tipo DVD, gira com movimento circular uniforme, realizando 30 rpm. A velocidade angular dele, em rad/s, é",
+                "question": "",
+                "images": [],
+                "alternatives": {
+                  "A": "30 π.",
+                  "B": "2 π.",
+                  "C": "π.",
+                  "D": "60 π."
+                },
+                "answer": "C"
+              },
+              {
+                "questionId": "Uespi_F1569",
+                "questionText": "A engrenagem da figura a seguir é parte do motor de um automóvel. Os discos 1 e 2, de diâmetros 40 cm e 60 cm, respectivamente, são conectados por uma correia inextensível e giram em movimento circular uniforme. Se a correia não desliza sobre os discos, a razão ω1/ω2 entre as velocidades angulares dos discos vale",
+                "question": "",
+                "images": [
+                  "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/16da9adc-89f2-4160-a09c-75c2ea4b2003-arquivo-editor"
+                ],
+                "alternatives": {
+                  "A": "1/3",
+                  "B": "2/3",
+                  "C": "1",
+                  "D": "3/2",
+                  "E": "3"
+                },
+                "answer": "D"
+              },
+              {
+                "questionId": "Enem_F0572",
+                "questionText": "A invenção e o acoplamento entre engrenagens revolucionaram a ciência na época e propiciaram a invenção de várias tecnologias, como os relógios. Ao construir um pequeno cronômetro, um relojoeiro usa o sistema de engrenagens mostrado. De acordo com a figura, um motor é ligado ao eixo e movimenta as engrenagens fazendo o ponteiro girar. A frequência do motor é de 18 rpm, e o número de dentes das engrenagens está apresentado no quadro.",
+                "question": "",
+                "images": [
+                  "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/ferrettopublic/82c36daa-d82c-40ff-8b2f-25cf4dce0c9d.png",
+                  "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/ferrettopublic/27ed61a9-56df-4a98-914c-804dc5520828.png"
+                ],
+                "alternatives": {
+                  "A": "1.",
+                  "B": "2.",
+                  "C": "4.",
+                  "D": "81.",
+                  "E": "162."
+                },
+                "answer": "B"
+              },
+              {
+                "questionId": "Ufu_F1571",
+                "questionText": "Três rodas de raios Ra, Rb e Rc possuem velocidades angulares ωa, ωb e ωc, respectivamente, e estão ligadas entre si por meio de uma correia, como ilustra a figura adiante. Ao mesmo tempo que a roda de raio Rb realiza duas voltas, a roda de raio Rc realiza uma volta. Não há deslizamento entre as rodas e a correia. Sendo Rc = 3 Ra, é correto afirmar que:",
+                "question": "",
+                "images": [
+                  "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/cd8e6f97-c979-4546-adc3-06af1d420d84-arquivo-editor"
+                ],
+                "alternatives": {
+                  "A": "Rb = 4 Ra / 3 e ωa = 4 ωc / 3",
+                  "B": "Rb = 4 Ra / 3 e ωa = 3 ωc",
+                  "C": "Rb = 3 Ra / 2 e ωa = 4 ωc / 3",
+                  "D": "Rb = 3 Ra / 2 e ωa = 3 ωc"
+                },
+                "answer": "D"
+              },
+              {
+                "questionId": "Unesp_F1582",
+                "questionText": "Um pequeno motor a pilha é utilizado para movimentar um carrinho de brinquedo. Um sistema de engrenagens transforma a velocidade de rotação desse motor na velocidade de rotação adequada às rodas do carrinho. Esse sistema é formado por quatro engrenagens, A, B, C e D, sendo que A está presa ao eixo do motor, B e C estão presas a um segundo eixo e D a um terceiro eixo, no qual também estão presas duas das quatro rodas do carrinho. Nessas condições, quando o motor girar com frequência fM, as duas rodas do carrinho girarão com frequência fR. Sabendo que as engrenagens A e C possuem 8 dentes, que as engrenagens B e D possuem 24 dentes, que não há escorregamento entre elas e que fM = 13,5 Hz, é correto afirmar que fR, em Hz, é igual a",
+                "question": "",
+                "images": [
+                  "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/900bb321-c5da-4ca4-bae0-f59d442e6aad-arquivo-editor"
+                ],
+                "alternatives": {
+                  "A": "1,5.",
+                  "B": "3,0.",
+                  "C": "2,0.",
+                  "D": "1,0.",
+                  "E": "2,5."
+                },
+                "answer": "A"
+              },
+              {
+                "questionId": "Uemg_F1561",
+                "questionText": "Após estudar física exaustivamente para as provas de vestibular, Lívia sentiu-se mal e precisou receber a visita de um médico. Com base nas informações do diálogo apresentado e considerando uma roda que gire em torno do seu próprio eixo com velocidade angular (ω) constante, o período de rotação dessa roda é dado por:",
+                "question": "",
+                "images": [
+                  "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/f3d2f569-e6cf-4e21-94ff-085d2c7089b1-arquivo-editor"
+                ],
+                "alternatives": {
+                  "A": "2(ωπ)-1",
+                  "B": "2πω-1",
+                  "C": "ω2π",
+                  "D": "ω(2π)-1"
+                },
+                "answer": "B"
+              },
+              {
+                "questionId": "Uel_F0045",
+                "questionText": "O Brasil prepara-se para construir e lançar um satélite geoestacionário que vai levar banda larga a todos os municípios do país. Além de comunicações estratégicas para as Forças Armadas, o satélite possibilitará o acesso à banda larga mais barata a todos os municípios brasileiros. O ministro da Ciência e Tecnologia está convidando a Índia – que tem experiência neste campo, já tendo lançado 70 satélites – a entrar na disputa internacional pelo projeto, que trará ganhos para o consumidor nas áreas de Internet e telefonia 3G. (Adaptado de: BERLINCK, D. Brasil vai construir satélite para levar banda larga para todo país. O Globo, Economia, mar. 2012. Disponível em: <http://oglobo.globo.com/economia/brasil-vai-construir-satelite-para-levar-banda-larga-para-todo-pais-4439167>. Acesso em: 16 abr. 2012.). A posição média de um satélite geoestacionário em relação à superfície terrestre se mantém devido à",
+                "question": "",
+                "images": [],
+                "alternatives": {
+                  "A": "sua velocidade angular ser igual à velocidade angular da superfície terrestre.",
+                  "B": "sua velocidade tangencial ser igual à velocidade tangencial da superfície terrestre.",
+                  "C": "sua aceleração centrípeta ser proporcional ao cubo da velocidade tangencial do satélite.",
+                  "D": "força gravitacional terrestre ser igual à velocidade angular do satélite.",
+                  "E": "força gravitacional terrestre ser nula no espaço, local em que a atmosfera é rarefeita."
+                },
+                "answer": "A"
+              },
+              {
+                "questionId": "Uece_F0039",
+                "questionText": "O ano de 2015 tem um segundo a mais. No dia 30 de junho de 2015, um segundo foi acrescido à contagem de tempo de 2015. Isso ocorre porque a velocidade de rotação da Terra tem variações em relação aos relógios atômicos que geram e mantêm a hora legal. Assim, no dia 30 de junho, o relógio oficial registrou a sequência: 23h59min59s – 23h59min60s, para somente então passar a 1º de julho, 0h00min00s. Como essa correção é feita no horário de Greenwich, no Brasil a correção ocorreu às 21h, horário de Brasília. Isso significa que, em média, a velocidade angular do planeta",
+                "question": "",
+                "images": [],
+                "alternatives": {
+                  "A": "cresceu.",
+                  "B": "manteve-se constante e positiva.",
+                  "C": "decresceu.",
+                  "D": "é sempre nula."
+                },
+                "answer": "C"
+              },
+              {
+                "questionId": "Unesp_F1572",
+                "questionText": "Admita que em um trator semelhante ao da foto a relação entre o raio dos pneus de trás (rT) e o raio dos pneus da frente (rF) é rT = 1,5rF. Chamando de vT e vF os módulos das velocidades de pontos desses pneus em contato com o solo e de fT e fF as suas respectivas frequências de rotação, pode-se afirmar que, quando esse trator se movimenta, sem derrapar, são válidas as relações:",
+                "question": "",
+                "images": [
+                  "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/ade713c4-f6ba-4d0d-bf76-6d5dd45b7625-arquivo-editor"
+                ],
+                "alternatives": {
+                  "A": "vT = vF e fT = fF.",
+                  "B": "vT = vF e 1,5fT = fF.",
+                  "C": "vT = vF e fT = 1,5fF.",
+                  "D": "vT = 1,5vF e fT = fF.",
+                  "E": "1,5vT = vF e fT = fF."
+                },
+                "answer": "B"
+              },
+              {
+                "questionId": "Fer_F1412",
+                "questionText": "A transmissão de movimento entre a catraca e a coroa de uma bicicleta convencional está representado na figura a seguir. Na bicicleta, a coroa A conecta-se à catraca B através da correia P. Por sua vez, B é ligada à roda traseira R, girando com ela quando o ciclista está pedalando. Nesta situação, supondo que a bicicleta se move sem deslizar, as magnitudes das velocidades angulares, ωA, ωB e ωR, são tais que",
+                "question": "",
+                "images": [
+                  "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/ferrettopublic/d85b7119-a99f-4344-97d4-18aaa45dbd60.png"
+                ],
+                "alternatives": {
+                  "A": "ωA < ωB = ωR",
+                  "B": "ωA = ωB < ωR",
+                  "C": "ωA = ωB = ωR",
+                  "D": "ωA < ωB < ωR",
+                  "E": "ωA > ωB = ωR"
+                },
+                "answer": "A"
+              },
+              {
+                "questionId": "Ufpb_F1574",
+                "questionText": "Em uma bicicleta, a transmissão do movimento das pedaladas se faz através de uma corrente, acoplando um disco dentado dianteiro (coroa) a um disco dentado traseiro (catraca), sem que haja deslizamento entre a corrente e os discos. A catraca, por sua vez, é acoplada à roda traseira de modo que as velocidades angulares da catraca e da roda sejam as mesmas. Em uma corrida de bicicleta, o ciclista desloca-se com velocidade escalar constante, mantendo um ritmo estável de pedaladas, capaz de imprimir no disco dianteiro uma velocidade angular de 4 rad/s, para uma configuração em que o raio da coroa é 4R, o raio da catraca é R e o raio da roda é 0,5 m. Com base no exposto, conclui-se que a velocidade escalar do ciclista é:",
+                "question": "",
+                "images": [
+                  "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/fb667b0d-c592-498e-9591-57f6bb263501-arquivo-editor"
+                ],
+                "alternatives": {
+                  "A": "2 m/s",
+                  "B": "4 m/s",
+                  "C": "8 m/s",
+                  "D": "12 m/s",
+                  "E": "16 m/s"
+                },
+                "answer": "C"
+              },
+              {
+                "questionId": "Ifsc_F1564",
+                "questionText": "Na figura abaixo, temos duas polias de raios R1 e R2, que giram no sentido horário, acopladas a uma correia que não desliza sobre as polias. Com base no enunciado acima e na ilustração, é correto afirmar que:",
+                "question": "",
+                "images": [
+                  "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/ec76f881-7904-4a24-9ffc-b90ecd9d2083-arquivo-editor"
+                ],
+                "alternatives": {
+                  "A": "a velocidade angular da polia 1 é numericamente igual à velocidade angular da polia 2.",
+                  "B": "a frequência da polia 1 é numericamente igual à frequência da polia 2.",
+                  "C": "o módulo da velocidade na borda da polia 1 é numericamente igual ao módulo da velocidade na borda da polia 2.",
+                  "D": "o período da polia 1 é numericamente igual ao período da polia 2.",
+                  "E": "a velocidade da correia é diferente da velocidade da polia 1."
+                },
+                "answer": "C"
+              },
+              {
+                "questionId": "Unicamp_F0040",
+                "questionText": "Considere um computador que armazena informações em um disco rígido que gira a uma frequência de 120 Hz. Cada unidade de informação ocupa um comprimento físico de 0,2 µm na direção do movimento de rotação do disco. Quantas informações magnéticas passam, por segundo, pela cabeça de leitura, se ela estiver posicionada a 3 cm do centro de seu eixo, como mostra o esquema simplificado apresentado abaixo?",
+                "question": "",
+                "images": [
+                  "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/ferrettopublic/fab09e22-734e-4c5c-867d-a0f10eb7f44a.png"
+                ],
+                "alternatives": {
+                  "A": "1,62 x 10^6",
+                  "B": "1,8 x 10^6",
+                  "C": "64,8 x 10^8",
+                  "D": "1,08 x 10^8"
+                },
+                "answer": "D"
+              },
+              {
+                "questionId": "Uftm_F1568",
+                "questionText": "Foi divulgado pela imprensa que a ISS (sigla em inglês para Estação Espacial Internacional) retornará à Terra por volta de 2020 e afundará no mar, encerrando suas atividades, como ocorreu com a Estação Orbital MIR, em 2001. Atualmente, a ISS realiza sua órbita a 350 km da Terra e seu período orbital é de aproximadamente 90 minutos. Considerando o raio da Terra igual a 6 400 km e π ~ 3, pode-se afirmar que",
+                "question": "",
+                "images": [],
+                "alternatives": {
+                  "A": "ao afundar no mar o peso da água deslocada pela estação espacial será igual ao seu próprio peso.",
+                  "B": "a pressão total exercida pela água do mar é exatamente a mesma em todos os pontos da estação.",
+                  "C": "a velocidade linear orbital da estação é, aproximadamente, 27 x 10^3 km/h.",
+                  "D": "a velocidade angular orbital da estação é, aproximadamente, 0,25 rad/h.",
+                  "E": "ao reingressar na atmosfera a aceleração resultante da estação espacial será radial e de módulo constante."
+                },
+                "answer": "C"
+              },
+              {
+                "questionId": "Unicamp_F1317",
+                "questionText": "Em 2018, a NASA lançou a sonda Solar Parker com o objetivo de estudar o Sol. Para isso, ao longo de suas órbitas, a sonda se aproximará gradativamente da estrela, coletando dados a cada passagem. Em abril de 2021, a Solar Parker fez sua oitava aproximação, atingindo dois novos recordes de artefatos realizados pelo homem: maior velocidade e máxima aproximação do Sol. Uma sonda viaja a uma velocidade de módulo constante igual a v = 5x10^5 km/h (aproximadamente a velocidade atingida pela sonda em abril de 2021), tangenciando a superfície da Terra ao longo da Linha do Equador. Em uma hora, aproximadamente quantas voltas a sonda dá em torno da Terra? Dado: Raio da Terra RTerra = 6,0x10^3 km.",
+                "question": "",
+                "images": [],
+                "alternatives": {
+                  "A": "83.",
+                  "B": "30.",
+                  "C": "14.",
+                  "D": "0,5."
+                },
+                "answer": "C"
+              }
+
+    ]
+}

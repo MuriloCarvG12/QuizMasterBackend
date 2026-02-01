@@ -1,0 +1,341 @@
+{
+    "examTitle": "Class do Nome",
+    "questions": [
+        {
+  "questionId": "Upe_B2055",
+  "questionText": "Observe o texto e a figura ao lado:\n\n\nhttps://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/df85d8c5-b144-4a36-a821-b456cecd4c87-arquivo-editor\n\nImagine que você precisou entreter algumas crianças com a visualização de um vídeo sobre dinossauros. O trecho a seguir despertou perguntas.\n\n\n...Dinossauro\n\nVeio muito antes do meu ta ta taravô...\n\n...Não é fácil de achar um fóssil\n\nAinda mais haver um ovo intacto\n\nImagina ver um desses vivo\n\nEu corria logo pro meu quarto...\n\nhttp://www.mundobita.com.br/\n\n\nAs crianças querem saber:\n\n\n- Por que não é fácil achar um fóssil?\n\n- Por que dinossauros deixaram de existir?\n\n- Por que é importante conhecê-los?\n\n\nAssinale a alternativa que responde, de forma correta, a uma das curiosidades das crianças.",
+  "question": "Qual alternativa responde corretamente a uma das curiosidades das crianças sobre fósseis e dinossauros?",
+  "images": [
+    "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/df85d8c5-b144-4a36-a821-b456cecd4c87-arquivo-editor"
+  ],
+  "alternatives": {
+    "A": "Preservar restos de animais é difícil por causa da decomposição por bactérias e fungos; em geral, partes moles são mais fáceis de conservar. Os dinossauros foram extintos, há milhões de anos, pela erupção de um vulcão.",
+    "B": "Partes duras e moles dos seres apresentam igual probabilidade de se fossilizarem, como é possível ver nos museus. Os dinossauros foram extensivamente caçados pelos Neandertais, o que os levou à extinção.",
+    "C": "Fósseis de dinossauros são provas concretas da existência de vida na Terra, sendo uma importante ferramenta de estudo da evolução, que ocorreu nos seres vivos e no próprio planeta.",
+    "D": "Se os fósseis dos dinossauros não fossem estudados, nunca saberíamos que essas aves gigantescas viveram no planeta, na mesma época da espécie humana.",
+    "E": "A Terra passou por vários períodos de extinção dos seres vivos. No Cretáceo, 90% das espécies vivas do planeta desapareceram, e, durante o Permiano, os dinossauros foram extintos juntamente com os mamutes."
+  },
+  "answer": "C"
+},
+{
+  "questionId": "Unesp_B2072",
+  "questionText": "Apesar do acúmulo dos estudos sobre evolução dos seres vivos e de uma série de evidências coletadas desde a época de Darwin, observa-se uma onda de posicionamentos contrários às teorias evolucionistas. Em vários estados dos EUA e em um estado do Brasil, por exemplo, foi incluído o ensino do criacionismo, por decisão governamental. Um dos professores que ensinará o criacionismo em uma destas escolas brasileiras afirmou: Tenho certeza de que minha avó não era macaca.\n\nCiência Hoje, outubro de 2004.",
+  "question": "No entanto, a partir dos estudos de evolução dos primatas, em particular, podemos afirmar que:",
+  "images": [],
+  "alternatives": {
+    "A": "macacos originaram-se tanto na América quanto na África, assim como os humanos, o que reforça a hipótese da existência de um ancestral comum.",
+    "B": "humanos e macacos têm um mesmo ancestral, uma vez que o tamanho do cérebro dos macacos é muito próximo do tamanho do cérebro dos humanos.",
+    "C": "geneticamente, alguns macacos são muito próximos dos humanos, o que se considera como uma evidência em termos de ancestralidade comum.",
+    "D": "humanos e macacos têm um ancestral comum, pois em suas regiões de origem apresentam hábitos alimentares muito semelhantes.",
+    "E": "o fato de apenas macacos e humanos apresentarem as mãos com cinco dedos é a maior evidência de ancestralidade comum."
+  },
+  "answer": "C"
+},
+{
+  "questionId": "Unichristus_B2069",
+  "questionText": "O quadro, a seguir, mostra a comparação do número de aminoácidos diferentes, nas cadeias polipeptídicas da hemoglobina de vários mamíferos. A análise bioquímica de polipetídeos e proteínas, além de outras evidências, permite aos cientistas traçarem as linhas evolutivas dos diferentes grupos de seres vivos.\n\nhttps://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/91a7a147-0d7d-4a02-ace9-4076f9af2fe3-arquivo-editor\n\nCom respeito ao quadro e às evidências da evolução dos seres vivos, depreende-se que",
+  "question": "Com respeito ao quadro e às evidências da evolução dos seres vivos, depreende-se que",
+  "images": [
+    "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/91a7a147-0d7d-4a02-ace9-4076f9af2fe3-arquivo-editor"
+  ],
+  "alternatives": {
+    "A": "o fato de encontrarmos a enzima tripsina desde protozoários até mamíferos não serve como uma evidência bioquímica do processo evolutivo.",
+    "B": "o sequenciamento do DNA permite estudos evolutivos, além do estudo das proteínas.",
+    "C": "o quadro mostra que, quanto à hemoglobina, o gorila é uma espécie mais próxima do homem do que o chimpanzé.",
+    "D": "o cavalo, com relação à hemoglobina, apresenta maior similaridade com o gorila do que com o homem.",
+    "E": "o fato de não haver diferenças entre a hemoglobina do chimpanzé e a do homem nos permite classificá-los como pertencentes ao mesmo gênero."
+  },
+  "answer": "B"
+},
+{
+  "questionId": "Fuvest_B2054",
+  "questionText": "A observação de faunas dos continentes do hemisfério Sul revela profundas diferenças. Na América do Sul, existem preguiças, antas, capivaras, tamanduás e onças; na África, há leões, girafas, camelos, zebras e hipopótamos; na Austrália, cangurus, ornitorrincos e équidnas e, na Antártida, os pinguins. Entretanto, descobriram-se espécies fósseis idênticas nessas regiões. Assim, fósseis da gimnosperma Glossopteris foram encontrados ao longo das costas litorâneas da África, América do Sul, Austrália e Antártida, e ainda fósseis dos répteis Cynognathus e Lystrosaurus foram descobertos na América do Sul, África e Antártida. Para explicar esses fatos, formularam-se as seguintes hipóteses:\n\nI. A presença de fósseis idênticos, nos vários continentes, prova que todas as formas de vida foram criadas simultaneamente nas diversas regiões da Terra e se diferenciaram mais tarde.\n\nII. As faunas e floras atuais são resultado da seleção natural em ambientes diversos, isolados geograficamente.\n\nIII. Os continentes, há milhões de anos, eram unidos, separando-se posteriormente.\n\nEstá correto o que se afirma em",
+  "question": "Está correto o que se afirma em",
+  "images": [],
+  "alternatives": {
+    "A": "I, apenas.",
+    "B": "II, apenas.",
+    "C": "I e III, apenas.",
+    "D": "II e III, apenas.",
+    "E": "I, II e III."
+  },
+  "answer": "D"
+},
+{
+  "questionId": "Unicamp_B2070",
+  "questionText": "A figura a seguir ilustra fragmentos de um gene presente em 4 espécies identificadas com os números de 1 a 4 entre parênteses.\n\nCACTTGTAAAACCAGTATAGACCCTAG (1)\nCACTTGTAAAACCAGGATAGACGCTAG (2)\nCACTTGTAAAACCAGTATAGACGCTAG (3)\nCATTTTTAACACCAGGATAGACGCTAT (4)\n\nAssinale a alternativa correta.",
+  "question": "Assinale a alternativa correta.",
+  "images": [],
+  "alternatives": {
+    "A": "As espécies 1 e 4 são mais próximas entre si do que as espécies 1 e 3.",
+    "B": "As espécies 2 e 3 são mais próximas entre si do que as espécies 1 e 3.",
+    "C": "As espécies 1 e 3 são mais próximas entre si do que as espécies 3 e 4.",
+    "D": "As espécies 2 e 4 são mais próximas entre si do que as espécies 1 e 2."
+  },
+  "answer": "C"
+},
+{
+  "questionId": "Enem_B2066",
+  "questionText": "A recapitulação é uma ideia audaciosa e influente, associada especialmente a Ernst Haeckl. Segundo a teoria da recapitulação, as fases de desenvolvimento de um organismo (ontogenia) correspondem à história de sua espécie (filogenia). A aparência transitória de estruturas semelhantes a fendas branquiais no desenvolvimento de humanos e outros mamíferos é um exemplo notável. Os mamíferos evoluíram de um estágio ancestral de peixe e suas fendas branquiais embrionárias recapitulam tal ancestralidade.\n\nCom base nos pressupostos da teoria da recapitulação, a assertiva que melhor a resume é:",
+  "question": "Com base nos pressupostos da teoria da recapitulação, a assertiva que melhor a resume é:",
+  "images": [],
+  "alternatives": {
+    "A": "“A ontogenia recapitula a filogenia”.",
+    "B": "“A vida recapitula a morte dos antepassados”.",
+    "C": "“A teoria da vida recapitula a história da vida”.",
+    "D": "“A aparência transitória é um exemplo notável”.",
+    "E": "“A ontogenia consiste na formação das brânquias dos peixes”."
+  },
+  "answer": "A"
+},
+{
+  "questionId": "Unifor_B2062",
+  "questionText": "As formas do corpo do golfinho, dos peixes, especialmente tubarões, e de um réptil fóssil chamado ictiossauro são bastante semelhantes, adaptadas à natação. Neste caso, a semelhança não é sinal de parentesco, mas resultado da adaptação desses organismos ao ambiente aquático. Portanto, características que evoluíram independentemente, mas que foram submetidas a pressões seletivas semelhantes, podem tornar-se superficialmente similares. Esse processo é resultado de",
+  "question": "Esse processo é resultado de:",
+  "images": ["https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/6d10a453-4762-4972-9375-1448d8d0ce21-arquivo-editor"],
+  "alternatives": {
+    "A": "Evolução divergente.",
+    "B": "Reversões evolutivas.",
+    "C": "Evolução convergente.",
+    "D": "Irradiação adaptativa.",
+    "E": "Lamarckismo."
+  },
+  "answer": "C"
+},
+{
+  "questionId": "Ufpi_B2046",
+  "questionText": "Evolução é um processo biológico apresentado por um (uma):",
+  "question": "Evolução é um processo biológico apresentado por um (uma):",
+  "images": [],
+  "alternatives": {
+    "A": "célula.",
+    "B": "tecido.",
+    "C": "órgão.",
+    "D": "organismo.",
+    "E": "população."
+  },
+  "answer": "E"
+},
+{
+  "questionId": "Uninassau_B2048",
+  "questionText": "Um grupo de pesquisadores espanhóis descobriu nas montanhas dos Pirineus pegadas de uma antiga espécie de réptil até agora desconhecida, que viveu entre 247 e 248 milhões de anos atrás. O fóssil denominado ‘Prorotodactylus mesaxonichnus’ foi encontrado junto com um conjunto de rastros de répteis ancestrais dos dinossauros e crocodilos, grupo conhecido como Archosauromorpha. As pegadas podem ser classificadas como fósseis?",
+  "question": "As pegadas do ‘Prorotodactylus mesaxonichnus’ podem ser classificadas como fósseis?",
+  "images": [],
+  "alternatives": {
+    "A": "Não. Para ser um fóssil verdadeiro, tem de apresentar restos do ser vivo, como ossos. As pegadas são boas pistas para encontrá-los.",
+    "B": "Sim. As pegadas podem ser classificadas como um vestígio do tipo molde interno proveniente da mineralização dos restos do animal.",
+    "C": "Não. O tempo necessário para considerarmos um rastro de seres vivos como fóssil é de no mínimo 500 milhões de anos.",
+    "D": "Sim. As pegadas são consideradas um vestígio do tipo molde externo ou impressão e apresentam tempo suficiente para serem consideradas fósseis.",
+    "E": "Não. Para ser considerado um fóssil verdadeiro é necessário que haja uma ligação direta entre a espécie encontrada e uma atual."
+  },
+  "answer": "D"
+},
+{
+  "questionId": "Unesp_B2063",
+  "questionText": "No filme Avatar, os Na’Vi são descritos como indivíduos com características próprias, incluindo uma cauda que auxilia na locomoção entre galhos. Considerando que seriam uma espécie real, sem parentesco próximo com espécies da Terra, e que evoluíram sob pressões seletivas semelhantes às da Terra, a cauda dos Na’Vi, em relação à cauda dos macacos, seria um exemplo de estruturas:",
+  "question": "A cauda dos Na’Vi, em relação à cauda dos macacos, seria um exemplo de:",
+  "images": [],
+  "alternatives": {
+    "A": "homólogas, resultantes de um processo de divergência adaptativa.",
+    "B": "homólogas, resultantes de um processo de convergência adaptativa.",
+    "C": "análogas, resultantes de um processo de divergência adaptativa.",
+    "D": "análogas, resultantes de um processo de convergência adaptativa.",
+    "E": "vestigiais, resultantes de terem sido herdadas de um ancestral comum, a partir do qual a cauda se modificou."
+  },
+  "answer": "D"
+},
+{
+  "questionId": "Unesp_B2064",
+  "questionText": "Mensagens publicitárias e científicas podem usar a palavra 'evolução' com sentidos distintos. No ponto de vista biológico, evoluir significa apenas 'mudar no tempo' e não necessariamente melhorar. Uma característica só pode ser considerada melhor no contexto histórico e ambiental em que surge. Com isso, avalie os conceitos de evolução presentes nas duas mensagens apresentadas.",
+  "question": "Considerando o ponto de vista biológico, podemos afirmar corretamente que os conceitos de evolução expressos nas duas mensagens são:",
+  "images": [],
+  "alternatives": {
+    "A": "os mesmos: a evolução biológica sempre agrega melhorias a partir de características pré-existentes, aperfeiçoando-as. Isso se dá basicamente por mutações.",
+    "B": "parecidos: enquanto um produtor visa melhorar seu produto, a evolução tem por finalidade produzir organismos melhores a partir da seleção de mutações benéficas e adaptativas.",
+    "C": "semelhantes: embora a evolução não vise à melhoria, o fato é que as características selecionadas são sempre melhores que as anteriores, resultando em organismos atuais melhores que seus ancestrais.",
+    "D": "distintos: evoluir biologicamente significa 'mudar no tempo', e não necessariamente melhorar. Uma característica será melhor que outra somente se interpretada num contexto histórico e ambiental.",
+    "E": "diferentes: evoluir não significa que um único indivíduo tenha todas as melhorias. As características adaptativas são diferentes nos indivíduos e a população como um todo é que se apresenta melhorada."
+  },
+  "answer": "D"
+},
+{
+  "questionId": "Uece_B2061",
+  "questionText": "O processo de evolução natural das espécies produz estruturas homólogas e análogas nos seres vivos. Com relação a essas estruturas, assinale a alternativa correta:",
+  "question": "Com relação às estruturas homólogas e análogas, assinale a alternativa correta:",
+  "images": [],
+  "alternatives": {
+    "A": "São ditas homólogas quando apresentam mesmas funções e origem.",
+    "B": "São ditas análogas quando apresentam funções e origens diferentes.",
+    "C": "São ditas homólogas quando apresentam mesmas funções e origens diferentes.",
+    "D": "São ditas homólogas quando apresentam funções diferentes mas as mesmas origens."
+  },
+  "answer": "D"
+},
+{
+    "questionId": "Unesp_B2058",
+    "questionText": "A estrutura dos ossos sendo a mesma na mão de um homem, na asa de um morcego, na nadadeira de um golfinho e na pata de um cavalo – o mesmo número de vértebras no pescoço da girafa e no pescoço do elefante -, e inúmeros outros fatos desse tipo, explicam-se na teoria da descendência pelas pequenas e lentas modificações sucessivas. (Charles Darwin, A Origem das Espécies. 1859.)",
+    "question": "No trecho, Darwin apresenta como evidências da evolução",
+    "images": [],
+    "alternatives": {
+      "A": "os órgãos homólogos.",
+      "B": "os órgãos análogos.",
+      "C": "os órgãos vestigiais.",
+      "D": "a seleção natural.",
+      "E": "a mutação."
+    },
+    "answer": "A"
+  },
+  {
+    "questionId": "Enem_B2043",
+    "questionText": "Embora seja um conceito fundamental para a biologia, o termo “evolução” pode adquirir significados diferentes no senso comum. A ideia de que a espécie humana é o ápice do processo evolutivo é amplamente difundida, mas não é compartilhada por muitos cientistas. Para esses cientistas, a compreensão do processo citado baseia-se na ideia de que os seres vivos, ao longo do tempo, passam por",
+    "question": "Para esses cientistas, a compreensão do processo evolutivo baseia-se em que ideia?",
+    "images": [],
+    "alternatives": {
+      "A": "Modificação de características.",
+      "B": "Incremento do tamanho corporal.",
+      "C": "Complexificação de seus sistemas.",
+      "D": "Melhoria de processos e estruturas.",
+      "E": "Especialização para determinada finalidade."
+    },
+    "answer": "A"
+  },
+  {
+    "questionId": "Fip_B2047",
+    "questionText": "“Que obra de arte é um homem! A beleza do mundo, a flor dos animais!”. Assim como Hamlet de Shakespeare, nós também nos maravilhamos diante das admiráveis características da nossa espécie. A ciência da Evolução, por meio da sua história, explica a unidade da vida, ao assinalar que todas as espécies se originaram de ancestrais comuns, ao longo dos últimos 4 bilhões de anos. Explica, também,",
+    "question": "O que a ciência da Evolução também explica?",
+    "images": [],
+    "alternatives": {
+      "A": "as características adaptativas e não adaptativas, dos organismos por meio de processos meramente evolutivos influenciados por circunstâncias ambientais.",
+      "B": "a diversidade e as características adaptativas dos organismos, por meio de processos de alteração genética, influenciada por circunstâncias ambientais.",
+      "C": "as características não adaptativas dos organismos, por meio de processos de alteração genética, influenciada por circunstâncias ambientais.",
+      "D": "a diversidade e as características, tanto adaptativas quanto não adaptativas, dos organismos por meio de processos de alteração genética, sem levar em consideração as influências ambientais.",
+      "E": "a diversidade e as características, tanto adaptativas quanto não adaptativas, dos organismos por meio de processos de alteração genética, influenciada por circunstâncias ambientais."
+    },
+    "answer": "E"
+  },
+  {
+    "questionId": "Ufrgs_B2057",
+    "questionText": "A presença de estruturas vestigiais em uma espécie indica que essa espécie:",
+    "question": "O que a presença de estruturas vestigiais indica sobre uma espécie?",
+    "images": [],
+    "alternatives": {
+      "A": "encontra-se em via de desaparecimento, descendendo de espécies em que aquelas estruturas são normalmente desenvolvidas.",
+      "B": "é antecessora da espécie em que aquelas estruturas se desenvolvem (ou se desenvolverão).",
+      "C": "vem mudando de hábito, tornando desnecessárias aquelas estruturas, que tendem a desaparecer.",
+      "D": "migrou de seu ambiente original, tornando involuídas aquelas estruturas.",
+      "E": "descende, com outras que têm aquelas estruturas desenvolvidas, de um ancestral comum."
+    },
+    "answer": "E"
+  },
+  {
+    "questionId": "Uece_B2050",
+    "questionText": "Fósseis são restos ou vestígios de organismos que viveram em passado remoto, constituindo-se nos exemplos concretos do processo evolutivo. O processo de fossilização é favorecido se:",
+    "question": "Em quais condições o processo de fossilização é favorecido?",
+    "images": [],
+    "alternatives": {
+      "A": "o organismo permanecer em ambiente oxigenado, depois da sua morte.",
+      "B": "a cadeia alimentar se completar até o último nível trófico, o da decomposição.",
+      "C": "a cadeia alimentar seja interrompida, contribuindo para isso o sepultamento rápido, ambiente anóxico, entre outros fatores.",
+      "D": "o organismo morrer em ambiente gelado, embora possa descongelar, a céu aberto e em condições normais de temperatura e pressão, durante o processo de fossilização."
+    },
+    "answer": "C"
+  },
+  {
+    "questionId": "Fac.AlbertEinstein_B2071",
+    "questionText": "O orangotango, o chimpanzé e a espécie humana apresentam grande semelhança bioquímica. Após análise de substâncias e processos que ocorrem nas células, qual das situações abaixo permite apontar essa semelhança entre as três espécies?",
+    "question": "Qual situação permite apontar a semelhança bioquímica entre orangotango, chimpanzé e humanos?",
+    "images": [
+      "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/156a4511-1d46-4134-a163-7f025e45bf30-arquivo-editor"
+    ],
+    "alternatives": {
+      "A": "Os diversos tipos de aminoácidos livres no citosol.",
+      "B": "A existência de transporte ativo de íons através da membrana plasmática.",
+      "C": "A sequência de aminoácidos que constituem os citocromos presentes na mitocôndria.",
+      "D": "As sequências de anticódons das moléculas de RNA transportador presentes no citosol."
+    },
+    "answer": "C"
+  },
+  {
+    "questionId": "Unifor_B2044",
+    "questionText": "A evolução biológica é entendida como um processo:",
+    "question": "Como é entendida a evolução biológica?",
+    "images": [],
+    "alternatives": {
+      "A": "que promove sempre mudanças adaptativas ao longo do tempo.",
+      "B": "de mudanças dos organismos para acompanhar as estações do ano.",
+      "C": "que leva progressivamente ao topo da cadeia evolutiva.",
+      "D": "de modificações hereditárias nas populações ao longo das gerações.",
+      "E": "que ocorreu em eras remotas, quando as condições eram propícias."
+    },
+    "answer": "D"
+  },
+  {
+    "questionId": "Uece_B2056",
+    "questionText": "Considerando a evolução da espécie Homo sapiens, são órgãos vestigiais presentes no corpo humano:",
+    "question": "Quais órgãos vestigiais estão presentes no corpo humano?",
+    "images": [],
+    "alternatives": {
+      "A": "músculos, vértebra coccígea e dentes caninos.",
+      "B": "mamilo do macho, fíbula e apêndice.",
+      "C": "segmentação da musculatura abdominal, membrana nictitante e amígdalas.",
+      "D": "músculos da orelha, dentes do siso e pelos do corpo."
+    },
+    "answer": "D"
+  },
+  {
+    "questionId": "Ufjf_B2065",
+    "questionText": "Em relação às evidências da evolução biológica, é correto afirmar que:",
+    "question": "Qual afirmação está correta sobre evidências da evolução biológica?",
+    "images": [],
+    "alternatives": {
+      "A": "um órgão vestigial, como o apêndice vermiforme no homem, não é evidência da evolução, porque é uma estrutura atrofiada e sem função aparente.",
+      "B": "a pata dianteira de um cavalo e a asa de um morcego constituem evidência da evolução, porque são estruturas homólogas, apesar de o cavalo ter perdido os dedos, enquanto no morcego estes não só foram mantidos como alongados.",
+      "C": "a asa de uma ave e o élitro (asa dura) de um besouro podem ser considerados como evidência da evolução, porque são estruturas análogas, que possuem origem embriológica diferente.",
+      "D": "os fósseis constituem uma evidência da evolução, porque mostram que os organismos atuais são mais especializados e mais adaptados que os extintos.",
+      "E": "a embriogênese é uma evidência da evolução, porque mostra que uma célula ovo evolui para mórula, blástula, gástrula e embrião, que, finalmente, evolui para o indivíduo adulto."
+    },
+    "answer": "C"
+  },
+  {
+    "questionId": "Enem_B2051",
+    "questionText": "Pesquisadores recuperaram DNA de ossos de mamute encontrados na Sibéria, com idade confirmada pela técnica do carbono-14. A técnica só é possível devido a:",
+    "question": "Por que a técnica de datação por carbono-14 é possível?",
+    "images": [],
+    "alternatives": {
+      "A": "proporção conhecida entre carbono-14 e carbono-12 na atmosfera ao longo dos anos.",
+      "B": "decomposição de todo o carbono-12 presente no organismo após a morte.",
+      "C": "fixação maior do carbono-14 nos tecidos de organismos após a morte.",
+      "D": "emissão de carbono-12 pelos tecidos de organismos após a morte.",
+      "E": "transformação do carbono-12 em carbono-14 ao longo dos anos."
+    },
+    "answer": "A"
+  },
+  {
+    "questionId": "Ufscar_B2060",
+    "questionText": "Considere os seguintes pares de estruturas:\n\nI. Folhas de uma laranjeira e espinhos de um cacto.\n\nII. Penas de uma ave e pelos de um mamífero.\n\nIII. Asas de um morcego e asas de uma borboleta.\n\nPara cada par, pode-se dizer que as estruturas citadas em",
+    "question": "Para cada par, pode-se dizer que as estruturas citadas em:",
+    "images": [],
+    "alternatives": {
+      "A": "I e II são homólogas e as citadas em III são análogas.",
+      "B": "I e III são homólogas e as citadas em II são análogas.",
+      "C": "II e III são homólogas e as citadas em I são análogas.",
+      "D": "I e II são análogas e as citadas em III são homólogas.",
+      "E": "II e III são análogas e as citadas em I são homólogas."
+    },
+    "answer": "A"
+  },
+  {
+    "questionId": "Ufrgs_B2049",
+    "questionText": "Considere as afirmações abaixo sobre os fósseis.\n\nI. Partes de organismos são consideradas fósseis, somente se encontradas em rochas sedimentares.\n\nII. O processo de fossilização requer condições ambientais específicas, o que contribui para a sua raridade.\n\nIII. Fósseis mais antigos podem ser encontrados na camada superior do sedimento, em função das movimentações da crosta terrestre.\n\nQuais estão corretas?",
+    "question": "Quais estão corretas?",
+    "images": [],
+    "alternatives": {
+      "A": "Apenas I.",
+      "B": "Apenas II.",
+      "C": "Apenas I e III.",
+      "D": "Apenas II e III.",
+      "E": "I, II e III."
+    },
+    "answer": "D"
+  }
+    ]}

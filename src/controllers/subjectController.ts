@@ -1,7 +1,7 @@
-import AppDataSource from "../data_source";
+import AppDataSource from "../data_source.js";
 import { Request , Response } from "express";
-import { Subject } from "../entities/Subject";
-import ConstSubjects from "../consts/ConstSubject";
+import { Subject } from "../entities/Subject.js";
+import ConstSubjects from "../consts/ConstSubject.js";
 
 
 

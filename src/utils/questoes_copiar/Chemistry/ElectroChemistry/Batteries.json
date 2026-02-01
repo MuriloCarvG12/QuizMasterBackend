@@ -1,0 +1,685 @@
+{
+    "examTitle": "Pilhas",
+    "questions": [
+          {
+    "questionId": "Ifsul_Q0738",
+    "questionText": "Considere a célula eletroquímica a seguir e os potenciais de redução das semirreações.",
+    "question": "Qual é a ddp da pilha?",
+    "images": [
+      "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/d792ceae-68fd-47bb-8dd7-d3adaa5380f7-arquivo-editor"
+    ],
+    "alternatives": {
+      "A": "0,59 V",
+      "B": "0,34 V",
+      "C": "0,25 V",
+      "D": "0,19 V"
+    },
+    "answer": "A"
+  },
+  {
+    "questionId": "Pucrj_Q0740",
+    "questionText": "A partir dos valores de potencial padrão de redução apresentados abaixo, o potencial padrão do sistema formado por um anodo de Zn/Zn²⁺ e um catodo de Ag/AgCl seria:",
+    "question": "",
+    "images": [
+      "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/e6815fcf-d215-45b1-b339-331dd5692a35-arquivo-editor"
+    ],
+    "alternatives": {
+      "A": "−1,32 V",
+      "B": "−1,16 V",
+      "C": "−0,36 V",
+      "D": "+0,56 V",
+      "E": "+0,96 V"
+    },
+    "answer": "E"
+  },
+  {
+    "questionId": "Pucsp_Q0755",
+    "questionText": "Considerando uma pilha formada pelos eletrodos de alumínio e cobre, qual será o valor de ΔE⁰ da pilha?",
+    "question": "",
+    "images": [
+      "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/f834d8ac-d392-4ee4-a79e-c2704503fb0b-arquivo-editor"
+    ],
+    "alternatives": {
+      "A": "+4,38 V",
+      "B": "+2,02 V",
+      "C": "–2,36 V",
+      "D": "–1,34 V"
+    },
+    "answer": "B"
+  },
+  {
+    "questionId": "Udesc_Q0742",
+    "questionText": "Em uma pilha de Daniel, o eletrodo em que ocorre a oxidação é denominado:",
+    "question": "",
+    "images": [],
+    "alternatives": {
+      "A": "célula eletrolítica",
+      "B": "cátodo",
+      "C": "ânodo",
+      "D": "célula eletroquímica",
+      "E": "célula galvânica"
+    },
+    "answer": "C"
+  },
+    {
+    "questionId": "Pucrs_Q0739",
+    "questionText": "Um estudante cravou uma lâmina de magnésio e uma lâmina de cobre em uma maçã, tendo o cuidado para que não encostassem uma na outra. A seguir, mediu a diferença de potencial entre as lâminas por meio de um voltímetro. Os potenciais de redução padrão do magnésio e do cobre são, respectivamente, –2,37 V e +0,34 V.",
+    "question": "Pela análise do texto, é correto afirmar que",
+    "images": [],
+    "alternatives": {
+      "A": "o cobre se oxida, produzindo íons Cu2+(aq).",
+      "B": "o valor da diferença de potencial entre magnésio e cobre é, aproximadamente, +2,71 V.",
+      "C": "o magnésio é um agente oxidante, pois força o cobre a sofrer a redução.",
+      "D": "o experimento descrito resulta em uma reação não espontânea, pois o potencial é negativo.",
+      "E": "com o tempo, há tendência de a lâmina de cobre desaparecer."
+    },
+    "answer": "B"
+  },
+  {
+    "questionId": "Enem_Q1413",
+    "questionText": "Texto I\n\nBiocélulas combustíveis são uma alternativa tecnológica para substituição das baterias convencionais. Em uma biocélula microbiológica, bactérias catalisam reações de oxidação de substratos orgânicos. Liberam elétrons produzidos na respiração celular para um eletrodo, onde fluem por um circuito externo até o cátodo do sistema, produzindo corrente elétrica. Uma reação típica que ocorre em biocélulas microbiológicas utiliza o acetato como substrato.\n\nTexto II\n\nEm sistemas bioeletroquímicos, os potenciais padrão (Eo’) apresentam valores característicos. Para as biocélulas de acetato, considere as seguintes semirreações de redução e seus respectivos potenciais:\n\n2 CO2 + 7 H+ + 8e– → CH3OO– + 2 H2O   Eo’ = –0,3 V\n\nO2 + 4 H+ + 4e– → 2 H2O   Eo’ = +0,8 V\n\nSCOTT, K.; YU, E. H. Microbial electrochemical and fuel cells: fundamentals and applications. Woodhead Publishing Series in Energy, n.88, 2016 (adaptado).",
+    "question": "Nessas condições, qual é o número mínimo de biocélulas de acetato, ligadas em série, necessárias para se obter uma diferença de potencial de 4,4 V?",
+    "images": [],
+    "alternatives": {
+      "A": "3",
+      "B": "4",
+      "C": "6",
+      "D": "9",
+      "E": "15"
+    },
+    "answer": "B"
+  },
+    {
+    "questionId": "EnemPPL_Q1618",
+    "questionText": "Os bafômetros (etilômetros) indicam a quantidade de álcool, C2H6O (etanol), presente no organismo de uma pessoa através do ar expirado por ela. Esses dispositivos utilizam células a combustível que funcionam de acordo com as reações químicas representadas:\n\nI. C2H6O (g) → C2H4O (g) + 2 H+ (aq) + 2 e–\n\nII. 1/2 O2 (g) + 2 H+ (aq) + 2 e– → H2O (l)\n\nBRAATHEN, P. C. Hálito culpado: o princípio químico do bafômetro. Química Nova na Escola, n. 5, maio 1997 (adaptado).",
+    "question": "Na reação global de funcionamento do bafômetro, os reagentes e os produtos desse tipo de célula são",
+    "images": [],
+    "alternatives": {
+      "A": "o álcool expirado como reagente; água, elétrons e H+ como produtos.",
+      "B": "o oxigênio do ar e H+ como reagentes; água e elétrons como produtos.",
+      "C": "apenas o oxigênio do ar como reagente; apenas os elétrons como produto.",
+      "D": "apenas o álcool expirado como reagente; água, C2H4O e H+ como produtos.",
+      "E": "o oxigênio do ar e o álcool expirado como reagentes; água e C2H4O como produtos."
+    },
+    "answer": "E"
+  },
+  {
+    "questionId": "Enem_Q1309",
+    "questionText": "O emprego de células de combustível a hidrogênio pode ser uma tecnologia adequada ao transporte automotivo. O quadro apresenta características de cinco tecnologias mais proeminentes de células de combustível.\n\nTestes operacionais com esses tipos de células têm indicado que as melhores alternativas para veículos são as que operam em baixos níveis de energia térmica, são formadas por membranas de eletrólitos poliméricos e ocorrem em meio ácido.\n\nTHOMAS, S; ZALBOWITZ, M. Full cells: green power. Los Alamos National Laboratory, Los Alamos, NM. 1999 (adaptado).",
+    "question": "A tecnologia testada mais adequada para o emprego em veículos automotivos é a célula de combustível",
+    "images": [
+      "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/d08d229b-c7f4-44db-bcfe-a787c68d7f5a-arquivo-editor"
+    ],
+    "alternatives": {
+      "A": "AFC.",
+      "B": "MSFC.",
+      "C": "PEM.",
+      "D": "PAFC.",
+      "E": "SOFC."
+    },
+    "answer": "C"
+  },
+    {
+    "questionId": "Enem_Q1437",
+    "questionText": "Em 1938 o arqueólogo alemão Wilhelm König, diretor do Museu Nacional do Iraque, encontrou um objeto estranho na coleção da instituição, que poderia ter sido usado como uma pilha, similar às utilizadas em nossos dias. A suposta pilha, datada de cerca de 200 a.C., é constituída de um pequeno vaso de barro (argila) no qual foram instalados um tubo de cobre, uma barra de ferro (aparentemente corroída por ácido) e uma tampa de betume (asfalto), conforme ilustrado. Considere os potenciais-padrão de redução: Eored (Fe2+|Fe) = –0,44 V; Eored (H+|H2) = 0, V; e Eored(Cu2+|Cu) = +0,34 V.",
+    "question": "Nessa suposta pilha, qual dos componentes atuaria como cátodo?",
+    "images": [
+      "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/7b869b7e-ac7c-4ed7-bc27-57a9d0595cd9-arquivo-editor"
+    ],
+    "alternatives": {
+      "A": "A tampa de betume.",
+      "B": "O vestígio de ácido.",
+      "C": "A barra de ferro.",
+      "D": "O tubo de cobre.",
+      "E": "O vaso de barro."
+    },
+    "answer": "D"
+  },
+  {
+    "questionId": "Enem_Q1398",
+    "questionText": "Alimentos em conserva são frequentemente armazenados em latas metálicas seladas, fabricadas com um material chamado folha de flandres, que consiste de uma chapa de aço revestida com uma fina camada de estanho, metal brilhante e de difícil oxidação. É comum que a superfície interna seja ainda revestida por uma camada de verniz à base de epóxi, embora também existam latas sem esse revestimento, apresentando uma camada de estanho mais espessa.\n\nComprar uma lata de conserva amassada no supermercado é desaconselhável porque o amassado pode",
+    "question": "Comprar uma lata de conserva amassada no supermercado é desaconselhável porque o amassado pode",
+    "images": [],
+    "alternatives": {
+      "A": "alterar a pressão no interior da lata, promovendo a degradação acelerada do alimento.",
+      "B": "romper a camada de estanho, permitindo a corrosão do ferro e alterações do alimento.",
+      "C": "prejudicar o apelo visual da embalagem, apesar de não afetar as propriedades do alimento.",
+      "D": "romper a camada de verniz, fazendo com que o metal tóxico estanho contamine o alimento.",
+      "E": "desprender camadas de verniz, que se dissolverão no meio aquoso, contaminando o alimento."
+    },
+    "answer": "B"
+  },
+  {
+    "questionId": "Upf_Q0771",
+    "questionText": "Considerando a reação entre ferro metálico (Fe(s)) e uma solução aquosa de ácido clorídrico (HCl(aq)) realizada em diferentes condições e com os seguintes valores de potenciais de redução para as semirreações:",
+    "question": "Assinale a alternativa correta.",
+    "images": [
+      "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/06fce64e-2c4d-4c82-8912-9c372a417901-arquivo-editor",
+      "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/48862c53-748a-4f18-a6ce-bddbf622f9d7-arquivo-editor"
+    ],
+    "alternatives": {
+      "A": "A reação ocorrerá mais rapidamente se ao invés de ferro metálico em pó for utilizada uma lâmina de ferro metálico, o que se justifica em razão de haver, assim, maior superfície de contato na lâmina.",
+      "B": "A reação é espontânea, apresenta potencial padrão de célula (E0cel= +0,440 V), e o Fe(s) atua como agente redutor.",
+      "C": "Quanto menor for a concentração do ácido clorídrico (HCl(aq)) utilizado, mais rapidamente a reação irá ocorrer.",
+      "D": "Na reação química descrita, o Fe(s)irá sofrer redução a íons Fe2+(aq); já os íons H+(aq) irão ser oxidados para formar o gás hidrogênio (H2(g)).",
+      "E": "Um aumento da temperatura do sistema levará ao aumento da rapidez das reações químicas exotérmicas e à diminuição para as reações químicas endotérmicas."
+    },
+    "answer": "B"
+  },
+    {
+    "questionId": "Espcex_Q0744",
+    "questionText": "Células galvânicas (pilhas) são dispositivos nos quais reações espontâneas de oxidorredução geram uma corrente elétrica. São dispostas pela combinação de espécies químicas com potenciais de redução diferentes. Existem milhares de células galvânicas possíveis. Considere as semirreações abaixo e seus respectivos potenciais de redução nas condições padrão (25 ºC e 1 atm).\n\nBaseado nas possibilidades de combinações de células galvânicas e suas representações esquemáticas recomendadas pela União Internacional de Química Pura e Aplicada (IUPAC), são feitas as seguintes afirmativas:\n\nI. a diferença de potencial (d.d.p.) da pilha formada pelas espécies químicas alumínio e cobre e representada esquematicamente por Al(s)|Al3+(aq)||Cu2+(aq)|Cu(s) é de +1,52 V (nas condições-padrão);\n\nII. na pilha formada pelas espécies químicas cobre e ouro e representada esquematicamente por Cu(s)|Cu2+(aq)||Au3+(aq)|Au(s), a reação global corretamente balanceada é:\n\nIII. na pilha formada pelas espécies químicas cobre e ouro e representada esquematicamente por Cu(s)|Cu2+(aq)||Au3+(aq)|Au(s), o agente redutor é o Cu(s);\n\nIV. a representação IUPAC correta de uma pilha de alumínio e ouro (Al – Au) é Au(s)|Au3+(aq)||Al3+(aq)|Al(s).\n\nEstão corretas apenas as afirmativas",
+    "question": "Estão corretas apenas as afirmativas",
+    "images": [
+      "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/ed52f1d0-b767-4dca-a174-749a264544b0-arquivo-editor",
+      "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/9941fbac-fed8-4197-b75f-e26ea04054d8-arquivo-editor"
+    ],
+    "alternatives": {
+      "A": "I e II.",
+      "B": "II e III.",
+      "C": "III e IV.",
+      "D": "I, II e IV.",
+      "E": "I, III e IV."
+    },
+    "answer": "B"
+  },
+  {
+    "questionId": "Uece_Q0737",
+    "questionText": "Uma pilha é formada com eletrodos de alumínio e ouro que apresentam os potenciais de redução, respectivamente, –1,66 volts e 1,50 volts.\n\nApós analisar as características dessa pilha, pode-se afirmar corretamente que",
+    "question": "Após analisar as características dessa pilha, pode-se afirmar corretamente que",
+    "images": [],
+    "alternatives": {
+      "A": "a reação do cátodo é Al → Al3++ 3e–.",
+      "B": "a ddp da pilha é +3,16 V.",
+      "C": "a reação global é Al3++ Au → Au3++ Al.",
+      "D": "a equação global da pilha é Au3+(aq)/Au// Al3+(aq)/Al."
+    },
+    "answer": "B"
+  },
+    {
+    "questionId": "Pucrj_Q0762",
+    "questionText": "Considere as seguintes semicélulas e os respectivos potenciais-padrão de redução, numerados de I a VI.\n\nAs duas semicélulas que formariam uma pilha com maior diferença de potencial são",
+    "question": "As duas semicélulas que formariam uma pilha com maior diferença de potencial são",
+    "images": [
+      "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/2770fc80-2e24-4cf8-a161-8cca053aa994-arquivo-editor"
+    ],
+    "alternatives": {
+      "A": "I e III",
+      "B": "II e V",
+      "C": "II e IV",
+      "D": "IV e VI",
+      "E": "V e VI"
+    },
+    "answer": "B"
+  },
+  {
+    "questionId": "Udesc_Q0772",
+    "questionText": "Reações de oxirredução estão presentes no dia-a-dia como na ação desinfetante da água sanitária, na geração de energia elétrica em baterias e na obtenção de metais a partir de seus minérios. Como exemplo destas reações considere uma folha de alumínio imersa em uma solução aquosa de sulfato de cobre. Sabendo-se que o potencial de redução do alumínio é –1,66 V e o potencial de redução do cobre é +0,34 V, é correto afirmar que:",
+    "question": "É correto afirmar que",
+    "images": [],
+    "alternatives": {
+      "A": "o alumínio é o agente oxidante.",
+      "B": "ocorrerá redução do Cu(II).",
+      "C": "o potencial de oxirredução da reação é de –1,32 V.",
+      "D": "o sulfato de cobre é o agente redutor.",
+      "E": "o estado de oxidação do enxofre no sulfato de cobre, CuSO4 é –2."
+    },
+    "answer": "B"
+  },
+  {
+    "questionId": "Ifsul_Q0735",
+    "questionText": "Pilhas são dispositivos que transformam energia química em energia elétrica por meio de um sistema montado para aproveitar o fluxo de elétrons provenientes de uma reação química de oxirredução, conforme mostra o seguinte exemplo.\n\nConsiderando que os Potenciais de redução do Níquel e do Zinco são, respectivamente, –0,25 V e –0,76 V, é correto afirmar que:",
+    "question": "É correto afirmar que",
+    "images": [
+      "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/9c904949-887e-43a1-a5cc-0faec48685c7-arquivo-editor"
+    ],
+    "alternatives": {
+      "A": "o níquel é oxidado e o zinco é reduzido.",
+      "B": "o zinco é o ânodo e o níquel é o cátodo.",
+      "C": "o níquel é o agente redutor e o zinco é o agente oxidante.",
+      "D": "o níquel e o zinco geram uma força eletromotriz de –1,01 V, nesta pilha."
+    },
+    "answer": "B"
+  },
+    {
+    "questionId": "Ufsj_Q0741",
+    "questionText": "Os potenciais de redução padrão a 25°C para os pares Cl2/Cl– e Al3+/Al são +1,36 V e –1,67 V, respectivamente. Nos municípios onde a água é desinfetada com cloro gasoso, observa-se, com o tempo, o desgaste dos encanamentos de alumínio (extensores) que levam água aos chuveiros elétricos.\n\nA explicação CORRETA para esse fenômeno é que o cloro",
+    "question": "A explicação CORRETA para esse fenômeno é que o cloro",
+    "images": [],
+    "alternatives": {
+      "A": "é reduzido a íons cloreto, mantendo o alumínio em estado neutro.",
+      "B": "reage com íons alumínio, formando íons cloreto.",
+      "C": "reduz o alumínio metálico, produzindo íons alumínio.",
+      "D": "oxida o alumínio metálico, produzindo íons alumínio."
+    },
+    "answer": "D"
+  },
+  {
+    "questionId": "Espcex_Q0763",
+    "questionText": "A energia liberada em uma reação de oxidorredução espontânea pode ser usada para realizar trabalho elétrico. O dispositivo químico montado, pautado nesse conceito, é chamado de célula voltaica, célula galvânica ou pilha. Uma pilha envolvendo alumínio e cobre pode ser montada utilizando como eletrodos metais e soluções das respectivas espécies. Considerando todos os materiais necessários para a montagem de uma pilha de alumínio e cobre, nas condições-padrão (25 ºC e 1 atm) ideais (desprezando-se qualquer efeito dissipativo) e as semirreações de redução fornecidas, a força eletromotriz (fem) dessa pilha montada e o agente redutor, respectivamente são:",
+    "question": "A força eletromotriz (fem) dessa pilha montada e o agente redutor, respectivamente são:",
+    "images": [
+      "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/14faeeab-f504-4452-9a24-8a31b8e4ecb1-arquivo-editor"
+    ],
+    "alternatives": {
+      "A": "2,10 V e o cobre.",
+      "B": "2,00 V e o alumínio.",
+      "C": "1,34 V e o cobre.",
+      "D": "1,32 V e o alumínio.",
+      "E": "1,00 V e o cobre."
+    },
+    "answer": "B"
+  },
+  {
+    "questionId": "Pucmg_Q0759",
+    "questionText": "Uma pilha magnésio – ferro foi constituída em condições padrão. É INCORRETO afirmar que, durante o funcionamento dessa pilha:",
+    "question": "É INCORRETO afirmar que, durante o funcionamento dessa pilha:",
+    "images": [
+      "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/cefc2a2d-4357-4a19-af9e-5133eeb0c0b1-arquivo-editor"
+    ],
+    "alternatives": {
+      "A": "acontece uma oxidação no eletrodo de magnésio.",
+      "B": "o eletrodo de magnésio é o polo negativo da pilha.",
+      "C": "os elétrons circulam do eletrodo de magnésio em direção ao eletrodo de ferro.",
+      "D": "o eletrodo de ferro é consumido."
+    },
+    "answer": "D"
+  },
+      {
+      "questionId": "Enem_Q1446",
+      "questionText": "Para realizar o desentupimento de tubulações de esgotos residenciais, é utilizada uma mistura sólida comercial que contém hidróxido de sódio (NaOH) e outra espécie química pulverizada. Quando é adicionada água a essa mistura, ocorre uma reação que libera gás hidrogênio e energia na forma de calor, aumentando a eficiência do processo de desentupimento. Considere os potenciais padrão de redução (Eo) da água e de outras espécies em meio básico, expresso no quadro.",
+      "question": "Qual é a outra espécie que está presente na composição da mistura sólida comercial para aumentar sua eficiência?",
+      "images": [
+        "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/265c6211-9806-4a33-b365-7f881cb3f8c9-arquivo-editor"
+      ],
+      "alternatives": {
+        "A": "Al",
+        "B": "Co",
+        "C": "Cu(OH)2",
+        "D": "Fe(OH)2",
+        "E": "Pb"
+      },
+      "answer": "A"
+    },
+    {
+      "questionId": "Uece_Q0760",
+      "questionText": "As pilhas de marca-passo precisam ser pequenas, confiáveis e duráveis, evitando algumas cirurgias para sua troca. Como não formam gases, elas podem ser hermeticamente fechadas. Sua duração é de aproximadamente 10 anos. Essas pilhas são formadas por lítio metálico e iodo (LiI). Assinale a alternativa que mostra as semirreações que ocorrem corretamente para formar o produto LiI.",
+      "question": "Assinale a alternativa que mostra as semirreações corretas para formar LiI.",
+      "images": [],
+      "alternatives": {
+        "A": "cátodo: 2Li0 → 2Li+ + 2e–; ânodo: I2 + 2e– → 2I–.",
+        "B": "cátodo: 2Li0 + 2e– → 2Li+; ânodo: I2 → 2I– + 2e–.",
+        "C": "ânodo: 2Li0 → 2Li+ + 2e–; cátodo: I2 + 2e– → 2I–.",
+        "D": "ânodo: 2Li0 + 2e– → 2Li+; cátodo: I2 → 2I– + 2e–."
+      },
+      "answer": "C"
+    },
+    {
+      "questionId": "Ufrgs_Q0765",
+      "questionText": "Célula α combustível é uma alternativa para a produção de energia limpa. As semirreações da célula são apresentadas na imagem abaixo.",
+      "question": "Sobre essa célula, pode-se afirmar que",
+      "images": [
+        "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/04a5145c-9552-4822-837e-8e014ffe26ed-arquivo-editor"
+      ],
+      "alternatives": {
+        "A": "H2 é o gás combustível e oxida-se no cátodo.",
+        "B": "eletrólise da água ocorre durante o funcionamento da célula.",
+        "C": "H2O e CO2 são produzidos durante a descarga da célula.",
+        "D": "célula α combustível é um exemplo de célula galvânica.",
+        "E": "O2 é o gás comburente e reduz-se no ânodo."
+      },
+      "answer": "D"
+    },
+      {
+    "questionId": "Ufrgs_Q0750",
+    "questionText": "A tabela abaixo relaciona algumas semirreações e seus respectivos potenciais padrão de redução em solução aquosa.\n\nhttps://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/090bd4db-7839-43c2-9f66-f1c78e67fd19-arquivo-editor\n\nConsidere as afirmações abaixo, sobre os dados da tabela.\n\nI. O lítio metálico é um forte agente redutor.\n\nII. O cátion prata pode oxidar o cobre metálico para Cu2+.\n\nIII. O zinco é o ânodo em uma pilha com eletrodos de zinco e chumbo.\n\nQuais estão corretas?",
+    "question": "Quais estão corretas?",
+    "images": [
+      "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/090bd4db-7839-43c2-9f66-f1c78e67fd19-arquivo-editor"
+    ],
+    "alternatives": {
+      "A": "Apenas I.",
+      "B": "Apenas II.",
+      "C": "Apenas III.",
+      "D": "Apenas I e II.",
+      "E": "I, II e III."
+    },
+    "answer": "E"
+  },
+  {
+    "questionId": "Uel_Q0747",
+    "questionText": "As baterias baseadas em células galvânicas, como as de níquel-cádmio, apresentam as suas semirreações de oxidação-redução reversíveis, podendo ser recarregadas várias vezes, apresentando, portanto, maior tempo de vida útil.\n\nA reação química global não balanceada que ocorre durante o funcionamento de baterias de níquel-cádmio pode ser representada pela equação a seguir.\n\nhttps://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/bcdf23ac-7cd8-4bad-8cc5-fc6a6bfc2641-arquivo-editor\n\nCom base nos conhecimentos sobre células galvânicas e reações de oxidação-redução, considere as afirmativas a seguir.\n\nI. Na bateria de níquel-cádmio, os elétrons fluem do Cd(s) para o Ni(OH)3(s), produzindo energia elétrica por meio de um processo espontâneo.\n\nII. O elemento Cd perde elétrons, ocasionando aumento do seu número de oxidação e atuando como agente redutor.\n\nIII. Na equação balanceada, as espécies Cd(s) e Ni(OH)3(s) apresentam os mesmos coeficientes estequiométricos.\n\nIV. Quando a bateria de níquel-cádmio está funcionando, o eletrodo de Ni(OH)3(s) é oxidado, no cátodo, a Ni(OH)2(s).\n\nAssinale a alternativa correta.",
+    "question": "Assinale a alternativa correta.",
+    "images": [
+      "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/bcdf23ac-7cd8-4bad-8cc5-fc6a6bfc2641-arquivo-editor"
+    ],
+    "alternatives": {
+      "A": "Somente as afirmativas I e II são corretas.",
+      "B": "Somente as afirmativas I e IV são corretas.",
+      "C": "Somente as afirmativas III e IV são corretas.",
+      "D": "Somente as afirmativas I, II e III são corretas.",
+      "E": "Somente as afirmativas II, III e IV são corretas."
+    },
+    "answer": "A"
+  },
+  {
+    "questionId": "EnemPPL_Q1680",
+    "questionText": "Algumas moedas utilizam cobre metálico em sua composição. Esse metal, ao ser exposto ao ar úmido, na presença de CO2, sofre oxidação formando o zinabre, um carbonato básico de fórmula Cu2(OH)2CO3, que é tóxico ao homem e, portanto, caracteriza-se como um poluente do meio ambiente. Com o objetivo de reduzir a contaminação com o zinabre, diminuir o custo de fabricação e aumentar a durabilidade das moedas, é comum utilizar ligas resultantes da associação do cobre com outro elemento metálico.\n\nA propriedade que o metal associado ao cobre deve apresentar para impedir a formação de zinabre nas moedas é, em relação ao cobre,",
+    "question": "A propriedade que o metal associado ao cobre deve apresentar para impedir a formação de zinabre nas moedas é, em relação ao cobre,",
+    "images": [],
+    "alternatives": {
+      "A": "maior caráter ácido.",
+      "B": "maior número de oxidação.",
+      "C": "menor potencial de redução.",
+      "D": "menor capacidade de reação.",
+      "E": "menor número de elétrons na camada de valência."
+    },
+    "answer": "C"
+  },
+    {
+    "questionId": "Mackenzie_Q0753",
+    "questionText": "Um estudante de química colocou, separadamente, barras de chumbo, níquel, ferro e cobre no interior de 4 béqueres, que continham solução aquosa de nitrato de estanho II de concentração 1 mol.L–1 a 25 ºC. As quatro possíveis reações de oxirredução, que ocorreriam espontaneamente, nos béqueres I, II, III e IV foram escritas abaixo:\n\nhttps://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/310d3e5e-8827-4b5d-a0ad-662ccc5c475b-arquivo-editor\n\nDados:\n\nhttps://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/1e12c88f-18f9-4783-a7a2-ebb700c1506a-arquivo-editor\n\nDe acordo com as informações acima, os béqueres em que ocorreram, espontaneamente, as reações de oxirredução foram",
+    "question": "Os béqueres em que ocorreram espontaneamente as reações de oxirredução foram:",
+    "images": [
+      "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/310d3e5e-8827-4b5d-a0ad-662ccc5c475b-arquivo-editor",
+      "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/1e12c88f-18f9-4783-a7a2-ebb700c1506a-arquivo-editor"
+    ],
+    "alternatives": {
+      "A": "I, II e IV, apenas.",
+      "B": "II e III, apenas.",
+      "C": "I, II e III, apenas.",
+      "D": "I e II, apenas.",
+      "E": "I e IV, apenas."
+    },
+    "answer": "B"
+  },
+  {
+    "questionId": "Ufrgs_Q0745",
+    "questionText": "Considere as seguintes semirreações de redução.\n\nhttps://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/c10349a8-2a0e-4083-8d89-15feea5b3bf1-arquivo-editor\n\nAssinale com V (verdadeiro) ou F (falso) as afirmações abaixo.\n\n(__) O cálcio, em uma pilha de cálcio e cobalto, é o ânodo.\n(__) Uma reação entre cálcio metálico e íons zinco é espontânea.\n(__) O metal mais reativo, entre os três, é o cobalto.\n\nA sequência correta de preenchimento dos parênteses, de cima para baixo, é:",
+    "question": "A sequência correta de preenchimento dos parênteses, de cima para baixo, é:",
+    "images": [
+      "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/c10349a8-2a0e-4083-8d89-15feea5b3bf1-arquivo-editor"
+    ],
+    "alternatives": {
+      "A": "V – V – V.",
+      "B": "V – V – F.",
+      "C": "V – F – V.",
+      "D": "F – F – V.",
+      "E": "F – F – F."
+    },
+    "answer": "B"
+  },
+  {
+    "questionId": "Upe_Q0764",
+    "questionText": "Em um estaleiro, o casco de aço de um navio foi totalmente recoberto com novas placas de magnésio metálico.\n\nDados:\n\nhttps://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/24d16eea-af63-4f3e-a276-e155cd2a3156-arquivo-editor\n\nSobre esse tipo de processo, qual alternativa está CORRETA?",
+    "question": "Sobre esse tipo de processo, qual alternativa está CORRETA?",
+    "images": [
+      "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/24d16eea-af63-4f3e-a276-e155cd2a3156-arquivo-editor"
+    ],
+    "alternatives": {
+      "A": "O magnésio possui menor poder de redução que o principal constituinte da estrutura do navio, por isso é \"sacrificado\" para protegê-la.",
+      "B": "O magnésio ganha elétrons para o ferro, que se mantém protegido, mesmo que exposto ao ar, pois a reação de oxirredução continua.",
+      "C": "O revestimento de magnésio funciona como um anodo em um circuito de eletrólise, evitando que o ferro se envolva em processos de oxirredução.",
+      "D": "O metal de sacrifício vai reagir com a água do mar, protegendo o ferro da mesma forma que as tintas antiferrugem existentes no mercado da construção civil.",
+      "E": "A reação que ocorre na presença do metal de sacrifício é denominada de pilha eletroquímica, uma vez que a diferença de potencial entre os reagentes é negativa."
+    },
+    "answer": "A"
+  },
+    {
+    "questionId": "Udesc_Q0773",
+    "questionText": "A corrosão do ferro metálico tem grande impacto econômico e ocorre espontaneamente na presença de oxigênio e de água acidificada. A principal reação química que descreve o processo é dada abaixo:\n\nhttps://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/20c5a70d-2084-4a57-a2d8-a82557e423c3-arquivo-editor\n\nSabendo-se que o potencial padrão de redução do oxigênio, em meio ácido, é +1,23 V e com base nas informações e na reação química, assinale a alternativa correta.",
+    "question": "O potencial padrão da semirreação de oxidação do ferro metálico é:",
+    "images": [
+      "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/20c5a70d-2084-4a57-a2d8-a82557e423c3-arquivo-editor"
+    ],
+    "alternatives": {
+      "A": "O potencial padrão da semirreação de redução do ferro metálico é –1,45 V.",
+      "B": "O potencial padrão da semirreação de redução do ferro metálico é –0,22 V.",
+      "C": "O potencial padrão da semirreação de oxidação do ferro metálico é +0,44 V.",
+      "D": "O potencial padrão da semirreação de oxidação do ferro metálico é –0,44 V.",
+      "E": "O potencial padrão da semirreação de oxidação do ferro metálico é +2,90 V."
+    },
+    "answer": "C"
+  },
+  {
+    "questionId": "Ulbra_Q0736",
+    "questionText": "No capítulo Linhas de Força, Sacks relembra suas experiências com eletroquímica, em especial sua predileção pela pilha de Daniell. A pilha de Daniell, citada no texto, está representada abaixo:\n\nhttps://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/1f774a86-9cef-4d05-a70d-cbb5ef3fb1bc-arquivo-editor\n\nAs reações (ou semirreações) de oxidação e redução são:\n\nZn → Zn²⁺ + 2e⁻   (ânodo)  E⁰ = +0,76 V\nCu²⁺ + 2e⁻ → Cu  (cátodo)  E⁰ = +0,34 V\n\nO potencial padrão da pilha de Daniell, a partir das informações anteriores, é:",
+    "question": "O potencial padrão da pilha de Daniell é:",
+    "images": [
+      "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/1f774a86-9cef-4d05-a70d-cbb5ef3fb1bc-arquivo-editor"
+    ],
+    "alternatives": {
+      "A": "+1,10 V",
+      "B": "–1,10 V",
+      "C": "+0,42 V",
+      "D": "–0,42 V",
+      "E": "+0,26 V"
+    },
+    "answer": "A"
+  },
+  {
+    "questionId": "Uepa_Q0769",
+    "questionText": "A água oxigenada comercial é bastante utilizada para assepsia de ferimentos e descolorir cabelos. Para fins de controle de qualidade, esta solução é investigada através da reação do H₂O₂ com KMnO₄ em meio ácido. As semirreações que descrevem este processo são dadas abaixo:\n\nhttps://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/f312f4d6-2b9a-4cb2-a1aa-594f4a502397-arquivo-editor\n\nEm relação a este processo, é correto afirmar que:",
+    "question": "Assinale a alternativa correta sobre o processo descrito:",
+    "images": [
+      "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/f312f4d6-2b9a-4cb2-a1aa-594f4a502397-arquivo-editor"
+    ],
+    "alternatives": {
+      "A": "o permanganato é o agente redutor.",
+      "B": "a reação libera 2 mols de oxigênio gasoso.",
+      "C": "a água oxigenada é um agente oxidante.",
+      "D": "o potencial padrão da reação é igual a +0,828 V.",
+      "E": "o potencial padrão da reação e igual a +2,19 V."
+    },
+    "answer": "D"
+  },
+    {
+    "questionId": "Ifsc_Q0774",
+    "questionText": "O lítio é um metal utilizado em baterias e também em medicamentos estabilizadores de humor, como sais de carbonato e sulfato de lítio. Ele possui densidade igual a 0,534 g/cm³, sendo o metal mais leve conhecido.",
+    "question": "Com base no texto, assinale a alternativa correta:",
+    "images": [
+      "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/2bd86e05-7911-4846-babf-ed90dfbe06da-arquivo-editor"
+    ],
+    "alternatives": {
+      "A": "Os sais de lítio citados no texto têm, respectivamente, as fórmulas Li2CO3 e Li2SO4.",
+      "B": "O lítio localiza-se na coluna 1 da tabela periódica, sendo assim, ele normalmente recebe um elétron nas ligações iônicas.",
+      "C": "Por ser mais leve que a água, o lítio metálico pode ser utilizado na construção de embarcações.",
+      "D": "O lítio é um metal alcalino e não reativo na presença de água.",
+      "E": "Nas pilhas de lítio, o metal funciona como ânodo, ou seja, recebe elétrons."
+    },
+    "answer": "A"
+  },
+  {
+    "questionId": "Ime_Q0748",
+    "questionText": "Considere que determinada reação química ocorra em uma pilha. Os dados fornecidos apresentam os potenciais padrão das semirreações envolvidas.",
+    "question": "Assinale a alternativa que mostra o valor correto do potencial padrão dessa pilha:",
+    "images": [
+      "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/369a3637-c2a6-4aca-bb3b-e0c9fbcf7723-arquivo-editor",
+      "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/56af58af-f61a-410d-b813-ed8c5c3484c2-arquivo-editor"
+    ],
+    "alternatives": {
+      "A": "+1,20 V",
+      "B": "–0,43 V",
+      "C": "+1,88 V",
+      "D": "–1,20 V",
+      "E": "+0,43 V"
+    },
+    "answer": "E"
+  },
+    {
+    "questionId": "Ufsm_Q0767",
+    "questionText": "Observe a figura:\n\nA pilha seca comum, utilizada em rádios, lanternas e brinquedos eletrônicos, é uma adaptação da pilha de Leclanché e utiliza, como meio eletrolítico, uma pasta umedecida contendo sais, como o cloreto de amônio e o cloreto de zinco.\n\nAs semirreações para essa pilha são:\n\nEntão, é possível afirmar:\n\nI. O Zn se reduz e o Mn se oxida.\nII. A diferença de potencial da pilha é de 1,5 V.\nIII. A reação global que ocorre na pilha é aquela indicada na figura.\nIV. À medida que a pilha vai sendo consumida (gasta), há aumento nas massas de dióxido de manganês e água.",
+    "question": "Estão corretas",
+    "images": [
+      "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/9612c641-331f-47ba-b8d1-f0527ab6bdae-arquivo-editor",
+      "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/9b0ad5d3-d185-4328-a9bb-7374e873942c-arquivo-editor",
+      "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/4347cb35-9ed6-4e49-8a40-ca45ab6ad583-arquivo-editor"
+    ],
+    "alternatives": {
+      "A": "apenas I e II.",
+      "B": "apenas I e III.",
+      "C": "apenas II e III.",
+      "D": "apenas II e IV.",
+      "E": "apenas III e IV."
+    },
+    "answer": "C"
+  },
+  {
+    "questionId": "Enem_Q1444",
+    "questionText": "Grupos de pesquisa em todo o mundo vêm buscando soluções inovadoras, visando à produção de dispositivos para a geração de energia elétrica. Dentre eles, pode-se destacar as baterias de zinco-ar, que combinam o oxigênio atmosférico e o metal zinco em um eletrólito aquoso de caráter alcalino. O esquema de funcionamento da bateria zinco-ar está apresentado na figura.",
+    "question": "No funcionamento da bateria, a espécie química formada no ânodo é",
+    "images": [
+      "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/43167175-e9f6-411a-a3d8-d1cd108bbf95-arquivo-editor"
+    ],
+    "alternatives": {
+      "A": "H2(g)",
+      "B": "O2(g)",
+      "C": "H2O(l)",
+      "D": "OH–(aq)",
+      "E": "Zn(OH)4-2(aq)"
+    },
+    "answer": "E"
+  },
+    {
+    "questionId": "Pucrs_Q0766",
+    "questionText": "A revista Nature publicou, em 6 de abril de 2015, o artigo “Uma bateria recarregável de íons de alumínio ultrarrápida”, no qual apresenta uma bateria flexível recarregável que usa uma placa de alumínio como ânodo e um cátodo de grafite-espuma tridimensional. A bateria opera por deposição eletroquímica e dissolução de alumínio no ânodo, com formação de ânions cloroaluminato no grafite, usando como eletrólito um líquido iônico não inflamável. Cada pilha produz tensão aproximada de 2 volts, e a estrutura da bateria possibilita a recarga em aproximadamente um minuto, podendo resistir a mais de 7.500 ciclos de recarga.\n\nAs equações propostas para a pilha pelos autores são:\n\nSobre o tema e o texto, é correto afirmar que",
+    "question": "",
+    "images": [
+      "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/3d74b624-b9f1-4eb6-8089-e3749ec3dcf1-arquivo-editor"
+    ],
+    "alternatives": {
+      "A": "o alumínio se oxida e seu estado de oxidação se eleva de zero a +3.",
+      "B": "o ânodo de alumínio é o eletrodo onde ocorre a redução.",
+      "C": "há formação de cátions AlCl4– no cátodo.",
+      "D": "uma pilha eletroquímica funciona quando o potencial da reação global é negativo.",
+      "E": "ocorre a oxidação do metal alumínio na recarga da bateria."
+    },
+    "answer": "A"
+  },
+  {
+    "questionId": "Ufrgs_Q0758",
+    "questionText": "O quadro abaixo relaciona algumas semirreações e seus respectivos potenciais padrão de redução, em solução aquosa.\n\nA partir desses dados, é correto afirmar que",
+    "question": "",
+    "images": [
+      "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/ebdf4ef4-be4c-4c2c-bd18-4239c10ed69e-arquivo-editor"
+    ],
+    "alternatives": {
+      "A": "uma solução aquosa de HClO poderá oxidar os íons Mn2+.",
+      "B": "uma solução aquosa de H2O2 é um forte agente redutor.",
+      "C": "o ozônio tem uma forte tendência a ceder elétrons em solução aquosa.",
+      "D": "a adição de H2O2 a uma solução aquosa, contendo oxigênio dissolvido, promove a formação de ozônio gasoso.",
+      "E": "o permanganato, entre as substâncias relacionadas no quadro, é o mais poderoso agente oxidante."
+    },
+    "answer": "A"
+  },
+  {
+    "questionId": "Upf_Q0752",
+    "questionText": "O Brasil terminou os jogos olímpicos do Rio em 13º no ranking de medalhas, seu melhor resultado na história olímpica. Do total de 19 medalhas conquistadas, 7 foram de ouro, 6 de prata e 6 de bronze.\n\n“As últimas medalhas feitas totalmente em ouro foram entregues nas Olímpiadas de 1912”.\n\nNo caso da medalha de ouro, sua composição atual é de 98,8% de prata (Ag) e 1,2% de ouro (Au). Para as medalhas de prata (Ag) e bronze, 30% do material usado é reciclado e a medalha de bronze conta com 5% de zinco (Zn) na composição.\n\nSobre a composição das medalhas, analise as afirmativas a seguir.\n\nI. As medalhas de ouro e bronze são consideradas soluções ou sistemas homogêneos, assim como o latão e o aço.\nII. Uma medalha de bronze que apresenta massa de 500 gramas tem, em sua composição, 25 g de zinco e 475 g de cobre.\nIII. Se uma medalha de bronze fosse colocada em um frasco contendo HCl(aq) de concentração 1 mol·L–1 a 25 ºC, ambos os metais iriam sofrer oxidação.\n\nEstá correto apenas o que se afirma em:",
+    "question": "",
+    "images": [],
+    "alternatives": {
+      "A": "I e II.",
+      "B": "I.",
+      "C": "II.",
+      "D": "III.",
+      "E": "I e III."
+    },
+    "answer": "A"
+  },
+    {
+    "questionId": "Enem_Q1304",
+    "questionText": "O quadro lista alguns dispositivos eletrônicos que estão presentes no dia a dia, bem como a faixa de força eletromotriz necessária ao seu funcionamento.\n\nConsidere que uma bateria é construída pela associação em série de três pilhas de lítio-iodo, nas condições-padrão, conforme as semiequações de redução apresentadas.\n\nEssa bateria é adequada para o funcionamento de qual dispositivo eletrônico?",
+    "question": "",
+    "images": [
+      "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/c822fe1f-2e97-42ba-9b13-37787f15cefa-arquivo-editor",
+      "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/3d8868a7-7883-44a8-9258-9fe9fee4344a-arquivo-editor"
+    ],
+    "alternatives": {
+      "A": "I",
+      "B": "II",
+      "C": "III",
+      "D": "IV",
+      "E": "V"
+    },
+    "answer": "D"
+  },
+  {
+    "questionId": "Fuvest_Q1593",
+    "questionText": "Alguns aviões empregam fibra de carbono em uma porcentagem significativa de suas estruturas, tornando-as muito menos densas. Partes da estrutura, no entanto, são compostas por metais. Devido à baixa densidade, o alumínio seria uma boa alternativa de metal a ser usado. Entretanto, quando em contato com fibra de carbono, o alumínio é corroído. Esse processo é denominado corrosão galvânica e acontece quando dois materiais que possuem potencial elétrico diferentes são colocados em contato com um eletrólito, como uma solução salina. Para abordar esse problema, pode-se avaliar os potenciais elétricos, densidade e preço aproximado de diversos materiais apresentados na figura.\n\nConsiderando o exposto, o elemento mais adequado para ser utilizado no lugar do alumínio de forma a obter os menores custo e densidade possíveis, com a máxima resistência a corrosão possível, é:",
+    "question": "",
+    "images": [
+      "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/d28fd158-93d8-4bbc-b7e2-0c0f3874be07-arquivo-editor"
+    ],
+    "alternatives": {
+      "A": "Ouro.",
+      "B": "Titânio.",
+      "C": "Prata.",
+      "D": "Cádmio.",
+      "E": "Zinco."
+    },
+    "answer": "B"
+  },
+    {
+    "questionId": "Enem_Q1403",
+    "questionText": "A calda bordalesa é uma alternativa empregada no combate a doenças que afetam folhas de plantas. Sua produção consiste na mistura de uma solução aquosa de sulfato de cobre(II), CuSO4, com óxido de cálcio, CaO, e sua aplicação só deve ser realizada se estiver levemente básica. A avaliação rudimentar da basicidade dessa solução é realizada pela adição de três gotas sobre uma faca de ferro limpa. Após três minutos, caso surja uma mancha avermelhada no local da aplicação, afirma-se que a calda bordalesa ainda não está com a basicidade necessária. O quadro apresenta os valores de potenciais padrão de redução (E0) para algumas semirreações de redução.\n\nMOTTA, I. S. Calda bordalesa: utilidades e preparo. Dourados: Embrapa, 2008 (adaptado).\n\nA equação química que representa a reação de formação da mancha avermelhada é:",
+    "question": "",
+    "images": [
+      "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/b5094c5b-df9e-4ff7-9054-461dc465b50d-arquivo-editor"
+    ],
+    "alternatives": {
+      "A": "Ca2+ (aq) + 2 Cu+ (aq) → Ca(s) + Cu2+(aq).",
+      "B": "Ca2+(aq) + 2 Fe2+(aq) → Ca(s) + 2 Fe3+(aq).",
+      "C": "Cu2+(aq) + 2 Fe2+(aq) → Cu(s) + 2 Fe3+(aq).",
+      "D": "3 Ca2+(aq) + 2 Fe(s) → 3 Ca(s) + 2 Fe3+(aq).",
+      "E": "3 Cu2+(aq) + 2 Fe(s) → 3 Cu(s) + 2 Fe3+(aq)."
+    },
+    "answer": "E"
+  },
+  {
+    "questionId": "Ifsul_Q0751",
+    "questionText": "Observe o esquema que representa uma pilha, em que ocorre a seguinte reação:\n\nQue substância, dissolvida em água, você escolheria para colocar no compartimento B a fim de que a pilha pudesse produzir eletricidade?",
+    "question": "",
+    "images": [
+      "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/80a2b063-12a6-41a3-821a-b5998e440582-arquivo-editor",
+      "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/4b84ed7e-a5f5-4ff7-8253-0601516b8592-arquivo-editor"
+    ],
+    "alternatives": {
+      "A": "CuSO4",
+      "B": "Na2SO4",
+      "C": "H2S",
+      "D": "ZnCl2"
+    },
+    "answer": "A"
+  },
+  {
+    "questionId": "Uemg_Q0746",
+    "questionText": "Considerando as seguintes semirreações, em uma célula galvânica com eletrodos de alumínio e chumbo, é correto afirmar:",
+    "question": "",
+    "images": [
+      "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/3d93595d-bb02-4f98-907b-f7ffa5e200dc-arquivo-editor"
+    ],
+    "alternatives": {
+      "A": "Al3+ é agente redutor e Pb0 é agente oxidante.",
+      "B": "Pb2+ é a espécie que reduz.",
+      "C": "a ddp da célula galvânica é igual a –1,79 V.",
+      "D": "a soma dos coeficientes estequiométricos da reação global equivale a 10."
+    },
+    "answer": "D"
+  },
+  {
+    "questionId": "Unicamp_Q0768",
+    "questionText": "Uma proposta para obter energia limpa é a utilização de dispositivos eletroquímicos que não gerem produtos poluentes, e que utilizem materiais disponíveis em grande quantidade ou renováveis. O esquema abaixo mostra, parcialmente, um dispositivo que pode ser utilizado com essa finalidade.\n\nNesse esquema, os círculos podem representar átomos, moléculas ou íons. De acordo com essas informações e o conhecimento de eletroquímica, pode-se afirmar que nesse dispositivo a corrente elétrica flui de:",
+    "question": "",
+    "images": [
+      "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/07086f51-deaa-414f-9b04-e5c5c7667c6d-arquivo-editor"
+    ],
+    "alternatives": {
+      "A": "A para B e o círculo ∙ representa o íon O2–.",
+      "B": "B para A e o círculo ∙ representa o íon O2+.",
+      "C": "B para A e o círculo ∙ representa o íon O2–.",
+      "D": "A para B e o círculo ∙ representa o íon O2+."
+    },
+    "answer": "A"
+  }
+
+    ]}

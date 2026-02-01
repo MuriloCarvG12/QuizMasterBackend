@@ -1,0 +1,292 @@
+{
+    "examTitle": "geometria analitica",
+    "questions": [
+        {
+            "questionId": "Enem_PPL_M1815",
+            "questionText": "Observou-se que todas as formigas de um formigueiro trabalham de maneira ordeira e organizada. Foi feito um experimento com duas formigas e os resultados obtidos foram esboçados em um plano cartesiano no qual os eixos estão graduados em quilômetros. As duas formigas partiram juntas do ponto O, origem do plano cartesiana xOy. Uma delas caminhou horizontalmente para o lado direito, a uma velocidade de 4 km/h. A outra caminhou verticalmente para cima, à velocidade de 3 km/h.\n\nApós 2 horas de movimento, quais as coordenadas cartesianas das posições de cada formiga?",
+            "question": "Após 2 horas de movimento, quais as coordenadas cartesianas das posições de cada formiga?",
+            "images": [],
+            "alternatives": {
+              "A": "(8; 0) e (0; 6).",
+              "B": "(4; 0) e (0; 6).",
+              "C": "(4; 0) e (0; 3).",
+              "D": "(0; 8) e (6; 0).",
+              "E": "(0; 4) e (3; 0)."
+            },
+            "answer": "A"
+          },
+          {
+            "questionId": "Eear_M0945",
+            "questionText": "Considere os segmentos de retas AB¯ e CD¯, onde A(0, 10), B(2, 12), C(–2, 3) e D(4, 3). O segmento MN¯ determinado pelos pontos médios dos segmentos AB¯ e CD¯ é dado pelos pontos M e N, pertencentes respectivamente a AB¯ e a CD¯.\n\nAssinale a alternativa que corresponde corretamente a esses pontos.",
+            "question": "Assinale a alternativa que corresponde corretamente a esses pontos.",
+            "images": [],
+            "alternatives": {
+              "A": "M(1/2, 1) e N(–1, 3)",
+              "B": "M(–2, 10) e N(–1, 3)",
+              "C": "M(1, –2) e N(1, 3)",
+              "D": "M(1, 11) e N(1, 3)",
+              "E": "M(1, 11) e N(1, 3)"
+            },
+            "answer": "D"
+          },
+          {
+            "questionId": "Eear_M0939",
+            "questionText": "Seja ABC um triângulo tal que A(1,1), B(3, –1) e C(5, 3). O ponto _____ é o baricentro desse triângulo.",
+            "question": "O ponto _____ é o baricentro desse triângulo.",
+            "images": [],
+            "alternatives": {
+              "A": "(2, 1)",
+              "B": "(3, 3)",
+              "C": "(1, 3)",
+              "D": "(3, 1)"
+            },
+            "answer": "D"
+          },
+          {
+            "questionId": "Enem_M0940",
+            "questionText": "Foi utilizado o plano cartesiano para a representação de um pavimento de lojas. A loja A está localizada no ponto A(1; 2). No ponto médio entre a loja A e a loja B está o sanitário S, localizado no ponto S(5; 10).\n\nDetermine as coordenadas do ponto de localização da loja B.",
+            "question": "Determine as coordenadas do ponto de localização da loja B.",
+            "images": [],
+            "alternatives": {
+              "A": "(–3; –6)",
+              "B": "(–6; –3)",
+              "C": "(3; 6)",
+              "D": "(9; 18)",
+              "E": "(18; 9)"
+            },
+            "answer": "D"
+          },
+          {
+            "questionId": "Enem_PPL_M1757",
+            "questionText": "Alunos de um curso de engenharia desenvolveram um robô 'anfíbio' que executa saltos somente nas direções norte, sul, leste e oeste. Um dos alunos representou a posição inicial desse robô, no plano cartesiano, pela letra P, na ilustração.\n\nA direção norte-sul é a mesma do eixo y, sendo que o sentido norte é o sentido de crescimento de y, e a direção leste-oeste é a mesma do eixo x, sendo que o sentido leste é o sentido de crescimento de x.\n\nEm seguida, esse aluno deu os seguintes comandos de movimentação para o robô: 4 norte, 2 leste e 3 sul, nos quais os coeficientes numéricos representam o número de saltos do robô nas direções correspondentes, e cada salto corresponde a uma unidade do plano cartesiano.\n\nDepois de realizar os comandos dados pelo aluno, a posição do robô, no plano cartesiano, será.",
+            "question": "Depois de realizar os comandos dados pelo aluno, a posição do robô, no plano cartesiano, será.",
+            "images": [
+              "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/ce4c90d0-4845-4d6f-9044-c931b0966886-arquivo-editor"
+            ],
+            "alternatives": {
+              "A": "(0;2)",
+              "B": "(0;3)",
+              "C": "(1;2)",
+              "D": "(1;4)",
+              "E": "(2;1)"
+            },
+            "answer": "C"
+          },
+          {
+            "questionId": "Pucrj_M0942",
+            "questionText": "Assinale o valor da área do quadrado de vértices (–2, 9), (4, 6), (1, 0) e (–5, 3).",
+            "question": "Assinale o valor da área do quadrado de vértices (–2, 9), (4, 6), (1, 0) e (–5, 3).",
+            "images": [],
+            "alternatives": {
+              "A": "20",
+              "B": "25",
+              "C": "√45",
+              "D": "45",
+              "E": "√60"
+            },
+            "answer": "D"
+          },
+          {
+            "questionId": "Professor_Ferretto_M1690",
+            "questionText": "Um agrimensor, ao fazer umas medidas em uma área de terra, representou no plano cartesiano os dados obtidos. Ele colocou estacas nos pontos A, B e C e percebeu que formavam um triângulo conforme a figura.\n\nSabendo que as coordenadas dos pontos que representam a localização das estacas são A(2; 3), B(18; 15) e C(18; 3), pode-se concluir que a tangente do ângulo agudo do triângulo localizado na estaca A é.",
+            "question": "Pode-se concluir que a tangente do ângulo agudo do triângulo localizado na estaca A é.",
+            "images": [
+              "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/ferrettopublic/e4c27c41-dc71-475e-a951-74ec7b55f97b.png"
+            ],
+            "alternatives": {
+              "A": "3/5",
+              "B": "3/4",
+              "C": "4/5",
+              "D": "5/4",
+              "E": "4/3"
+            },
+            "answer": "B"
+          },
+          
+            {
+                "questionId": "Enem_M0944",
+                "questionText": "Em uma cidade será construída uma galeria subterrânea que receberá uma rede de canos para o transporte de água de uma fonte (F) até o reservatório de um novo bairro (B).\n\nApós avaliações, foram apresentados dois projetos para o trajeto de construção da galeria: um segmento de reta que atravessaria outros bairros ou uma semicircunferência que contornaria esses bairros, conforme ilustrado no sistema de coordenadas xOy da figura.\n\nEstudos de viabilidade técnica mostraram que, pelas características do solo, a construção de 1 m de galeria via segmento de reta demora 1,0 h, enquanto que 1 m de construção de galeria via semicircunferência demora 0,6 h. Há urgência em disponibilizar água para esse bairro.\n\nUse 3 como aproximação para π e 1,4 como aproximação para √2.\n\nO menor tempo possível, em hora, para conclusão da construção da galeria, para atender às necessidades de água do bairro, é de.",
+                "question": "O menor tempo possível, em hora, para conclusão da construção da galeria, para atender às necessidades de água do bairro, é de.",
+                "images": [
+                "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/ferrettopublic/f11736e2-24b8-4697-a9f3-c72291f30db4.png"
+                ],
+                "alternatives": {
+                "A": "1.260",
+                "B": "2.520",
+                "C": "2.800",
+                "D": "3.600",
+                "E": "4.000"
+                },
+                "answer": "B"
+            },
+            {
+                "questionId": "Uea_M0948",
+                "questionText": "Num plano cartesiano, sabe-se que os pontos A, B (1, 2) e C (2, 3) pertencem a uma mesma reta, e que o ponto A está sobre o eixo Oy. O valor da ordenada de A é.",
+                "question": "O valor da ordenada de A é.",
+                "images": [],
+                "alternatives": {
+                "A": "0",
+                "B": "3",
+                "C": "– 1",
+                "D": "2",
+                "E": "1"
+                },
+                "answer": "E"
+            },
+            {
+                "questionId": "Uece_M0943",
+                "questionText": "O volume do sólido gerado pela rotação, em torno do eixo dos X, da região do plano limitada pelo triângulo com vértices nos pontos (6, 0), (8, 0) e (8, 9) é igual a u. v. ≡ unidade de volume.",
+                "question": "O volume do sólido gerado pela rotação, em torno do eixo dos X, da região do plano limitada pelo triângulo com vértices nos pontos (6, 0), (8, 0) e (8, 9) é igual a.",
+                "images": [],
+                "alternatives": {
+                  "A": "81π u.v.",
+                  "B": "72π u.v.",
+                  "C": "64π u.v.",
+                  "D": "54π u.v.",
+                  "E": "32π u.v."
+                },
+                "answer": "D"
+              },
+              {
+                "questionId": "Enem_M1705",
+                "questionText": "O governo de um estado pretende realizar uma obra de infraestrutura para auxiliar na integração e no processo de escoamento da produção agrícola de duas cidades. O projeto consiste na interligação direta das cidades, A e B com a Rodovia 003, pela construção das Rodovias 001 e 002. As duas rodovias serão construídas em linha reta e deverão se conectar a Rodovia 003 em um mesmo ponto, conforme esboço apresentado na figura, na qual estão também indicadas as posições das cidades A e B, considerando o eixo x posicionado sobre a Rodovia 003, e cinco localizações sugeridas para o ponto de conexão entre as três rodovias.\n\nPretende-se que a distância percorrida entre as duas cidades, pelas Rodovias 001 e 002, passando pelo ponto de conexão, seja a menor possível.\n\nDadas as exigências do projeto, qual das localizações sugeridas deve ser a escolhida para o ponto de conexão?",
+                "question": "Qual das localizações sugeridas deve ser a escolhida para o ponto de conexão?",
+                "images": [
+                  "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/eecb0416-308f-48b8-a825-7a9dfaf0afd7-arquivo-editor"
+                ],
+                "alternatives": {
+                  "A": "I",
+                  "B": "II",
+                  "C": "III",
+                  "D": "IV",
+                  "E": "V"
+                },
+                "answer": "D"
+              },
+              {
+                "questionId": "Enem_PPL_M2102",
+                "questionText": "Uma moça estacionou seu carro na interseção da Rua 1 com a Avenida A. Ela está hospedada em um hotel na Rua 3, posicionado a exatos 40 metros de distância da Avenida A, contados a partir da Avenida A em direção à Avenida B.\n\nNo mapa está representado um plano cartesiano cujo eixo das abscissas coincide com a Avenida A e o das ordenadas, com a Rua 1, sendo a origem (0, 0) o local onde se encontra estacionado o veículo. Os quarteirões formados pelos cruzamentos dessas vias formam quadrados de lados medindo 100 m.",
+                "question": "Qual é a ordenada do ponto que representa a localização do hotel?",
+                "images": [
+                  "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/d2a011c9-61c0-4761-bb83-bfe94602fd9e-arquivo-editor"
+                ],
+                "alternatives": {
+                  "A": "-60.",
+                  "B": "-40.",
+                  "C": "0.",
+                  "D": "40.",
+                  "E": "60."
+                },
+                "answer": "B"
+              },
+              {
+                "questionId": "Unesp_M0953",
+                "questionText": "Observe o gráfico da função f(x) e analise as afirmações a seu respeito.\n\nI. Se x1, x2 ∈ Dom(f) e x2 > x1, então f(x2) > f(x1).\n\nII. Se x > 1, então f(x) < 0.\n\nIII. O ponto (2, –2) pertence ao gráfico de f(x).\n\nIV. A lei de formação de f(x) representada no gráfico é dada por f(x) = –(x – 1)/2.",
+                "question": "A alternativa que corresponde a todas as afirmações verdadeiras é:",
+                "images": [
+                  "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/28f96d79-3577-4de8-ba0e-fcdcef4b7a22-arquivo-editor"
+                ],
+                "alternatives": {
+                  "A": "I e III.",
+                  "B": "I, II e III.",
+                  "C": "I e IV.",
+                  "D": "II, III e IV.",
+                  "E": "II e IV."
+                },
+                "answer": "E"
+              },
+              {
+                "questionId": "Pucmg_M0947",
+                "questionText": "Quando representados no sistema de coordenadas xOy, o ponto B é o simétrico do ponto A (-3, 2) em relação à origem O; por sua vez, o ponto C é o simétrico de B em relação ao eixo x. Com base nessas informações, é CORRETO afirmar que a medida da área do triângulo ABC é igual a:",
+                "question": "Qual é a medida da área do triângulo ABC?",
+                "images": [],
+                "alternatives": {
+                  "A": "8",
+                  "B": "9",
+                  "C": "10",
+                  "D": "12"
+                },
+                "answer": "D"
+              },
+              {
+                "questionId": "Fgv_M0956",
+                "questionText": "Considere a reta de equação 4x – 7y + 10 = 0.\n\nSeja y = mx + h a equação da reta obtida ao se fazer a reflexão da reta dada em relação ao eixo x.\n\nO valor de m + h é:",
+                "question": "Qual é o valor de m + h?",
+                "images": [],
+                "alternatives": {
+                  "A": "-10/11",
+                  "B": "-10/7",
+                  "C": "-2",
+                  "D": "-7",
+                  "E": "-10"
+                },
+                "answer": "C"
+              },
+              {
+                "questionId": "Unesp_M0949",
+                "questionText": "Dois dos materiais mais utilizados para fazer pistas de rodagem de veículos são o concreto e o asfalto. Uma pista nova de concreto reflete mais os raios solares do que uma pista nova de asfalto; porém, com os anos de uso, ambas tendem a refletir a mesma porcentagem de raios solares, conforme mostram os segmentos de retas nos gráficos.\n\nMantidas as relações lineares expressas nos gráficos ao longo dos anos de uso, duas pistas novas, uma de concreto e outra de asfalto, atingirão pela primeira vez a mesma porcentagem de reflexão dos raios solares após:",
+                "question": "Após quantos anos as duas pistas atingirã pela primeira vez a mesma porcentagem de reflexão?",
+                "images": ["https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/ferrettopublic/4538ec02-2c6b-4a7a-9d34-0bfadb245f3f.png"],
+                "alternatives": {
+                  "A": "8,225 anos",
+                  "B": "9,375 anos",
+                  "C": "10,025 anos",
+                  "D": "10,175 anos",
+                  "E": "9,625 anos"
+                },
+                "answer": "B"
+              },
+              {
+                "questionId": "Enem_M1262",
+                "questionText": "Um aplicativo de relacionamentos funciona da seguinte forma: o usuário cria um perfil com foto e informações pessoais, indica as características dos usuários com quem deseja estabelecer contato e determina um raio de abrangência a partir da sua localização. O aplicativo identifica as pessoas que se encaixam no perfil desejado e que estão a uma distância do usuário menor ou igual ao raio de abrangência. Caso dois usuários tenham perfis compatíveis e estejam numa região de abrangência comum a ambos, o aplicativo promove o contato entre os usuários, o que é chamado de match.\n\nO usuário P define um raio de abrangência com medida de 3 km e busca ampliar a possibilidade de obter um match se deslocando para a região central da cidade, que concentra um maior número de usuários. O gráfico ilustra alguns bares que o usuário P costuma frequentar para ativar o aplicativo, indicados por I, II, III, IV e V. Sabe-se que os usuários Q, R e S, cujas posições estão descritas pelo gráfico, são compatíveis com o usuário P, e que estes definiram raios de abrangência respectivamente iguais a 3 km, 2km e 5 km.\n\nCom base no gráfico e nas afirmações anteriores, em qual bar o usuário P teria a possibilidade de um match com os usuários Q, R e S, simultaneamente?",
+                "question": "Em qual bar o usuário P teria a possibilidade de um match com os usuários Q, R e S, simultaneamente?",
+                "images": ["https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/ferrettopublic/9047d3a3-4189-45be-b212-7621c3cf5296.png"],
+                "alternatives": {
+                  "A": "I",
+                  "B": "II",
+                  "C": "III",
+                  "D": "IV",
+                  "E": "V"
+                },
+                "answer": "A"
+              },
+              {
+                "questionId": "Pucsp_M0957",
+                "questionText": "A figura mostra um triângulo retângulo ABC, de hipotenusa AC, com A(2, 7), B(7, 2) e C(k, k – 5).\n\nSabendo que a área do triângulo ABC é 15 cm², o valor da abscissa do ponto C é",
+                "question": "Qual é o valor da abscissa do ponto C?",
+                "images": ["https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/ferrettopublic/7610f05a-45c6-49a6-ae5b-0aa1da8faf8b.png"],
+                "alternatives": {
+                  "A": "8",
+                  "B": "9",
+                  "C": "10",
+                  "D": "11"
+                },
+                "answer": "C"
+              },
+              {
+                "questionId": "Uece_M0971",
+                "questionText": "No plano, com o sistema de coordenadas cartesianas usual, a distância do centro da circunferência x² + y² - 6x + 8y + 9 = 0 à origem é",
+                "question": "Qual é a distância do centro da circunferência à origem?",
+                "images": [],
+                "alternatives": {
+                  "A": "3 u. c.",
+                  "B": "6 u. c.",
+                  "C": "5 u. c.",
+                  "D": "4 u. c."
+                },
+                "answer": "C"
+              },
+              {
+                "questionId": "Unicamp_M0951",
+                "questionText": "No plano cartesiano, a reta de equação 2x – 3y = 12 intercepta os eixos coordenados nos pontos A e B. O ponto médio do segmento AB tem coordenadas",
+                "question": "Qual é o ponto médio do segmento AB?",
+                "images": [],
+                "alternatives": {
+                  "A": "(4, 4/3)",
+                  "B": "(3, 2)",
+                  "C": "(4, –4/3)",
+                  "D": "(3, –2)"
+                },
+                "answer": "D"
+              }
+    ]}

@@ -1,0 +1,371 @@
+{
+    "examTitle": "Circuitos",
+    "questions": [
+        {
+            "questionId": "Ufrgs_F1959",
+            "questionText": "Considere o circuito a seguir. No circuito, por onde passa uma corrente elétrica de 4 A, três resistores estão conectados a uma fonte ideal de força eletromotriz de 20 V. Os valores da resistência total deste circuito e da resistência RX são, respectivamente, ",
+            "question": "Quais são os valores da resistência total e da resistência RX no circuito?",
+            "images": ["https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/5dfc3733-6437-4075-b025-b4e6d38ed060-arquivo-editor"],
+            "alternatives": {
+              "A": "0,8 Ω e 2,6 Ω.",
+              "B": "0,8 Ω e 4,0 Ω.",
+              "C": "5,0 Ω e 5,0 Ω.",
+              "D": "5,0 Ω e 10,0 Ω.",
+              "E": "10,0 Ω e 4,0 Ω."
+            },
+            "answer": "D"
+          },
+          {
+            "questionId": "Mackenzie_F1952",
+            "questionText": "No circuito desenhado abaixo, a intensidade de corrente elétrica contínua que passa pelo resistor de 50 Ω é de 80 mA. A força eletromotriz ε do gerador ideal é igual a",
+            "question": "Qual é o valor da força eletromotriz do gerador no circuito?",
+            "images": ["https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/dc92f7ce-006f-4748-b5e3-9f00fcbfc89a-arquivo-editor"],
+            "alternatives": {
+              "A": "1,5 V",
+              "B": "3,0 V",
+              "C": "4,5 V",
+              "D": "5,0 V",
+              "E": "6,0 V"
+            },
+            "answer": "E"
+          },
+          {
+            "questionId": "Udesc_F1962",
+            "questionText": "O valor da intensidade de correntes (em A) no circuito a seguir é:",
+            "question": "Qual é o valor da intensidade da corrente no circuito?",
+            "images": ["https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/e86f756b-6c41-4f5e-8298-8fe516eb2c6b-arquivo-editor"],
+            "alternatives": {
+              "A": "1,50",
+              "B": "0,62",
+              "C": "1,03",
+              "D": "0,50",
+              "E": "0,30"
+            },
+            "answer": "E"
+          },
+          {
+            "questionId": "Ufjf_F1953",
+            "questionText": "Durante uma aula prática de Física, o professor pediu que os alunos medissem a corrente elétrica total que atravessa o circuito mostrado na figura abaixo, em duas situações distintas: a) com a chave S aberta e b) com a chave S fechada. Desprezando-se a resistência interna da bateria e sabendo-se que R1 = 8,0 Ω, R2 = 2,0 Ω e V = 32,0 V, CALCULE o valor da corrente elétrica total que atravessa o circuito com a chave S aberta e com a chave S fechada, respectivamente.",
+            "question": "Qual é o valor da corrente elétrica total no circuito nas duas situações: chave S aberta e chave S fechada?",
+            "images": ["https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/8deea9d7-7f24-4fa0-9c45-5b33a41e6d0c-arquivo-editor"],
+            "alternatives": {
+              "A": "16,0 A e 4,0 A",
+              "B": "3,2 A e 4,0 A",
+              "C": "4,0 A e 51,2 A",
+              "D": "3,2 A e 20,0 A",
+              "E": "4,0 A e 20,0 A"
+            },
+            "answer": "E"
+          },
+          {
+            "questionId": "Ufal_F1947",
+            "questionText": "Considere os gráficos a seguir. Eles representam as curvas características de três elementos de um circuito elétrico, respectivamente.",
+            "question": "Quais são os elementos representados nos gráficos?",
+            "images": ["https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/1adabeac-456e-4269-8093-b55f3799a292-arquivo-editor"],
+            "alternatives": {
+              "A": "gerador, receptor e resistor.",
+              "B": "gerador, resistor e receptor.",
+              "C": "receptor, gerador e resistor.",
+              "D": "receptor, resistor e gerador.",
+              "E": "resistor, receptor e gerador."
+            },
+            "answer": "C"
+          },
+          {
+            "questionId": "Ufrgs_F1949",
+            "questionText": "O circuito a seguir representa três pilhas ideais de 1,5 V cada uma, um resistor R de resistência elétrica 1,0 Ωe um motor, todos ligados em série. A tensão entre os terminais A e B do motor é 4,0V. Qual é a potência elétrica consumida pelo motor?",
+            "question": "Qual é a potência elétrica consumida pelo motor?",
+            "images": ["https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/d9b1ece1-8229-48ba-9a71-476bd79164c2-arquivo-editor"],
+            "alternatives": {
+              "A": "0,5 W.",
+              "B": "1,0 W.",
+              "C": "1,5 W.",
+              "D": "2,0 W.",
+              "E": "2,5 W."
+            },
+            "answer": "D"
+          },
+          {
+            "questionId": "Fgv_F1955",
+            "questionText": "A figura representa um circuito em que consta um gerador de corrente contínua de força eletromotriz 24 V e resistência interna de 2,0 Ω. O gerador alimenta uma associação em paralelo de um resistor ôhmico de 10 Ω e um solenoide com certos comprimento e número de espiras, com resistência ôhmica de 15 Ω. A potência útil fornecida pelo gerador é, em watts, de",
+            "question": "Qual é a potência útil fornecida pelo gerador?",
+            "images": ["https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/520597cb-6001-4c74-bbc0-41ca37cf88f2-arquivo-editor"],
+            "alternatives": {
+              "A": "54,0.",
+              "B": "48,6.",
+              "C": "42,0.",
+              "D": "36,0.",
+              "E": "32,4."
+            },
+            "answer": "A"
+          },
+          {
+            "questionId": "Cesgranrio_F1948",
+            "questionText": "Os gráficos característicos de um motor elétrico (receptor) e de uma bateria (gerador) são mostrados nas figuras (1) e (2), respectivamente. Sendo o motor ligado a essa bateria, é correto afirmar que a intensidade da corrente elétrica que o percorrerá, em ampères, será de",
+            "question": "Qual é a intensidade da corrente elétrica que o motor percorrerá?",
+            "images": ["https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/5ff3967a-2522-4712-bca2-ff7a3df8cb56-arquivo-editor"],
+            "alternatives": {
+              "A": "2,0",
+              "B": "4,0",
+              "C": "6,0",
+              "D": "8,0",
+              "E": "10"
+            },
+            "answer": "A"
+          },
+          {
+            "questionId": "Udesc_F1176",
+            "questionText": "O valor da intensidade de correntes (em A) no circuito a seguir é:",
+            "question": "Qual é o valor da intensidade de correntes no circuito?",
+            "images": ["https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/ferrettopublic/be6dabc6-d661-4554-9c94-5811d9a49b0f.png"],
+            "alternatives": {
+              "A": "1,50",
+              "B": "0,62",
+              "C": "1,03",
+              "D": "0,50",
+              "E": "0,30"
+            },
+            "answer": "E"
+          },
+          {
+            "questionId": "Ufrrj_F1179",
+            "questionText": "Na figura a seguir observa-se um circuito elétrico com dois geradores (E1 e E2) e alguns resistores. Utilizando a 1a lei de Kirchhoff ou lei dos nós, pode-se afirmar que:",
+            "question": "Qual é a afirmação correta sobre a 1a lei de Kirchhoff?",
+            "images": ["https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/ferrettopublic/e5603df7-5c7b-47f6-9d7c-9888f7e645ad.png"],
+            "alternatives": {
+              "A": "i1 = i2 – i3",
+              "B": "i2 + i4 = i5",
+              "C": "i4 + i7 = i6",
+              "D": "i2 + i3 = i1",
+              "E": "i1 + i4 + i6 = 0"
+            },
+            "answer": "D"
+          },
+          {
+            "questionId": "Ifmg_F1954",
+            "questionText": "Sabendo-se que a corrente I é igual a 500mA, o valor da tensão fornecida pela bateria, em volts, é:",
+            "question": "Qual é o valor da tensão fornecida pela bateria?",
+            "images": ["https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/eb665131-4a68-44eb-8038-165bfb8b0577-arquivo-editor"],
+            "alternatives": {
+              "A": "10",
+              "B": "20",
+              "C": "30",
+              "D": "40",
+              "E": "50"
+            },
+            "answer": "C"
+          },
+          {
+            "questionId": "Pucrs_F1958",
+            "questionText": "A partir da análise do circuito, afirma-se que: I. As leituras dos amperímetros A1 e A2 são, respectivamente, 2,0A e 2,0A. II. A leitura do voltímetro V é 24V. III. As potências dissipadas no resistor e na lâmpada são, respectivamente, 16W e 32W.",
+            "question": "Qual(is) afirmação(ões) está(ão) correta(s)?",
+            "images": ["https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/fc1443e4-65f2-4a2b-9804-195d36601d70-arquivo-editor"],
+            "alternatives": {
+              "A": "I, apenas.",
+              "B": "I e II, apenas.",
+              "C": "I e III, apenas.",
+              "D": "II e III, apenas.",
+              "E": "I, II e III."
+            },
+            "answer": "C"
+          },
+          {
+            "questionId": "Mackenzie_F1180",
+            "questionText": "Em uma experiência no laboratório de Física, observa-se, no circuito a seguir, que, estando a chave ch na posição 1, a carga elétrica do capacitor é de 24 µC. Considerando que o gerador de tensão é ideal, ao se colocar a chave na posição 2, o amperímetro ideal medirá uma intensidade de corrente elétrica de:",
+            "question": "Qual é a intensidade de corrente elétrica medida pelo amperímetro ideal?",
+            "images": ["https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/ferrettopublic/386b43aa-daea-495b-9cd8-1964729dafdf.png"],
+            "alternatives": {
+              "A": "0,5 A",
+              "B": "1,0 A",
+              "C": "1,5 A",
+              "D": "2,0 A",
+              "E": "2,5 A"
+            },
+            "answer": "D"
+          },
+          {
+            "questionId": "Esc_Naval_F0493",
+            "questionText": "A figura acima mostra um circuito contendo dois geradores idênticos, sendo que cada um deles possui força eletromotriz de 10 V e resistência interna de 2,0 Ω. A corrente I, em amperes, medida pelo amperímetro ideal e a ddp, em volts, medida pelo voltímetro ideal, valem, respectivamente:",
+            "question": "Qual é a corrente medida pelo amperímetro e a ddp medida pelo voltímetro?",
+            "images": ["https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/ferrettopublic/0e763c83-8b4f-4430-94cb-477f99fad3ed.png"],
+            "alternatives": {
+              "A": "zero e 2,5",
+              "B": "zero e 5,0",
+              "C": "2,5 e zero",
+              "D": "5,0 e zero",
+              "E": "zero e zero"
+            },
+            "answer": "D"
+          },
+          {
+            "questionId": "Unesp_F1364",
+            "questionText": "Um estudante tinha disponíveis um gerador elétrico de força eletromotriz E = 50 V e resistência interna r = 2 Ω, duas lâmpadas iguais com valores nominais (60V – 100 W) e um amperímetro ideal, como representado na figura. Com esses componentes, ele montou o seguinte circuito elétrico. O amperímetro desse circuito indicará o valor de:",
+            "question": "Qual valor o amperímetro irá indicar?",
+            "images": [
+              "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/0da3b9e4-3591-40b7-be59-6e3affa4b516-arquivo-editor",
+              "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/63102271-2f3d-4b0a-a382-f8a363a0f3f2-arquivo-editor"
+            ],
+            "alternatives": {
+              "A": "1,5 A",
+              "B": "2,0 A",
+              "C": "2,5 A",
+              "D": "3,0 A",
+              "E": "1,0 A"
+            },
+            "answer": "C"
+          },
+          {
+            "questionId": "Udesc_F1967",
+            "questionText": "De acordo com a figura, os valores das correntes elétricas i1, i2 e i3 são, respectivamente, iguais a:",
+            "question": "Quais são os valores das correntes elétricas i1, i2 e i3?",
+            "images": [
+              "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/76d4db1a-78ab-4903-a39e-da1fc55aa8df-arquivo-editor"
+            ],
+            "alternatives": {
+              "A": "2,0 A, 3,0 A, 5,0 A",
+              "B": "-2,0 A, 3,0 A, 5,0 A",
+              "C": "3,0 A, 2,0 A, 5,0 A",
+              "D": "5,0 A, 3,0 A, 8,0 A",
+              "E": "2,0 A, -3,0 A, -5,0 A"
+            },
+            "answer": "A"
+          },
+          {
+            "questionId": "Mackenzie_F1177",
+            "questionText": "Em um circuito elétrico simples há duas baterias ε1 e ε2, acopladas em série a um resistor de resistência R e a um amperímetro ideal, que acusa 6,0 A quando as baterias funcionam como geradores em série. Ao se inverter a polaridade da bateria ε1, o amperímetro passa a indicar a corrente elétrica de intensidade 2,0 A, com o mesmo sentido de antes da inversão. Conhecendo-se ε2 = 24 V, no cálculo de ε1, em volt, encontra-se:",
+            "question": "Qual é o valor de ε1 em volts?",
+            "images": [],
+            "alternatives": {
+              "A": "12",
+              "B": "14",
+              "C": "16",
+              "D": "18",
+              "E": "24"
+            },
+            "answer": "A"
+          },
+          {
+            "questionId": "Uece_F1183",
+            "questionText": "Um resistor de 3Ω é ligado em série a um capacitor de 4µF, e a associação assim obtida é conectada aos terminais de uma bateria de 12 V. Após o capacitor estar completamente carregado, é correto afirmar que a diferença de potencial (em Volts) nos terminais do capacitor e do resistor é, respectivamente:",
+            "question": "Qual é a diferença de potencial nos terminais do capacitor e do resistor?",
+            "images": [],
+            "alternatives": {
+              "A": "12 e 0",
+              "B": "48 e 4",
+              "C": "4 e 3",
+              "D": "3 e 4"
+            },
+            "answer": "A"
+          },
+          {
+            "questionId": "Ufu_F0492",
+            "questionText": "Considera o trecho de um circuito elétrico apresentado a seguir, contendo um resistor R, um gerador de força eletromotriz ε e um fio ideal AB. Os pontos A, C e D não se ligam diretamente no circuito. É correto afirmar que:",
+            "question": "Qual é a afirmação correta sobre o circuito apresentado?",
+            "images": [
+              "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/ferrettopublic/38ba4006-ab68-4234-a47a-8a7600c04a61.png"
+            ],
+            "alternatives": {
+              "A": "A potência dissipada no resistor R depende, diretamente, da intensidade da corrente que o atravessa e, inversamente, da diferença de potencial entre B e D.",
+              "B": "A aplicação da 1a Lei de Kirchhoff (lei dos nós) no ponto B garante a conservação da carga elétrica no trecho apresentado.",
+              "C": "Independentemente do restante do circuito, há conservação de energia no trecho apresentado, o que impõe que εi = R[i(r)]^2, sendo i a intensidade da corrente através do gerador e i(r) a intensidade da corrente que percorre o resistor.",
+              "D": "A diferença de potencial entre os pontos C e A (VC – VA) é zero."
+            },
+            "answer": "B"
+          },
+          {
+            "questionId": "Ufu_F1960",
+            "questionText": "Dispondo de algumas pilhas idênticas, de resistência interna desprezível, fios e pequenas lâmpadas de mesma potência, um estudante monta alguns tipos diferentes de circuitos elétricos, conforme a figura a seguir. Em relação aos fios ideais, considere as afirmativas sobre a corrente que circula pelos circuitos.\n\nI. A corrente circula pelo circuito 2 é menor que a do circuito 4.\nII. A corrente que circula pelo circuito 1 é menor que a do circuito 3.\nIII. A corrente que circula pelo circuito 1 é menor que a do circuito 4.\nIV. No circuito 2, quando a corrente passa pelo ponto A, ela é maior do que quando passa pelo B.",
+            "question": "Quais afirmativas são corretas em relação aos circuitos apresentados?",
+            "images": [
+              "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/cebd049e-792b-41c8-ae03-c746a5307e89-arquivo-editor"
+            ],
+            "alternatives": {
+              "A": "I e II.",
+              "B": "II e III.",
+              "C": "I e IV.",
+              "D": "III e IV."
+            },
+            "answer": "A"
+          },
+          {
+            "questionId": "Ufrgs_F1963",
+            "questionText": "Observe o segmento de circuito. No circuito, VA = – 20 V e VB = 10 V são os potenciais nas extremidades A e B; e R1 = 2 kΩ, R2 = 8 kΩ e R3 = 5kΩ são os valores das resistências elétricas presentes. Nessa situação, os potenciais nos pontos a e b são, respectivamente.",
+            "question": "Quais são os potenciais nos pontos a e b?",
+            "images": [
+              "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/f2dc2c78-e2d4-41c7-80fa-9dee77af98ea-arquivo-editor"
+            ],
+            "alternatives": {
+              "A": "–24 V e 0 V.",
+              "B": "– 16 V e 0 V.",
+              "C": "– 4 V e 0 V.",
+              "D": "4 V e 5 V.",
+              "E": "24 V e 5 V."
+            },
+            "answer": "B"
+          },
+          {
+            "questionId": "Udesc_F1956",
+            "questionText": "No circuito, mostrado na figura abaixo, a leitura do amperímetro é a mesma, estando ambos interruptores abertos ou fechados. O valor da resistência R, indicado na figura, é:",
+            "question": "Qual é o valor da resistência R no circuito?",
+            "images": [
+              "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/78cc3c58-cb0a-456f-abca-6c6c65a4f96c-arquivo-editor"
+            ],
+            "alternatives": {
+              "A": "45,0 Ω",
+              "B": "38,0 Ω",
+              "C": "20,0 Ω",
+              "D": "220 Ω",
+              "E": "470 Ω"
+            },
+            "answer": "C"
+          },
+          {
+            "questionId": "Puccamp_F1961",
+            "questionText": "Considere o circuito esquematizado a seguir constituído por três baterias, um resistor ôhmico, um amperímetro ideal e uma chave comutadora. Os valores característicos de cada elemento estão indicados no esquema. As indicações do amperímetro conforme a chave estiver ligada em (1) ou em (2) será, em amperes, respectivamente:",
+            "question": "Qual será a indicação do amperímetro para as chaves nas posições (1) e (2)?",
+            "images": [
+              "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/514de8ff-ad45-4ad2-a64f-999677036e63-arquivo-editor"
+            ],
+            "alternatives": {
+              "A": "1,0 e 1,0",
+              "B": "1,0 e 3,0",
+              "C": "2,0 e 2,0",
+              "D": "3,0 e 1,0",
+              "E": "3,0 e 3,0"
+            },
+            "answer": "B"
+          },
+          {
+            "questionId": "Enem_PPL_F2059",
+            "questionText": "Um multímetro pode atuar como voltímetro (leitura em volt) ou como amperímetro (leitura em ampère), dependendo da função selecionada. A forma de conectar o multímetro ao circuito depende da grandeza física a ser medida. Uma lâmpada de lanterna, de resistência elétrica igual a 40 Ω, brilha quando conectada a quatro pilhas em série, cada uma com 1,5 V de tensão elétrica. O multímetro 2 indica o valor 5,62, conforme a figura, e o multímetro 1 está conectado, porém desligado. Ao se ligar o multímetro 1, a grandeza física e o seu valor correspondente indicados na tela são, respectivamente:",
+            "question": "Qual é a grandeza física e o seu valor correspondente indicados no multímetro 1?",
+            "images": [
+              "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/e9472ab2-f016-4e03-bd82-7cc65d750dc8-arquivo-editor"
+            ],
+            "alternatives": {
+              "A": "corrente elétrica e 0,14",
+              "B": "corrente elétrica e 0,15",
+              "C": "corrente elétrica e 0,29",
+              "D": "tensão elétrica e 0,14",
+              "E": "tensão elétrica e 225"
+            },
+            "answer": "A"
+          },
+          {
+            "questionId": "Esc_Naval_F1182",
+            "questionText": "Diferenças de potencial de 30 volts já representam, para alguns indivíduos, risco de fibrilação induzida (mesmo que o choque elétrico seja de baixa corrente). Suponha que uma força eletromotriz aplicada entre as mãos de um ser humano seja, de modo simplificado, equivalente ao circuito mostrado na figura acima, com a magnitude da tensão Vo no capacitor (coração) determinando o grau de risco. Se a fem é de 30 volts, a potência elétrica, em watts, dissipada no corpo humano é igual a:",
+            "question": "Qual é a potência elétrica dissipada no corpo humano?",
+            "images": [
+              "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/ferrettopublic/473e101c-7d72-49f6-a3a7-220c595a987a.png"
+            ],
+            "alternatives": {
+              "A": "0,9",
+              "B": "0,6",
+              "C": "0,5",
+              "D": "0,3",
+              "E": "0,2"
+            },
+            "answer": "A"
+          }
+    ]
+}

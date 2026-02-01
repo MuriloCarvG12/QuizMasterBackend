@@ -1,0 +1,1053 @@
+{
+    "examTitle": "analise combinatoria",
+    "questions": 
+    [
+        {
+            "questionId": "ProfessorFerretto_M0745",
+            "questionText": "Roberta resolve passear com a sua filhinha Malu e, antes de sair de seu apartamento, decide vesti-la com uma camiseta e uma calça. Se Malu tem 7 camisetas e 3 calças, todas distintas, de quantas maneiras Roberta pode escolher uma camiseta e uma calça para vestir a Malu?\n\nA)\n10\n\nB)X\n21\n\nC)\n35\n\nD)\n42\n\nE)\n46",
+            "question": "Se Malu tem 7 camisetas e 3 calças, todas distintas, de quantas maneiras Roberta pode escolher uma camiseta e uma calça para vestir a Malu?",
+            "images": [],
+            "alternatives": {
+              "A": "10",
+              "B": "21",
+              "C": "35",
+              "D": "42",
+              "E": "46"
+            },
+            "answer": "B"
+          },
+          {
+            "questionId": "Ueg_M0278",
+            "questionText": "Numa lanchonete o lanche é composto por três partes: pão, molho e recheio. Se essa lanchonete oferece aos seus clientes duas opções de pão, três de molho e quatro de recheio, a quantidade de lanches distintos que ela pode oferecer é de\n\nA)\n9\n\nB)\n12\n\nC)\n18\n\nD)X\n24",
+            "question": "Se essa lanchonete oferece aos seus clientes duas opções de pão, três de molho e quatro de recheio, a quantidade de lanches distintos que ela pode oferecer é de",
+            "images": [],
+            "alternatives": {
+              "A": "9",
+              "B": "12",
+              "C": "18",
+              "D": "24",
+              "E": ""
+            },
+            "answer": "D"
+          },
+          {
+            "questionId": "ProfessorFerretto_M0752",
+            "questionText": "Em um restaurante, são oferecidos 5 tipos de massa, 4 tipos de carne, 6 tipos de sobremesa e 8 tipos de salada. De quantas maneiras diferentes podemos escolher uma refeição composta por 1 carne, 1 massa, 1 salada e 1 sobremesa?\n",
+            "question": "De quantas maneiras diferentes podemos escolher uma refeição composta por 1 carne, 1 massa, 1 salada e 1 sobremesa?",
+            "images": [],
+            "alternatives": {
+              "A": "23.",
+              "B": "24.",
+              "C": "401.",
+              "D": "572.",
+              "E": "960."
+            },
+            "answer": "E"
+          },
+          {
+            "questionId": "ProfessorFerretto_M0757",
+            "questionText": "Como não são adeptos da prática de esportes, um grupo de amigos resolveu fazer um torneio de futebol utilizando videogame. Decidiram que cada jogador joga uma única vez com cada um dos outros jogadores. O campeão será aquele que conseguir o maior número de pontos. Observaram que o número de partidas jogadas depende do número de jogadores, como mostra o quadro:\n\nhttps://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/ferrettopublic/f9971bcb-d3f8-44c5-a2cb-0d39f053a8a8.png\n\nSe a quantidade de jogadores for 8, quantas partidas serão realizadas?\n",
+            "question": "Se a quantidade de jogadores for 8, quantas partidas serão realizadas?",
+            "images": [
+              "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/ferrettopublic/f9971bcb-d3f8-44c5-a2cb-0d39f053a8a8.png"
+            ],
+            "alternatives": {
+              "A": "64",
+              "B": "56",
+              "C": "49",
+              "D": "36",
+              "E": "28"
+            },
+            "answer": "E"
+          },
+          {
+            "questionId": "Imed_M0261",
+            "questionText": "O número de candidatos inscritos para realização do último vestibular de verão, em um determinado curso, corresponde ao número de anagramas da palavra VESTIBULAR que começam por VE e terminam por AR. Esse número é igual a:\n",
+            "question": "O número de anagramas da palavra VESTIBULAR que começam por VE e terminam por AR é igual a:",
+            "images": [],
+            "alternatives": {
+              "A": "120",
+              "B": "240",
+              "C": "360",
+              "D": "540",
+              "E": "720"
+            },
+            "answer": "E"
+          },
+          {
+            "questionId": "Enem_M1010",
+            "questionText": "O tênis é um esporte em que a estratégia de jogo a ser adotada depende, entre outros fatores, de o adversário ser canhoto ou destro.\n\nUm clube tem um grupo de 10 tenistas, sendo que 4 são canhotos e 6 são destros. O técnico do clube deseja realizar uma partida de exibição entre dois desses jogadores, porém, não poderão ser ambos canhotos.\n\nQual o número de possibilidades de escolha dos tenistas para a partida de exibição?\n\n",
+            "question": "Qual o número de possibilidades de escolha dos tenistas para a partida de exibição, sabendo que não podem ser dois canhotos?",
+            "images": [],
+            "alternatives": {
+              "A": "(10! / 2! x 8!) – (4! / 2! x 2!)",
+              "B": "(10! / 8!) – (4! / 2!)",
+              "C": "(10! / 2! x 8!) – 2",
+              "D": "(6! / 4!) + 4 x 4",
+              "E": "(6! / 4!) + 6 x 4"
+            },
+            "answer": "A"
+          },
+          {
+            "questionId": "Pucsp_M0276",
+            "questionText": "No vestiário de uma Academia de Ginástica há exatamente 30 armários, cada qual para uso individual. Se, no instante em que dois alunos dessa Academia entram no vestiário para mudar suas roupas, apenas 8 dos armários estão desocupados, quantas opções eles terão para escolher seus respectivos armários?\n\n",
+            "question": "Se apenas 8 dos 30 armários estão desocupados, quantas opções dois alunos terão para escolher seus respectivos armários?",
+            "images": [],
+            "alternatives": {
+              "A": "14",
+              "B": "28",
+              "C": "48",
+              "D": "56",
+              "E": "112"
+            },
+            "answer": "D"
+          },
+          {
+            "questionId": "Enem_M1014",
+            "questionText": "Uma empresa construirá sua página na internet e espera atrair um público de aproximadamente um milhão de clientes. Para acessar essa página, será necessária uma senha com formato a ser definido pela empresa. Existem cinco opções de formato oferecidas pelo programador, descritas no quadro, em que “L” e “D” representam, respectivamente, letra maiúscula e dígito.\n\nAs letras do alfabeto, entre as 26 possíveis, bem como os dígitos, entre os 10 possíveis, podem se repetir em qualquer das opções.\n\nA empresa quer escolher uma opção de formato cujo número de senhas distintas possíveis seja superior ao número esperado de clientes, mas que esse número não seja superior ao dobro do número esperado de clientes.\n\nhttps://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/ferrettopublic/524327ab-de60-4427-abb7-b9890bdbeeb1.png\n\nA opção que mais se adéqua às condições da empresa é\n\n",
+            "question": "A empresa quer escolher uma opção de formato de senha cujo número de senhas possíveis seja maior que 1 milhão, mas menor que 2 milhões. Qual opção se adequa melhor?",
+            "images": [
+              "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/ferrettopublic/524327ab-de60-4427-abb7-b9890bdbeeb1.png"
+            ],
+            "alternatives": {
+              "A": "I.",
+              "B": "II.",
+              "C": "III.",
+              "D": "IV.",
+              "E": "V."
+            },
+            "answer": "E"
+          },
+          {
+            "questionId": "Ufsm_M0272",
+            "questionText": "As doenças cardiovasculares aparecem em primeiro lugar entre as causas de morte no Brasil. As cirurgias cardíacas são alternativas bastante eficazes no tratamento dessas doenças.\n\nSupõe-se que um hospital dispõe de 5 médicos cardiologistas, 2 médicos anestesistas e 6 instrumentadores que fazem parte do grupo de profissionais habilitados para realizar cirurgias cardíacas.",
+            "question": "Quantas equipes diferentes podem ser formadas com 3 cardiologistas, 1 anestesista e 4 instrumentadores?",
+            "images": [],
+            "alternatives": {
+              "A": "200.",
+              "B": "300.",
+              "C": "600.",
+              "D": "720.",
+              "E": "1.200."
+            },
+            "answer": "B"
+          },
+          {
+            "questionId": "Enem_M0244",
+            "questionText": "Um banco solicitou aos seus clientes a criação de uma senha pessoal de seis dígitos, formada somente por algarismos de 0 a 9, para acesso à conta-corrente pela internet.\n\nEntretanto, um especialista em sistemas de segurança eletrônica recomendou à direção do banco recadastrar seus usuários, solicitando, para cada um deles, a criação de uma nova senha com seis dígitos, permitindo agora o uso das 26 letras do alfabeto, além dos algarismos de 0 a 9. Nesse novo sistema, cada letra maiúscula era considerada distinta de sua versão minúscula. Além disso, era proibido o uso de outros tipos de caracteres.\n\nUma forma de avaliar uma alteração no sistema de senhas é a verificação do coeficiente de melhora, que é a razão do novo número de possibilidades de senhas em relação ao antigo.",
+            "question": "Qual é o coeficiente de melhora da alteração recomendada no sistema de senhas?",
+            "images": [],
+            "alternatives": {
+              "A": "62^6/10^6",
+              "B": "62! / 10!",
+              "C": "62! 4! / 10! 56!",
+              "D": "62! – 10!",
+              "E": "626 – 106"
+            },
+            "answer": "A"
+          },
+          {
+            "questionId": "ProfessorFerretto_M1577",
+            "questionText": "Cada uma das bolas da figura deverá ser pintada com uma cor, escolhida dentre três disponíveis. Sabendo que duas bolas consecutivas jamais serão pintadas com a mesma cor, o número de formas de se pintar as bolas é",
+            "question": "Quantas formas diferentes existem de pintar as bolas com 3 cores disponíveis, sem repetir cor em bolas consecutivas?",
+            "images": [
+              "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/ferrettopublic/d0db57f1-5c8a-4a62-8a95-25dbbc23065d.png"
+            ],
+            "alternatives": {
+              "A": "72",
+              "B": "68",
+              "C": "60",
+              "D": "54",
+              "E": "48"
+            },
+            "answer": "E"
+          },
+          {
+            "questionId": "EnemPPL_M0243",
+            "questionText": "Um procedimento padrão para aumentar a capacidade do número de senhas de banco é acrescentar mais caracteres a essa senha. Essa prática, além de aumentar as possibilidades de senha, gera um aumento na segurança. Deseja-se colocar dois novos caracteres na senha de um banco, um no início e outro no final. Decidiu-se que esses novos caracteres devem ser vogais e o sistema conseguirá diferenciar maiúsculas de minúsculas.",
+            "question": "Ao adicionar duas vogais (uma no início e outra no final), diferenciando maiúsculas de minúsculas, por quanto o número de senhas possíveis será multiplicado?",
+            "images": [],
+            "alternatives": {
+              "A": "100",
+              "B": "90",
+              "C": "80",
+              "D": "25",
+              "E": "20"
+            },
+            "answer": "A"
+          },
+          {
+            "questionId": "Enem_M0273",
+            "questionText": "Uma família composta por sete pessoas adultas, após decidir o itinerário de sua viagem, consultou o site de uma empresa aérea e constatou que o voo para a data escolhida estava quase lotado. Na figura, disponibilizada pelo site as poltronas ocupadas estão marcadas com X e as únicas poltronas disponíveis são as mostradas em branco.",
+            "question": "Qual o número de formas distintas de acomodar uma família de 7 pessoas nas poltronas disponíveis do voo?",
+            "images": [
+              "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/ferrettopublic/f7368448-dc7f-4027-a395-23fc088d2726.png"
+            ],
+            "alternatives": {
+              "A": "9! / 2!",
+              "B": "9! / 7! x 2!",
+              "C": "7!",
+              "D": "(5!/2!) x 4!",
+              "E": "(5! / 4!) x (4! / 3!)"
+            },
+            "answer": "A"
+          },
+          {
+            "questionId": "ProfessorFerretto_M1572",
+            "questionText": "Entre duas cidades, A e B, existem cinco postos de abastecimento e dois postos de pedágio. O primeiro posto de pedágio possui quatro cabines e o segundo, três. Determine o número de formas distintas que se pode fazer o percurso de A até B, passando pelos dois pedágios e parando três vezes para abastecimento (variando as cabines e os postos de abastecimento).",
+            "question": "Quantas formas distintas existem de ir de A até B, passando por 2 pedágios (com diferentes cabines) e parando 3 vezes nos 5 postos de abastecimento?",
+            "images": [],
+            "alternatives": {
+              "A": "12",
+              "B": "22",
+              "C": "31",
+              "D": "120",
+              "E": "210"
+            },
+            "answer": "D"
+          },
+          
+            {
+                "questionId": "ProfessorFerretto_M0749",
+                "questionText": "Uma sala de aula com 25 alunos necessita escolher 6 representantes. Sabe-se que 72% dos alunos desta turma são homens, e que os representantes escolhidos devem ser 3 mulheres e 3 homens. Assim, o número de possibilidades para esta escolha é:",
+                "question": "Quantas maneiras distintas existem de escolher 3 mulheres e 3 homens dentre 25 alunos, sendo 72% homens?",
+                "images": [],
+                "alternatives": {
+                "A": "28560",
+                "B": "851",
+                "C": "13800",
+                "D": "1028160",
+                "E": "5106"
+                },
+                "answer": "A"
+            },
+            {
+                "questionId": "ProfessorFerretto_M0743",
+                "questionText": "Atualmente no Brasil, as placas de automóveis são alfanuméricas e possuem sete dígitos, sendo que três são letras de nosso alfabeto e quatro são algarismos de 0 a 9. Quantas placas distintas podem ser fabricadas utilizando somente vogais e algarismos pares?",
+                "question": "Quantas placas de automóveis com 3 letras e 4 dígitos podem ser formadas usando apenas vogais e algarismos pares?",
+                "images": [],
+                "alternatives": {
+                "A": "78625",
+                "B": "78125",
+                "C": "80626",
+                "D": "80125",
+                "E": "80425"
+                },
+                "answer": "B"
+            },
+            {
+                "questionId": "Enem_M1272",
+                "questionText": "Uma pessoa produzirá uma fantasia utilizando como materiais: 2 tipos de tecidos diferentes e 5 tipos distintos de pedras ornamentais. Essa pessoa tem à sua disposição 6 tecidos diferentes e 15 pedras ornamentais distintas.",
+                "question": "Qual é a expressão que representa a quantidade de fantasias com materiais diferentes que podem ser produzidas?",
+                "images": [],
+                "alternatives": {
+                  "A": "(6!/4! 2!) · (15!/10! 5!)",
+                  "B": "(6!/4! 2!) + (15!/10! 5!)",
+                  "C": "(6!/2!) + (15!/5!)",
+                  "D": "(6!/2!) · (15!/5!)",
+                  "E": "21!/7! 14!"
+                },
+                "answer": "A"
+              },
+              {
+                "questionId": "ProfessorFerretto_M0748",
+                "questionText": "Para fazer a foto de uma família composta por pai, mãe e quatro filhos, um fotógrafo pretende organizar da seguinte forma a fotografia: colocar as pessoas lado a lado e os quatro filhos devem ficar entre os pais.",
+                "question": "Quantas maneiras diferentes a família pode se posicionar para a foto, com os filhos entre os pais?",
+                "images": [],
+                "alternatives": {
+                  "A": "4",
+                  "B": "6",
+                  "C": "24",
+                  "D": "36",
+                  "E": "48"
+                },
+                "answer": "E"
+              },
+              {
+                "questionId": "Upe_M0251",
+                "questionText": "Na comemoração de suas Bodas de Ouro, Sr. Manuel e D. Joaquina resolveram registrar o encontro com seus familiares através de fotos. Uma delas sugerida pela família foi dos avós com seus 8 netos. Por sugestão do fotógrafo, na organização para a foto, todos os netos deveriam ficar entre os seus avós.",
+                "question": "Quantos modos distintos Sr. Manuel e D. Joaquina podem posar para a foto com seus 8 netos, sabendo que todos os netos devem ficar entre os avós?",
+                "images": [],
+                "alternatives": {
+                  "A": "100",
+                  "B": "800",
+                  "C": "40 320",
+                  "D": "80 640",
+                  "E": "3 628 800"
+                },
+                "answer": "D"
+              },
+              {
+                "questionId": "ProfessorFerretto_M0744",
+                "questionText": "Em uma empresa, o refeitório disponibiliza para o almoço uma refeição completa composta de duas entradas, o prato principal e uma sobremesa. O funcionário dessa empresa possui a sua disposição 8 tipos de entradas, 10 tipos de pratos principais e 5 tipos de sobremesas.",
+                "question": "Qual é o número de possibilidades com que o funcionário pode compor o seu almoço?",
+                "images": [],
+                "alternatives": {
+                  "A": "400",
+                  "B": "600",
+                  "C": "800",
+                  "D": "1200",
+                  "E": "1400"
+                },
+                "answer": "E"
+              },
+              {
+                "questionId": "Fatec_M0260",
+                "questionText": "No Boxe, um dos esportes olímpicos, um pugilista tem à sua disposição quatro golpes básicos: o jab, o direto, o cruzado e o gancho. Suponha que um pugilista, preparando-se para os Jogos Olímpicos do Rio, em 2016, queira criar uma sequência com 6 golpes, empregando necessariamente dois jabs, dois diretos, um cruzado e um gancho.",
+                "question": "Qual é o número máximo de sequências que um pugilista pode criar com 6 golpes, sendo 2 jabs, 2 diretos, 1 cruzado e 1 gancho?",
+                "images": [],
+                "alternatives": {
+                  "A": "180",
+                  "B": "160",
+                  "C": "140",
+                  "D": "120",
+                  "E": "100"
+                },
+                "answer": "A"
+              },
+              {
+                "questionId": "EnemPPL_M1824",
+                "questionText": "Computadores utilizam, por padrão, dados em formato binário, em que cada dígito, denominado de bit, pode assumir dois valores (0 ou 1). Para representação de caracteres e outras informações, é necessário fazer uso de uma sequência de bits, o byte. No passado, um byte era composto de 6 bits em alguns computadores, mas atualmente tem-se a padronização que o byte é um octeto, ou seja, uma sequência de 8 bits. Esse padrão permite representar apenas 28 informações distintas. Se um novo padrão for proposto, de modo que um byte seja capaz de representar pelo menos 2.560 informações distintas, o número de bits em um byte deve passar de 8 para:",
+                "question": "Quantos bits serão necessários para representar pelo menos 2.560 informações distintas em um byte?",
+                "images": [],
+                "alternatives": {
+                  "A": "10",
+                  "B": "12",
+                  "C": "13",
+                  "D": "18",
+                  "E": "20"
+                },
+                "answer": "B"
+              },
+              {
+                "questionId": "EnemPPL_M1826",
+                "questionText": "A bandeira de um estado é formada por cinco faixas, A, B, C, D e E, dispostas conforme a figura. Deseja-se pintar cada faixa com uma das cores verde, azul ou amarelo, de tal forma que faixas adjacentes não sejam pintadas com a mesma cor.",
+                "question": "Qual é o número de possibilidades distintas de se pintar a bandeira, com a exigência de que faixas adjacentes não sejam pintadas com a mesma cor?",
+                "images": ["https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/6ac3d911-542d-4791-8ed6-3b3e205bc42e-arquivo-editor"],
+                "alternatives": {
+                  "A": "1 x 2 x 1 x 1 x 2",
+                  "B": "3 x 2 x 1 x 1 x 2",
+                  "C": "3 x 2 x 1 x 1 x 3",
+                  "D": "3 x 2 x 1 x 2 x 2",
+                  "E": "3 x 2 x 2 x 2 x 2"
+                },
+                "answer": "B"
+              },
+              {
+                "questionId": "Fuvest_M1374",
+                "questionText": "Atualmente, no Brasil, coexistem dois sistemas de placas de identificação de automóveis: o padrão Mercosul (o mais recente) e aquele que se iniciou em 1990 (o sistema anterior, usado ainda pela maioria dos carros em circulação). No sistema anterior, utilizavam-se 3 letras (em um alfabeto de 26 letras) seguidas de 4 algarismos (de 0 a 9). No padrão Mercosul adotado no Brasil para automóveis, são usadas 4 letras e 3 algarismos, com 3 letras nas primeiras 3 posições e a quarta letra na quinta posição, podendo haver repetições de letras ou de números.",
+                "question": "Qual é o número de placas possíveis do padrão Mercosul brasileiro de automóveis em comparação com o sistema anterior?",
+                "images": ["https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/7bac71c6-9047-4b21-b75a-3e4df3696b21-arquivo-editor"],
+                "alternatives": {
+                  "A": "1,5 vezes",
+                  "B": "2 vezes",
+                  "C": "2,6 vezes",
+                  "D": "2,8 vezes",
+                  "E": "3 vezes"
+                },
+                "answer": "C"
+              },
+              {
+                "questionId": "Enem_M0266",
+                "questionText": "Considere que um professor de arqueologia tenha obtido recursos para visitar 5 museus, sendo 3 deles no Brasil e 2 fora do país. Ele decidiu restringir sua escolha aos museus nacionais e internacionais relacionados na tabela a seguir.",
+                "question": "De acordo com os recursos obtidos, de quantas maneiras diferentes esse professor pode escolher os 5 museus para visitar?",
+                "images": ["https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/ferrettopublic/04415fab-59e3-416c-8cd4-5ca465c1fc6b.png"],
+                "alternatives": {
+                  "A": "6",
+                  "B": "8",
+                  "C": "20",
+                  "D": "24",
+                  "E": "36"
+                },
+                "answer": "D"
+              },
+              {
+                "questionId": "Uemg_M0277",
+                "questionText": "“Genius era um brinquedo muito popular na década de 1980 (...). O brinquedo buscava estimular a memorização de cores e sons. Com formato semelhante a um OVNI, possuía 4 botões de cores distintas que emitiam sons harmônicos e se iluminavam em sequência. Cabia aos jogadores repetir o processo sem errar”.\n\nOrigem: Wikipédia, a enciclopédia livre. (Adaptado).",
+                "question": "Considerando uma fase do jogo em que 3 luzes irão acender de forma aleatória e em sequência, podendo cada cor acender mais de uma vez, o número máximo de formas que essa sequência de 3 luzes poderá acender é:",
+                "images": ["https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/ferrettopublic/12daf946-fe05-44a4-994a-bb6a0d34f2ef.png"],
+                "alternatives": {
+                  "A": "12",
+                  "B": "24",
+                  "C": "36",
+                  "D": "64"
+                },
+                "answer": "D"
+              },
+              {
+                "questionId": "Enem_M1710",
+                "questionText": "Um prédio, com 9 andares e 8 apartamentos de 2 quartos por andar, está com todos os seus apartamentos à venda. Os apartamentos são identificados por números formados por dois algarismos, sendo que a dezena indica o andar onde se encontra o apartamento, e a unidade, um algarismo de 1 a 8, que diferencia os apartamentos de um mesmo andar. Quanto à incidência de sol nos quartos desses apartamentos, constatam-se as seguintes características, em função de seus números de identificação:\n\n- naqueles que finalizam em 1 ou 2, ambos os quartos recebem sol apenas na parte da manhã;\n- naqueles que finalizam em 3, 4, 5 ou 6, apenas um dos quartos recebe sol na parte da manhã;\n- naqueles que finalizam em 7 ou 8, ambos os quartos recebem sol apenas na parte da tarde.",
+                "question": "Uma pessoa pretende comprar 2 desses apartamentos em um mesmo andar, mas quer que, em ambos, pelo menos um dos quartos receba sol na parte da manhã. De quantas maneiras diferentes essa pessoa poderá escolher 2 desses apartamentos para compra nas condições desejadas?",
+                "images": [],
+                "alternatives": {
+                  "A": "9 x 6! / (6 - 2)!",
+                  "B": "9 x 6! / ((6 - 2)! 2!)",
+                  "C": "9 x 4! / ((4 - 2)! 2!)",
+                  "D": "9 x 2! / ((2 - 2)! 2!)",
+                  "E": "9 x {[8! / ((8 - 2)! 2!)] - 1}"
+                },
+                "answer": "B"
+              },
+              {
+                "questionId": "Professor_Ferretto_M1636",
+                "questionText": "Maria deseja fazer salada de frutas para vender em uma feira de alimentos naturais em sua cidade. As saladas de frutas serão feitas misturando ao menos duas frutas escolhidas entre: laranja, abacaxi, banana, uva e maçã. Quantos tipos diferentes de saladas de frutas a Maria poderá produzir considerando apenas essas frutas?",
+                "question": "Quantos tipos diferentes de saladas de frutas a Maria poderá produzir considerando apenas essas frutas?",
+                "images": [],
+                "alternatives": {
+                  "A": "26",
+                  "B": "24",
+                  "C": "22",
+                  "D": "30",
+                  "E": "28"
+                },
+                "answer": "A"
+              },
+              {
+                "questionId": "Professor_Ferretto_M1570",
+                "questionText": "Um professor de física elaborou uma prova com 8 questões objetivas, com 5 alternativas cada. Para montar o gabarito, o professor deseja que apenas duas dessas questões tenham a alternativa E como resposta correta. O número de formas de se escolher essas duas questões é:",
+                "question": "O número de formas de se escolher essas duas questões é:",
+                "images": [],
+                "alternatives": {
+                  "A": "28",
+                  "B": "36",
+                  "C": "48",
+                  "D": "56",
+                  "E": "68"
+                },
+                "answer": "A"
+              },
+              {
+                "questionId": "Enem_M1226",
+                "questionText": "Uma empresa confecciona e comercializa um brinquedo formado por uma locomotiva, pintada na cor preta, mais 12 vagões de iguais formato e tamanho, numerados de 1 a 12. Dos 12 vagões, 4 são pintados na cor vermelha, 3 na cor azul, 3 na cor verde e 2 na cor amarela. O trem é montado utilizando-se uma locomotiva e 12 vagões, ordenados crescentemente segundo suas numerações. De acordo com as possíveis variações nas colorações dos vagões, a quantidade de trens que podem ser montados, expressa por meio de combinações, é dada por",
+                "question": "De acordo com as possíveis variações nas colorações dos vagões, a quantidade de trens que podem ser montados, expressa por meio de combinações, é dada por",
+                "images": [
+                  "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/ferrettopublic/1aed7332-e53e-4459-9865-10eaaf1cace9.png"
+                ],
+                "alternatives": {
+                  "A": "C12 4 x C12 3 x C12 3 x C12 2",
+                  "B": "C12 4 + C8 3 + C5 3 + C2 2",
+                  "C": "C12 4 x 2 x C8 3 x C5 2",
+                  "D": "C12 4 + 2 x C12 3 + C12 2",
+                  "E": "C12 4 x C8 3 x C5 3 x C2 2"
+                },
+                "answer": "E"
+              },
+              {
+                "questionId": "Professor_Ferretto_M1574",
+                "questionText": "Uma nova fábrica necessita contratar uma equipe de trabalho. A equipe deve ser formada por 4 químicos, 1 engenheiro florestal e 2 engenheiros mecânicos. Se ao final do processo seletivo compareceram 6 químicos, 3 engenheiros florestais e 4 engenheiros mecânicos, o número de maneiras que a equipe poderá ser formada é igual a",
+                "question": "O número de maneiras que a equipe poderá ser formada é igual a",
+                "images": [],
+                "alternatives": {
+                  "A": "6! · 3",
+                  "B": "6! · 18",
+                  "C": "6! · 3/8",
+                  "D": "6! · 3/4"
+                },
+                "answer": "C"
+              },
+              {
+                "questionId": "Professor_Ferretto_M1658",
+                "questionText": "Nove papéis, brancos e idênticos, foram numerados, cada um, com os números 51 a 59 escritos em um de seus lados. Após, foram embaralhados com as faces numéricas voltadas para baixo. A probabilidade de, após o embaralhamento, os papéis ficarem alternados entre pares e ímpares é de",
+                "question": "A probabilidade de os papéis ficarem alternados entre pares e ímpares é de",
+                "images": [],
+                "alternatives": {
+                  "A": "1/126",
+                  "B": "1/140",
+                  "C": "1/154",
+                  "D": "2/135",
+                  "E": "3/136"
+                },
+                "answer": "A"
+              },
+              {
+                "questionId": "Enem_M0242",
+                "questionText": "Um cliente de uma videolocadora tem o hábito de alugar dois filmes por vez. Quando os devolve, sempre pega outros dois filmes e assim sucessivamente. Ele soube que a videolocadora recebeu alguns lançamentos, sendo 8 filmes de ação, 5 de comédia e 3 de drama e, por isso, estabeleceu uma estratégia para ver todos esses 16 lançamentos. Inicialmente alugará, em cada vez, um filme de ação e um de comédia. Quando se esgotarem as possibilidades de comédia, o cliente alugará um filme de ação e um de drama, até que todos os lançamentos sejam vistos e sem que nenhum filme seja repetido. De quantas formas distintas a estratégia desse cliente poderá ser posta em prática?",
+                "question": "De quantas formas distintas a estratégia desse cliente poderá ser posta em prática?",
+                "images": [],
+                "alternatives": {
+                  "A": "20 x 8! + (3!)2",
+                  "B": "8! x 5! x 3!",
+                  "C": "8! x 5! x 3! / 28",
+                  "D": "8! x 5! x 3! / 22",
+                  "E": "16! / 28"
+                },
+                "answer": "B"
+              },
+              {
+                "questionId": "Professor_Ferretto_M1579",
+                "questionText": "Uma competição de canoagem será realizada em exatamente 4 dos 9 sábados disponíveis nos meses de outubro e novembro, com a condição de que não serão utilizados 4 sábados consecutivos. Para atender às condições do calendário proposto, o número total de possibilidades distintas que podem ser formadas contendo 4 sábados é de:",
+                "question": "Qual é o número total de possibilidades distintas que podem ser formadas contendo 4 sábados?",
+                "images": [],
+                "alternatives": {
+                  "A": "80",
+                  "B": "96",
+                  "C": "120",
+                  "D": "126"
+                },
+                "answer": "C"
+              },
+              {
+                "questionId": "Enem_M1865",
+                "questionText": "Nos livros Harry Potter, um anagrama do nome do personagem “TOM MARVOLO RIDDLE” gerou a frase “I AM LORD VOLDEMORT”. Suponha que Harry quisesse formar todos os anagramas da frase “I AM POTTER”, de tal forma que as vogais e consoantes aparecessem sempre intercaladas, e sem considerar o espaçamento entre as letras. Nessas condições, o número de anagramas formados é dado por:",
+                "question": "Qual é o número de anagramas formados, com as vogais e consoantes intercaladas, da frase 'I AM POTTER'?",
+                "images": [],
+                "alternatives": {
+                  "A": "9!",
+                  "B": "4!5!",
+                  "C": "2 x 4!5!",
+                  "D": "9!/2",
+                  "E": "4!5!/2"
+                },
+                "answer": "E"
+              },
+              {
+                "questionId": "Unicamp_M1353",
+                "questionText": "O número de anagramas da palavra REFLORESTAMENTO que começam com a sequência FLORES é:",
+                "question": "Qual é o número de anagramas da palavra REFLORESTAMENTO que começam com a sequência FLORES?",
+                "images": [],
+                "alternatives": {
+                  "A": "9!",
+                  "B": "9!/2!",
+                  "C": "9!/(2!2!)",
+                  "D": "9!/(2!2!2!)"
+                },
+                "answer": "C"
+              },
+              {
+                "questionId": "Professor_Ferretto_M1571",
+                "questionText": "Uma empresa possui três programadores e cinco editores. O número de comissões de cinco pessoas que se pode formar, contendo, no mínimo, um programador é:",
+                "question": "Qual é o número de comissões de cinco pessoas que se pode formar, contendo, no mínimo, um programador?",
+                "images": [],
+                "alternatives": {
+                  "A": "315",
+                  "B": "25",
+                  "C": "720",
+                  "D": "250",
+                  "E": "55"
+                },
+                "answer": "E"
+              },
+              {
+                "questionId": "Pucrs_M0265",
+                "questionText": "O número de anagramas da palavra BRASIL em que as vogais ficam lado a lado, e as consoantes também, é:",
+                "question": "Qual é o número de anagramas da palavra BRASIL em que as vogais ficam lado a lado, e as consoantes também?",
+                "images": [],
+                "alternatives": {
+                  "A": "24",
+                  "B": "48",
+                  "C": "96",
+                  "D": "240",
+                  "E": "720"
+                },
+                "answer": "C"
+              },
+              {
+                "questionId": "Uece_M0252",
+                "questionText": "Paulo possui 709 livros e identificou cada um destes livros com um código formado por três letras do nosso alfabeto, seguindo a “ordem alfabética” assim definida: AAA, AAB,..., AAZ, ABA, ABB,..., ABZ, ACA,... Então, o primeiro livro foi identificado com AAA, o segundo com AAB,... Nestas condições, considerando o alfabeto com 26 letras, o código associado ao último livro foi:",
+                "question": "Qual é o código associado ao último livro de Paulo?",
+                "images": [],
+                "alternatives": {
+                  "A": "BAG",
+                  "B": "BAU",
+                  "C": "BBC",
+                  "D": "BBG"
+                },
+                "answer": "D"
+              },
+              {
+                "questionId": "Professor_Ferretto_M1666",
+                "questionText": "O baralho é dividido em 4 naipes (copas, paus, ouros e espadas) e composto por 52 cartas. Ao serem retiradas desse baralho duas cartas ao acaso, uma a uma e sem reposição, a quantidade de sequências que se pode obter em que a primeira carta seja de copas e a segunda não seja uma carta de número 10 é igual a:",
+                "question": "Qual é a quantidade de sequências em que a primeira carta seja de copas e a segunda não seja uma carta de número 10?",
+                "images": [],
+                "alternatives": {
+                  "A": "612",
+                  "B": "613",
+                  "C": "614",
+                  "D": "615",
+                  "E": "616"
+                },
+                "answer": "A"
+              },
+              {
+                "questionId": "Uerj_M0255",
+                "questionText": "Na ilustração abaixo, as 52 cartas de um baralho estão agrupadas em linhas com 13 cartas de mesmo naipe e colunas com 4 cartas de mesmo valor. Denomina-se quadra a reunião de quatro cartas de mesmo valor. Observe, em um conjunto de cinco cartas, um exemplo de quadra. O número total de conjuntos distintos de cinco cartas desse baralho que contêm uma quadra é igual a:",
+                "question": "Qual é o número total de conjuntos distintos de cinco cartas que contêm uma quadra?",
+                "images": [
+                  "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/ferrettopublic/4b3e9417-f8b0-4a75-908b-7dc71086ad42.png",
+                  "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/ferrettopublic/ad7d1175-ff9d-4b81-8994-e375ba94ccf9.png"
+                ],
+                "alternatives": {
+                  "A": "624",
+                  "B": "676",
+                  "C": "715",
+                  "D": "720"
+                },
+                "answer": "A"
+              },
+              {
+                "questionId": "Professor_Ferretto_M0750",
+                "questionText": "Em uma casa de sucos naturais são vendidos sucos de 8 sabores diferentes, sendo que 3 são de frutas cítricas e os demais de frutas silvestres. De quantas maneiras pode-se escolher 3 sucos de sabores diferentes, sendo que pelo menos 2 deles sejam de frutas silvestres?",
+                "question": "Quantas maneiras existem de escolher 3 sucos de sabores diferentes, sendo que pelo menos 2 deles sejam de frutas silvestres?",
+                "images": [],
+                "alternatives": {
+                  "A": "40",
+                  "B": "55",
+                  "C": "72",
+                  "D": "85",
+                  "E": "90"
+                },
+                "answer": "A"
+              },
+              {
+                "questionId": "Enem_PPL_M1919",
+                "questionText": "Desde 1999 houve uma significativa mudança nas placas dos carros particulares em todo o Brasil. As placas, que antes eram formadas apenas por seis caracteres alfanuméricos, foram acrescidas de uma letra, passando a ser formadas por sete caracteres, sendo que os três primeiros caracteres devem ser letras (dentre as 26 letras do alfabeto) e os quatro últimos devem ser algarismos (de 0 a 9). Essa mudança possibilitou a criação de um cadastro nacional unificado de todos os veículos licenciados e ainda aumentou significativamente a quantidade de combinações possíveis de placas. Não são utilizadas placas em que todos os algarismos sejam iguais a zero. Quantas placas podem ser utilizadas?",
+                "question": "Quantas placas podem ser utilizadas considerando a nova formação de placas?",
+                "images": [],
+                "alternatives": {
+                  "A": "263 + 94",
+                  "B": "263 x 94",
+                  "C": "263(104 – 1)",
+                  "D": "(263 + 104) – 1",
+                  "E": "(263 x 104) – 1"
+                },
+                "answer": "C"
+              },
+              {
+                "questionId": "Uerj_M0264",
+                "questionText": "Uma criança ganhou seis picolés de três sabores diferentes: baunilha, morango e chocolate, representados, respectivamente, pelas letras B, M e C. De segunda a sábado, a criança consome um único picolé por dia, formando uma sequência de consumo dos sabores. O número total de modos distintos de consumir os picolés equivale a:",
+                "question": "Quantos modos distintos de consumir os picolés a criança pode formar?",
+                "images": [],
+                "alternatives": {
+                  "A": "6",
+                  "B": "90",
+                  "C": "180",
+                  "D": "720"
+                },
+                "answer": "B"
+              },
+              {
+                "questionId": "Upe_M0263",
+                "questionText": "A vendedora de roupas está arrumando os cabides da vitrine de uma loja. Ela deve pendurar 5 camisas, 3 bermudas e 2 casacos na vitrine, de modo que cada peça fique uma do lado da outra sem sobreposição. Quantas são as disposições possíveis nessa arrumação, de modo que as peças de um mesmo tipo fiquem sempre juntas, lado a lado na vitrine?",
+                "question": "Quantas disposições possíveis existem para arrumar as peças de modo que as peças de um mesmo tipo fiquem sempre juntas?",
+                "images": [],
+                "alternatives": {
+                  "A": "30",
+                  "B": "120",
+                  "C": "1440",
+                  "D": "4320",
+                  "E": "8640"
+                },
+                "answer": "E"
+              },
+              {
+                "questionId": "Epcar_M0262",
+                "questionText": "Uma caixa contém 10 bolas das quais 3 são amarelas e numeradas de 1 a 3; 3 verdes numeradas de 1 a 3 e mais 4 bolas de outras cores todas distintas e sem numeração. A quantidade de formas distintas de se enfileirar essas 10 bolas de modo que as bolas de mesmo número fiquem juntas é",
+                "question": "Quantas formas distintas existem para enfileirar as bolas de modo que as bolas de mesmo número fiquem juntas?",
+                "images": [],
+                "alternatives": {
+                  "A": "8.7!",
+                  "B": "7!",
+                  "C": "5.4!",
+                  "D": "10!"
+                },
+                "answer": "A"
+              },
+              {
+                "questionId": "Fuvest_M0274",
+                "questionText": "Vinte times de futebol disputam a Série A do Campeonato Brasileiro, sendo seis deles paulistas. Cada time joga duas vezes contra cada um dos seus adversários. A porcentagem de jogos nos quais os dois oponentes são paulistas é",
+                "question": "Qual é a porcentagem de jogos em que os dois oponentes são paulistas?",
+                "images": [],
+                "alternatives": {
+                  "A": "menor que 7%",
+                  "B": "maior que 7%, mas menor que 10%",
+                  "C": "maior que 10%, mas menor que 13%",
+                  "D": "maior que 13%, mas menor que 16%",
+                  "E": "maior que 16%"
+                },
+                "answer": "B"
+              },
+              {
+                "questionId": "Professor_Ferretto_M1573",
+                "questionText": "João deixou sua casa provido de R$50,00, disposto a gastar tudo na loja de brinquedos da sua rua. O vendedor lhe mostrou três opções que havia na loja, conforme a seguir. • 5 diferentes miniaturas de carros, custando R$40,00 cada miniatura; • 3 diferentes miniaturas de motos, custando R$10,00 cada miniatura; • 2 diferentes miniaturas de bichos, custando R$30,00 cada miniatura. O número de diferentes maneiras que João poderá efetuar a compra das miniaturas (dentre as 10 opções disponíveis), gastando todo o seu dinheiro, é",
+                "question": "Quantas maneiras diferentes João poderá efetuar a compra das miniaturas, gastando todo o seu dinheiro?",
+                "images": [],
+                "alternatives": {
+                  "A": "15",
+                  "B": "21",
+                  "C": "42",
+                  "D": "90"
+                },
+                "answer": "B"
+              },
+              {
+                "questionId": "Enem_M1015",
+                "questionText": "O comitê organizador da Copa do Mundo 2014 criou a logomarca da Copa, composta de uma figura plana e o slogan “Juntos num só ritmo”, com mãos que se unem formando a taça Fifa. Considere que o comitê organizador resolvesse utilizar todas as cores da bandeira nacional (verde, amarelo, azul e branco) para colorir a logomarca, de forma que regiões vizinhas tenham cores diferentes. De quantas maneiras diferentes o comitê organizador da Copa poderia pintar a logomarca com as cores citadas?",
+                "question": "Quantas maneiras diferentes o comitê organizador da Copa poderia pintar a logomarca com as cores citadas?",
+                "images": ["https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/ferrettopublic/90dc106d-7395-4e01-84f1-a0decc7d4e84.png"],
+                "alternatives": {
+                  "A": "15",
+                  "B": "30",
+                  "C": "108",
+                  "D": "360",
+                  "E": "972"
+                },
+                "answer": "E"
+              },
+              {
+                "questionId": "Unesp_M0258",
+                "questionText": "A figura mostra a planta de um bairro de uma cidade. Uma pessoa quer caminhar do ponto A ao ponto B por um dos percursos mais curtos. Assim, ela caminhará sempre nos sentidos “de baixo para cima” ou “da esquerda para a direita”. O número de percursos diferentes que essa pessoa poderá fazer de A até B é:",
+                "question": "Quantos percursos diferentes uma pessoa pode fazer de A até B, sempre nos sentidos 'de baixo para cima' ou 'da esquerda para a direita'?",
+                "images": ["https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/ferrettopublic/f4e0d5df-48ab-48b4-a64a-b85c7df90c5f.png"],
+                "alternatives": {
+                  "A": "95 040",
+                  "B": "40 635",
+                  "C": "924",
+                  "D": "792",
+                  "E": "35"
+                },
+                "answer": "D"
+              },
+              {
+                "questionId": "Enem_M1170",
+                "questionText": "O Salão do Automóvel de São Paulo é um evento no qual vários fabricantes expõem seus modelos mais recentes de veículos, mostrando, principalmente, suas inovações em design e tecnologia. Uma montadora pretende participar desse evento com dois estandes, um na entrada e outro na região central do salão, expondo, em cada um deles, um carro compacto e uma caminhonete. Para compor os estandes, foram disponibilizados pela montadora quatro carros compactos, de modelos distintos, e seis caminhonetes de diferentes cores para serem escolhidos aqueles que serão expostos. A posição dos carros dentro de cada estande é irrelevante. Uma expressão que fornece a quantidade de maneiras diferentes que os estandes podem ser compostos é",
+                "question": "Qual é a expressão que fornece a quantidade de maneiras diferentes que os estandes podem ser compostos?",
+                "images": [],
+                "alternatives": {
+                  "A": "A 10 4",
+                  "B": "C 10 4",
+                  "C": "C 4 2 x C 6 2 x 2 x 2",
+                  "D": "A 4 2 x A 6 2 x 2 x 2",
+                  "E": "C 4 2 x C 6 2"
+                },
+                "answer": "C"
+              },
+              {
+                "questionId": "Professor_Ferretto_M1575",
+                "questionText": "Um parque é formado por caminhos formados por triângulos equiláteros congruentes, conforme a representação abaixo. Uma pessoa se desloca do ponto A para o ponto B sobre os lados dos triângulos, percorrendo n caminhos distintos, cujos comprimentos totais são todos iguais. Sabendo que a distância será sempre a menor possível, n equivale a:",
+                "question": "Qual é o número de caminhos distintos percorridos do ponto A para o ponto B, com a menor distância possível?",
+                "images": ["https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/ferrettopublic/8f7fae95-7130-4d15-9cbd-72adac213a65.png"],
+                "alternatives": {
+                  "A": "20",
+                  "B": "15",
+                  "C": "12",
+                  "D": "10"
+                },
+                "answer": "B"
+              },
+              {
+                "questionId": "Enem_M0241",
+                "questionText": "Numa cidade, cinco escolas de samba (I, II, III, IV e V) participaram do desfile de Carnaval. Quatro quesitos são julgados, cada um por dois jurados, que podem atribuir somente uma dentre as notas 6, 7, 8, 9 ou 10. A campeã será a escola que obtiver mais pontuação na soma de todas as notas emitidas. Em caso de empate, a campeã será a que alcançar a maior soma das notas atribuídas pelos jurados no quesito Enredo e Harmonia. A tabela mostra as notas do desfile desse ano no momento em que faltava somente a divulgação das notas do jurado B no quesito Bateria. Quantas configurações distintas das notas a serem atribuídas pelo jurado B no quesito Bateria tornariam campeã a Escola II?",
+                "question": "Quantas configurações distintas das notas a serem atribuídas pelo jurado B no quesito Bateria tornariam campeã a Escola II?",
+                "images": ["https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/ferrettopublic/1ce061ed-73aa-43a4-adfa-3d9e6c8005fc.png"],
+                "alternatives": {
+                  "A": "21",
+                  "B": "90",
+                  "C": "750",
+                  "D": "1250",
+                  "E": "3125"
+                },
+                "answer": "C"
+              },
+              {
+                "questionId": "Enem_M1837",
+                "questionText": "Três amigos, André, Bernardo e Carlos, moram em um condomínio fechado de uma cidade. O quadriculado representa a localização das ruas paralelas e perpendiculares, delimitando quadras de mesmo tamanho nesse condomínio, em que nos pontos A, B e C estão localizadas as casas de André, Bernardo e Carlos, respectivamente. André deseja deslocar-se da sua casa até a casa de Bernardo, sem passar pela casa de Carlos, seguindo ao longo das ruas do condomínio, fazendo sempre deslocamentos para a direita → ou para cima ↑, segundo o esquema da figura. O número de diferentes caminhos que André poderá utilizar para realizar o deslocamento nas condições propostas é:",
+                "question": "Quantos diferentes caminhos André pode usar para se deslocar da sua casa até a casa de Bernardo, sem passar pela casa de Carlos?",
+                "images": ["https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/d42f06e2-270e-4637-888c-51f6dd37dee7-arquivo-editor"],
+                "alternatives": {
+                  "A": "4",
+                  "B": "14",
+                  "C": "17",
+                  "D": "35",
+                  "E": "48"
+                },
+                "answer": "C"
+              },
+              {
+                "questionId": "Enem_M1848",
+                "questionText": "Um hotel de 3 andares está sendo construído. Cada andar terá 100 quartos. Os quartos serão numerados de 100 a 399 e cada um terá seu número afixado à porta. Cada número será composto por peças individuais, cada uma simbolizando um único algarismo. Qual a quantidade mínima de peças, simbolizando o algarismo 2, necessárias para identificar o número de todos os quartos?",
+                "question": "Qual a quantidade mínima de peças, simbolizando o algarismo 2, necessárias para identificar o número de todos os quartos?",
+                "images": [],
+                "alternatives": {
+                  "A": "160",
+                  "B": "157",
+                  "C": "130",
+                  "D": "120",
+                  "E": "60"
+                },
+                "answer": "A"
+              },
+              {
+                "questionId": "Fuvest_M0269",
+                "questionText": "Em uma classe de 9 alunos, todos se dão bem, com exceção de Andréia, que vive brigando com Manoel e Alberto. Nessa classe, será constituída uma comissão de cinco alunos, com a exigência de que cada membro se relacione bem com todos os outros. Quantas comissões podem ser formadas?",
+                "question": "Quantas comissões podem ser formadas?",
+                "images": [],
+                "alternatives": {
+                  "A": "71",
+                  "B": "75",
+                  "C": "80",
+                  "D": "83",
+                  "E": "87"
+                },
+                "answer": "A"
+              },
+              {
+                "questionId": "Enem_M0257",
+                "questionText": "O setor de recursos humanos de uma empresa vai realizar uma entrevista com 120 candidatos a uma vaga de contador. Por sorteio, eles pretendem atribuir a cada candidato um número, colocar a lista de números em ordem numérica crescente e usá-la para convocar os interessados. Acontece que, por um defeito do computador, foram gerados números com 5 algarismos distintos e, em nenhum deles, apareceram dígitos pares. Em razão disso, a ordem de chamada do candidato que tiver recebido o número 75.913 é",
+                "question": "Qual é a ordem de chamada do candidato que recebeu o número 75.913?",
+                "images": [],
+                "alternatives": {
+                  "A": "24",
+                  "B": "31",
+                  "C": "32",
+                  "D": "88",
+                  "E": "89"
+                },
+                "answer": "E"
+              },
+              {
+                "questionId": "Fuvest_M0248",
+                "questionText": "Maria deve criar uma senha de 4 dígitos para sua conta bancária. Nessa senha, somente os algarismos 1,2,3,4,5 podem ser usados e um mesmo algarismo pode aparecer mais de uma vez. Contudo, supersticiosa, Maria não quer que sua senha contenha o número 13, isto é, o algarismo 1 seguido imediatamente pelo algarismo 3. De quantas maneiras distintas Maria pode escolher sua senha?",
+                "question": "De quantas maneiras distintas Maria pode escolher sua senha?",
+                "images": [],
+                "alternatives": {
+                  "A": "551",
+                  "B": "552",
+                  "C": "553",
+                  "D": "554",
+                  "E": "555"
+                },
+                "answer": "A"
+              },
+              {
+                "questionId": "Enem_M1013",
+                "questionText": "Para cadastrar-se em um site, uma pessoa precisa escolher uma senha composta por quatro caracteres, sendo dois algarismos e duas letras (maiúsculas ou minúsculas). As letras e os algarismos podem estar em qualquer posição. Essa pessoa sabe que o alfabeto é composto por vinte e seis letras e que uma letra maiúscula difere da minúscula em uma senha.",
+                "question": "Qual o número total de senhas possíveis para o cadastramento nesse site?",
+                "images": [],
+                "alternatives": {
+                  "A": "102 · 262",
+                  "B": "102 · 522",
+                  "C": "102 · 522 · (4!/2!)",
+                  "D": "102 · 262 · (4!/2!·2!)",
+                  "E": "102 · 522 · (4!/2!·2!)"
+                },
+                "answer": "E"
+              },
+              {
+                "questionId": "Professor_Ferretto_M1655",
+                "questionText": "Um casal de namorados irá a um jantar de família na casa da namorada. Participarão do jantar eles dois mais os pais e os dois irmãos da namorada, totalizando 6 pessoas. Esse casal, ao observar a mesa de jantar, que está representada na imagem abaixo, decide sentar-se um ao lado do outro. Sabendo que as seis cadeiras serão ocupadas, de quantas formas distintas os seis integrantes do jantar poderão ocupar os lugares da mesa?",
+                "question": "De quantas formas distintas os seis integrantes do jantar poderão ocupar os lugares da mesa?",
+                "images": [
+                  "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/ferrettopublic/ae18edd0-bbda-4fcc-b65e-3bbde3f43fda.png"
+                ],
+                "alternatives": {
+                  "A": "96.",
+                  "B": "120.",
+                  "C": "192.",
+                  "D": "384.",
+                  "E": "720."
+                },
+                "answer": "B"
+              },
+              {
+                "questionId": "Unicamp_M0279",
+                "questionText": "O número mínimo de pessoas que deve haver em um grupo para que possamos garantir que nele há pelo menos três pessoas nascidas no mesmo dia da semana é igual a",
+                "question": "Qual o número mínimo de pessoas em um grupo para garantir que há pelo menos três pessoas nascidas no mesmo dia da semana?",
+                "images": [],
+                "alternatives": {
+                  "A": "21",
+                  "B": "20",
+                  "C": "15",
+                  "D": "14"
+                },
+                "answer": "C"
+              },
+              {
+                "questionId": "Enem_M1721",
+                "questionText": "Foram convidadas 32 equipes para um torneio de futebol, que foram divididas em 8 grupos com 4 equipes, sendo que, dentro de um grupo, cada equipe disputa uma única partida contra cada uma das demais equipes de seu grupo. A primeira e a segunda colocadas de cada grupo seguem para realizar as 8 partidas da próxima fase do torneio, chamada oitavas de final. Os vencedores das partidas das oitavas de final seguem para jogar as 4 partidas das quartas de final. Os vencedores das quartas de final disputam as 2 partidas das semifinais, e os vencedores avançam para a grande final, que define a campeã do torneio.\n\nPelas regras do torneio, cada equipe deve ter um período de descanso de, no mínimo, 3 dias entre dois jogos por ela disputados, ou seja, se um time disputar uma partida, por exemplo, num domingo, só poderá disputar a partida seguinte a partir da quinta-feira da mesma semana.\n\nO número mínimo de dias necessários para a realização desse torneio é",
+                "question": "Qual o número mínimo de dias necessários para a realização desse torneio?",
+                "images": [],
+                "alternatives": {
+                  "A": "22.",
+                  "B": "25.",
+                  "C": "28.",
+                  "D": "48.",
+                  "E": "64."
+                },
+                "answer": "B"
+              },
+              {
+                "questionId": "Unesp_M0247",
+                "questionText": "As urnas 1, 2 e 3 contêm, respectivamente, apenas as letras das palavras OURO, PRATA e BRONZE. Uma a uma são retiradas letras dessas urnas, ordenadamente e de forma cíclica, ou seja, a primeira letra retirada é da urna 1, a segunda é da urna 2, a terceira é da urna 3, a quarta volta a ser da urna 1, a quinta volta a ser da urna 2, e assim sucessivamente. O número mínimo de letras retiradas das urnas dessa maneira até que seja possível formar, com elas, a palavra PRAZER é igual a",
+                "question": "Qual o número mínimo de letras retiradas até que seja possível formar a palavra PRAZER?",
+                "images": [],
+                "alternatives": {
+                  "A": "8",
+                  "B": "6",
+                  "C": "10",
+                  "D": "9",
+                  "E": "7"
+                },
+                "answer": "A"
+              },
+              {
+                "questionId": "Unesp_M0249",
+                "questionText": "Dois rapazes e duas moças irão viajar de ônibus, ocupando as poltronas de números 1 a 4, com 1 e 2 juntas e 3 e 4 juntas, conforme o esquema.\n\nO número de maneiras de ocupação dessas quatro poltronas, garantindo que, em duas poltronas juntas, ao lado de uma moça sempre viaje um rapaz, é",
+                "question": "Qual o número de maneiras de ocupação das quatro poltronas, garantindo que, ao lado de uma moça sempre viaje um rapaz?",
+                "images": [
+                  "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/ferrettopublic/61ce4916-352d-4e9c-b176-ada7d5c3c91a.png"
+                ],
+                "alternatives": {
+                  "A": "4.",
+                  "B": "6.",
+                  "C": "8.",
+                  "D": "12.",
+                  "E": "16."
+                },
+                "answer": "E"
+              },
+              {
+                "questionId": "Fuvest_M1315",
+                "questionText": "Um aplicativo de videoconferências estabelece, para cada reunião, um código de 10 letras, usando um alfabeto completo de 26 letras. A quantidade de códigos distintos possíveis está entre\n\nNote e adote:\nlog1013 ≅ 1,114\n1 bilhão = 109",
+                "question": "Qual a quantidade de códigos distintos possíveis para o aplicativo de videoconferências?",
+                "images": [],
+                "alternatives": {
+                  "A": "10 bilhões e 100 bilhões.",
+                  "B": "100 bilhões e 1 trilhão.",
+                  "C": "1 trilhão e 10 trilhões.",
+                  "D": "10 trilhões e 100 trilhões.",
+                  "E": "100 trilhões e 1 quatrilhão."
+                },
+                "answer": "E"
+              },
+              {
+                "questionId": "Enem_M1248",
+                "questionText": "Durante suas férias, oito amigos, dos quais dois são canhotos, decidem realizar um torneio de vôlei de praia. Eles precisam formar quatro duplas para a realização do torneio. Nenhuma dupla pode ser formada por dois jogadores canhotos.\n\nDe quantas maneiras diferentes podem ser formadas essas quatro duplas?",
+                "question": "Quantas maneiras diferentes podem ser formadas as quatro duplas no torneio?",
+                "images": [],
+                "alternatives": {
+                  "A": "69",
+                  "B": "70",
+                  "C": "90",
+                  "D": "104",
+                  "E": "105"
+                },
+                "answer": "C"
+              },
+              {
+                "questionId": "Enem_M0246",
+                "questionText": "O designer português Miguel Neiva criou um sistema de símbolos que permite que pessoas daltônicas identifiquem cores. O sistema consiste na utilização de símbolos que identificam as cores primárias (azul, amarelo e vermelho). Além disso, a justaposição de dois desses símbolos permite identificar cores secundárias (como o verde, que é o amarelo combinado com o azul). O preto e o branco são identificados por pequenos quadrados: o que simboliza o preto é cheio, enquanto o que simboliza o branco é vazio. Os símbolos que representam preto e branco também podem ser associados aos símbolos que identificam cores, significando se estas são claras ou escuras.\n\nDe acordo com o texto, quantas cores podem ser representadas pelo sistema proposto?",
+                "question": "Quantas cores podem ser representadas pelo sistema proposto por Miguel Neiva?",
+                "images": [],
+                "alternatives": {
+                  "A": "14",
+                  "B": "18",
+                  "C": "20",
+                  "D": "21",
+                  "E": "23"
+                },
+                "answer": "C"
+              },
+              {
+                "questionId": "Enem_M0245",
+                "questionText": "Um artesão de joias tem a sua disposição pedras brasileiras de três cores: vermelhas, azuis e verdes.\n\nEle pretende produzir joias constituídas por uma liga metálica, a partir de um molde no formato de um losango não quadrado com pedras nos seus vértices, de modo que dois vértices consecutivos tenham sempre pedras de cores diferentes.\n\nA figura ilustra uma joia, produzida por esse artesão, cujos vértices A, B, C e D correspondem às posições ocupadas pelas pedras.\n\nCom base nas informações fornecidas, quantas joias diferentes, nesse formato, o artesão poderá obter?",
+                "question": "Quantas joias diferentes o artesão poderá obter?",
+                "images": [
+                  "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/ferrettopublic/0449a706-d170-4a0f-910c-d73aadefce7f.png"
+                ],
+                "alternatives": {
+                  "A": "6",
+                  "B": "12",
+                  "C": "18",
+                  "D": "24",
+                  "E": "36"
+                },
+                "answer": "B"
+              },
+              {
+                "questionId": "Unesp_M0275",
+                "questionText": "O conselho administrativo de um sindicato é constituído por doze pessoas, das quais uma é o presidente deste conselho. A diretoria do sindicato tem quatro cargos a serem preenchidos por membros do conselho, sendo que o presidente da diretoria e do conselho não devem ser a mesma pessoa. De quantas maneiras diferentes esta diretoria poderá ser formada?",
+                "question": "De quantas maneiras diferentes a diretoria poderá ser formada?",
+                "images": [],
+                "alternatives": {
+                  "A": "40",
+                  "B": "7920",
+                  "C": "10890",
+                  "D": "11!",
+                  "E": "12!"
+                },
+                "answer": "C"
+              },
+              {
+                "questionId": "Unicamp_M0254",
+                "questionText": "Para acomodar a crescente quantidade de veículos, estuda-se mudar as placas, atualmente com três letras e quatro algarismos numéricos, para quatro letras e três algarismos numéricos, como está ilustrado abaixo.\n\nConsidere o alfabeto com 26 letras e os algarismos de 0 a 9. O aumento obtido com essa modificação em relação ao número máximo de placas em vigor seria.",
+                "question": "Qual é o aumento obtido com essa modificação em relação ao número máximo de placas em vigor?",
+                "images": [
+                  "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/ferrettopublic/1064941f-a43a-4fbc-951c-eded0d875b40.png"
+                ],
+                "alternatives": {
+                  "A": "inferior ao dobro.",
+                  "B": "superior ao dobro e inferior ao triplo.",
+                  "C": "superior ao triplo e inferior ao quádruplo.",
+                  "D": "mais que o quádruplo."
+                },
+                "answer": "A"
+              },
+              {
+                "questionId": "Enem_M1990",
+                "questionText": "Ao realizar o cadastro em um aplicativo de investimentos, foi solicitado ao usuário que criasse uma senha, sendo permitido o uso somente dos seguintes caracteres:\n\n- algarismos de 0 a 9;\n- 26 letras minúsculas do alfabeto;\n- 26 letras maiúsculas do alfabeto;\n- 6 caracteres especiais !, @, #, $, *, &.\n\nTrês tipos de estruturas para senha foram apresentadas ao usuário:\n\n- tipo I: formada por quaisquer quatro caracteres distintos, escolhidos dentre os permitidos;\n- tipo II: formada por cinco caracteres distintos, iniciando por três letras, seguidas por um algarismo e, ao final, um caractere especial;\n- tipo III: formada por seis caracteres distintos, iniciando por duas letras, seguidas por dois algarismos e, ao final, dois caracteres especiais.\n\nConsidere p1, p2 e p3 as probabilidades de se descobrirem ao acaso, na primeira tentativa, as senhas dos tipos I, II e III, respectivamente.\n\nNessas condições, o tipo de senha que apresenta a menor probabilidade de ser descoberta ao acaso, na primeira tentativa, é o.",
+                "question": "Qual tipo de senha apresenta a menor probabilidade de ser descoberta ao acaso, na primeira tentativa?",
+                "images": [],
+                "alternatives": {
+                  "A": "tipo I, pois p1 < p2 < p3.",
+                  "B": "tipo I, pois tem menor quantidade de caracteres.",
+                  "C": "tipo II, pois tem maior quantidade de letras.",
+                  "D": "tipo III, pois p3 < p2 < p1.",
+                  "E": "tipo III, pois tem maior quantidade de caracteres."
+                },
+                "answer": "A"
+              },
+              {
+                "questionId": "Enem_PPL_M2040",
+                "questionText": "Uma costureira tem à sua disposição pelo menos duas unidades de cada um dos quatro tipos de retalhos retangulares com as estampas e os tamanhos apresentados.\n\nPara confeccionar um tapete em formato retangular de 10 cm x 50 cm, ela utilizará os retalhos, na posição indicada na figura, costurando um lado de um a um lado do outro, sem que haja rotações desses retalhos. O modelo de tapete que pretende confeccionar deverá conter um único retalho de 10 cm x 20 cm e mais três retalhos de formato 10 cm x 10 cm, sendo que retalhos de mesma estampa não poderão ficar lado a lado.",
+                "question": "Quantos modelos diferentes de tapetes poderão ser confeccionados?",
+                "images": [
+                  "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/8c2c8808-12f4-4826-b04f-ff8574d3507c-arquivo-editor"
+                ],
+                "alternatives": {
+                  "A": "12.",
+                  "B": "24.",
+                  "C": "34.",
+                  "D": "48.",
+                  "E": "60."
+                },
+                "answer": "E"
+              },
+              {
+                "questionId": "Enem_PPL_M2153",
+                "questionText": "Um determinado campeonato de futebol, composto por 20 times, é disputado no sistema de pontos corridos. Nesse sistema, cada time joga contra todos os demais times em dois turnos, isto é, cada time joga duas partidas com cada um dos outros times, sendo que cada jogo pode terminar empatado ou haver um vencedor.\n\nSabendo-se que, nesse campeonato, ocorreram 126 empates, o número de jogos em que houve ganhador é igual a.",
+                "question": "Qual é o número de jogos em que houve ganhador?",
+                "images": [],
+                "alternatives": {
+                  "A": "64.",
+                  "B": "74.",
+                  "C": "254.",
+                  "D": "274.",
+                  "E": "634."
+                },
+                "answer": "C"
+              },
+              {
+                "questionId": "Enem_PPL_M2183",
+                "questionText": "A prefeitura de uma cidade está renovando os canteiros de flores de suas praças. Entre as possíveis variedades que poderiam ser plantadas, foram escolhidas cinco: amor-perfeito, cravina, petúnia, margarida e lírio. Em cada um dos canteiros, todos com composições diferentes, serão utilizadas somente três variedades distintas, não importando como elas serão dispostas.\n\nUm funcionário deve determinar os trios de variedades de flores que irão compor cada canteiro.",
+                "question": "De acordo com o disposto, a quantidade de trios possíveis é dada por",
+                "images": [],
+                "alternatives": {
+                  "A": "5",
+                  "B": "5 x 3",
+                  "C": "5! / (5 – 3)!",
+                  "D": "5! / (5 – 3)!2!",
+                  "E": "5! / (5 – 3)!3!"
+                },
+                "answer": "E"
+              }
+    ]}

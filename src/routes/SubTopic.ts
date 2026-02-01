@@ -1,6 +1,6 @@
 import { Router, Request , Response } from "express";
 
-import subTopicController from "../controllers/subtopicController";
+import subTopicController from "../controllers/subtopicController.js";
 
 const SubTopicController = new subTopicController()
 

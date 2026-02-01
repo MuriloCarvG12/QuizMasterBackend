@@ -1,11 +1,11 @@
 import { Router, Request , Response } from "express";
 
-import AppDataSource from "../data_source";
+import AppDataSource from "../data_source.js";
 
-import { Topic } from "../entities/Topic";
-import {Subject} from "../entities/Subject";
-import { Subtopic } from "../entities/SubTopic";
-import { Question } from "../entities/Question";
+import { Topic } from "../entities/Topic.js";
+import {Subject} from "../entities/Subject.js";
+import { Subtopic } from "../entities/SubTopic.js";
+import { Question } from "../entities/Question.js";
 
 
 const QuestionRepository = AppDataSource.getRepository(Question)

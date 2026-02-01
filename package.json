@@ -6,8 +6,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "ts-node-dev --respawn --transpile-only src/index.ts",
-    "migration:run": "typeorm-ts-node-commonjs migration:run -d src/data_source.ts",
-    "insert:questions": "ts-node src/utils/insertQuestions.ts"
+    "migration:run": "typeorm-ts-node-esm migration:run -d src/data_source.ts",
+    "insert:questions": "node --loader ts-node/esm bootstrap.cjs",
+    "typeorm": "typeorm-ts-node-esm"
   },
   "keywords": [],
   "author": "",

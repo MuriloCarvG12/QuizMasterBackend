@@ -1,0 +1,777 @@
+{
+    "examTitle": "Quimica Ambiental",
+    "questions":[
+          {
+    "questionId": "Enem_Q1291",
+    "questionText": "Megaespectáculos com queima de grande quantidade de fogos de artificio em festas de final de ano são muito comuns no Brasil. Após a queima, grande quantidade de material particulado permanece suspensa no ar. Entre os resíduos, encontram-se compostos de sódio, potássio, bário, cálcio, chumbo, antimônio, cromo, além de percloratos e gases, como os dióxidos de nitrogênio e enxofre.\n\nBRUNNING, A. The Chemistry of Firework Pollution. Disponível em: www.compoundchem.com. Acesso em: 1 dez. 2017 (adaptado).\n\nEsses espetáculos promovem riscos ambientais, porque",
+    "question": "Esses espetáculos promovem riscos ambientais, porque",
+    "images": [],
+    "alternatives": {
+      "A": "as substâncias resultantes da queima de fogos de artifício são inflamáveis.",
+      "B": "os resíduos produzidos na queima de fogos de artifício ainda são explosivos.",
+      "C": "o sódio e o potássio são os principais responsáveis pela toxicidade do produto da queima.",
+      "D": "os produtos da queima contêm metais pesados e gases tóxicos que resultam em poluição atmosférica.",
+      "E": "o material particulado gerado se deposita na superfície das folhas das plantas impedindo os processos de respiração celular."
+    },
+    "answer": "D"
+  },
+  {
+    "questionId": "Enem_Q1297",
+    "questionText": "Em 2011, uma falha no processo de perfuração realizado por uma empresa petrolífera ocasionou derramamento de petróleo na bacia hidrográfica de Campos, no Rio de Janeiro.\n\nOs impactos decorrentes desse derramamento ocorrem porque os componentes do petróleo",
+    "question": "Os impactos decorrentes desse derramamento ocorrem porque os componentes do petróleo",
+    "images": [],
+    "alternatives": {
+      "A": "reagem com a água do mar e sofrem degradação, gerando compostos com elevada toxicidade.",
+      "B": "acidificam o meio, promovendo o desgaste das conchas calcárias de moluscos e a morte de corais.",
+      "C": "dissolvem-se na água, causando a mortandade dos seres marinhos por ingestão da água contaminada.",
+      "D": "têm caráter hidrofóbico e baixa densidade, impedindo as trocas gasosas entre o meio aquático e a atmosfera.",
+      "E": "têm cadeia pequena e elevada volatilidade, contaminando a atmosfera local e regional em função dos ventos nas orlas marítimas."
+    },
+    "answer": "D"
+  },
+  {
+    "questionId": "Ufjf_Q1133",
+    "questionText": "Analise as reações químicas de alguns óxidos presentes na atmosfera e marque a alternativa que descreve a qual processo de poluição ambiental elas estão relacionadas.",
+    "question": "As reações químicas de alguns óxidos presentes na atmosfera estão relacionadas a qual processo de poluição ambiental?",
+    "images": [
+      "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/39a9dcda-7981-4172-a110-219ff72af25e-arquivo-editor"
+    ],
+    "alternatives": {
+      "A": "Camada de ozônio.",
+      "B": "Efeito estufa.",
+      "C": "Chuva ácida.",
+      "D": "Aquecimento global.",
+      "E": "Inversão térmica."
+    },
+    "answer": "C"
+  },
+  {
+    "questionId": "Enem_PPL_Q1689",
+    "questionText": "O Protocolo de Montreal é um tratado internacional que diz respeito à defesa do meio ambiente. Uma de suas recomendações é a redução da utilização de substâncias propelentes, como os CFCs (Cloro-Flúor-Carbono), em aerossóis e aparelhos de refrigeração.\n\nEssa recomendação visa",
+    "question": "Essa recomendação visa",
+    "images": [],
+    "alternatives": {
+      "A": "evitar a chuva ácida.",
+      "B": "prevenir a inversão térmica.",
+      "C": "preservar a camada de ozônio.",
+      "D": "controlar o aquecimento global.",
+      "E": "impedir a formação de ilhas de calor."
+    },
+    "answer": "C"
+  },
+    {
+    "questionId": "Ifmg_Q1132",
+    "questionText": "A água da chuva é naturalmente ácida devido à presença do gás carbônico encontrado na atmosfera. Esse efeito pode ser agravado com a emissão de gases contendo enxofre, sendo o dióxido e o trióxido de enxofre os principais poluentes que intensificam esse fenômeno. Um dos prejuízos causados pela chuva ácida é a elevação do teor de ácido no solo, implicando diretamente a fertilidade na produção agrícola de alimentos. Para reduzir a acidez provocada por esses óxidos, frequentemente é utilizado o óxido de cálcio, um óxido básico capaz de neutralizar a acidez do solo.\n\nAs fórmulas moleculares dos óxidos citados no texto são, respectivamente,",
+    "question": "As fórmulas moleculares dos óxidos citados no texto são, respectivamente,",
+    "images": [],
+    "alternatives": {
+      "A": "CO, SO, SO2 e CaO2.",
+      "B": "CO2, SO2, SO3 e CaO.",
+      "C": "CO2, S2O, S3O e CaO.",
+      "D": "CO, SO2, SO3 e CaO2.",
+      "E": ""
+    },
+    "answer": "B"
+  },
+  {
+    "questionId": "Enem_PPL_Q1578",
+    "questionText": "O Brasil foi o primeiro país a usar o álcool em larga escala como combustível de automóvel. Hoje, a indústria automobilística produz e equipa os automóveis com motores que funcionam tanto com gasolina como com álcool, ou ainda com uma mistura dos dois. No Brasil, o álcool é obtido principalmente da cana-de-açúcar, razão pela qual o classificam como biocombustível.\n\nCom essa atitude, contribui-se diretamente para a",
+    "question": "Com essa atitude, contribui-se diretamente para a",
+    "images": [],
+    "alternatives": {
+      "A": "preservação de rios e lagos.",
+      "B": "preservação da biodiversidade.",
+      "C": "diminuição do buraco da camada de ozônio.",
+      "D": "preservação de espécies ameaçadas de extinção.",
+      "E": "diminuição da emissão efetiva de dióxido de carbono."
+    },
+    "answer": "E"
+  },
+  {
+    "questionId": "Enem_Q1303",
+    "questionText": "A imagem apresenta as etapas do funcionamento de uma estação individual para tratamento do esgoto residencial.\n\nEm qual etapa decanta-se o lodo a ser separado do esgoto residencial?",
+    "question": "Em qual etapa decanta-se o lodo a ser separado do esgoto residencial?",
+    "images": [
+      "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/858a14c0-e41b-49c4-9faa-ba0c38f5dae6-arquivo-editor"
+    ],
+    "alternatives": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "5",
+      "E": "6"
+    },
+    "answer": "C"
+  },
+  {
+    "questionId": "Enem_PPL_Q1694",
+    "questionText": "Algumas espécies de bactérias do gênero Pseudomonas desenvolvem-se em ambientes contaminados com hidrocarbonetos, pois utilizam essas moléculas como substratos para transformação em energia metabólica. Esses microrganismos são capazes de transformar o octano em moléculas menos tóxicas, tornando o ambiente mais propício para desenvolvimento de fauna e flora.\n\nEssas bactérias poderiam ser utilizadas para recuperar áreas contaminadas com",
+    "question": "Essas bactérias poderiam ser utilizadas para recuperar áreas contaminadas com",
+    "images": [],
+    "alternatives": {
+      "A": "petróleo.",
+      "B": "pesticidas.",
+      "C": "lixo nuclear.",
+      "D": "gases tóxicos.",
+      "E": "metais pesados."
+    },
+    "answer": "A"
+  },
+    {
+    "questionId": "Ifsul_Q1138",
+    "questionText": "Atualmente uma nova indústria para se instalar numa determinada localidade, deve ter um rígido controle das emissões de gases, para evitar a formação de chuva ácida.\n\nQual dos gases a seguir forma a chuva ácida?",
+    "question": "Qual dos gases a seguir forma a chuva ácida?",
+    "images": [],
+    "alternatives": {
+      "A": "CH4.",
+      "B": "SO2.",
+      "C": "CO.",
+      "D": "NH3.",
+      "E": ""
+    },
+    "answer": "B"
+  },
+  {
+    "questionId": "Espcex_Q1155",
+    "questionText": "O carvão e os derivados do petróleo são utilizados como combustíveis para gerar energia para maquinários industriais. A queima destes combustíveis libera grande quantidade de gás carbônico como produto.\n\nEm relação ao gás carbônico, são feitas as seguintes afirmativas:\n\nI. é um composto covalente de geometria molecular linear.\n\nII. apresenta geometria molecular angular e ligações triplas, por possuir um átomo de oxigênio ligado a um carbono.\n\nIII. é um composto apolar.",
+    "question": "Das afirmativas apresentadas está(ão) correta(as)",
+    "images": [],
+    "alternatives": {
+      "A": "apenas II.",
+      "B": "apenas I e II.",
+      "C": "apenas I e III.",
+      "D": "apenas II e III.",
+      "E": "todas."
+    },
+    "answer": "C"
+  },
+  {
+    "questionId": "Cps_Q1134",
+    "questionText": "O fenômeno da chuva ácida está relacionado ao aumento da poluição em regiões industrializadas. Os agentes poluentes são distribuídos pelos ventos, causando danos à saúde humana e ao meio ambiente.\n\nGases gerados pelas indústrias, veículos e usinas energéticas reagem com o vapor de água existente na atmosfera, formando compostos ácidos que se acumulam em nuvens, ocorrendo, assim, a condensação, da mesma forma como são originadas as chuvas comuns.\n\nUm desses gases, o SO2, é proveniente da combustão do enxofre, impureza presente em combustíveis fósseis, como o carvão e derivados do petróleo. Ele leva à formação do ácido sulfúrico.\n\nO esquema ilustra esse processo.\n\nUma forma de atenuar o fenômeno descrito seria a retirada do enxofre dos combustíveis derivados do petróleo, como o diesel e o óleo combustível.\n\nEsses dois combustíveis são obtidos do petróleo por",
+    "question": "Esses dois combustíveis são obtidos do petróleo por",
+    "images": [
+      "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/18e2462b-85e3-4cf7-9920-d3a0c682299e-arquivo-editor"
+    ],
+    "alternatives": {
+      "A": "filtração.",
+      "B": "sublimação.",
+      "C": "decantação.",
+      "D": "fusão fracionada.",
+      "E": "destilação fracionada."
+    },
+    "answer": "E"
+  },
+  {
+    "questionId": "Enem_Q1299",
+    "questionText": "A enorme quantidade de resíduos gerados pelo consumo crescente da sociedade traz para a humanidade uma preocupação socioambiental, em especial pela quantidade de lixo produzido. Além da reciclagem e do reúso, pode-se melhorar ainda mais a qualidade de vida, substituindo polímeros convencionais por polímeros biodegradáveis.\n\nEsses polímeros têm grandes vantagens socioambientais em relação aos convencionais porque",
+    "question": "Esses polímeros têm grandes vantagens socioambientais em relação aos convencionais porque",
+    "images": [],
+    "alternatives": {
+      "A": "não são tóxicos.",
+      "B": "não precisam ser reciclados.",
+      "C": "não causam poluição ambiental quando descartados.",
+      "D": "são degradados em um tempo bastante menor que os convencionais.",
+      "E": "apresentam propriedades mecânicas semelhantes aos convencionais."
+    },
+    "answer": "D"
+  },
+    {
+    "questionId": "Ifsc_Q1160",
+    "questionText": "Os humanos já se envolveram em violentas batalhas pela posse de substâncias químicas. Ouro, prata ou petróleo levaram nações a se enfrentarem por séculos. E, se não tomarmos cuidado, outra molécula, aparentemente inofensiva, será o centro da próxima disputa mundial. A disputa pela água, certamente causará conflitos armados. Grandes rios explorados na nascente levando menos água ou poluentes para outro país será um problema bastante difícil se não forem selados bons acordos entre os países.\n\nFonte: http://veja.abril.com.br/noticia/ciencia/os-atomos-que-mudaram-o-mundo. Acesso: 13 ago. 2014.\n\nAssinale a alternativa CORRETA.",
+    "question": "Assinale a alternativa correta.",
+    "images": [],
+    "alternatives": {
+      "A": "Ouro e prata são elementos químicos chamados metais alcalinos terrosos, visto que são encontrados na crosta terrestre.",
+      "B": "O petróleo é formado por inúmeros compostos orgânicos, sendo principalmente constituído por hidrocarbonetos.",
+      "C": "A água é formada por dois elementos químicos, sendo um metal da coluna 1A, e outro não metal da coluna 6A.",
+      "D": "Ao misturarmos ouro, prata, petróleo e água, poderíamos distinguir apenas duas fases líquidas, sendo que os metais ficariam solubilizados no petróleo.",
+      "E": "A gasolina, um dos constituintes do petróleo, pode ser misturada com a água formando apenas uma fase."
+    },
+    "answer": "B"
+  },
+  {
+    "questionId": "Unicamp_Q1140",
+    "questionText": "Em junho de 2012 ocorreu na cidade do Rio de Janeiro a Conferência Rio+20. Os principais focos de discussão dessa conferência diziam respeito à sustentabilidade do planeta e à poluição da água e do ar. Em relação a esse último aspecto, sabemos que alguns gases são importantes para a vida no planeta. A preocupação com esses gases é justificada, pois, de um modo geral, pode-se afirmar que",
+    "question": "De modo geral, pode-se afirmar que",
+    "images": [],
+    "alternatives": {
+      "A": "o CH4 e o CO2 estão relacionados à radiação ultravioleta, o O3, à chuva ácida e os NOx, ao efeito estufa.",
+      "B": "o CH4 está relacionado à radiação ultravioleta, o O3 e o CO2, ao efeito estufa e os NOx, à chuva ácida.",
+      "C": "os NOx estão relacionados ao efeito estufa, o CH4 e o CO2, à radiação ultravioleta e o O3, à chuva ácida.",
+      "D": "o O3 está relacionado à radiação ultravioleta, o CH4 e o CO2, ao efeito estufa e os NOx, à chuva ácida.",
+      "E": ""
+    },
+    "answer": "D"
+  },
+  {
+    "questionId": "Enem_Q1284",
+    "questionText": "Para se adequar às normas ambientais atuais, as construtoras precisam prever em suas obras a questão do uso de materiais de modo a minimizar os impactos causados no local. Entre esses materiais está o chamado concregrama ou pisograma, que é um tipo de revestimento composto por peças de concreto com áreas vazadas, preenchidas com solo gramado. As figuras apresentam essas duas formas de piso feitos de concreto.",
+    "question": "A utilização desse tipo de piso em uma obra tem o objetivo de evitar, no solo, a",
+    "images": [
+      "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/e23ea4cd-0d74-459e-83a1-1c7011d1100e-arquivo-editor"
+    ],
+    "alternatives": {
+      "A": "impermeabilização.",
+      "B": "diminuição da temperatura.",
+      "C": "acumulação da matéria orgânica.",
+      "D": "alteração do pH.",
+      "E": "salinização."
+    },
+    "answer": "A"
+  },
+  {
+    "questionId": "Ufpb_Q1145",
+    "questionText": "A digestão anaeróbica é um processo eficiente para tratamento de resíduos agroindustriais e de parte do lixo doméstico. Nesse processo, ocorre a formação do biogás (metano), que vem sendo utilizado em usinas termoelétricas para produzir energia elétrica. Essa forma de geração de energia é uma das saídas para o aproveitamento desses resíduos, e já vem sendo empregada em algumas cidades do Brasil.\n\nA respeito do biogás, é correto afirmar:",
+    "question": "A respeito do biogás, é correto afirmar:",
+    "images": [],
+    "alternatives": {
+      "A": "O metano é o poluente causador da chuva ácida.",
+      "B": "O metano é um poluente e contribui para agravar o aquecimento global.",
+      "C": "A combustão do metano contribui para o aumento do buraco na camada de ozônio.",
+      "D": "A combustão completa do metano forma fuligem (carbono).",
+      "E": "A combustão incompleta do metano produz dióxido de carbono e água."
+    },
+    "answer": "B"
+  },
+  {
+    "questionId": "Enem_PPL_Q1644",
+    "questionText": "O processo de dessulfurização é uma das etapas utilizadas na produção do diesel. Esse processo consiste na oxidação do enxofre presente na forma de sulfeto de hidrogênio (H2S) a enxofre elementar (sólido) que é posteriormente removido. Um método para essa extração química é o processo Claus, no qual parte do H2S é oxidada a dióxido de enxofre (SO2) e, então, esse gás é usado para oxidar o restante do H2S. Os compostos de enxofre remanescentes e as demais moléculas presentes no diesel sofrerão combustão no motor.\n\nMARQUES FILHO, J. Estudo da fase térmica do processo Claus utilizando fluidodinâmica computacional. São Paulo: USP, 2004 (adaptado).",
+    "question": "O benefício do processo Claus é que, na combustão do diesel, é minimizada a emissão de gases",
+    "images": [],
+    "alternatives": {
+      "A": "formadores de hidrocarbonetos.",
+      "B": "produtores de óxidos de nitrogênio.",
+      "C": "emissores de monóxido de carbono.",
+      "D": "promotores da acidificação da chuva.",
+      "E": "determinantes para o aumento do efeito estufa."
+    },
+    "answer": "D"
+  },
+    {
+    "questionId": "Unicamp_Q1162",
+    "questionText": "A matriz energética brasileira tem se diversificado bastante nos últimos anos, em razão do aumento da demanda de energia, da grande extensão do território brasileiro e das exigências ambientais. Considerando-se as diferentes fontes para obtenção de energia, pode-se afirmar que é vantajoso utilizar",
+    "question": "Pode-se afirmar que é vantajoso utilizar",
+    "images": [],
+    "alternatives": {
+      "A": "resíduos orgânicos, pois o processo aproveita matéria disponível e sem destino apropriado.",
+      "B": "carvão mineral, pois é um recurso natural e renovável.",
+      "C": "energia hidrelétrica, pois é uma energia limpa e sua geração não causa dano ambiental.",
+      "D": "energia nuclear, pois ela usa uma fonte renovável e não gera resíduo químico.",
+      "E": ""
+    },
+    "answer": "A"
+  },
+  {
+    "questionId": "Uema_Q1148",
+    "questionText": "GLP (Gás Liquefeito de Petróleo), também conhecido popularmente como gás de cozinha, é um combustível fóssil não renovável que pode se esgotar de um dia para o outro, caso não seja utilizado com planejamento e sem excesso. Ele é composto, dentre outros gases, por propano (C3H8), butano (C4H10) e pequenas quantidades de propeno (C3H6) e buteno (C4H8). Esses compostos orgânicos são classificados como hidrocarbonetos que apresentam semelhanças e diferenças entre si.\n\nCom base no tipo de ligação entre carbonos e na classificação da cadeia carbônica dos compostos acima, pode-se afirmar que",
+    "question": "Com base no tipo de ligação entre carbonos e na classificação da cadeia carbônica, pode-se afirmar que",
+    "images": [],
+    "alternatives": {
+      "A": "os compostos insaturados são propano e butano.",
+      "B": "os compostos insaturados são propeno e buteno.",
+      "C": "os compostos insaturados são propeno e butano.",
+      "D": "os compostos apresentam cadeias homocíclicas.",
+      "E": "os compostos possuem cadeias heterocíclicas."
+    },
+    "answer": "B"
+  },
+  {
+    "questionId": "Ifsc_Q1135",
+    "questionText": "O gás carbônico (CO2) é um dos gases responsáveis pelo aquecimento global e por outros efeitos nocivos ao meio ambiente, como poluição da atmosfera e chuva ácida.\n\nCom base nessas informações, assinale a alternativa CORRETA.",
+    "question": "Com base nessas informações, assinale a alternativa correta.",
+    "images": [],
+    "alternatives": {
+      "A": "O CO2 é formado na queima da gasolina e outros combustíveis usados em automóveis.",
+      "B": "O gás carbônico é uma molécula de massa 18 u.m.a.",
+      "C": "O gás carbônico é uma mistura de duas substâncias: carbono e oxigênio.",
+      "D": "A temperatura de ebulição do CO2 é igual à temperatura de ebulição da água, nas mesmas condições de pressão.",
+      "E": "A atmosfera da Terra não contém gás carbônico na sua composição."
+    },
+    "answer": "A"
+  },
+  {
+    "questionId": "Esc._Naval_Q1136",
+    "questionText": "A chuva ácida é um fenômeno químico resultante do contato entre o vapor de água existente no ar, o dióxido de enxofre e os óxidos de nitrogênio. O enxofre é liberado, principalmente, por veículos movidos a combustível fóssil; os óxidos de nitrogênio, por fertilizantes. Ambos reagem com o vapor de água, originando, respectivamente, os ácidos sulfuroso, sulfídrico, sulfúrico e nítrico.\n\nAssinale a opção que apresenta, respectivamente a fórmula desses ácidos",
+    "question": "Assinale a opção que apresenta, respectivamente, a fórmula desses ácidos",
+    "images": [],
+    "alternatives": {
+      "A": "H2SO3, H2S, H2SO4, HNO3.",
+      "B": "H2SO3, H2SO4, H2S, HNO2.",
+      "C": "HSO4, HS, H2SO4, HNO3.",
+      "D": "HNO3, H2SO4, H2S, H2SO3.",
+      "E": "H2S, H2SO4, H2SO3, HNO3."
+    },
+    "answer": "A"
+  },
+  {
+    "questionId": "Ufjf_Q1129",
+    "questionText": "Uma das consequências da chuva ácida é a acidificação de solos. Porém, alguns tipos de solos conseguem neutralizar parcialmente os efeitos da chuva por conterem naturalmente carbonato de cálcio (calcário) e óxido de cálcio (cal). Os solos que não têm a presença do calcário são mais suscetíveis à acidificação e necessitam que se faça a adição de cal. No solo, a cal reage com a água, formando uma base que auxiliará na neutralização dos íons H+.\n\nAssinale a alternativa que mostra a equação química balanceada que representa a reação entre a cal e a água:",
+    "question": "Qual equação química balanceada representa a reação entre a cal e a água?",
+    "images": [],
+    "alternatives": {
+      "A": "CaO(s) + H2O(l) -> Ca(OH)2(aq)",
+      "B": "CaO(s) + H2O(l) -> H2CaO2(aq)",
+      "C": "Ca2O(s) + H2O(l) -> 2 CaOH(aq)",
+      "D": "K2O(s) + H2O(l) -> 2 KOH(aq)",
+      "E": "KO(s) + H2O(l) -> K(OH)2(aq)"
+    },
+    "answer": "A"
+  },
+    {
+    "questionId": "Unimontes_Q1144",
+    "questionText": "O óxido nítrico, NO, é um poluente nocivo que sai dos canos de escapamento de automóveis e caminhões. Na presença de água, o óxido nítrico forma, na atmosfera, ácidos responsáveis pelo fenômeno da chuva ácida. As equações a seguir mostram as reações.",
+    "question": "Levando-se em conta as propriedades dos ácidos formados e os efeitos produzidos por eles no meio ambiente, é incorreto afirmar que",
+    "images": [
+      "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/b4edc3a9-9c5d-4a7b-8149-14007f3a2fec-arquivo-editor"
+    ],
+    "alternatives": {
+      "A": "a água da chuva tem seu pH diminuído na presença desses ácidos.",
+      "B": "os dois ácidos produzidos apresentam a mesma força de acidez.",
+      "C": "o ácido nitroso pode corroer estruturas contendo sais de carbonato.",
+      "D": "o ácido nítrico é um ácido forte e pode danificar estruturas metálicas.",
+      "E": ""
+    },
+    "answer": "B"
+  },
+  {
+    "questionId": "Enem_Q1301",
+    "questionText": "Grandes reservatórios de óleo leve de melhor qualidade e que produz petróleo mais fino foram descobertos no litoral brasileiro numa camada denominada pré-sal, formada há 150 milhões de anos.",
+    "question": "A utilização desse recurso energético acarreta para o ambiente um desequilíbrio no ciclo do",
+    "images": [],
+    "alternatives": {
+      "A": "nitrogênio, devido à nitrificação ambiental transformando amônia em nitrito.",
+      "B": "nitrogênio, devido ao aumento dos compostos nitrogenados no ambiente terrestre.",
+      "C": "carbono, devido ao aumento dos carbonatos dissolvidos no ambiente marinho.",
+      "D": "carbono, devido à liberação das cadeias carbônicas aprisionadas abaixo dos sedimentos.",
+      "E": "fósforo, devido à liberação dos fosfatos acumulados no ambiente marinho."
+    },
+    "answer": "D"
+  },
+  {
+    "questionId": "Enem_PPL_Q1661",
+    "questionText": "As lâmpadas fluorescentes apresentam vantagens com maior eficiência luminosa, vida útil mais longa e redução do consumo de energia. Contudo, um dos constituintes dessas lâmpadas é o mercúrio, que apresenta sérias restrições ambientais em função de sua toxicidade. Dessa forma, as lâmpadas fluorescentes devem passar por um processo prévio de descontaminação antes do descarte ou reciclagem do material. O ideal é que nesse processo se tenha o menor impacto ambiental e, se possível, o mercúrio seja recuperado e empregado em novos produtos.\n\nDURÃO JR, W. A.; WINDMÖLLER, C. C. A questão do mercúrio em lâmpadas fluorescentes. Química Nova na Escola, n. 28, 2008 (adaptado).",
+    "question": "Considerando os impactos ambientais negativos, o processo menos indicado de descontaminação desse metal presente nas lâmpadas seria o(a)",
+    "images": [],
+    "alternatives": {
+      "A": "encapsulamento, no qual as lâmpadas são trituradas por via seca ou úmida, o material resultante é encapsulado em concreto e a disposição final do resíduo é armazenada em aterros.",
+      "B": "lixiviação ácida, com a dissolução dos resíduos sólidos das lâmpadas em ácido (HNO3), seguida de filtração e neutralização da solução para recuperar os compostos de mercúrio.",
+      "C": "incineração, com a oxidação das lâmpadas junto com o lixo urbano em altas temperaturas, com redução do material sólido e lançamento dos gases e vapores para a atmosfera.",
+      "D": "processo térmico, no qual o resíduo é aquecido em sistema fechado para vaporizar o mercúrio e em seguida ocorre o resfriamento para condensar o vapor e obter o mercúrio elementar.",
+      "E": "separação por via química, na qual as lâmpadas são trituradas em sistema fechado, em seguida aditivos químicos são adicionados para precipitação e separação do mercúrio."
+    },
+    "answer": "C"
+  },
+  {
+    "questionId": "Upe_Q1131",
+    "questionText": "Analise a notícia a seguir:\n\nChuva ácida faz com que rios da costa leste dos EUA fiquem alcalinos\n\n\"Dois terços dos rios na costa leste dos Estados Unidos registram níveis crescentes de alcalinidade, com o que suas águas se tornam cada vez mais perigosas para a rega de plantios e a vida aquática, informaram cientistas esta segunda-feira\".\n\nFonte: Portal G1 Notícias, em 26/08/2013",
+    "question": "O aumento da alcalinidade ocorre, porque",
+    "images": [],
+    "alternatives": {
+      "A": "a chuva ácida, ao cair nos rios, deixa o meio mais alcalino.",
+      "B": "a chuva ácida pode corroer rochas ricas em óxidos básicos e sais de hidrólise básica e deixar o meio mais alcalino.",
+      "C": "a chuva ácida pode corroer rochas ricas em óxidos ácidos e sais de hidrólise ácida e deixar o meio mais alcalino.",
+      "D": "a chuva ácida pode corroer a vegetação, arrastar matéria orgânica e deixar o meio mais alcalino.",
+      "E": "o aumento da alcalinidade não se deve à ação da chuva ácida, sendo um processo natural de modificação do meio."
+    },
+    "answer": "B"
+  },
+    {
+    "questionId": "Unioeste_Q1150",
+    "questionText": "A respeito das propriedades físicas e químicas dos combustíveis (gasolina e álcool), e da interação destes com a água, são feitas as seguintes afirmações: I. A gasolina é composta principalmente por hidrocarbonetos saturados contendo de 5 a 12 carbonos na cadeia; II. O álcool é miscível na água devido às interações por ligações de hidrogênio existentes entre ambos compostos; III. A densidade da água é menor do que a densidade da gasolina; IV. O álcool, denominado etanol pela IUPAC, não é um combustível renovável; V. A gasolina, derivada do petróleo, é um combustível fóssil assim como o carvão mineral.",
+    "question": "São corretas as afirmativas",
+    "images": [],
+    "alternatives": {
+      "A": "I, II e III.",
+      "B": "III, IV e V.",
+      "C": "I, IV e V.",
+      "D": "II, III e IV.",
+      "E": "I, II e V."
+    },
+    "answer": "E"
+  },
+  {
+    "questionId": "Enem_Q1293",
+    "questionText": "Pesquisadores coletaram amostras de água de um rio em pontos diferentes, distantes alguns quilômetros um do outro. Ao longo do rio, há locais de águas limpas, como também locais que recebem descarga de esgoto de área urbana, e locais onde há decomposição ativa com ausência de peixes. Os pesquisadores analisaram dois parâmetros: oxigênio dissolvido (OD) e demanda bioquímica de oxigênio (DBO) em cada ponto de coleta de água, obtendo o gráfico. Valores limites permitidos para águas doces destinadas ao abastecimento para o consumo humano após tratamento convencional, segundo Resolução Conama n. 357/2005: OD ≥ 5 mg L–1 e DBO ≤ 5 mg L–1. O OD é proveniente da atmosfera e da fotossíntese que ocorre no curso-d’água e sua concentração é função das variáveis físicas, químicas e bioquímicas locais. A DBO é a quantidade de oxigênio consumido por microrganismos em condições aeróbicas para degradar uma determinada quantidade de matéria orgânica, durante um período de tempo, numa temperatura de incubação específica.",
+    "question": "Qual ponto de amostragem da água do rio está mais próximo ao local em que o rio recebe despejo de esgoto?",
+    "images": [
+      "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/4d506ef0-33f6-4d3a-8e77-91d37afd39cc-arquivo-editor"
+    ],
+    "alternatives": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4",
+      "E": "5"
+    },
+    "answer": "A"
+  },
+  {
+    "questionId": "Enem_Q1382",
+    "questionText": "O potencial brasileiro para transformar lixo em energia permanece subutilizado – apenas pequena parte dos resíduos brasileiros é utilizada para gerar energia. Contudo, bons exemplos são os aterros sanitários, que utilizam a principal fonte de energia ali produzida. Alguns aterros vendem créditos de carbono com base no Mecanismo de Desenvolvimento Limpo (MDL), do Protocolo de Kyoto.",
+    "question": "Essa fonte de energia subutilizada, citada no texto, é o",
+    "images": [],
+    "alternatives": {
+      "A": "etanol, obtido a partir da decomposição da matéria orgânica por bactérias.",
+      "B": "gás natural, formado pela ação de fungos decompositores da matéria orgânica.",
+      "C": "óleo de xisto, obtido pela decomposição da matéria orgânica pelas bactérias anaeróbias.",
+      "D": "gás metano, obtido pela atividade de bactérias anaeróbias na decomposição da matéria orgânica.",
+      "E": "gás liquefeito de petróleo, obtido pela decomposição de vegetais presentes nos restos de comida."
+    },
+    "answer": "D"
+  },
+    {
+    "questionId": "Ifsul_Q1153",
+    "questionText": "Antigamente, a hulha era utilizada como principal fonte de hidrocarbonetos aromáticos, mas passou a ser substituída pelo petróleo no início do século XX, com a Segunda Revolução Industrial. A produção desses compostos orgânicos a partir do petróleo é mais viável economicamente, além de que a quantidade de hidrocarbonetos aromáticos obtidos da hulha não seria suficiente para suprir a crescente demanda industrial.",
+    "question": "Qual alternativa mostra apenas compostos aromáticos, semelhantes aos que seriam obtidos da hulha?",
+    "images": [],
+    "alternatives": {
+      "A": "Benzeno, Hexano, Tolueno e Fenol.",
+      "B": "Tolueno, Naftaleno, Benzeno e Fenol.",
+      "C": "Naftaleno, Metano, Hexeno e Hidroxibenzeno.",
+      "D": "Hidroxibenzeno, Etano, Ciclohexano e Tolueno.",
+      "E": ""
+    },
+    "answer": "B"
+  },
+  {
+    "questionId": "Enem_PPL_Q1569",
+    "questionText": "A troposfera consiste basicamente em N2 e O2 que, juntos, compreendem 99% da atmosfera da Terra. Outros gases, compreendidos como constituintes atmosféricos secundários, apesar de estarem presentes em concentrações muito baixas, podem ter efeitos importantes ou danosos no meio ambiente. O quadro apresenta as principais fontes e concentrações típicas de alguns desses gases secundários. Pode-se reduzir as concentrações de um desses constituintes gasosos secundários na atmosfera pela passagem dos gases através de purificadores químicos contendo uma pasta de calcário, cujo principal constituinte é o CaCO3, sendo o gás removido por sua conversão em um sal (composto iônico sólido).",
+    "question": "Entre os constituintes secundários apresentados, qual pode ser removido pela ação desse purificador químico?",
+    "images": [
+      "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/48aa9864-01e8-4f23-a35d-7d8e7e318791-arquivo-editor"
+    ],
+    "alternatives": {
+      "A": "Ozônio.",
+      "B": "Metano.",
+      "C": "Dióxido de enxofre.",
+      "D": "Monóxido de carbono.",
+      "E": "Monóxido de nitrogênio."
+    },
+    "answer": "C"
+  },
+  {
+    "questionId": "Unimontes_Q1143",
+    "questionText": "A água da chuva não contaminada é naturalmente ácida e, em geral, tem valor de pH em torno de 5,6. Entretanto, a chuva ácida é mais ácida que a água da chuva normal. Para níveis de pH abaixo de 4,0 (quatro), todos os vertebrados, a maioria dos invertebrados e muitos micro-organismos são destruídos.",
+    "question": "A partir dessas informações, assinale a alternativa INCORRETA.",
+    "images": [],
+    "alternatives": {
+      "A": "A fonte primária da acidez natural da água é o dióxido de carbono ou gás carbônico.",
+      "B": "Os invertebrados sobrevivem em águas com concentração de H3O+ inferior a 10-4 mol/L.",
+      "C": "As águas mais prejudiciais aos organismos vivos têm baixa concentração de íons básicos.",
+      "D": "A chuva ácida tem valor de pH superior ao valor da água de chuva não contaminada.",
+      "E": ""
+    },
+    "answer": "D"
+  },
+  {
+    "questionId": "Enem_PPL_Q1721",
+    "questionText": "Polímeros biodegradáveis são polímeros nos quais a degradação resulta da ação de microrganismos de ocorrência natural, como bactérias, fungos e algas, podendo ser consumidos em semanas ou meses sob condições favoráveis de biodegradação. Na ausência de oxigênio, ocorre a biodegradação anaeróbica. Durante esse processo, há a formação de produtos que podem ser usados para a geração de energia.",
+    "question": "O produto que apresenta essas características é:",
+    "images": [],
+    "alternatives": {
+      "A": "CO2",
+      "B": "CH4",
+      "C": "H2O",
+      "D": "CResíduo",
+      "E": "CBiomassa"
+    },
+    "answer": "B"
+  },
+    {
+    "questionId": "Enem_Q1302",
+    "questionText": "A Química Verde é um ramo da química que prega o desenvolvimento de processos eficientes, que transformem a maior parte do reagente em produto, de forma mais rápida e seletiva, que utilizem poucos reagentes, que produzam somente o produto desejado, evitando a formação de coprodutos, e que utilizem solventes não agressivos ao meio ambiente. Assim, as indústrias contornariam problemas relacionados à poluição ambiental e ao desperdício de água e energia.",
+    "question": "O perfil de um processo que segue todos os princípios desse ramo da química pode ser representado por:",
+    "images": [],
+    "alternatives": {
+      "A": "A + B + C -> D (a reação ocorre a altas pressões).",
+      "B": "A + B -> C + D (a reação é fortemente endotérmica).",
+      "C": "A + 3B -> C (a reação ocorre com uso de solvente orgânico).",
+      "D": "3A + 2B -> 2C -> 3D + 2E (a reação ocorre sob pressão atmosférica).",
+      "E": "A + B/2 -> C (a reação ocorre com o uso de um catalisador contendo um metal não tóxico)."
+    },
+    "answer": "E"
+  },
+  {
+    "questionId": "Uemg_Q1157",
+    "questionText": "Inúmeras são as fontes de energia disponíveis no nosso planeta, sendo que essas fontes se dividem em dois tipos, as fontes renováveis e as não renováveis. As fontes de energias renováveis são aquelas em que sua utilização e uso podem ser mantidos e aproveitados ao longo do tempo sem possibilidade de esgotamento.",
+    "question": "De acordo com a tabela e com seus conhecimentos a respeito de combustíveis e energia, está CORRETO o que se afirma em:",
+    "images": [
+      "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/4cd359fa-5668-4313-b659-85ecd2050d45-arquivo-editor"
+    ],
+    "alternatives": {
+      "A": "Apesar de existir em abundância no Brasil, e ser economicamente viável, a energia solar ainda é pouco explorada por razões políticas.",
+      "B": "Em regiões cercadas por montanhas e de muita terra, a melhor alternativa energética dentre as destacas seria a eólica.",
+      "C": "Por ser obtida a partir de bagaço de cana-de-açúcar, álcool, madeira, palha de arroz, óleos vegetais, dentre outros, a biomassa poderia ser uma alternativa economicamente viável em regiões de terra fértil.",
+      "D": "Sabe-se que a fonte do etanol é renovável, podendo ser extraído da cana-de-açúcar e também da beterraba, mas em termos de emissão de CO2/mol de combustível, é tão poluente quanto a gasolina.",
+      "E": ""
+    },
+    "answer": "C"
+  },
+  {
+    "questionId": "Ifsc_Q1154",
+    "questionText": "A Petrobras bateu mais um recorde mensal na extração de petróleo na camada do Pré-Sal. Em julho, a produção operada pela empresa chegou a 798 mil barris por dia (bpd), 6,9% acima do recorde histórico batido no mês anterior.",
+    "question": "Com base no assunto da notícia acima, assinale a alternativa CORRETA.",
+    "images": [],
+    "alternatives": {
+      "A": "O gás natural é uma mistura de gases, sendo que o principal constituinte é o metano, de fórmula molecular CH4.",
+      "B": "O petróleo é utilizado somente para a produção de combustíveis e poderia ser totalmente substituído pelo etanol, menos poluente.",
+      "C": "A camada do Pré-Sal se encontra normalmente próxima a vulcões onde, há milhares de anos, o petróleo se originou a partir de substâncias inorgânicas.",
+      "D": "As substâncias que compõem o petróleo são hidrocarbonetos como: ácidos graxos, éteres e aldeídos.",
+      "E": "As diferentes frações do petróleo são separadas em uma coluna de destilação, onde as moléculas menores como benzeno e octano são retiradas no topo e as moléculas maiores como etano e propano são retiradas na base da coluna."
+    },
+    "answer": "A"
+  },
+  {
+    "questionId": "Fgv_Q1149",
+    "questionText": "De acordo com dados da Agência Internacional de Energia (AIE), aproximadamente 87% de todo o combustível consumido no mundo são de origem fóssil. Essas substâncias são encontradas em diversas regiões do planeta, no estado sólido, líquido e gasoso e são processadas e empregadas de diversas formas.",
+    "question": "Os combustíveis de origem fóssil I, II e III são, correta e respectivamente:",
+    "images": [],
+    "alternatives": {
+      "A": "carvão mineral, gasolina e gás natural.",
+      "B": "carvão mineral, gás natural e gasolina.",
+      "C": "gás natural, etanol e gasolina.",
+      "D": "gás natural, gasolina e etanol.",
+      "E": "gás natural, carvão mineral e etanol."
+    },
+    "answer": "B"
+  },
+    {
+    "questionId": "Unicamp_Q1609",
+    "questionText": "Num estudo científico publicado em 2022 no Chemical Science, os autores aqueceram amostras de casca seca de banana, utilizando, num curto período de tempo, uma lâmpada de alta intensidade luminosa. Essa técnica de aquecimento denomina-se pirólise por luz. Essa irradiação promoveu a formação de um tipo de carvão e produtos gasosos. Em um experimento, a quantificação dos gases produzidos encontra-se na figura abaixo. A partir dessas informações, pode-se inferir que um possível interesse dos autores era obter combustíveis a partir de biomassa.",
+    "question": "Sendo assim, pode-se dizer que o objetivo foi alcançado para hidrocarbonetos",
+    "images": [
+      "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/457a9bc7-8eb6-42f9-bf2c-1a2fd60e0c44-arquivo-editor"
+    ],
+    "alternatives": {
+      "A": "leves, mas a maior quantidade em mol de gás foi a de hidrogênio.",
+      "B": "leves, mas a maior quantidade em mol de gás foi a de monóxido de carbono.",
+      "C": "pesados, mas a maior quantidade em mol de gás foi a de hidrogênio.",
+      "D": "pesados, mas a maior quantidade em mol de gás foi a de monóxido de carbono.",
+      "E": ""
+    },
+    "answer": "B"
+  },
+  {
+    "questionId": "Ufpr_Q1156",
+    "questionText": "A extração de petróleo em águas profundas segue basicamente três etapas: i) perfuração, utilizando uma sonda; ii) injeção de água pressurizada, que extrai o petróleo das rochas subterrâneas; e iii) separação do petróleo misturado com água e pedaços de rochas.",
+    "question": "A terceira etapa é realizada por meio dos métodos de:",
+    "images": [],
+    "alternatives": {
+      "A": "decantação e filtração.",
+      "B": "extrusão e evaporação.",
+      "C": "sedimentação e flotação.",
+      "D": "destilação e centrifugação.",
+      "E": "evaporação e cromatografia."
+    },
+    "answer": "A"
+  },
+  {
+    "questionId": "Mackenzie_Q1159",
+    "questionText": "A destilação fracionada é um processo de separação no qual se utiliza uma coluna de fracionamento, separando-se diversos componentes de uma mistura homogênea, que apresentam diferentes pontos de ebulição. Nesse processo, a mistura é aquecida e os componentes com menor ponto de ebulição são separados primeiramente pelo topo da coluna. Tal procedimento é muito utilizado para a separação dos hidrocarbonetos presentes no petróleo bruto, como está representado na figura abaixo.",
+    "question": "Assim, ao se realizar o fracionamento de uma amostra de petróleo bruto os produtos recolhidos em I, II, III e IV são, respectivamente,",
+    "images": [
+      "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/9e257ba1-d33e-47ba-8805-d642286f070f-arquivo-editor"
+    ],
+    "alternatives": {
+      "A": "gás de cozinha, asfalto, gasolina e óleo diesel.",
+      "B": "gás de cozinha, gasolina, óleo diesel e asfalto.",
+      "C": "asfalto, gás de cozinha, gasolina e óleo diesel.",
+      "D": "asfalto, gasolina, gás de cozinha e óleo diesel.",
+      "E": "gasolina, gás de cozinha, óleo diesel e asfalto."
+    },
+    "answer": "C"
+  },
+  {
+    "questionId": "Enem_Q1445",
+    "questionText": "O concreto utilizado na construção civil é um material formado por cimento misturado a areia, a brita e a água. A areia é normalmente extraída de leitos de rios e a brita, oriunda da fragmentação de rochas. Impactos ambientais gerados no uso do concreto estão associados à extração de recursos minerais e ao descarte indiscriminado desse material. Na tentativa de reverter esse quadro, foi proposta a utilização de concreto reciclado moído em substituição ao particulado rochoso graúdo na fabricação de novo concreto, obtendo um material com as mesmas propriedades que o anterior.",
+    "question": "O benefício ambiental gerado nessa proposta é a redução do(a)",
+    "images": [],
+    "alternatives": {
+      "A": "extração da brita.",
+      "B": "extração de areia.",
+      "C": "consumo de água.",
+      "D": "consumo de concreto.",
+      "E": "fabricação de cimento."
+    },
+    "answer": "A"
+  },
+    {
+    "questionId": "Enem_PPL_Q1568",
+    "questionText": "O fenol (hidroxi-benzeno) e vários de seus derivados são compostos tóxicos presentes na lista de poluentes prioritários da Agência de Proteção Ambiental norte-americana, totalizando 11 fenóis das 129 substâncias presentes na lista. No Brasil, a Resolução Federal (Conama) n. 20, de 1986, limitava o teor máximo de fenóis, para lançamento em corpos de água doce, em 0,5 ppm.\n\nResolução Conama n. 20, de 18 de junho de 1986. Diário Oficial da União, de 30 jul. 1986 (adaptado).",
+    "question": "A solução recomendável para o descarte de efluentes industriais contendo fenol é",
+    "images": [],
+    "alternatives": {
+      "A": "incinerar o efluente.",
+      "B": "aquecer a mistura para evaporar o fenol.",
+      "C": "armazenar o rejeito em piscinas de contenção.",
+      "D": "extrair e reinserir o produto na linha de produção.",
+      "E": "adicionar água suficiente para permitir o despejo nos rios."
+    },
+    "answer": "D"
+  },
+  {
+    "questionId": "Enem_PPL_Q1707",
+    "questionText": "O solvente tetracloroeteno ou percloroetileno é largamente utilizado na indústria de lavagem a seco e em diversas outras indústrias, tais como a de fabricação de gases refrigerantes. Os vapores desse solvente, quando expostos à elevada temperatura na presença de oxigênio e água, sofrem degradação produzindo gases poluentes, conforme representado pela equação:\n\nC2Cl4 (g) + O2 (g) + H2O (g) → 2 HCl (g) + Cl2 (g) + CO (g) + CO2 (g)\n\nBORGES, L. D.; MACHADO, P. F. L. Lavagem a seco. Química Nova na Escola, n. 1, v. 2013 (adaptado).",
+    "question": "Os produtos dessa degradação, quando lançados no meio ambiente, contribuem para a",
+    "images": [],
+    "alternatives": {
+      "A": "elevação do pH do solo.",
+      "B": "formação de chuva ácida.",
+      "C": "eutrofização de mananciais.",
+      "D": "elevação dos níveis de ozônio na atmosfera.",
+      "E": "formação de óxidos de enxofre na atmosfera."
+    },
+    "answer": "B"
+  },
+  {
+    "questionId": "Upe_Q1141",
+    "questionText": "Analise a charge a seguir:",
+    "question": "O sentido da crítica nela contida se vincula, principalmente, ao",
+    "images": [
+      "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/e09bb56c-f60b-40b0-8514-1c8846241f4e-arquivo-editor"
+    ],
+    "alternatives": {
+      "A": "acréscimo do pH das águas dos oceanos pela chuva ácida provocada por causa da maior concentração no ar atmosférico de fluorcarbonos, CO2, SO2 e NOX.",
+      "B": "efeito da participação humana na emissão de poluentes atmosféricos – como clorofluorcarbonos, hidrofluorcarbonos CO2, SO2 e NOX – no desequilíbrio do efeito estufa.",
+      "C": "derretimento do líquido lubrificante existente no corpo das aves por causa da contaminação dos corpos d’água pelas emissões de O3 dos purificadores de água, industriais e domésticos.",
+      "D": "aumento das mutações nas aves por causa da variação da temperatura nos corpos d’água, provocada pelo acúmulo de clorofluorcarbonos e hidrofluorcarbonos no buraco existente sobre a Patagônia.",
+      "E": "risco de extinção das camadas polares pela criação humana do efeito estufa da Terra, em decorrência das altas concentrações de poluentes – como CO2, SO2 e CH4 – emitidos por fábricas, automóveis e criações extensivas de animais."
+    },
+    "answer": "B"
+  },
+  {
+    "questionId": "Unicamp_Q1616",
+    "questionText": "Texto 1\n\nA Química Verde é uma área multidisciplinar que cria, desenvolve e aplica produtos e processos químicos que visam à redução ou eliminação do uso e da geração de substâncias nocivas ao meio ambiente e ao homem. Em 2019, para reunir várias ações relativas à Química Verde, os pesquisadores Paul T. Anastas e Julie B. Zimmerman propuseram a Tabela Periódica dos Elementos Figurativos da Química Verde e Sustentável – TPQVS. Assim como na Tabela Periódica dos Elementos Químicos, a TPQVS apresenta “elementos”, os quais, porém, representam ações associadas aos preceitos da Química Verde, sendo que cada grupo (G) da TPQVS reúne ações com os mesmos preceitos.\n\nTexto 2\n\n“A Química é pura beleza;\nOs átomos e as moléculas são a realeza,\nreagindo no compasso da natureza\npara transformar o mundo com delicadeza.\n\nSou um simples menestrel da ciência\nque defende suas ideias com veemência.\nComo Químico, quero atuar com sapiência,\ndesenvolvendo processos de alta eficiência.\n\nA Química não é mais poluição;\npara o fóssil ela tem a substituição;\nrenovando o verde como solução.\n\nVivemos num tempo de ambiguidade,\nonde a terra, a água e o ar estão em vulnerabilidade.\nFaçamos da Química o caminho para a sustentabilidade”\n\n(MOTA, Claudio J. A. Conferência de Abertura da 45ª Reunião Anual da Sociedade Brasileira de Química, 2022.)",
+    "question": "As frases em negrito do poema podem ser associadas, respectivamente, a quais grupos da TPQVS?",
+    "images": [
+      "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/e3fccd06-08c5-4ae8-ba33-53a12d985505-arquivo-editor"
+    ],
+    "alternatives": {
+      "A": "catálise (G8), economia atômica (G2), matérias-primas renováveis (G7), prevenção de resíduos (G1).",
+      "B": "matérias-primas renováveis (G7), catálise (G8), economia atômica (G2), prevenção de resíduos (G1).",
+      "C": "catálise (G8), matérias-primas renováveis (G7), economia atômica (G2), prevenção de resíduos (G1).",
+      "D": "matérias-primas renováveis (G7), prevenção de resíduos (G1), catálise (G8), economia atômica (G2).",
+      "E": ""
+    },
+    "answer": "A"
+  },
+    {
+    "questionId": "Udesc_Q1139",
+    "questionText": "O Governo Brasileiro tem incentivado o uso de combustíveis menos poluentes, como o diesel adicionado de biodiesel em 5% (denominado B5) que, por causa de sua fonte diferenciada em relação ao diesel tradicional, não tem enxofre, e também o uso do diesel com menor teor de enxofre, denominado S50, que tem teor máximo, desse elemento, de 50 mg/kg do combustível.\n\nO uso desses combustíveis tem como objetivo diminuir a poluição ambiental, principalmente pela diminuição do lançamento de enxofre e seus compostos na atmosfera.",
+    "question": "Assinale a alternativa incorreta em relação a esta questão ambiental.",
+    "images": [],
+    "alternatives": {
+      "A": "O enxofre sofre oxidação durante a queima do combustível no motor, gerando dióxido de enxofre gasoso.",
+      "B": "Os óxidos de enxofre formados durante a queima do combustível, por se tratarem de óxidos básicos, podem se combinar com o vapor de água na atmosfera, formando bases fracas, responsáveis pela acidez da chuva.",
+      "C": "O SO2(g) formado na combustão do diesel pode se oxidar a SO3(g) na atmosfera, que em contato com umidade, pode gerar H2SO4.",
+      "D": "A chuva ácida de origem sulfúrica é prejudicial para o meio ambiente, pois contribui para a dissolução de materiais carbonáceos, como recifes, corais e monumentos históricos, e também influencia na agricultura, diminuindo a biodisponibilidade de Ca2+, uma vez que forma o sal CaSO4 pouco solúvel.",
+      "E": "A transformação do enxofre elementar em SO2(g) é uma reação de oxirredução, que ocorre com redução do oxigênio e oxidação do enxofre."
+    },
+    "answer": "B"
+  },
+  {
+    "questionId": "Enem_Q1406",
+    "questionText": "A química verde permite o desenvolvimento tecnológico com danos reduzidos ao meio ambiente, e encontrar rotas limpas tem sido um grande desafio. Considere duas rotas diferentes utilizadas para a obtenção de ácido adípico, um insumo muito importante para a indústria têxtil e de plastificantes.",
+    "question": "Que fator contribui positivamente para que a segunda rota de síntese seja verde em comparação à primeira?",
+    "images": [
+      "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/68d443a2-ee17-470b-87bf-6753bcf3af83-arquivo-editor"
+    ],
+    "alternatives": {
+      "A": "Etapa única na síntese.",
+      "B": "Obtenção do produto puro.",
+      "C": "Ausência de reagentes oxidantes.",
+      "D": "Ausência de elementos metálicos no processo.",
+      "E": "Gasto de energia nulo na separação do produto."
+    },
+    "answer": "A"
+  },
+  {
+    "questionId": "Ufms_Q1151",
+    "questionText": "“Petróleo cru encontrado em praias é reaproveitado em fábrica no sertão cearense: o petróleo cru que tem atingido as praias do Nordeste está sendo reaproveitado no sertão cearense. Uma fábrica no município de Quixeré, a 200 km de Fortaleza, utiliza a substância, misturada com outros resíduos industriais, como combustível alternativo e, dessa forma, alimenta o forno da unidade de produção e não deixa resíduos ao meio ambiente. De acordo com a Superintendência Estadual do Meio Ambiente (Semace), quatro toneladas de óleo já foram retiradas de 18 pontos no Ceará”.\n\n(Disponível em: https://g1.globo.com. Acesso em: 29 de out. 2019).",
+    "question": "Com referência à destilação fracionada do petróleo cru na imagem, assinale a alternativa correta.",
+    "images": [
+      "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/021ea3bb-03c2-4bf2-ad83-9f14cc53e498-arquivo-editor"
+    ],
+    "alternatives": {
+      "A": "I - Gás; II - Querosene; III – Gasolina; IV - Óleo diesel; V - Óleo lubrificante; VI - Resíduo.",
+      "B": "I - Gás; II - Gasolina; III - Querosene; IV - Óleo diesel; V - Óleo lubrificante; VI - Resíduo.",
+      "C": "I - Querosene; II - Gás; III - Gasolina; IV - Óleo diesel; V - Resíduo; VI – Óleo lubrificante.",
+      "D": "I - Gasolina; II - Óleo diesel; III – Gás; IV - Querosene; V - Óleo lubrificante; VI - Resíduo.",
+      "E": "I - Gás; II - Gasolina; III – Querosene; IV - Óleo lubrificante; V - Óleo diesel; VI - Resíduo."
+    },
+    "answer": "B"
+  },
+  {
+    "questionId": "Unicamp_Q1367",
+    "questionText": "Um estudo recente avaliou como determinados plásticos se degradam na água do mar quando expostos à luz ultravioleta. Os plásticos estudados foram: NPG (plásticos diversos do Giro do Pacífico Norte), EPS (poliestireno expandido), PP (polipropileno) e PE (polietileno). Considerando que somente 2% do plástico despejado no mar está à deriva, esse estudo tentou descobrir para onde vão os microplásticos no ambiente marinho. Um dos resultados do estudo é mostrado nos gráficos abaixo. Nesses gráficos, observam-se as produções de carbono orgânico dissolvido (DOC) por grama de carbono na amostra de plástico utilizado. O DOC foi identificado como o maior subproduto da fotodegradação de plásticos.",
+    "question": "Os resultados mostram que",
+    "images": [
+      "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/7fe980d9-9561-4f05-a7d7-8554eee75946-arquivo-editor"
+    ],
+    "alternatives": {
+      "A": "para os quatro plásticos, a velocidade de degradação aumenta com o tempo de exposição; após 50 dias, a maior degradação foi a do PP.",
+      "B": "para três plásticos, a velocidade de degradação aumenta com o tempo de exposição; após 50 dias, a maior degradação foi a do EPS.",
+      "C": "para apenas um plástico, a velocidade de degradação não aumenta com o tempo de exposição; após 50 dias, a maior degradação foi a do PP.",
+      "D": "duas velocidades de degradação aumentam com o tempo e duas permanecem constantes; após 50 dias, a maior degradação foi a do EPS.",
+      "E": ""
+    },
+    "answer": "B"
+  },
+    {
+    "questionId": "Fgv_Q1142",
+    "questionText": "O uso dos combustíveis fósseis, gasolina e diesel, para fins veiculares resulta em emissão de gases para a atmosfera, que geram os seguintes prejuízos ambientais: aquecimento global e chuva ácida. Como resultado da combustão, detecta-se na atmosfera aumento da concentração dos gases CO2, NO2 e SO2.",
+    "question": "Sobre as moléculas desses gases, é correto afirmar que",
+    "images": [],
+    "alternatives": {
+      "A": "CO2 é apolar e NO2 e SO2 são polares.",
+      "B": "CO2 é polar e NO2 e SO2 são apolares.",
+      "C": "CO2 e NO2 são apolares e SO2 é polar.",
+      "D": "CO2 e NO2 são polares e SO2 é apolar.",
+      "E": "CO2 e SO2 são apolares e NO2 é polar."
+    },
+    "answer": "A"
+  },
+  {
+    "questionId": "Fgv_Q1147",
+    "questionText": "O texto seguinte refere-se a um documento do Departamento Nacional de Produção Mineral e descreve a utilidade de um combustível fóssil:\n\nA utilidade do combustível X pode ser vinculada às suas propriedades, como o alto poder calorífico por unidade de massa, já que o calor resultante da sua queima aquece caldeiras, que geram vapor, que movimentam turbinas, que geram energia elétrica. O gás produzido por esse combustível pode resultar em fertilizantes, amônia, combustíveis líquidos, lubrificantes, combustível para aviação e isqueiros, metanol, etc.\n\n(https://sistemas.dnpm.gov.br/publicacao/mostra_imagem.asp?IDBancoArquivoArquivo=3970. Adaptado)",
+    "question": "O combustível X descrito no texto é",
+    "images": [],
+    "alternatives": {
+      "A": "a gasolina.",
+      "B": "o gás liquefeito do petróleo.",
+      "C": "o gás natural.",
+      "D": "o carvão mineral.",
+      "E": "o diesel."
+    },
+    "answer": "D"
+  },
+  {
+    "questionId": "Enem_Q1152",
+    "questionText": "O polietileno é formado pela polimerização do eteno, sendo usualmente obtido pelo craqueamento da nafta, uma fração do petróleo. O “plástico verde” é um polímero produzido a partir da cana-de-açúcar, da qual se obtém o etanol, que é desidratado a eteno, e este é empregado para a produção do polietileno. A degradação do polietileno produz gás carbônico (CO2) cujo aumento da concentração na atmosfera contribui para o efeito estufa.",
+    "question": "Qual a vantagem de se utilizar eteno da cana-de-açúcar para produzir plástico?",
+    "images": [],
+    "alternatives": {
+      "A": "As fontes utilizadas são renováveis.",
+      "B": "Os produtos gerados são biodegradáveis.",
+      "C": "Os produtos gerados são de melhor qualidade.",
+      "D": "Os gases gerados na decomposição estão em menor quantidade.",
+      "E": "Os gases gerados na decomposição são menos agressivos ao ambiente."
+    },
+    "answer": "A"
+  },
+  {
+    "questionId": "Ufsj_Q1163",
+    "questionText": "Os ciclos biogeoquímicos são importantes para a vida na Terra, pois mantêm o equilíbrio entre o meio físico e o biológico e permitem a troca de matéria e energia entre a hidrosfera, a atmosfera e a litosfera.",
+    "question": "Em relação ao ciclo do carbono, é CORRETO afirmar que",
+    "images": [],
+    "alternatives": {
+      "A": "devido à acidez dos oceanos o CO2 atmosférico que se solubiliza na água é convertido a carbonato e precipitado como carbonato de cálcio, aumentando o volume dos oceanos por sedimentação.",
+      "B": "o uso de compostos de carbono como combustíveis leva a um aumento da concentração de gases como metano e CFCs na atmosfera, modificando o ciclo do carbono e gerando o efeito estufa.",
+      "C": "na respiração dos seres vivos ocorre a oxidação do carbono atmosférico para compostos orgânicos, enquanto que na fotossíntese o carbono e o oxigênio atmosféricos são reduzidos.",
+      "D": "a fração de matéria orgânica vegetal e animal removida do contato com o oxigênio atmosférico transformou-se em compostos de carbono no estado reduzido, dando origem às reservas de carvão, petróleo e gás.",
+      "E": ""
+    },
+    "answer": "D"
+  }
+    ]
+}

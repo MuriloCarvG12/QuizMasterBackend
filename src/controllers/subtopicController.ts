@@ -1,10 +1,10 @@
-import AppDataSource from "../data_source";
+import AppDataSource from "../data_source.js";
 import { Request , Response } from "express";
 
-import { Subtopic } from "../entities/SubTopic";
-import { Subject } from "../entities/Subject";
-import { Topic } from "../entities/Topic";
-import ConstSubTopics from "../consts/ConstSubTopic";
+import { Subtopic } from "../entities/SubTopic.js";
+import { Subject } from "../entities/Subject.js";
+import { Topic } from "../entities/Topic.js";
+import ConstSubTopics from "../consts/ConstSubTopic.js";
 
 
 

@@ -1,5 +1,5 @@
 import { Entity, PrimaryGeneratedColumn, Column, ManyToOne, JoinColumn } from "typeorm"
-import { Subject } from "./Subject"
+import { Subject } from "./Subject.js"
 
 @Entity({ name: "topics" })
 export class Topic {

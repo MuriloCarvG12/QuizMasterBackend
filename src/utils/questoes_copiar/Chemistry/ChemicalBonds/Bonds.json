@@ -1,0 +1,390 @@
+{
+    "examTitle": "Ligações Quimicas",
+    "questions":[
+          {
+    "questionId": "Espcex_Q0176",
+    "questionText": "Compostos iônicos são aqueles que apresentam ligação iônica. A ligação iônica é a ligação entre íons positivos e negativos, unidos por forças de atração eletrostática. Sobre as propriedades e características de compostos iônicos são feitas as seguintes afirmativas: I. apresentam brilho metálico. II. apresentam elevadas temperaturas de fusão e ebulição. III. apresentam boa condutibilidade elétrica quando em solução aquosa. IV. são sólidos nas condições ambiente (25 ˚C e 1 atm). V. são pouco solúveis em solventes polares como a água. Das afirmativas apresentadas estão corretas apenas",
+    "question": "Compostos iônicos são aqueles que apresentam ligação iônica. Sobre suas propriedades, quais afirmativas corretas?",
+    "images": [],
+    "alternatives": {
+      "A": "II, IV e V.",
+      "B": "II, III e IV.",
+      "C": "I, III e V.",
+      "D": "I, IV e V.",
+      "E": "I, II e III."
+    },
+    "answer": "B"
+  },
+  {
+    "questionId": "Cps_Q0173",
+    "questionText": "Considere a imagem, que apresenta algumas peças de um quebra-cabeça de cátions e ânions, para responder à questão. Na segunda linha, a autora faz referência a um tempero muito utilizado em nossas cozinhas. Assinale a alternativa que apresenta, corretamente, os números das peças do quebra-cabeça que representam a fórmula do principal componente desse tempero.",
+    "question": "Quais peças do quebra-cabeça representam a fórmula do principal componente do sal de cozinha?",
+    "images": [
+      "beb50abe-604e-4dfc-a963-310fd65db72e-arquivo-editor"
+    ],
+    "alternatives": {
+      "A": "CÁTION – 4 / ÂNION – 3",
+      "B": "CÁTION – 5 / ÂNION – 4",
+      "C": "CÁTION – 5 / ÂNION – 2",
+      "D": "CÁTION – 3 / ÂNION – 3",
+      "E": "CÁTION – 3 / ÂNION – 4"
+    },
+    "answer": "E"
+  },
+    {
+    "questionId": "Cps_Q0174",
+    "questionText": "Considere a imagem, que apresenta algumas peças de um quebra-cabeça de cátions e ânions, para responder à questão. Unindo as peças do quebra-cabeça de cátions e ânions, o aluno pode concluir, corretamente, que o cloreto de bário apresenta a fórmula",
+    "question": "Qual é a fórmula do cloreto de bário?",
+    "images": [
+      "3d3c991d-aabb-4784-8060-8dcf72cddb8a-arquivo-editor"
+    ],
+    "alternatives": {
+      "A": "BaCl.",
+      "B": "BaCl2.",
+      "C": "ClBa.",
+      "D": "ClBa2.",
+      "E": "Ba2Cl."
+    },
+    "answer": "B"
+  },
+  {
+    "questionId": "Ifmg_Q0185",
+    "questionText": "Para a realização de uma determinada atividade experimental, um estudante necessitou de um material que possuísse propriedades típicas de substâncias dúcteis, maleáveis, insolúveis em água e boas condutoras térmicas. Um material com essas propriedades resulta da ligação entre átomos de",
+    "question": "Qual ligação resulta em material dúctil, maleável, insolúvel em água e bom condutor térmico?",
+    "images": [],
+    "alternatives": {
+      "A": "Cu e Zn.",
+      "B": "Na e Cl.",
+      "C": "Fe e O.",
+      "D": "F e Xe.",
+      "E": "C e Si."
+    },
+    "answer": "A"
+  },
+  {
+    "questionId": "Pucrs_Q0178",
+    "questionText": "Durante o verão, verificam-se habitualmente tempestades em muitas regiões do Brasil. No litoral, essas tempestades constituem um risco para os banhistas, pois a água salgada é eletricamente condutora. Isso se explica pelo fato de a água salgada conter grande quantidade de íons, como Na+ e Cl–, livres para transportar carga elétrica no meio. Uma maneira de liberar essas partículas é dissolver sal de cozinha em um copo de água. Nesse processo, os íons existentes no sal sofrem __________.",
+    "question": "Que processo ocorre quando sal se dissolve em água liberando íons?",
+    "images": [],
+    "alternatives": {
+      "A": "átomos – cátions e ânions – ionização",
+      "B": "átomos – átomos e moléculas – dissociação",
+      "C": "íons – elétrons livres – hidrólise",
+      "D": "íons – cátions e ânions – dissociação",
+      "E": "moléculas – átomos e moléculas – ionização"
+    },
+    "answer": "D"
+  },
+  {
+    "questionId": "Uece_Q0181",
+    "questionText": "A nível de ilustração, os núcleos dos átomos são considerados ilhas mergulhadas em um mar de elétrons. Essa comparação nos leva a concluir que se trata de uma ligação química",
+    "question": "Qual tipo de ligação é comparada a núcleos imersos em um mar de elétrons?",
+    "images": [],
+    "alternatives": {
+      "A": "metálica.",
+      "B": "iônica.",
+      "C": "covalente polar.",
+      "D": "covalente apolar."
+    },
+    "answer": "A"
+  },
+    {
+    "questionId": "Uece_Q0182",
+    "questionText": "Um estudante encontrou uma substância inodora e incolor, com altas temperaturas de fusão e ebulição, boa condutividade elétrica, grande maleabilidade e boa condutividade térmica. A partir dessas informações, ele pode concluir o tipo de ligação predominante na substância.",
+    "question": "Qual o tipo de ligação predominante na substância descrita?",
+    "images": [],
+    "alternatives": {
+      "A": "covalente polar.",
+      "B": "metálica.",
+      "C": "covalente apolar.",
+      "D": "iônica."
+    },
+    "answer": "B"
+  },
+  {
+    "questionId": "Fatec_Q0175",
+    "questionText": "Cinco amigos escolheram isótopos para um jogo. A ligação química ocorre na combinação entre os isótopos apresentados por Júlia e Pedro.",
+    "question": "Qual a ligação e fórmula formada pela combinação entre os isótopos de Júlia e Pedro?",
+    "images": [
+      "53ef6a63-4cf6-41be-8643-63c115676fce-arquivo-editor"
+    ],
+    "alternatives": {
+      "A": "iônica, e a fórmula do composto formado é CaCl.",
+      "B": "iônica, e a fórmula do composto formado é CaCl2.",
+      "C": "covalente, e a fórmula do composto formado é ClCa.",
+      "D": "covalente, e a fórmula do composto formado é Ca2Cl.",
+      "E": "covalente, e a fórmula do composto formado é CaCl2."
+    },
+    "answer": "B"
+  },
+  {
+    "questionId": "Unesp_Q1599",
+    "questionText": "Observe os cinco modelos de estruturas e determine quais representam uma molécula isolada de substância simples, uma rede covalente de substância composta e uma rede cristalina de composto iônico, respectivamente.",
+    "question": "Quais modelos representam molécula simples, rede covalente e composto iônico, respectivamente?",
+    "images": [
+      "6eaa7b18-f012-4753-a155-4c9fe68dfd51-arquivo-editor"
+    ],
+    "alternatives": {
+      "A": "4, 3 e 5.",
+      "B": "4, 5 e 3.",
+      "C": "1, 2 e 5.",
+      "D": "1, 3 e 5.",
+      "E": "1, 2 e 3."
+    },
+    "answer": "D"
+  },
+  {
+    "questionId": "Ifsul_Q0188",
+    "questionText": "Uma aplicação dos percloratos envolve o uso em foguetes de propulsão. O combustível sólido é preparado segundo a equação fornecida. O tipo de ligação que une os átomos nos compostos Al, Al2O3 e H2O é, respectivamente:",
+    "question": "Quais os tipos de ligação nos compostos Al, Al2O3 e H2O?",
+    "images": [
+      "2748267d-58c8-44eb-aa74-fb4f7f657511-arquivo-editor"
+    ],
+    "alternatives": {
+      "A": "metálica, covalente e iônica.",
+      "B": "iônica, covalente e iônica.",
+      "C": "metálica, iônica e covalente.",
+      "D": "covalente, iônica e covalente."
+    },
+    "answer": "C"
+  },
+    {
+    "questionId": "Unesp_Q0180",
+    "questionText": "Três substâncias puras, X, Y e Z, tiveram suas condutividades elétricas testadas no estado sólido e no estado líquido. Com base nos dados apresentados na tabela, é correto classificar como substância(s) iônica(s):",
+    "question": "Quais substâncias são iônicas segundo os dados de condutividade?",
+    "images": [
+      "e26dcd81-0906-4f6a-ad91-2be1cb9d780f-arquivo-editor"
+    ],
+    "alternatives": {
+      "A": "Y e Z, apenas.",
+      "B": "X, Y e Z.",
+      "C": "X e Y, apenas.",
+      "D": "Y, apenas.",
+      "E": "X, apenas."
+    },
+    "answer": "D"
+  },
+  {
+    "questionId": "EnemPPL_Q1665",
+    "questionText": "A radiação infravermelha interage com vibrações químicas. Quanto mais fortes as ligações e mais leves os átomos, maior a frequência da radiação associada. Na molécula 2-amino-6-cianopiridina, qual ligação envolvendo átomos diferentes do hidrogênio absorve IR com maior frequência?",
+    "question": "Qual ligação absorve radiação no infravermelho com maior frequência?",
+    "images": [
+      "6517bd1a-fa67-45ea-9cf4-fce39c73969e-arquivo-editor"
+    ],
+    "alternatives": {
+      "A": "C – C",
+      "B": "C – N",
+      "C": "C = C",
+      "D": "C = N",
+      "E": "C ≡ N"
+    },
+    "answer": "E"
+  },
+  {
+    "questionId": "Upf_Q0186",
+    "questionText": "O quadro indica características de condutividade elétrica das substâncias A, B, C e D sob 25 °C e 1 atm. Considerando etanol, cloreto de sódio, zinco metálico e sacarose, qual correlação é correta?",
+    "question": "Qual correlação correta entre substâncias e suas características no quadro?",
+    "images": [
+      "abbab787-5294-4a6d-be1c-460d4906c1b2-arquivo-editor"
+    ],
+    "alternatives": {
+      "A": "A - etanol; B - cloreto de sódio; C - sacarose; D - zinco metálico",
+      "B": "A - cloreto de sódio; B - sacarose; C - zinco metálico; D - etanol",
+      "C": "A - zinco metálico; B - etanol; C - cloreto de sódio; D - sacarose",
+      "D": "A - sacarose; B - etanol; C - zinco metálico; D - cloreto de sódio",
+      "E": "A - cloreto de sódio; B - etanol; C - zinco metálico; D - sacarose"
+    },
+    "answer": "E"
+  },
+  {
+    "questionId": "Ifce_Q0179",
+    "questionText": "Um elemento A (Z = 20) reage com outro B (Z = 17). Qual tipo de composto e fórmula será formada?",
+    "question": "Que tipo de composto se forma entre Z=20 e Z=17 e qual sua fórmula?",
+    "images": [],
+    "alternatives": {
+      "A": "molecular de fórmula AB2.",
+      "B": "molecular de fórmula A2B.",
+      "C": "iônico de fórmula AB.",
+      "D": "iônico de fórmula AB2.",
+      "E": "iônico de fórmula A2B."
+    },
+    "answer": "D"
+  },
+    {
+    "questionId": "Ifmg_Q0183",
+    "questionText": "Ifmg | Q0183\nOs metais têm, geralmente, temperaturas de fusão e vaporização elevadas, o que indica que as forças de coesão entre os átomos são intensas. Essa grande força entre os átomos é explicada por um modelo no qual os elétrons de valência do metal movimentam-se livremente por uma rede formada por íons positivos, mantendo uma distribuição média uniforme.\n\nBarros, Haroldo L. C., Forças Intermoleculares Sólido Soluções, Belo Horizonte, 1993.\n\n \n\nA sequência de substâncias formadas por ligações metálicas é\n\n\n\nA)\n\nAu, Pt, N2 e Zn.   \n\n\nB)\n\nNa, Cu, Ag e P4.   \n\n\nC)X\n\nPd, K, Mg e Ca.   \n\n\nD)\n\nAg, Pt, Cgrafita e Ni.",
+    "question": "A sequência de substâncias formadas por ligações metálicas é",
+    "images": [],
+    "alternatives": {
+      "A": "Au, Pt, N2 e Zn.",
+      "B": "Na, Cu, Ag e P4.",
+      "C": "Pd, K, Mg e Ca.",
+      "D": "Ag, Pt, Cgrafita e Ni.",
+      "E": ""
+    },
+    "answer": "C"
+  },
+  {
+    "questionId": "Upf_Q0171",
+    "questionText": "Upf | Q0171\nSobre os átomos dos elementos químicos Ca (grupo 2) e F (grupo 17), são feitas as seguintes afirmações:\n\n \n\nI. São conhecidos como alcalinoterrosos e calcogênios, respectivamente.\n\nII. Formam uma substância química representada por CaF2, chamada fluoreto de cálcio.\n\nIII. A ligação química entre esses dois átomos é iônica.\n\nIV. Ca possui maior energia de ionização do que F.\n\n \n\nDados: Ca (Z = 20); F (Z = 9)\n\n \n\nEstá correto apenas o que se afirma em \n\n\n\nA)\n\nI, II e III.    \n\n\nB)\n\nI, III e IV.    \n\n\nC)X\n\nII e III.    \n\n\nD)\n\nII e IV.   \n\n\n\nE)\n\nIII.",
+    "question": "Está correto apenas o que se afirma em",
+    "images": [],
+    "alternatives": {
+      "A": "I, II e III.",
+      "B": "I, III e IV.",
+      "C": "II e III.",
+      "D": "II e IV.",
+      "E": "III."
+    },
+    "answer": "C"
+  },
+  {
+    "questionId": "Upe_Q0177",
+    "questionText": "Upe | Q0177\nUm pedreiro descascou uma coluna que apresentava desgaste e deixou parte das ferragens livres de concreto. Em seguida, aplicou uma solução aquosa de ácido fosfórico (a 90%) para remover a ferrugem (Fe2O3) existente. Após um borbulhamento no local, verificou-se a formação de uma camada preta recobrindo a superfície do metal.\n\nA substância presente na camada preta é\n\n\n\nA)X\n\niônica.   \n\n\nB)\n\nmetálica.   \n\n\nC)\n\ndiatômica.   \n\n\nD)\n\ncovalente polar.   \n\n\nE)\n\ncovalente apolar.",
+    "question": "A substância presente na camada preta é",
+    "images": [],
+    "alternatives": {
+      "A": "iônica.",
+      "B": "metálica.",
+      "C": "diatômica.",
+      "D": "covalente polar.",
+      "E": "covalente apolar."
+    },
+    "answer": "A"
+  },
+    {
+    "questionId": "Ufpa_Q0187",
+    "questionText": "Ufpa | Q0187\nNa fórmula eletrônica (ou de Lewis) da molécula de nitrogênio, o número de pares de elétrons compartilhados é\n\nDado: número atômico nitrogênio = 7.\n\n\n\nA)\n\n1.   \n\n\nB)\n\n2.   \n\n\nC)X\n\n3.   \n\n\nD)\n\n4.   \n\n\nE)\n\n5.",
+    "question": "Na fórmula eletrônica (ou de Lewis) da molécula de nitrogênio, o número de pares de elétrons compartilhados é",
+    "images": [],
+    "alternatives": {
+      "A": "1.",
+      "B": "2.",
+      "C": "3.",
+      "D": "4.",
+      "E": "5."
+    },
+    "answer": "C"
+  },
+  {
+    "questionId": "Unesp_Q1335",
+    "questionText": "Unesp | Q1335\nSubstâncias compostas podem ser de três tipos:\n\n \n\nTipo 1: substância composta que apresenta apenas ligações covalentes.\n\nTipo 2: substância composta que apresenta apenas ligações iônicas.\n\nTipo 3: substância composta que apresenta ligações iônicas e covalentes.\n\n \n\nSão exemplos de substâncias compostas dos tipos 1, 2 e 3, respectivamente, \n\n\n\nA)X\n\nHCCl3, CaCl2 e NH4Cl\n\n\nB)\n\nNH4Cl, CaCl2 e HCCl3\n\n\nC)\n\nCaCl2, NH4Cl e HCCl3\n\n\nD)\n\nHCCl3, NH4Cl e CaCl2\n\n\nE)\n\nNH4Cl, HCCl3 e CaCl2",
+    "question": "São exemplos de substâncias compostas dos tipos 1, 2 e 3, respectivamente,",
+    "images": [],
+    "alternatives": {
+      "A": "HCCl3, CaCl2 e NH4Cl",
+      "B": "NH4Cl, CaCl2 e HCCl3",
+      "C": "CaCl2, NH4Cl e HCCl3",
+      "D": "HCCl3, NH4Cl e CaCl2",
+      "E": "NH4Cl, HCCl3 e CaCl2"
+    },
+    "answer": "A"
+  },
+  {
+    "questionId": "ProfessorFerretto_Q1488",
+    "questionText": "Professor Ferretto | Q1488\nA regra do octeto é uma ferramenta útil para a determinação das estruturas de Lewis, ao prever a forma como os átomos se ligam entre si pela distribuição dos elétrons. O número e tipo de ligações (simples, dupla, tripla) devem ser tais que cada átomo fique rodeado por 8 elétrons, ligantes ou não ligantes. Desta forma, cada átomo adquire a configuração eletrônica do gás nobre mais próximo. \n \n\nPorém, a partir do terceiro período os átomos podem acomodar 10, 12 ou até mais elétrons. Os elétrons desta camada de valência expandida podem estar como pares isolados ou podem ser usados pelo átomo central para formar ligações.\n \n\nA fórmula que representa uma molécula octeto expandido é \n\n\n\nA)\n\nBF3.\n\n\nB)\n\nNH3.\n\n\nC)X\n\nPC𝓁5.\n\n\nD)\n\nBeH2.\n\n\nE)\n\nA𝓁I3.",
+    "question": "A fórmula que representa uma molécula octeto expandido é",
+    "images": [],
+    "alternatives": {
+      "A": "BF3.",
+      "B": "NH3.",
+      "C": "PC𝓁5.",
+      "D": "BeH2.",
+      "E": "A𝓁I3."
+    },
+    "answer": "C"
+  },
+  {
+    "questionId": "EnemPPL_Q1713",
+    "questionText": "Enem PPL | Q1713\nOs compostos iônicos CaCO3 e NaCl têm solubilidades muito diferentes em água. Enquanto o carbonato de cálcio, principal constituinte do mármore, é praticamente insolúvel em água, o sal de cozinha é muito solúvel. A solubilidade de qualquer sal é o resultado do balanço entre a energia de rede (energia necessária para separar completamente os íons do sólido cristalino) e a energia envolvida na hidratação dos íons dispersos em solução.\n \n\nEm relação à energia de rede, a menor solubilidade do primeiro composto é explicada pelo fato de ele apresentar maior\n\n\n\nA)X\n\natração entre seus íons.   \n\n\nB)\n\ndensidade do sólido iônico.   \n\n\nC)\n\nenergia de ionização do cálcio.   \n\n\nD)\n\neletronegatividade dos átomos.   \n\n\nE)\n\npolarizabilidade do íon carbonato.",
+    "question": "Em relação à energia de rede, a menor solubilidade do primeiro composto é explicada pelo fato de ele apresentar maior",
+    "images": [],
+    "alternatives": {
+      "A": "atração entre seus íons.",
+      "B": "densidade do sólido iônico.",
+      "C": "energia de ionização do cálcio.",
+      "D": "eletronegatividade dos átomos.",
+      "E": "polarizabilidade do íon carbonato."
+    },
+    "answer": "A"
+  },
+    {
+    "questionId": "Unesp_Q0190",
+    "questionText": "Unesp | Q0190\nTudo com o que sonham os torcedores dos países participantes da Copa do Mundo de Futebol deste ano é que essa cena, representada na figura I, se repita inúmeras vezes. Na rede do adversário, é claro.\n\nO carbono apresenta a propriedade de formar mais do que uma substância simples. Uma dessas substâncias apresenta estrutura em camadas, cada uma delas constituída de hexágonos (figura II), com geometria semelhante à da rede de futebol. Uma outra substância se apresenta como uma estrutura fechada (figura III), na qual os átomos de carbono estão arranjados com geometria semelhante aos gomos de uma bola de futebol.\n\nFigura I\nBola na rede: é gol!\n\nhttps://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/c0e3def6-25bb-49ad-891c-0902fd5dac6d-arquivo-editor\n\nFigura II\nFigura representando um plano de átomos (parte da estrutura) da substância com distribuição geométrica semelhante à da rede.\n\nhttps://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/a60ec221-a18a-49da-a444-c012b9a33997-arquivo-editor\n\nFigura III\nFigura representando a estrutura da substância com distribuição geométrica semelhante à da bola de futebol.\n\nhttps://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/77e4f384-02fb-45c1-8dc3-a78dd38291bb-arquivo-editor\n\nA propriedade à qual se refere o texto e as formas descritas para o carbono são denominadas, respectivamente, de:",
+    "question": "A propriedade à qual se refere o texto e as formas descritas para o carbono são denominadas, respectivamente, de:",
+    "images": [
+      "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/c0e3def6-25bb-49ad-891c-0902fd5dac6d-arquivo-editor",
+      "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/a60ec221-a18a-49da-a444-c012b9a33997-arquivo-editor",
+      "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/77e4f384-02fb-45c1-8dc3-a78dd38291bb-arquivo-editor"
+    ],
+    "alternatives": {
+      "A": "alotropia, grafite e diamante.",
+      "B": "alotropia, grafite e fulereno.",
+      "C": "isomeria, fulereno e diamante.",
+      "D": "isomeria, grafite e fulereno.",
+      "E": "isotropia, grafite e fulereno."
+    },
+    "answer": "B"
+  },
+  {
+    "questionId": "Ifpe_Q0172",
+    "questionText": "Ifpe | Q0172\nSobre o composto químico cloreto de sódio, ilustrado a seguir, assinale a única afirmativa CORRETA.\n\nDados: Números atômicos: Na = 11; Cl = 17.\n\nhttps://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/8cbd4d88-e7c6-482f-8d3b-3b38b9fd4327-arquivo-editor",
+    "question": "Sobre o composto químico cloreto de sódio, assinale a única afirmativa correta.",
+    "images": [
+      "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/8cbd4d88-e7c6-482f-8d3b-3b38b9fd4327-arquivo-editor"
+    ],
+    "alternatives": {
+      "A": "A união dos elementos para formar o sal de cozinha confere ao produto características próprias que são diferentes das propriedades originais dos seus reagentes.",
+      "B": "O cloreto de sódio sólido é constituído por cátions de sódio e ânions de cloreto, ambos bivalentes, formando retículos cristalinos iônicos.",
+      "C": "É um composto caracterizado por ser um bom condutor de eletricidade quando dissolvido em água ou em seu estado sólido normal.",
+      "D": "Apresenta baixos pontos de fusão e de ebulição decorrentes da fraca intensidade de suas ligações, que rompem em temperatura ligeiramente superior a do ambiente.",
+      "E": "Os íons são formados quando elétrons são transferidos de átomos de alta eletronegatividade para átomos de alta eletropositividade, nessa ordem."
+    },
+    "answer": "A"
+  },
+  {
+    "questionId": "Upe_Q0184",
+    "questionText": "Upe | Q0184\n2016, ano de Olimpíadas, todos os atletas vieram ao Rio de Janeiro, em busca da medalha de ouro. Mas o que poucas pessoas sabem é que a medalha olímpica não é feita inteiramente de ouro: ela possui apenas 1,34% do metal dourado em sua composição.\n\nAlém do alto valor de mercado, que outra propriedade do ouro determina essa decisão?",
+    "question": "Além do alto valor de mercado, que outra propriedade do ouro determina essa decisão?",
+    "images": [],
+    "alternatives": {
+      "A": "Baixa rigidez",
+      "B": "Alta densidade",
+      "C": "Baixa reatividade",
+      "D": "Alta eletronegatividade",
+      "E": "Alta condutividade térmica"
+    },
+    "answer": "A"
+  },
+    {
+    "questionId": "ProfessorFerretto_Q1484",
+    "questionText": "Apesar do N2 ser muito abundante na atmosfera, ele é relativamente escasso na crosta terrestre: nesta, seu teor é da ordem de 19 ppm (isto é, 19 g em cada tonelada), teor, igual ao do gálio, 33º em ordem de abundância, e semelhante ao do nióbio (20 ppm) e do lítio (18 ppm). Grandes quantidades de nitrogênio são consumidas nos diversos processos de fixação do nitrogênio atmosférico, como por exemplo o realizado por microrganismos, tornando o nitrogênio disponível às plantas.\n\nNa fórmula eletrônica (ou de Lewis) da molécula de nitrogênio, o número de pares de elétrons livres é:\n\nDado: número atômico nitrogênio = 7.",
+    "question": "Na fórmula eletrônica (ou de Lewis) da molécula de nitrogênio, o número de pares de elétrons livres é:",
+    "images": [],
+    "alternatives": {
+      "A": "1.",
+      "B": "2.",
+      "C": "3.",
+      "D": "4.",
+      "E": "5."
+    },
+    "answer": "B"
+  },
+  {
+    "questionId": "Enem_Q1432",
+    "questionText": "Alguns materiais sólidos são compostos por átomos que interagem entre si formando ligações que podem ser covalentes, iônicas ou metálicas. A figura apresenta a energia potencial de ligação em função da distância interatômica em um sólido cristalino. Analisando essa figura, observa-se que, na temperatura de zero kelvin, a distância de equilíbrio da ligação entre os átomos (R0) corresponde ao valor mínimo de energia potencial. Acima dessa temperatura, a energia térmica fornecida aos átomos aumenta sua energia cinética e faz com que eles oscilem em torno de urna posição de equilíbrio média (círculos cheios), que é diferente para cada temperatura. A distância de ligação pode variar sobre toda a extensão das linhas horizontais, identificadas com o valor da temperatura, de T1 a T4 (temperaturas crescentes).\n\nhttps://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/7f70d5c8-40c4-4b81-b9a0-d6e457495ba8-arquivo-editor",
+    "question": "O deslocamento observado na distância média revela o fenômeno da",
+    "images": [
+      "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/7f70d5c8-40c4-4b81-b9a0-d6e457495ba8-arquivo-editor"
+    ],
+    "alternatives": {
+      "A": "ionização.",
+      "B": "dilatação.",
+      "C": "dissociação.",
+      "D": "quebra de ligações covalentes.",
+      "E": "formação de ligações metálicas."
+    },
+    "answer": "B"
+  }
+    ]
+}
