@@ -13,7 +13,7 @@ const topicRouter = Router();
 
 topicRouter.get('/GetTopics', TopicController.GetTopics)
 
-topicRouter.get('/getTopic', TopicController.getTopic)
+topicRouter.post('/getTopic', TopicController.getTopic)
 
 topicRouter.post('/createTopic', TopicController.createTopic)
 

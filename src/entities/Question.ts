@@ -4,7 +4,7 @@ import { Topic } from "./Topic.js"
 import { Subtopic } from "./SubTopic.js"
 import { Image } from "./Images.ts"
 
-@Entity("questions")
+@Entity("Questions")
 export class Question {
     @PrimaryGeneratedColumn()
     Id: number

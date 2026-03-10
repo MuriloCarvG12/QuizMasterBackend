@@ -6,7 +6,9 @@ import { Topic } from "../entities/Topic.js";
 import {Subject} from "../entities/Subject.js";
 import { Subtopic } from "../entities/SubTopic.js";
 import { Question } from "../entities/Question.js";
+import questionController from "../controllers/questionController.ts";
 
+const QuestionController = new questionController();
 
 const QuestionRepository = AppDataSource.getRepository(Question)
 const TopicRepository = AppDataSource.getRepository(Topic)
@@ -15,20 +17,11 @@ const SubjectRepository = AppDataSource.getRepository(Subject)
 
 const questionRouter = Router();
 
-questionRouter.get('/getQuestions' ,async(req:Request, res:Response) => {
-    try 
-    {
 
-        const QuestionsFound = await QuestionRepository.find();
-        return res.status(200).json(QuestionsFound)
-        
-    } 
 
-    catch (error) 
-    {
-        return res.status(500).json("An error occured while acessing this route! " + error);   
-    }
-})
+questionRouter.get('/getQuestions' , QuestionController.getQuestions);
+
+questionRouter.post('/getQuestionBySubjectAndIds' ,QuestionController.getQuestionBySubjectAndIds);
 
 questionRouter.get('/getQuestion', async (req:Request, res: Response) => {
     try 

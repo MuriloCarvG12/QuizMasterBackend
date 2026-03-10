@@ -33,13 +33,13 @@ class subjectController {
         const Subject  = await this.SubjectRepository.findOneBy({SubjectName: String(BodySubjectName)});  
         if(Subject == null)
             {
-                res.status(404).json(ConstSubjects["NoName"]);   
+               return  res.status(404).json(ConstSubjects["NoName"]);   
             }
-            res.status(200).json(Subject)
+            return  res.status(200).json(Subject)
         } 
         catch (error) 
         {
-            res.status(500).json(ConstSubjects["GenericError"] + error);   
+            return  res.status(500).json(ConstSubjects["GenericError"] + error);   
         } 
     }
 

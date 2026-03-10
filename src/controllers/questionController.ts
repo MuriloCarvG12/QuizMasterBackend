@@ -9,7 +9,7 @@ import { Question } from "../entities/Question.js";
 
 
 
-class subTopicController {
+class questionController {
   private SubTopicRepository;
   private SubjectRepository;
   private TopicRepository;
@@ -34,6 +34,51 @@ class subTopicController {
       catch (error) 
       {
           return res.status(500).json("An error occured while acessing this route! " + error);   
+      }
+  }
+
+  getQuestionBySubjectAndIds = async (req:Request, res: Response) => {
+      try 
+      {
+          const SubjectId = req.body.SubjectId;
+          const TopicId = req.body.TopicId;
+          const SubTopicId = req.body.SubTopicId;
+
+          if(SubjectId == "" || !SubjectId) 
+              {
+                  return res.status(400).json("No SubjectId has been specified")
+              }
+
+         if(TopicId == "" || !TopicId) 
+              {
+                  return res.status(400).json("No TopicId has been specified")
+              }
+          
+         if(SubTopicId == "" || !SubTopicId)
+              {
+                  return res.status(400).json("No SubTopicId has been specified")
+              }
+  
+          
+          const QuestionsFound = await this.QuestionRepository.find({
+            where: {
+                SubjectId: SubjectId,
+                TopicId: TopicId,
+                SubTopicId: SubTopicId,
+            },
+            });
+  
+          if(!QuestionsFound)
+              {
+                  return res.status(404).json("Couldn't find the specified question!")
+              }
+  
+          return res.status(200).json(QuestionsFound)
+      } 
+  
+      catch (error) 
+      {
+          return res.status(500).json("An error occured while acessing this route! " + error);      
       }
   }
 
@@ -346,3 +391,5 @@ class subTopicController {
       }
   }
 }
+
+export default questionController;

@@ -9,7 +9,7 @@ const subjectRouter = Router();
 
 subjectRouter.get('/GetSubjects', SubjectController.GetSubjects)
 
-subjectRouter.get('/GetSubject', SubjectController.GetSubject)
+subjectRouter.post('/GetSubject', SubjectController.GetSubject)
 
 subjectRouter.post('/CreateSubject', SubjectController.CreateSubject)
 
