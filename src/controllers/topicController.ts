@@ -52,7 +52,29 @@ class topicController {
         res.status(500).json(ConstTopics["GenericError"] + error);    
     }
   
-}
+    }
+
+    getTopicById = async  (req:Request, res:Response) =>
+  {
+    const ReqBodyId = req.body.TopicId;
+    try 
+    {
+    
+        const TopicFound = await this.TopicRepository.findOneBy({Id: ReqBodyId});
+        if(! TopicFound)
+            {
+                res.status(400).json(ConstTopics["NoTopic"]);    
+            }
+
+        res.status(200).json(TopicFound); 
+    } 
+
+    catch (error) 
+    {
+        res.status(500).json(ConstTopics["GenericError"] + error);    
+    }
+  
+    }
 
     createTopic = async( req:Request, res: Response) => 
     {

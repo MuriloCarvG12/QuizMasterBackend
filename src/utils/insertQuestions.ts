@@ -123,9 +123,9 @@ async function processFile(fullPath: string, fileName: string, relativeDir: stri
         );
       }
 
-    } // ✅ closes: for (const question)
+    } 
 
-} // ✅ closes: processFile function
+} 
 
 process.on("unhandledRejection", (reason) => {
   console.error("UNHANDLED REJECTION:", reason);
@@ -158,4 +158,3 @@ async function main() {
 
 main();
 
-//npm run insert:questions

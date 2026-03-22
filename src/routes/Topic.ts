@@ -15,10 +15,13 @@ topicRouter.get('/GetTopics', TopicController.GetTopics)
 
 topicRouter.post('/getTopic', TopicController.getTopic)
 
+topicRouter.post('/getTopicById', TopicController.getTopicById)
+
 topicRouter.post('/createTopic', TopicController.createTopic)
 
 topicRouter.delete('/deleteTopic', TopicController.deleteTopic)
 
 topicRouter.put('/updateTopic', TopicController.updateTopic)
+
 
 export default topicRouter;

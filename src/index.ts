@@ -11,6 +11,7 @@ import subjectRouter from "./routes/Subject.js";
 import topicRouter from "./routes/Topic.js";
 import subtopicRouter from "./routes/SubTopic.js";
 import questionRouter from "./routes/question.js";
+import imageRouter from "./routes/Image.ts";
 
 const app = express();
 
@@ -22,6 +23,7 @@ app.use("/Subject", subjectRouter);
 app.use("/Topic", topicRouter);
 app.use("/SubTopic", subtopicRouter);
 app.use("/Question", questionRouter);
+app.use("/Image", imageRouter)
 
 app.get("/env", (req, res) => {
   res.json({
