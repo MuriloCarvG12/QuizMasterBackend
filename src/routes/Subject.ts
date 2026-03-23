@@ -1,6 +1,6 @@
 import { Router, Request , Response } from "express";
 
-import subjectController from "../controllers/subjectController";
+import subjectController from "../controllers/subjectController.js";
 
 const SubjectController = new subjectController()
 
@@ -9,7 +9,7 @@ const subjectRouter = Router();
 
 subjectRouter.get('/GetSubjects', SubjectController.GetSubjects)
 
-subjectRouter.get('/GetSubject', SubjectController.GetSubject)
+subjectRouter.post('/GetSubject', SubjectController.GetSubject)
 
 subjectRouter.post('/CreateSubject', SubjectController.CreateSubject)
 

@@ -1,0 +1,394 @@
+{
+    "examTitle": "HidroCarbonetos",
+    "questions": [
+          {
+    "questionId": "Uema_Q0911",
+    "questionText": "A OGX Energia descobriu uma reserva gigante de gás natural, mistura de hidrocarbonetos leves constituída principalmente por etano, propano, isobutano, butano, pentano e isopentano, dentre outros.\n\nA nomenclatura desses hidrocarbonetos leves é baseada, entre outros critérios, na quantidade de carbonos presentes no composto.\n\nO número correto de carbonos nos seis primeiros compostos citados no texto, são, respectivamente,",
+    "question": "Qual é o número correto de carbonos nos seis primeiros hidrocarbonetos citados?",
+    "images": [],
+    "alternatives": {
+      "A": "2, 5, 5, 3, 4, 4.",
+      "B": "2, 4, 4, 3, 5, 5.",
+      "C": "2, 4, 4, 5, 5, 3.",
+      "D": "2, 3, 5, 5, 4, 4.",
+      "E": "2, 3, 4, 4, 5, 5."
+    },
+    "answer": "E"
+  },
+  {
+    "questionId": "Fatec_Q0906",
+    "questionText": "O gás liquefeito de petróleo, GLP, é uma mistura de propano (C3H8) e butano (C4H10). Logo, esse gás é uma mistura de hidrocarbonetos da classe dos",
+    "question": "A que classe de hidrocarbonetos pertencem o propano e o butano?",
+    "images": [],
+    "alternatives": {
+      "A": "alcanos.",
+      "B": "alcenos.",
+      "C": "alcinos.",
+      "D": "cicloalcanos.",
+      "E": "cicloalcenos."
+    },
+    "answer": "A"
+  },
+  {
+    "questionId": "Uema_Q0899",
+    "questionText": "O GLP é composto, entre outros gases, por propano (C3H8), butano (C4H10) e pequenas quantidades de propeno (C3H6) e buteno (C4H8).\n\nCom base no tipo de ligação entre carbonos e na classificação da cadeia carbônica dos compostos acima, pode-se afirmar que",
+    "question": "Quais dos compostos citados são insaturados?",
+    "images": [],
+    "alternatives": {
+      "A": "os compostos insaturados são propano e butano.",
+      "B": "os compostos insaturados são propeno e buteno.",
+      "C": "os compostos insaturados são propeno e butano.",
+      "D": "os compostos apresentam cadeias homocíclicas.",
+      "E": "os compostos possuem cadeias heterocíclicas."
+    },
+    "answer": "B"
+  },
+  {
+    "questionId": "Enem_Q1556",
+    "questionText": "Os compostos aromáticos, inicialmente associados a odores agradáveis, passaram a ser classificados principalmente por suas estruturas eletrônicas. Alguns desses compostos são encontrados em óleos vegetais.\n\nA característica estrutural dessa família de compostos é a presença de",
+    "question": "Qual é a característica estrutural comum aos compostos aromáticos?",
+    "images": [
+      "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/6cdf5dc8-e304-4690-bd59-42063c4dcb83-arquivo-editor"
+    ],
+    "alternatives": {
+      "A": "ramificações.",
+      "B": "insaturações.",
+      "C": "anel benzênico.",
+      "D": "átomos de oxigênio.",
+      "E": "carbonos assimétricos."
+    },
+    "answer": "C"
+  },
+    {
+    "questionId": "Puccamp_Q0895",
+    "questionText": "Um dos materiais dos CDs e DVDs é o policarbonato, cuja fórmula está representada.\n\nEsse polímero possui",
+    "question": "Qual característica estrutural está presente no policarbonato?",
+    "images": [
+      "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/38e57f08-1aa0-47c6-ac72-ab3d9d5ef05d-arquivo-editor"
+    ],
+    "alternatives": {
+      "A": "radical fenil.",
+      "B": "cadeia simples.",
+      "C": "cadeia homogênea.",
+      "D": "anel aromático.",
+      "E": "grupo carbonila."
+    },
+    "answer": "D"
+  },
+  {
+    "questionId": "Ufpr_Q0892",
+    "questionText": "O isoctano é um alcano ramificado utilizado como referência para o grau de octanagem, ao qual foi atribuído o valor 100. Sua fórmula estrutural (forma de bastão) é mostrada.\n\nQual é o nome oficial IUPAC desse alcano?",
+    "question": "Qual é o nome oficial IUPAC do isoctano?",
+    "images": [
+      "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/abfb6c2a-3b6c-4cde-b738-00a0984d8d59-arquivo-editor"
+    ],
+    "alternatives": {
+      "A": "2,2,4-trimetilpentano.",
+      "B": "2-metil-4-terc-butil-pentano.",
+      "C": "1,1,1,3,3-pentametilpropano.",
+      "D": "1-metil-1,3-di-isopropilpropano.",
+      "E": "1,1,1-trimetil-4,4-dimetil-pentano."
+    },
+    "answer": "A"
+  },
+  {
+    "questionId": "Udesc_Q0903",
+    "questionText": "Analise as afirmativas em relação aos compostos (A) e (B).\n\n(__) O composto (B) é um hidrocarboneto cíclico, também conhecido como cicloparafina.\n(__) O composto (B) é um hidrocarboneto aromático.\n(__) O composto (A) apresenta aromaticidade.\n(__) O composto (A) não é um hidrocarboneto, é conhecido como cicloparafina.\n(__) O composto (B) é conhecido como anel aromático.\n\nAssinale a alternativa que contém a sequência correta, de cima para baixo.",
+    "question": "Qual é a sequência correta de verdadeiro (V) e falso (F) para as afirmativas?",
+    "images": [
+      "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/cfb17f7d-f499-453c-9444-ea752c8aec21-arquivo-editor"
+    ],
+    "alternatives": {
+      "A": "V - F - F - V - V",
+      "B": "F - V - V - F - V",
+      "C": "F - F - V - V - F",
+      "D": "V - V - F - F - V",
+      "E": "V - F - V - F - F"
+    },
+    "answer": "E"
+  },
+  {
+    "questionId": "Ufjf_Q0904",
+    "questionText": "O BHT é um importante antioxidante sintético utilizado na indústria alimentícia.\n\nSobre o BHT, é correto afirmar que ele apresenta:",
+    "question": "Qual característica estrutural correta está presente na molécula do BHT?",
+    "images": [
+      "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/e44449e1-57e2-45ec-a2d1-7a4889737650-arquivo-editor"
+    ],
+    "alternatives": {
+      "A": "2 carbonos quaternários.",
+      "B": "fórmula molecular C14H21O.",
+      "C": "2 substituintes n-butila.",
+      "D": "3 carbonos com hibridação sp2.",
+      "E": "5 carbonos terciários."
+    },
+    "answer": "A"
+  },
+    {
+    "questionId": "Espcex_Q0901",
+    "questionText": "O composto representado pela fórmula estrutural pertence à função orgânica dos ácidos carboxílicos e apresenta alguns substituintes orgânicos ligados à cadeia principal.\n\nO nome dos substituintes orgânicos ligados respectivamente aos carbonos de número 4, 5 e 8 da cadeia principal, são",
+    "question": "Quais são os nomes dos substituintes orgânicos ligados aos carbonos 4, 5 e 8 da cadeia principal?",
+    "images": [
+      "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/f99ab737-0348-43fe-8442-e64bf4e6a5fa-arquivo-editor"
+    ],
+    "alternatives": {
+      "A": "etil, toluil e n-propil.",
+      "B": "butil, benzil e isobutil.",
+      "C": "metil, benzil e propil.",
+      "D": "isopropil, fenil e etil.",
+      "E": "butil, etil e isopropil."
+    },
+    "answer": "D"
+  },
+  {
+    "questionId": "Pucrj_Q0897",
+    "questionText": "Segundo as regras da IUPAC, a nomenclatura do composto representado é",
+    "question": "Qual é a nomenclatura correta do composto segundo a IUPAC?",
+    "images": [
+      "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/ba07b9e0-eec5-4374-aca6-47ea668b6958-arquivo-editor"
+    ],
+    "alternatives": {
+      "A": "2-etil-hex-1-ano",
+      "B": "3-metil-heptano",
+      "C": "2-etil-hept-1-eno",
+      "D": "3-metil-hept-1-eno",
+      "E": "3-etil-hept-1-eno"
+    },
+    "answer": "E"
+  },
+  {
+    "questionId": "Ufpa_Q0910",
+    "questionText": "De sua fração volátil, o carvão mineral pode originar hidrocarbonetos aromáticos simples, cujas fórmulas estruturais estão representadas.\n\nA nomenclatura usual para as substâncias formadas pelos compostos representados pelas fórmulas (i), (ii) e (iii) são, respectivamente,",
+    "question": "Quais são os nomes usuais dos hidrocarbonetos aromáticos representados?",
+    "images": [
+      "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/0b4a8edb-6bc0-4abb-9a63-1e5946db8bbf-arquivo-editor"
+    ],
+    "alternatives": {
+      "A": "ciclohexano, fenol e naftaleno.",
+      "B": "ciclohexeno, metil-ciclohexeno e cresol.",
+      "C": "benzeno, fenol e cresol.",
+      "D": "benzina, tolueno e antraceno.",
+      "E": "benzeno, tolueno e xileno."
+    },
+    "answer": "E"
+  },
+  {
+    "questionId": "Fatec_Q0896",
+    "questionText": "No modelo apresentado, os átomos de carbono são representados por esferas pretas e os de hidrogênio por esferas brancas.\n\nO modelo em questão está, portanto, representando a molécula de",
+    "question": "Qual molécula está representada no modelo molecular apresentado?",
+    "images": [
+      "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/021314fb-00a1-46c1-8213-29a4b645c134-arquivo-editor"
+    ],
+    "alternatives": {
+      "A": "etino.",
+      "B": "eteno.",
+      "C": "etano.",
+      "D": "2-butino.",
+      "E": "n-butano."
+    },
+    "answer": "A"
+  },
+    {
+    "questionId": "Ufrgs_Q0900",
+    "questionText": "Octanagem ou índice de octano serve como uma medida da qualidade da gasolina. O índice faz relação de equivalência à resistência de detonação de uma mistura percentual de isoctano e n-heptano.\n\nO nome IUPAC do composto isoctano é 2,2,4-trimetilpentano e o número de carbono(s) secundário(s) que apresenta é",
+    "question": "Quantos carbonos secundários estão presentes na molécula do isoctano (2,2,4-trimetilpentano)?",
+    "images": [],
+    "alternatives": {
+      "A": "0",
+      "B": "1",
+      "C": "2",
+      "D": "3",
+      "E": "5"
+    },
+    "answer": "B"
+  },
+  {
+    "questionId": "Uece_Q0907",
+    "questionText": "A medicina ortomolecular surgiu para corrigir desequilíbrios químicos provocados pelos radicais livres.\n\nAtente aos radicais livres apresentados a seguir e assinale a opção que associa corretamente o radical livre ao seu nome.",
+    "question": "Qual alternativa associa corretamente o radical livre ao seu respectivo nome?",
+    "images": [
+      "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/590edf37-ca6b-4a9e-b3d5-02d58956c2ee-arquivo-editor"
+    ],
+    "alternatives": {
+      "A": "Radical I: terc-butil.",
+      "B": "Radical II: alil.",
+      "C": "Radical III: benzil.",
+      "D": "Radical IV: p-toluil."
+    },
+    "answer": "C"
+  },
+  {
+    "questionId": "Ifsc_Q0908",
+    "questionText": "Qual a fórmula molecular do 2-metil-1-buteno?",
+    "question": "Qual é a fórmula molecular do composto 2-metil-1-buteno?",
+    "images": [],
+    "alternatives": {
+      "A": "C5H12.",
+      "B": "C5H10.",
+      "C": "C4H8.",
+      "D": "C10H10.",
+      "E": "C10H5."
+    },
+    "answer": "B"
+  },
+  {
+    "questionId": "Pucrj_Q0909",
+    "questionText": "Considere as afirmativas a seguir sobre o 2-metilpentano.\n\nI. Possui cadeia carbônica normal.\nII. Possui fórmula molecular C6H14.\nIII. É um hidrocarboneto insaturado.\nIV. Possui três átomos de carbono primários.\n\nÉ correto o que se afirma somente em:",
+    "question": "Quais afirmativas sobre o 2-metilpentano estão corretas?",
+    "images": [],
+    "alternatives": {
+      "A": "I e II",
+      "B": "I e III",
+      "C": "I e IV",
+      "D": "II e III",
+      "E": "II e IV"
+    },
+    "answer": "E"
+  },
+    {
+    "questionId": "Uece_Q0893",
+    "questionText": "Um carro estacionado na sombra durante um dia, com as janelas fechadas, pode conter de 400 a 800 mg de benzeno. Se está ao sol, o nível de benzeno subirá de 2000 a 4000 mg. A pessoa que entra no carro e mantém as janelas fechadas, inevitavelmente aspirará, em rápida sucessão, excessivas quantidades dessa toxina.\n\nCom relação ao benzeno, assinale a afirmação correta.",
+    "question": "Qual afirmação correta descreve o benzeno?",
+    "images": [],
+    "alternatives": {
+      "A": "É um hidrocarboneto classificado como hidrocarboneto aromático, cuja massa molar é menor do que 75 g/mol.",
+      "B": "Em sua fórmula estrutural existem carbonos do tipo sp3.",
+      "C": "O radical gerado com a perda de um hidrogênio desse composto é chamado de fenil.",
+      "D": "Apresenta, em sua cadeia carbônica, as seguintes particularidades: cíclica, normal, insaturada e heterogênea."
+    },
+    "answer": "C"
+  },
+  {
+    "questionId": "Uel_Q0914",
+    "questionText": "Uma alternativa para os catalisadores de células a combustíveis são os polímeros condutores, que pertencem a uma classe de novos materiais com propriedades elétricas, magnéticas e ópticas.\n\nAssinale a alternativa na qual ambas as substâncias químicas apresentam ligações duplas conjugadas.",
+    "question": "Quais substâncias apresentam ligações duplas conjugadas?",
+    "images": [],
+    "alternatives": {
+      "A": "Propanodieno e metil-1,3-butadieno.",
+      "B": "Propanodieno e ciclo penteno.",
+      "C": "Ciclo penteno e metil-1,3-butadieno.",
+      "D": "Benzeno e ciclo penteno.",
+      "E": "Benzeno e metil-1,3-butadieno."
+    },
+    "answer": "E"
+  },
+  {
+    "questionId": "Ufrgs_Q0905",
+    "questionText": "Observe a estrutura do p–cimeno.\n\nAbaixo são indicadas três possibilidades de nomenclatura usual para representar o p–cimeno.\n\nI. p–isopropiltolueno.\nII. 1–isopropil–4–metil–benzeno.\nIII. terc–butil–benzeno.\n\nQuais estão corretas?",
+    "question": "Quais nomenclaturas estão corretas para o p-cimeno?",
+    "images": [
+      "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/ba4936b6-e554-4b96-bec5-5b2bbf53b7a6-arquivo-editor"
+    ],
+    "alternatives": {
+      "A": "Apenas I.",
+      "B": "Apenas II.",
+      "C": "Apenas III.",
+      "D": "Apenas I e II.",
+      "E": "I, II e III."
+    },
+    "answer": "D"
+  },
+  {
+    "questionId": "Uerj_Q0898",
+    "questionText": "A sigla BTEX faz referência a uma mistura de hidrocarbonetos monoaromáticos, poluentes atmosféricos de elevada toxidade.\n\nAo fim de um experimento para separar, por destilação fracionada, essa mistura, foram obtidas três frações.",
+    "question": "Quais compostos permanecem juntos na terceira fração após a destilação fracionada da mistura BTEX?",
+    "images": [
+      "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/83f1c16c-82aa-4683-83e1-a919a3c3638b-arquivo-editor"
+    ],
+    "alternatives": {
+      "A": "xileno e benzeno",
+      "B": "benzeno e tolueno",
+      "C": "etilbenzeno e xileno",
+      "D": "tolueno e etilbenzeno"
+    },
+    "answer": "C"
+  },
+    {
+    "questionId": "Ifmg_Q0890",
+    "questionText": "Sobre o hidrocarboneto 1-etil-2-metil-cicloexa-1,4-dieno afirma-se que:\n\n- apresenta duas ligações π;\n- contém quatro carbonos sp2;\n- ostenta cadeia cíclica normal;\n- possui fórmula molecular C9H14;\n- exibe dois carbonos quaternários.\n\nO número de afirmações corretas é",
+    "question": "Quantas afirmações corretas descrevem o hidrocarboneto 1-etil-2-metil-cicloexa-1,4-dieno?",
+    "images": [],
+    "alternatives": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4",
+      "E": "5"
+    },
+    "answer": "C"
+  },
+  {
+    "questionId": "Uece_Q0894",
+    "questionText": "Os neurônios produzem neurotransmissores, entre eles a dopamina, que atua no controle do movimento, da memória e da sensação de prazer.\n\nDe acordo com a estrutura da dopamina, assinale a afirmação verdadeira.",
+    "question": "Qual afirmação correta descreve a estrutura da dopamina?",
+    "images": [
+      "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/71d68f5f-096c-4bf6-b4a4-914a7b54c999-arquivo-editor"
+    ],
+    "alternatives": {
+      "A": "Mesmo com a presença de oxidrila em sua estrutura, a dopamina não é um álcool.",
+      "B": "É um composto cíclico alicíclico.",
+      "C": "A dopamina apresenta em sua estrutura o grupamento das aminas secundárias.",
+      "D": "Esse composto pertence à função aminoálcool."
+    },
+    "answer": "A"
+  },
+  {
+    "questionId": "Pucsp_Q0891",
+    "questionText": "Mentol ocorre em várias espécies de hortelã e é utilizado em balas, doces e produtos higiênicos.\n\nObserve a estrutura do mentol e assinale a alternativa correta.",
+    "question": "Qual alternativa correta descreve a estrutura do mentol?",
+    "images": [
+      "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/a6a5e20a-84ed-4369-b7ea-c81fd3d8c486-arquivo-editor"
+    ],
+    "alternatives": {
+      "A": "A fórmula molecular do mentol é C10H19O.",
+      "B": "O mentol possui 3 carbonos secundários.",
+      "C": "Possui um radical isopropil.",
+      "D": "Possui a função orgânica fenol."
+    },
+    "answer": "C"
+  },
+  {
+    "questionId": "Ifsc_Q0912",
+    "questionText": "Indique a afirmação INCORRETA referente à substância química acetileno:",
+    "question": "Qual afirmação está incorreta sobre o acetileno?",
+    "images": [],
+    "alternatives": {
+      "A": "Entre os átomos de carbono do acetileno há uma tripla ligação.",
+      "B": "O acetileno é um gás utilizado nos maçaricos de solda.",
+      "C": "O nome oficial do acetileno é etino.",
+      "D": "Na combustão total do acetileno, formam-se CO2 e H2O.",
+      "E": "A fórmula molecular do acetileno é C2H4."
+    },
+    "answer": "E"
+  },
+    {
+    "questionId": "Enem_Q1729",
+    "questionText": "A gasolina é uma mistura de hidrocarbonetos de cadeias saturadas contendo de 8 a 12 átomos de carbono. Além disso, a gasolina de alto desempenho deve conter elevados teores de hidrocarbonetos de cadeias ramificadas, de forma a resistir à compressão e entrar em ignição apenas quando a vela aciona uma centelha elétrica no motor. No quadro, estão apresentados compostos que podem ser utilizados como combustíveis.",
+    "question": "Entre esses compostos, aquele que conferirá maior desempenho como combustível é o",
+    "images": [
+      "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/fed6de76-8a2d-4119-ac91-51b6c25acb9d-arquivo-editor"
+    ],
+    "alternatives": {
+      "A": "I.",
+      "B": "II.",
+      "C": "III.",
+      "D": "IV.",
+      "E": "V."
+    },
+    "answer": "C"
+  },
+  {
+    "questionId": "Enem_Q1734",
+    "questionText": "Um garoto comprou vários abacates na feira, mas descobriu que eles não estavam maduros o suficiente para serem consumidos. Sua mãe recomendou que ele colocasse os abacates em um recipiente fechado, pois isso aceleraria seu amadurecimento. Com certa dúvida, o garoto realizou esta experiência: colocou alguns abacates no recipiente e deixou os demais em uma fruteira aberta.\n\nSurpreendendo-se ele percebeu que os frutos que estavam no recipiente fechado amadureceram mais rapidamente.",
+    "question": "A aceleração desse processo é causada por acúmulo de",
+    "images": [],
+    "alternatives": {
+      "A": "gás etileno.",
+      "B": "redução da umidade do ar.",
+      "C": "aumento da concentração de CO2.",
+      "D": "diminuição da intensidade luminosa.",
+      "E": "isolamento do contato com O2 atmosférico."
+    },
+    "answer": "A"
+  }
+
+    ]}

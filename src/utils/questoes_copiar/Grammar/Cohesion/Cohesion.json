@@ -1,0 +1,579 @@
+{
+    "examTitle": "Coesao",
+    "questions": [
+        {
+            "questionId": "Unicamp_GR0398",
+            "questionText": "Leia o texto: 'Boas coisas acontecem para quem espera. As melhores coisas acontecem para quem se levanta e faz.' (Domínio público.)\n\nConsiderando o texto acima e a maneira como ele é estruturado, podemos afirmar que:",
+            "question": "Considerando o texto acima e a maneira como ele é estruturado, podemos afirmar que:",
+            "images": [],
+            "alternatives": {
+              "A": "O uso encadeado de 'Boas coisas' e 'As melhores coisas' possibilita a valorização do primeiro enunciado e a desvalorização do segundo.",
+              "B": "A repetição do termo 'coisas' garante que 'boas coisas' e 'as melhores coisas' remetem ao mesmo referente.",
+              "C": "Entre as expressões 'para quem espera' e 'para quem se levanta e faz' estabelece-se uma relação de temporalidade.",
+              "D": "A sequenciação desse texto ocorre por meio da recorrência de expressões e de estruturas sintáticas.",
+              "E": ""
+            },
+            "answer": "D"
+          },
+          {
+            "questionId": "Unicamp_GR0400",
+            "questionText": "É possível fazer educação de qualidade sem escola\n\nÉ possível fazer educação embaixo de um pé de manga? Não só é, como já acontece em 20 cidades brasileiras e em Angola, Guiné-Bissau e Moçambique.\n\nDecepcionado com o processo de 'ensinagem', o antropólogo Tião Rocha pediu demissão do cargo de professor da UFOP (Universidade Federal de Ouro Preto) e criou em 1984 o CPCD (Centro Popular de Cultura e Desenvolvimento).\n\nCurvelo, no Sertão mineiro, foi o laboratório da 'escola' que abandonou mesa, cadeira, lousa e giz, fez das ruas a sala de aula e envolveu crianças e familiares na pedagogia da roda. 'A roda é um lugar da ação e da reflexão, do ouvir e do aprender com o outro. Todos são educadores, porque estão preocupados com a aprendizagem. É uma construção coletiva', explica.\n\nO educador diz que a roda constrói consensos. 'Porque todo processo eletivo é um processo de exclusão, e tudo que exclui não é educativo. Uma escola que seleciona não educa, porque excluiu alguns. A melhor pedagogia é aquela que leva todos os meninos a aprenderem. E todos podem aprender, só que cada um no seu ritmo, não podemos uniformizar.'\n\nNesses 30 anos, o educador foi engrossando 'seu dicionário de terminologias educacionais, todas calcadas no saber popular: surgiu a pedagogia do abraço, a pedagogia do brinquedo, a pedagogia do sabão e até oficinas de cafuné. Esta última foi provocada depois que um garoto perguntou: 'Tião, como faço para conquistar uma moleca?' Foi a deixa para ele colocar questões de sexualidade na roda.\n\n(...)\n\nSem pressa, seguindo a Carta da Terra e citando Ariano Suassuna para dizer que 'terceira idade é para fruta: verde, madura e podre', Tião diz se sentir 'privilegiado' de viver o que já viveu e acreditar na utopia de não haver mais nenhuma criança analfabeta no Brasil. 'Isso não é uma política de governo, nem de terceiro setor, é uma questão ética', pontua.\n\n(Qsocial, 09/12/2014.\nDisponível em:\nhttp://www.cpcd.org.br/portfolio/e_possivel_fazer_educacao_de_qualidade_100_escola/.)\n\nEm relação ao trecho 'E ainda colocou em uso termos como 'empodimento', após várias vezes ser questionado pelas comunidades: 'Pode [fazer tal coisa], Tião?' Seguida da resposta certeira: 'Pode, pode tudo'', é correto afirmar:",
+            "question": "Em relação ao trecho 'E ainda colocou em uso termos como 'empodimento', após várias vezes ser questionado pelas comunidades: 'Pode [fazer tal coisa], Tião?' Seguida da resposta certeira: 'Pode, pode tudo'', é correto afirmar:",
+            "images": [],
+            "alternatives": {
+              "A": "A expressão 'Seguida da resposta certeira' indica a elipse de uma outra expressão.",
+              "B": "A criação da palavra 'empodimento' é resultado de um processo: sufixação.",
+              "C": "A repetição do verbo no enunciado 'Pode, pode tudo' exemplifica o estilo reiterativo do texto.",
+              "D": "O discurso direto presente no trecho tem a função de dar voz às comunidades.",
+              "E": ""
+            },
+            "answer": "A"
+          },
+          {
+            "questionId": "Enem_GR0583",
+            "questionText": "Era uma vez\n\nUm rei leão que não era rei.\n\nUm pato que não fazia quá-quá.\n\nUm cão que não latia.\n\nUm peixe que não nadava.\n\nUm pássaro que não voava.\n\nUm tigre que não comia.\n\nUm gato que não miava.\n\nUm homem que não pensava...\n\nE, enfim, era uma natureza sem nada.\n\nAcabada. Depredada.\n\nPelo homem que não pensava.\n\nLaura Araújo Cunha (CUNHA, L. A. In: KOCH, I. V.; ELIAS, V. M. Ler e escrever: estratégias de produção textual. São Paulo: Contexto, 2011.)\n\nSão as relações entre os elementos e as partes do texto que promovem o desenvolvimento das ideias. No poema, a estratégia linguística que contribui para esse desenvolvimento, estabelecendo a continuidade do texto, é a",
+            "question": "São as relações entre os elementos e as partes do texto que promovem o desenvolvimento das ideias. No poema, a estratégia linguística que contribui para esse desenvolvimento, estabelecendo a continuidade do texto, é a",
+            "images": [],
+            "alternatives": {
+              "A": "escolha de palavras de diferentes campos semânticos.",
+              "B": "negação contundente das ações praticadas pelo homem.",
+              "C": "intertextualidade com o gênero textual fábula infantil.",
+              "D": "repetição de estrutura sintática com novas informações.",
+              "E": "utilização de ponto final entre termos de uma mesma oração."
+            },
+            "answer": "D"
+          },
+          {
+            "questionId": "Enem_GR0575",
+            "questionText": "O homem disse, Está a chover, e depois, Quem é você, Não sou daqui, Anda à procura de comida, Sim, há quatro dias que não comemos, E como sabe que são quatro dias, É um cálculo, Está sozinha, Estou com o meu marido e uns companheiros, Quantos são, Ao todo, sete, Se estão a pensar em ficar conosco, tirem daí o sentido, já somos muitos, Só estamos de passagem, Donde vêm, Estivemos internados desde que a cegueira começou, Ah, sim, a quarentena, não serviu de nada, Por que diz isso, Deixaram-nos sair, Houve um incêndio e nesse momento percebemos que os soldados que nos vigiavam tinham desaparecido, E saíram, Sim, Os vossos soldados devem ter sido dos últimos a cegar, toda a gente está cega, Toda a gente, a cidade toda, o país\n\nSARAMAGO, J. Ensaio sobre a cegueira. São Paulo: Cia. das Letras, 1995.\n\nA cena retrata as experiências das personagens em um país atingido por uma epidemia. No diálogo, a violação de determinadas regras de pontuação",
+            "question": "A cena retrata as experiências das personagens em um país atingido por uma epidemia. No diálogo, a violação de determinadas regras de pontuação",
+            "images": [],
+            "alternatives": {
+              "A": "revela uma incompatibilidade entre o sistema de pontuação convencional e a produção do gênero romance.",
+              "B": "provoca uma leitura equivocada das frases interrogativas e prejudica a verossimilhança.",
+              "C": "singulariza o estilo do autor e auxilia na representação do ambiente caótico.",
+              "D": "representa uma exceção às regras do sistema de pontuação canônica.",
+              "E": "colabora para a construção da identidade do narrador pouco escolarizado."
+            },
+            "answer": "C"
+          },
+          {
+            "questionId": "Enem_PPL_GR0579",
+            "questionText": "As alegres meninas que passam na rua, com suas pastas escolares, às vezes com seus namorados. As alegres meninas que estão sempre rindo, comentando o besouro que entrou na classe e pousou no vestido da professora; essas meninas; essas coisas sem importância.\n\nO uniforme as despersonaliza, mas o riso de cada uma as diferencia. Riem alto, riem musical, riem desafinado, riem sem motivo; riem.\n\nHoje de manhã estavam sérias, era como se nunca mais voltassem a rir e falar coisas sem importância. Faltava uma delas. O jornal dera notícia do crime. O corpo da menina encontrado naquelas condições, em lugar ermo. A selvageria de um tempo que não deixa mais rir.\n\nAs alegres meninas, agora sérias, tornaram-se adultas de uma hora para outra; essas mulheres.\n\nANDRADE, C. D. Essas meninas. Contos plausíveis. Rio de Janeiro: José Olympio, 1985.\n\nNo texto, há recorrência do emprego do artigo “as\" e do pronome “essas\". No último parágrafo, esse recurso linguístico contribui para",
+            "question": "No texto, há recorrência do emprego do artigo “as\" e do pronome “essas\". No último parágrafo, esse recurso linguístico contribui para",
+            "images": [],
+            "alternatives": {
+              "A": "intensificar a ideia do súbito amadurecimento.",
+              "B": "indicar a falta de identidade típica da adolescência.",
+              "C": "organizar a sequência temporal dos fatos narrados.",
+              "D": "complementar a descrição do acontecimento trágico.",
+              "E": "expressar a banalidade dos assuntos tratados na escola."
+            },
+            "answer": "A"
+          },
+          {
+            "questionId": "Enem_PPL_GR0580",
+            "questionText": "Fazer 70 anos\n\nFazer 70 anos não é simples.\n\nA vida exige, para o conseguirmos,\n\nperdas e perdas no íntimo do ser,\n\ncomo, em volta do ser, mil outras perdas.\n\n[…] \n\nÓ José Carlos, irmão-em-Escorpião!\n\nNós o conseguimos…\n\nE sorrimos\n\nde uma vitória comprada por que preço?\n\nQuem jamais o saberá?\n\nANDRADE, C. D. Amar se aprende amando. São Paulo: Círculo do Livro, 1992 (fragmento).\n\nO pronome oblíquo “o”, nos versos “A vida exige, para o conseguirmos” e “Nós o conseguimos”, garante a progressão temática e o encadeamento textual, recuperando o segmento",
+            "question": "O pronome oblíquo “o”, nos versos “A vida exige, para o conseguirmos” e “Nós o conseguimos”, garante a progressão temática e o encadeamento textual, recuperando o segmento",
+            "images": [],
+            "alternatives": {
+              "A": "“Ó José Carlos”.",
+              "B": "“perdas e perdas”.",
+              "C": "“A vida exige”.",
+              "D": "“Fazer 70 anos”.",
+              "E": "“irmão-em-Escorpião”."
+            },
+            "answer": "D"
+          },
+          {
+            "questionId": "Enem_GR0581",
+            "questionText": "Apesar de\n\nNão lembro quem disse que a gente gosta de uma pessoa não por causa de, mas apesar de. Gostar daquilo que é gostável é fácil: gentileza, bom humor, inteligência, simpatia, tudo isso a gente tem em estoque na hora em que conhece uma pessoa e resolve conquistá-la. Os defeitos ficam guardadinhos nos primeiros dias e só então, com a convivência, vão saindo do esconderijo e revelando-se no dia a dia. Você então descobre que ele não é apenas gentil e doce, mas também um tremendo casca-grossa quando trata os próprios funcionários. E ela não é apenas segura e determinada, mas uma chorona que passa 20 dias por mês com TPM. E que ele ronca, e que ela diz palavrão demais, e que ele é supersticioso por bobagens, e que ela enjoa na estrada, e que ele não gosta de criança, e que ela não gosta de cachorro, e agora? Agora, convoquem o amor para resolver essa encrenca.\n\n(MEDEIROS, M. Revista O Globo, n. 790, 12 jun. 2011 (Adaptado).)\n\nHá elementos de coesão textual que retomam informações no texto e outros que as antecipam. Nos trechos, o elemento de coesão sublinhado que antecipa uma informação do texto é",
+            "question": "Há elementos de coesão textual que retomam informações no texto e outros que as antecipam. Nos trechos, o elemento de coesão sublinhado que antecipa uma informação do texto é",
+            "images": [],
+            "alternatives": {
+              "A": "“Gostar daquilo que é gostável é fácil [...]”.",
+              "B": "“[...] tudo isso a gente tem em estoque [...]”.",
+              "C": "“[...] na hora em que conhece uma pessoa [...]”.",
+              "D": "“[...] resolve conquistá-la”.",
+              "E": "“[...] para resolver essa encrenca”."
+            },
+            "answer": "A"
+          }, 
+          {
+            "questionId": "Enem_GR0574",
+            "questionText": "Um asteroide de cerca de um mil metros de diâmetro, viajando a 288 mil quilômetros por hora, passou a uma distância insignificante — em termos cósmicos — da Terra, pouco mais do dobro da distância que nos separa da Lua. Segundo os cálculos matemáticos, o asteroide cruzou a órbita da Terra e somente não colidiu porque ela não estava naquele ponto de interseção.\n\nSe ele tivesse sido capturado pelo campo gravitacional do nosso planeta e colidido, o impacto equivaleria a 40 bilhões de toneladas de TNT, ou o equivalente à explosão de 40 mil bombas de hidrogênio, conforme calcularam os computadores operados pelos astrônomos do programa de Exploração do Sistema Solar da Nasa; se caísse no continente, abriria uma cratera de cinco quilômetros, no mínimo, e destruiria tudo o que houvesse num raio de milhares de outros; se desabasse no oceano, provocaria maremotos que devastariam imensas regiões costeiras. Enfim, uma visão do Apocalipse.\n\nDisponível em: http://bdjur.stj.jus.br. Acesso em: 23 abr. 2010.\n\nQual estratégia caracteriza o texto como uma notícia alarmante?",
+            "question": "Qual estratégia caracteriza o texto como uma notícia alarmante?",
+            "images": [],
+            "alternatives": {
+              "A": "A descrição da velocidade do asteroide.",
+              "B": "A recorrência de formulações hipotéticas.",
+              "C": "A referência à opinião dos astrônomos.",
+              "D": "A utilização da locução adverbial 'no mínimo'.",
+              "E": "A comparação com a distância da Lua à Terra."
+            },
+            "answer": "B"
+          },
+          {
+            "questionId": "Enem_GR0576",
+            "questionText": "O cartaz de Ziraldo faz parte de uma campanha contra o uso de drogas. Essa abordagem, que se diferencia das de outras campanhas, pode ser identificada:",
+            "question": "O cartaz de Ziraldo faz parte de uma campanha contra o uso de drogas. Essa abordagem, que se diferencia das de outras campanhas, pode ser identificada:",
+            "images": [
+              "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/78bfe313-aa85-4ee9-aa85-708dff0386c0-arquivo-editor"
+            ],
+            "alternatives": {
+              "A": "pela seleção do público-alvo da campanha, representado, no cartaz, pelo casal de jovens.",
+              "B": "pela escolha temática do cartaz, cujo texto configura uma ordem aos usuários e não usuários: diga não às drogas.",
+              "C": "pela ausência intencional do acento grave, que constrói a ideia de que não é a droga que faz a cabeça do jovem.",
+              "D": "pelo uso da ironia, na oposição imposta entre a seriedade do tema e a ambiência amena que envolve a cena.",
+              "E": "pela criação de um texto de sátira à postura dos jovens, que não possuem autonomia para seguir seus caminhos."
+            },
+            "answer": "C"
+          },
+          {
+            "questionId": "Enem_GR0582",
+            "questionText": "Algumas palavras atuam no desenvolvimento de um texto contribuindo para a sua progressão. A palavra “enfim” promove o encadeamento do texto, tendo sido utilizada com a intenção de:",
+            "question": "Algumas palavras atuam no desenvolvimento de um texto contribuindo para a sua progressão. A palavra “enfim” promove o encadeamento do texto, tendo sido utilizada com a intenção de:",
+            "images": [],
+            "alternatives": {
+              "A": "explicar que os nomes das pessoas são escolhidos no nascimento.",
+              "B": "ratificar que os nomes registrados no nascimento são imutáveis.",
+              "C": "reiterar que os nomes recebidos são importantes até a morte.",
+              "D": "concluir que os nomes acompanham os indivíduos até a morte.",
+              "E": "acrescentar que ninguém pode escolher o próprio nome."
+            },
+            "answer": "D"
+          },
+          {
+            "questionId": "Enem_GR0577",
+            "questionText": "João/Zero (Wagner Moura) é um cientista genial, mas infeliz porque há 20 anos atrás foi humilhado publicamente durante uma festa e perdeu Helena (Alinne Moraes), uma antiga e eterna paixão. Certo dia, uma experiência com um de seus inventos permite que ele faça uma viagem no tempo, retornando para aquela época e podendo interferir no seu destino. Mas quando ele retorna, descobre que sua vida mudou totalmente e agora precisa encontrar um jeito de mudar essa história, nem que para isso tenha que voltar novamente ao passado. Será que ele conseguirá acertar as coisas?",
+            "question": "Qual aspecto da organização gramatical atualiza os eventos apresentados na resenha, contribuindo para despertar o interesse do leitor pelo filme?",
+            "images": [],
+            "alternatives": {
+              "A": "O emprego do verbo haver, em vez de ter, em “há 20 anos atrás foi humilhado”.",
+              "B": "A descrição dos fatos com verbos no presente do indicativo, como 'retorna' e 'descobre'.",
+              "C": "A repetição do emprego da conjunção 'mas' para contrapor ideias.",
+              "D": "A finalização do texto com a frase de efeito 'Será que ele conseguirá acertar as coisas?'",
+              "E": "O uso do pronome de terceira pessoa 'ele' ao longo do texto para fazer referência ao protagonista 'João/Zero'."
+            },
+            "answer": "B"
+          },
+          {
+            "questionId": "Enem_PPL_GR0588",
+            "questionText": "E vejam agora com que destreza, com que arte faço eu a maior transição deste livro. Vejam: o meu delírio começou em presença de Virgília; Virgília foi o meu grão pecado de juventude; não há juventude sem meninice; meninice supõe nascimento; e eis aqui como chegamos nós, sem esforço, ao dia 20 de outubro de 1805, em que nasci. Viram?",
+            "question": "A repetição é um recurso linguístico utilizado para promover a progressão textual, pois indica entrelaçamento de ideias. No fragmento de romance, as repetições foram utilizadas com o objetivo de:",
+            "images": [],
+            "alternatives": {
+              "A": "marcar a transição entre dois momentos distintos da narrativa, o amor do narrador por Virgília e seu nascimento.",
+              "B": "tornar mais lento o fluxo de informações, para finalmente conduzir o leitor ao tema principal.",
+              "C": "reforçar, pelo acúmulo de afirmações, a ideia do quanto é grande o sentimento do narrador por Virgília.",
+              "D": "representar a monotonia, caracterizadora das etapas da vida do autor: a juventude e a velhice.",
+              "E": "assegurar a sequenciação cronológica dos fatos representados e a precisão das informações."
+            },
+            "answer": "A"
+          },
+          {
+            "questionId": "Enem_PPL_GR0591",
+            "questionText": "Reciclar é só parte da solução\n\nO lixo é um grande problema da sustentabilidade. Literalmente: todos os anos, cada brasileiro produz 385 kg de resíduos — dá 61 milhões de toneladas no total. O certo seria tentar diminuir ao máximo essa quantidade de lixo. Ou seja, em vez de ter objetos recicláveis, o ideal seria produzir sempre objetos reutilizáveis, o que diminui os resíduos. Mas, enquanto isso não acontece, temos que nos contentar com a reciclagem. E é aí que vem um detalhe perigoso: reciclar o lixo também polui o ambiente e gasta energia. Reciclar vidro, por exemplo, é 15% mais caro do que produzi-lo a partir de matérias-primas virgens. Afinal, é feito basicamente de areia, soda e calcário, que são abundantes na natureza. Então, nenhuma empresa tem interesse em reciclá-lo. Já o alumínio é um supernegócio, porque economiza muita energia.",
+            "question": "O emprego adequado dos elementos de coesão contribui para a construção de um texto argumentativo e para que os objetivos pretendidos pelo autor possam ser alcançados. A análise desses elementos no texto mostra que o conectivo:",
+            "images": [],
+            "alternatives": {
+              "A": "“ou seja” introduz um esclarecimento sobre a diminuição da quantidade de lixo.",
+              "B": "“mas” instaura justificativas para a criação de novos tipos de reciclagem.",
+              "C": "“também” antecede um argumento a favor da reciclagem.",
+              "D": "“afinal” retoma uma finalidade para o uso de matérias-primas.",
+              "E": "“então” reforça a ideia de escassez de matérias-primas na natureza."
+            },
+            "answer": "A"
+          },
+          {
+            "questionId": "Enem_GR0598",
+            "questionText": "Acho que educar é como catar piolho na cabeça de criança.\n\nÉ preciso ter confiança, perseverança e um certo despojamento.\n\nÉ preciso, também, conquistar a confiança de quem se quer educar, para fazê-lo deitar no colo e ouvir histórias.",
+            "question": "Concorrem para a estruturação e para a progressão das ideias no texto os seguintes recursos:",
+            "images": [],
+            "alternatives": {
+              "A": "Comparação e enumeração.",
+              "B": "Hiperonímia e antonímia.",
+              "C": "Argumentação e citação.",
+              "D": "Narração e retomada.",
+              "E": "Pontuação e hipérbole."
+            },
+            "answer": "A"
+          },
+          {
+            "questionId": "Enem_PPL_GR0605",
+            "questionText": "Como ocorrem os eclipses solares?\n\nQuando a Lua passa exatamente entre a Terra e o Sol, o astro que ilumina nosso planeta some por alguns minutos. O espetáculo só ocorre durante a lua nova e apenas nas ocasiões em que a sombra projetada pelo satélite atinge algum ponto da superfície do planeta. Aliás, é o tamanho dessa sombra que vai determinar se o desaparecimento do astro será total, parcial ou anular. Geralmente, ocorrem ao menos dois eclipses solares por ano. Um eclipse solar é uma excelente oportunidade para estudar melhor o Sol.",
+            "question": "Nesse texto, a palavra “aliás” cumpre a função de",
+            "images": [],
+            "alternatives": {
+              "A": "promover uma conclusão de ideias valendo-se das informações da frase anterior.",
+              "B": "indicar uma mudança de assunto e de foco no tema desenvolvido.",
+              "C": "conectar a informação da frase anterior com a da posterior.",
+              "D": "conferir um caráter mais coloquial à reportagem.",
+              "E": "salientar a negação expressa na frase posterior."
+            },
+            "answer": "C"
+          },
+          {
+            "questionId": "Ufrgs_GR0611",
+            "questionText": "Em 1826, o pintor francês Jean-Baptiste Debret, em uma das mais expressivas obras que pintou no Rio de Janeiro, O escravo do naturalista, registrou a participação dos escravos e auxiliares locais no trabalho de campo dos naturalistas estrangeiros que, a partir do início do século 19, percorreram várias partes do Brasil.\n\nA contribuição das culturas nativas para o conhecimento científico adquirido ou construído pelos naturalistas (9) quase sempre tem sido desconsiderada pelos historiadores da ciência (7). A atenção destes (6) é dirigida para as observações e teorias daqueles (8), seus instrumentos e métodos de trabalho e para as influências políticas, filosóficas e econômicas em suas obras, com frequência, eles (10) descrevem as populações locais como iletradas e ignorantes; porém, delas dependia, em boa medida, o êxito das expedições dos naturalistas.\n\nEm muitos trechos de seus relatos, cientistas como Alfred Wallace, Henry Bates e Louis Agassiz descrevem como os habitantes locais (12) contribuíram com conhecimentos para o seu (11) trabalho. Havia, é claro, o previsível apoio logístico e de infraestrutura, tais como o fornecimento de alimentos, meios de transporte e outros recursos materiais, bem como sua (13) presença como guias, carregadores, intérpretes e companhia pessoal. Muitas vezes, porém – e é esse ponto que nos interessa -, verifica-se também, por parte de indivíduos e comunicantes locais, a transmissão de conhecimentos obtidos com a longa experiência na floresta. Esses conteúdos viriam a ser sistematizados pelos naturalistas, deputados dentro da visão científica predominante e incorporados ao cabedal científico universal.",
+            "question": "Vários pronomes no texto retomam elementos anteriormente referidos. Abaixo, o pronome está associado ao elemento que ele substitui no texto em todas as alternativas, à exceção de",
+            "images": [],
+            "alternatives": {
+              "A": "destes (6) – historiadores da ciência (7).",
+              "B": "daqueles (8) – naturalistas (9).",
+              "C": "eles (10) – historiadores da ciência (7).",
+              "D": "seu (11) – habitantes locais (12).",
+              "E": "sua (13) – habitantes locais (12)."
+            },
+            "answer": "D"
+          },
+          {
+            "questionId": "Ufrgs_GR0612",
+            "questionText": "Entre as situações linguísticas que o português já viveu em seu contato com outras línguas, cabe considerar uma situação que se realiza em nossos dias: aquela em que ele é uma língua de emigrantes. Para o leitor brasileiro (5), soará talvez estranho que falemos aqui (7) do português como uma língua de EMIGRANTES, pois o Brasil foi antes de mais nada um país para o qual se dirigiam em massa, durante mais de dois séculos, pessoas nascidas em vários países europeus e asiáticos; assim, para a maioria dos brasileiros, a representação mais natural é a da convivência no Brasil com IMIGRANTES vindos de outros países. Sabemos, entretanto (15), que, nos últimos cem anos, muitos falantes do português foram buscar melhores condições de vida, partindo (18) não só de Portugal para o Brasil, mas também (19) desses dois países para a América do Norte e (20) para vários países da Europa: em certo momento, na década de 1970, viviam na região parisiense mais de um milhão de portugueses –uma população superior à que tinha então a cidade de Lisboa. Do Brasil, têm ...... nas últimas décadas muitos jovens e trabalhadores, dirigindo-se aos quatro cantos do mundo.\n\nA existência de comunidades de imigrantes é sempre uma situação delicada para os próprios imigrantes e para o país que os recebeu: normalmente (32), os imigrantes vão a países que têm interesse em usar (33) sua força de trabalho, mas qualquer oscilação na economia faz com que os nativos ........ sua presença como indesejável; as diferenças na cultura e na fala podem alimentar preconceitos e desencadear problemas reais de diferentes ordens.\n\nEm geral (40), proteger a cultura e a língua do imigrante não é (41) um objetivo prioritário dos países hospedeiros, mas no caso do português tem havido ........ . Em certo momento, o português foi uma das línguas estrangeiras mais estudadas na França; e, em algumas cidades do Canadá e dos Estados Unidos, um mínimo de vida associativa tem garantido a sobrevivência de jornais editados em português, mantidos pelas próprias comunidades de origem portuguesa e brasileira.",
+            "question": "Desconsiderando questões de emprego de letra maiúscula, assinale a alternativa em que se sugere um deslocamento de adjunto adverbial que preservaria tanto a correção quanto o sentido do segmento original.",
+            "images": [],
+            "alternatives": {
+              "A": "Colocação de Para o leitor brasileiro (5) entre vírgulas, imediatamente após aqui (7).",
+              "B": "Deslocamento de entretanto (15) para imediatamente após partindo (18).",
+              "C": "Passagem de também (19) para imediatamente após e (20).",
+              "D": "Deslocamento de normalmente (32) para imediatamente após usar (33).",
+              "E": "Colocação de Em geral (40) entre vírgulas, imediatamente após é (41)."
+            },
+            "answer": "E"
+          },
+          {
+            "questionId": "Ufrgs_GR0613",
+            "questionText": "Darwin passou quatro meses no Brasil, em 1832, durante a sua célebre viagem a bordo do Beagle. Voltou impressionado com o que viu: \"Delícia é um termo insuficiente para exprimir as emoções sentidas por um naturalista (28) a sós com a natureza em uma floresta brasileira\", escreveu. O Brasil, porém, aparece de forma menos idílica em seus (27) escritos: “Espero nunca mais voltar a um país escravagista. O estado da enorme população escrava deve preocupar todos os que chegam ao Brasil. Os senhores de escravos querem ver o negro como outra espécie, mas temos todos a mesma origem.”\n\nEm vez do gorjeio do sabiá, o que Darwin guardou nos ouvidos foi um som terrível (3) que o (29) acompanhou por toda a vida: “Até hoje, se eu ouço um grito, lembro-me, com dolorosa e clara memória, de quando passei numa casa em Pernambuco e ouvi urros terríveis. Logo entendi que era algum pobre escravo que estava sendo torturado.”\n\nSegundo o biólogo Adrian Desmond, “a viagem do Beagle, para Darwin, foi menos importante pelos espécimes coletados do que pela experiência de testemunhar os horrores da escravidão no Brasil. De certa forma, ele escolheu focar na descendência comum do homem justamente para mostrar que todas as raças eram iguais (31) e, desse modo (30), enfim, objetar àqueles que insistiam em dizer que os negros pertenciam a uma espécie diferente e inferior à dos brancos\". Desmond (33) acaba de lançar um estudo que mostra a paixão abolicionista do cientista (35), revelada por seus (32) diários e cartas pessoais. “A extensão de seu (34) interesse no combate à ciência de cunho racista é surpreendente, e pudemos detectar um ímpeto moral por trás de seu trabalho sobre a evolução humana - uma crença na ‘irmandade racial’ que tinha origem em seu ódio ao escravismo e que o levou a pensar numa descendência comum.”",
+            "question": "Assinale a alternativa em que se estabelece uma relação de referência correta entre o primeiro e o segundo segmentos extraídos do texto.",
+            "images": [],
+            "alternatives": {
+              "A": "seus (27) – um naturalista (28).",
+              "B": "o (29) – um som terrível (3).",
+              "C": "desse modo (30) –- todas as raças eram iguais (31).",
+              "D": "seus (32) – Desmond (33).",
+              "E": "seu (34) – do cientista (35)."
+            },
+            "answer": "E"
+          },
+          {
+            "questionId": "Ufrgs | GR0616",
+            "questionText": "A variação linguística é uma realidade que, embora razoavelmente (2) bem estudada pela sociolinguística, pela dialetologia e pela linguística histórica, provoca, em geral, (4) reações sociais muito negativas. O senso comum tem escassa percepção de que a língua é um fenômeno heterogêneo, que alberga grande variação e está em mudança contínua. Por isso, costuma folclorizar a variação regional; demoniza a variação social e tende a interpretar as mudanças como sinais de deterioração da língua. O senso comum não se dá bem com a variação linguística e chega (14), muitas vezes, (15) a explosões de ira e a gestos de grande violência simbólica diante de fatos de variação.\n\nBoa parte de uma educação de qualidade tem a ver precisamente com o ensino de língua – um ensino que garanta o domínio das práticas socioculturais de leitura, escrita e fala nos espaços públicos. E esse domínio inclui o das variedades linguísticas historicamente identificadas como as mais próprias a essas práticas – isto é, as variedades escritas e faladas que devem ser identificadas como constitutivas da chamada norma culta. Isso pressupõe, inclusive (27), uma ampla discussão sobre o próprio conceito de norma culta e suas efetivas características (29) no Brasil contemporâneo.\n\nParece claro hoje que o domínio dessas variedades caminha junto com o domínio das respectivas práticas socioculturais. Parece claro também, por outro lado, que não se trata apenas de desenvolver uma pedagogia que garanta o domínio das práticas socioculturais e das respectivas variedades linguísticas. Considerando o grau de rejeição social das variedades ditas populares, parece que o que nos desafia é a construção de toda uma cultura escolar aberta à crítica da discriminação pela língua e preparada para combatê-la, o que pressupõe uma adequada compreensão da heterogeneidade linguística do país, sua história social e suas características atuais. Essa compreensão deve alcançar, em primeiro lugar, os próprios educadores e, em seguida, os educandos.\n\nComo fazer isso? Como garantir a disseminação dessa cultura na escola e pela escola, considerando que a sociedade em que essa escola existe não reconhece sua cara linguística e não só só discrimina impunemente pela língua, como dá sustento explícito a esse tipo de discriminação? Em suma, como construir uma pedagogia da variação linguística?\n\n(Adaptado de: ZILLES, A. M; FARACO, C. A. Apresentação. In: ZILLES, A. M; FARACO, C. A, orgs., Pedagogia da variação linguística: língua, diversidade e ensino. São Paulo: Parábola, 2015.)",
+            "question": "Considere as seguintes propostas de alteração da ordem de elementos adverbiais do texto.\n\nI. Deslocamento de , em geral, (4) para imediatamente antes de razoavelmente (2).\nII. Deslocamento de , muitas vezes, (15) para imediatamente antes de chega (14).\nIII. Deslocamento de inclusive (27), precedido de vírgula, para imediatamente depois de características (29).",
+            "images": [],
+            "alternatives": {
+              "A": "Apenas I.",
+              "B": "Apenas II.",
+              "C": "Apenas I e III.",
+              "D": "Apenas II e III.",
+              "E": "I, II e III."
+            },
+            "answer": "B"
+          },
+          {
+            "questionId": "Uff | GR0621",
+            "questionText": "Nunca esteve tão bom para nós, mulheres (7). Nem tão difícil.\n\nOs salários não são iguais, as creches continuam insuficientes (9), o sexo é uma confusão total entre o agir e o sentir (16), o trabalho é complicadíssimo em termos psíquicos para a mulher (10): fonte de culpa e medos. Nunca foi tão difícil. Muito está colocado, mas tudo está por fazer (14). Esta é uma hora para se parar e pensar (12). Pensar pelo que brigamos até agora, o que conseguimos, onde fomos usadas pelo sistema, o que deu errado, o que fazer de agora em diante. Sinto que existe todo um trabalho a ser feito de conscientização feminina — pois o que se passa no Piauí não é o mesmo das grandes capitais (8) — já que as lutas não serão primordialmente mais no nível do “queremos”, “exigimos”, das passeatas, mas da prática do obter e do ser. É uma luta mais intimista de um lado, fora dos jornais (11), mais difusa na realidade (15).\n\nA luta de base, de formiguinha, onde o confrontamento não será mais com a polícia e o governo somente, mas basicamente com os companheiros de trabalho, amigos e marido (13).\n\nSUPLICY, Marta. Reflexões sobre o cotidiano. Rio Janeiro: Espaço e Tempo, 1986. p. 124-5.",
+            "question": "No trecho abaixo, o termo destacado tem função anafórica, já que retoma elemento anteriormente expresso.\n\n'A luta de base, de formiguinha, onde o confronto não será mais com a polícia e o governo somente, mas basicamente com os companheiros de trabalho, amigos e marido.' (13)\n\nAssinale a opção que apresenta o elemento anteriormente expresso:",
+            "images": [],
+            "alternatives": {
+              "A": "Confronto.",
+              "B": "Formiguinha.",
+              "C": "Luta.",
+              "D": "Polícia.",
+              "E": "Passeatas."
+            },
+            "answer": "C"
+          },
+          {
+            "questionId": "Uff | GR0622",
+            "questionText": "Acompanho com assombro o que andam dizendo sobre os primeiros 500 anos do brasileiro (6). Concordo com todas as opiniões emitidas e com as minhas em primeiríssimo lugar. Tenho para mim que há dois referenciais literários para nos definir. De um lado, o produto daquilo que Gilberto Freyre chamou de casa-grande e senzala (3), o homem miscigenado, potente e tendendo a ser feliz. De outro, o Macunaíma, herói sem nenhuma definição, ou sem nenhum caráter (4) – como queria o próprio Mário de Andrade.\n\nFomos e seremos assim, em nossa essência, embora as circunstâncias mudem e nós mudemos com elas (8). Retomando a imagem literária, citemos a Capitu menina – e teremos como sempre a intervenção soberana de Machado de Assis.\n\nUm rapaz da plateia me perguntou onde ficaria o homem de Guimarães Rosa – outra coordenada que nos ajuda a definir o brasileiro (5). Evidente que o universo de Rosa é sobretudo verbal, mas o homem é causa e efeito do verbo. Por isso mesmo, o personagem rosiano tem a ver com o homem de Gilberto Freyre e de Mário de Andrade. É um refugo consciente da casa-grande e da senzala, o opositor de uma e de outra, criando a sua própria vereda mas sem esquecer o ressentimento social do qual se afastou e contra o qual procura lutar (7).\n\nÉ também macunaímico, pois sem definição catalogada na escala de valores culturais oriundos de sua formação racial. Nem por acaso um dos personagens mais importantes do mundo de Rosa é uma mulher que se faz passar por jagunço. Ou seja, um herói – ou heroína – sem nenhum caráter.\n\nTomando Gilberto Freyre como a linha vertical e Mário de Andrade como a linha horizontal de um ângulo reto, teríamos Guimarães Rosa como a hipotenusa fechando o triângulo (1). A imagem geométrica pode ser forçada, mas foi a que me veio na hora – e acho que fui entendido (2).\n\nCONY, Carlos Heitor. Folha Ilustrada, 5º Caderno, São Paulo, 21/04/2000, p.12.",
+            "question": "“Fomos e seremos assim, em nossa essência, embora as circunstâncias mudem e nós mudemos com elas.” (8). Assinale a opção em que, ao reescrever-se o fragmento acima, substituiu-se o conectivo destacado por outro de valor condicional, fazendo-se alterações aceitáveis.",
+            "images": [],
+            "alternatives": {
+              "A": "Fomos e seremos assim em nossa essência, porque as circunstâncias mudaram e nós mudamos com elas.",
+              "B": "Fomos e seremos assim em nossa essência, enquanto as circunstâncias mudarem e nós mudarmos com elas.",
+              "C": "Éramos e somos assim em nossa essência, à medida que as circunstâncias mudaram e nós mudamos com elas.",
+              "D": "Teríamos sido e seríamos assim em nossa essência, se as circunstâncias mudassem e nós mudássemos com elas.",
+              "E": "Temos sido e somos assim em nossa essência, conforme as circunstâncias têm mudado e nós temos mudado com elas."
+            },
+            "answer": "D"
+          },
+          {
+            "questionId": "Uff | GR0623",
+            "questionText": "Acompanho com assombro o que andam dizendo sobre os primeiros 500 anos do brasileiro (6). Concordo com todas as opiniões emitidas e com as minhas em primeiríssimo lugar. Tenho para mim que há dois referenciais literários para nos definir. De um lado, o produto daquilo que Gilberto Freyre chamou de casa-grande e senzala (3), o homem miscigenado, potente e tendendo a ser feliz. De outro, o Macunaíma, herói sem nenhuma definição, ou sem nenhum caráter (4) – como queria o próprio Mário de Andrade.\n\nFomos e seremos assim, em nossa essência, embora as circunstâncias mudem e nós mudemos com elas (8). Retomando a imagem literária, citemos a Capitu menina – e teremos como sempre a intervenção soberana de Machado de Assis.\n\nUm rapaz da plateia me perguntou onde ficaria o homem de Guimarães Rosa – outra coordenada que nos ajuda a definir o brasileiro (5). Evidente que o universo de Rosa é sobretudo verbal, mas o homem é causa e efeito do verbo. Por isso mesmo, o personagem rosiano tem a ver com o homem de Gilberto Freyre e de Mário de Andrade. É um refugo consciente da casa-grande e da senzala, o opositor de uma e de outra, criando a sua própria vereda mas sem esquecer o ressentimento social do qual se afastou e contra o qual procura lutar (7).\n\nÉ também macunaímico, pois sem definição catalogada na escala de valores culturais oriundos de sua formação racial. Nem por acaso um dos personagens mais importantes do mundo de Rosa é uma mulher que se faz passar por jagunço. Ou seja, um herói – ou heroína – sem nenhum caráter.\n\nTomando Gilberto Freyre como a linha vertical e Mário de Andrade como a linha horizontal de um ângulo reto, teríamos Guimarães Rosa como a hipotenusa fechando o triângulo (1). A imagem geométrica pode ser forçada, mas foi a que me veio na hora – e acho que fui entendido (2).\n\nCONY, Carlos Heitor. Folha Ilustrada, 5º Caderno, São Paulo, 21/04/2000, p.12.",
+            "question": "Assinale a opção em que o pronome destacado estabelece uma referência a elemento anteriormente expresso no texto:",
+            "images": [],
+            "alternatives": {
+              "A": "“Mas foi a que me veio na hora – e acho que fui entendido.” (2)",
+              "B": "“De um lado, o produto daquilo que Gilberto Freyre chamou de casa-grande e senzala,” (3)",
+              "C": "“De outro, o Macunaíma, herói sem nenhuma definição, ou sem nenhum caráter” (4)",
+              "D": "“Um rapaz da plateia me perguntou onde ficaria o homem de Guimarães Rosa – outra coordenada que nos ajuda a definir o brasileiro”. (5)",
+              "E": "“Acompanho com assombro o que andam dizendo sobre os primeiros 500 anos do brasileiro.” (6)"
+            },
+            "answer": "A"
+          },
+          {
+            "questionId": "Ufscar | GR0625",
+            "questionText": "Na minha opinião, existe no Brasil, em permanente funcionamento, não fechando nem para o almoço, uma Central Geral de Maracutaia. Não é possível que não exista. E, com toda a certeza, é uma das organizações mais perfeitas já constituídas, uma contribuição inestimável do nosso país ao patrimônio da raça humana. Nada de novo é implantado sem que surja no mesmo instante, às vezes sem intervalo visível, imediatamente mesmo, um esquema bem montado para fraudar o que lá seja que tenha sido criado. [...] Exemplo mais recente ocorreu em São Paulo, mas podia ser em qualquer outra cidade do país, porque a CGM é onipresente, não deixa passar nada, nem discrimina ninguém. Segundo me contam aqui, a prefeitura de São Paulo agora fornece caixão e enterro gratuitos para os doadores de órgãos, certamente os mais pobres. Basta que a família do morto prove que ele doou pelo menos um órgão, para receber o benefício. Mas claro, é isso mesmo, você adivinhou, ser brasileiro é meramente uma questão de prática. Surgiram indivíduos ou organizações que, mediante uma módica contraprestação pecuniária, fornecem documentação falsa, “provando” que o defunto doou órgãos, para que o caixão e o enterro sejam pagos com dinheiro público.\n\n(João Ubaldo Ribeiro. O Estado de S.Paulo, 18.09.2005.)",
+            "question": "Assinale a alternativa em que a substituição das palavras destacadas mantém o mesmo sentido original do trecho: Exemplo mais recente ocorreu em São Paulo, mas podia ser em qualquer outra cidade do país, porque a CGM é onipresente.",
+            "images": [],
+            "alternatives": {
+              "A": "Exemplo mais recente ocorreu em São Paulo, no entanto podia ser em qualquer outra cidade do país, uma vez que a CGM é onipresente.",
+              "B": "Exemplo mais recente ocorreu em São Paulo, pois podia ser em qualquer outra cidade do país, já que a CGM é onipresente.",
+              "C": "Exemplo mais recente ocorreu em São Paulo, podia, pois, ser em qualquer outra cidade do país, visto que a CGM é onipresente.",
+              "D": "Exemplo mais recente ocorreu em São Paulo, podia, pois, ser em qualquer outra cidade do país, visto que a CGM é onipresente.",
+              "E": "Exemplo mais recente ocorreu em São Paulo, já que podia ser em qualquer outra cidade do país, à medida que a CGM é onipresente."
+            },
+            "answer": "A"
+          },
+          {
+            "questionId": "Ufpr | GR0628",
+            "questionText": "O conceito de herói está profundamente ligado à cultura que o criou e a quando foi criado, o que significa que ele4 varia muito de lugar para lugar e de época para época. Mesmo assim, a figura do herói aparece nas mais diversas sociedades e eras, sempre atendendo a critérios morais e desejos em comum de determinado povo.\n\nApesar do protagonismo do herói, o que seria dele se não houvesse um vilão? Nas narrativas, o vilão costuma ser o antagonista1. Os vilões representam aquilo que é errado, injusto, que foge à moral defendida pelo herói. Por não carregar o protagonismo das histórias, o vilão costuma ser um personagem sem profundidade, sem dilemas, sem uma história que nos explique o porquê de suas ações. E isso reforça sua vilania.\n\nConhecer a história de alguém é um processo humanizador, capaz até de revogar2 a alcunha3 de vilão e conferir ao personagem o título de herói, ou só de uma pessoa comum que tem seus5 defeitos e qualidades. Assim, uma maneira de fabricar vilões é não deixar suas6 histórias serem contadas, é criar uma imagem sobre esses personagens e mantê-los em silêncio.\n\nMIRANDA, Lucas Mascarenhas de. A fronteira tênue entre heróis e vilões. Ciência hoje, Rio de Janeiro, 21 nov. 2021. Disponível em: https://cienciahoje.org.br/artigo/a-fronteira-tenue-entre-herois-e-viloes/. Adaptado.",
+            "question": "Assinale a alternativa que contém os elementos a que apontam, respectivamente, os termos “ele” (ref. 4), “seus” (ref. 5) e “suas” (ref. 6), destacados no texto.",
+            "images": [],
+            "alternatives": {
+              "A": "conceito de herói, pessoa comum, qualidades.",
+              "B": "herói, personagem, maneira.",
+              "C": "conceito de herói, pessoa comum, vilões.",
+              "D": "herói, personagem, vilões.",
+              "E": "conceito de herói, personagem, maneira."
+            },
+            "answer": "C"
+          },
+          {
+            "questionId": "Ufpr | GR0629",
+            "questionText": "Estas reflexões foram causa das pelos eventos e debates dos últimos anos comparados com o background2 do século vinte, que se tornou realmente, como Lênin tinha previsto, um século de guerras e revoluções; um século daquela violência que5 se acredita comumente ser o denominador comum destas guerras e revoluções. Há, todavia, um outro fator na situação atual que, embora8 não previsto por ninguém, é pelo menos de igual importância. O desenvolvimento técnico dos implementos da violência chegou a tal ponto que nenhum objetivo político concebível poderia corresponder ao seu potencial destrutivo, ou justificar seu uso efetivo num conflito armado. Assim6, a arte da guerra1 – desde tempos imemoriais o impiedoso árbitro final em disputas internacionais – perdeu muito de sua eficácia e quase todo seu fascínio. O “apocalíptico”3 jogo de xadrez entre as superpotências, ou seja7, entre os que manobram no plano mais alto de nossa civilização, está sendo jogado segundo a regra “se qualquer um ‘ganhar’ é o fim de ambos”; é um embate sem qualquer semelhança com os outros embates militares precedentes. Seu objetivo “racional”4 é intimidação e não vitória, e a corrida armamentista, já não9 sendo uma preparação para a guerra, só pode ser justificada agora pela ideia de que quanto mais intimidação houver maior é a garantia de paz.\n\nExtraído e adaptado de: Arendt, H. Crises da República. SP: Perspectiva, 2017.",
+            "question": "Acerca dos relatores de coesão presentes no texto, assinale a alternativa correta.",
+            "images": [],
+            "alternatives": {
+              "A": "O termo grifado em “um século daquela violência que se acredita” (ref. 5) é conjunção integrante com valor aditivo.",
+              "B": "O vocábulo “assim” (ref. 6) tem valor adversativo, de oposição ao período precedente.",
+              "C": "A locução “ou seja” (ref. 7) tem o mesmo valor semântico de “quer seja”.",
+              "D": "O valor semântico de “embora” (ref. 8) corresponde a “por mais que”.",
+              "E": "A locução “já não” (ref. 9) tem valor concessivo equivalente a “ainda que”."
+            },
+            "answer": "D"
+          },
+          {
+            "questionId": "Uema | GR0635",
+            "questionText": "TEXTO I\n\nPor qualquer modo que encaremos a escravidão, ela é, e sempre será um grande mal. Dela a decadência do comércio; porque o comércio, e a lavoura caminham de mãos dadas, e o escravo não pode fazer florescer a lavoura; porque o seu trabalho é forçado. Ele não tem futuro; o seu trabalho não é indenizado; ainda dela nos vem o opróbrio, a vergonha; porque de fronte altiva e desassombrada não podemos encarar as nações livres; por isso que o estigma da escravidão, pelo cruzamento das raças, estampa-se na fronte de todos nós. Embalde procurará um dentro nós convencer ao estrangeiro que em suas veias não gira uma só gota de sangue escravo...\n\nE depois, o caráter que nos imprime, e nos envergonha!\n\nO escravo é olhado por todos como vítima – e o é.\n\nREIS, Maria Firmina dos. A escrava. https://www.letras.ufmg.br/literafro.\n\nTEXTO II\n\nE Lentz via por toda parte o homem branco apossando-se resolutamente da terra e expulsando definitivamente o homem moreno que ali se gerara. E Lentz sorria com orgulho na perspectiva da vitória e do domínio de sua raça. Um desdém pelo mulato, em que ele exprimia o seu desprezo pela languidez, pela fatuidade e fragilidade deste, turvou-lhe a visão radiosa que a natureza do país lhe imprimira no espírito. Tudo nele era agora um sonho de grandeza e triunfo.\n\nARANHA, Graça (1868-1931). Canaã. 3 ed. São Paulo: Martins Claret, 2013.",
+            "question": "Em relação à coesão textual dos textos I e II, é correto afirmar que, no texto",
+            "images": [],
+            "alternatives": {
+              "A": "II, o vocábulo “deste” retoma desdém.",
+              "B": "I, o catafórico “por isso” anuncia a expressão “pelo cruzamento das raças”.",
+              "C": "II, o pronome “lhe” é um termo catafórico de “país”.",
+              "D": "I, a contração “dela” retoma a palavra “escravidão”.",
+              "E": "I, o pronome em “Ele não tem futuro” é o anafórico de “futuro”."
+            },
+            "answer": "D"
+          },
+          {
+            "questionId": "Uece | GR0641",
+            "questionText": "O Bicho\n\n(Manuel Bandeira)\n\nVi ontem (06) um (04) bicho (01)\n\nNa imundície do pátio\n\nCatando comida entre os detritos.\n\nQuando achava (02) alguma coisa,\n\nNão examinava (03) nem cheirava:\n\nEngolia com voracidade.\n\nO (05) bicho não era um cão,\n\nNão era um gato,\n\nNão era um rato.\n\nO bicho, meu Deus, era um homem. (07)\n\nBANDEIRA, Manuel. Poesias completas. 4. ed. Rio de Janeiro: José Olympio, 1986.",
+            "question": "O poema acima apresenta elementos linguísticos de coesão que contribuem para articulação do sentido entre suas partes. Baseado nesta ideia, é correto dizer que",
+            "images": [],
+            "alternatives": {
+              "A": "se retoma o elemento bicho (01), através da referenciação catafórica por meio da elipse, que está indicada na forma verbal presente no enunciado “Quando achava (02) alguma coisa”.",
+              "B": "pelas desinências empregadas no verbo examinava (03), é possível fazer um movimento retrospectivo para recuperar o termo que está elíptico, no caso, o pronome eu.",
+              "C": "O uso dos artigos indefinido em um bicho (04) e definido em o bicho (05) serve para mostrar que, no primeiro caso, a visão do enunciador é a de um bicho, que ainda está por se definir; e, no segundo caso, a visão é a de que já se conhece qual é o bicho a que se está referindo.",
+              "D": "O advérbio ontem (06) faz referência a um tempo posterior ao do momento em que o enunciador do poema relata o fato."
+            },
+            "answer": "C"
+          },
+          {
+            "questionId": "Uece | GR0643",
+            "questionText": "[...] Uma noite de inverno, gelada e nevoenta, cercava a criaturinha (25). Silêncio completo, nenhum sinal de vida nos arredores. O galo velho não cantava no poleiro, nem Fabiano roncava na cama de varas. Estes sons (35) não interessavam Baleia (31), mas quando o galo batia as asas e Fabiano (33) se virava, emanações familiares revelavam-lhe a presença deles (30) (34). Agora parecia que a fazenda se tinha despovoado.\n\nBaleia respirava depressa, a boca aberta, os queixos desgovernados, a língua pendente e insensível. Não sabia o que tinha sucedido. O estrondo, a pancada que recebera no quarto e a viagem difícil no barreiro ao fim do pátio desvaneciam-se no seu espírito (32).\n\nProvavelmente estava na cozinha, entre as pedras que serviam de trempe. Antes de se deitar, sinhá Vitória retirava dali os carvões e a cinza, varria com um molho de vassourinha o chão queimado, e aquilo ficava um bom lugar para cachorro descansar. O calor afugentava as pulgas, a terra se amaciava. E, findos os cochilos, numerosos preás corriam e saltavam, um formigueiro de preás invadia a cozinha.\n\nA tremura subia, deixava a barriga e chegava ao peito de Baleia. Do outro peito para trás era tudo insensibilidade e esquecimento. Mas o resto do corpo se arrepiava, espinhos de mandacaru penetravam na carne meio comida pela doença.\n\nBaleia encostava a cabecinha (26) fatigada na pedra. A pedra estava fria, certamente sinhá Vitória (29) tinha deixado o fogo apagar-se muito cedo.\n\nBaleia queria dormir. Acordaria feliz, num mundo cheio de preás (27). E lamberia as mãos de Fabiano, um Fabiano enorme. As crianças se espojariam com ela (28), rolariam com ela num pátio enorme, num chiqueiro enorme. O mundo ficaria todo cheio de preás, gordos, enormes.\n\nRAMOS, Graciliano. Vidas secas, 82ª ed. Rio de Janeiro: Record, 2001. p. 85-91.",
+            "question": "Os pronomes servem para criar uma cadeia de referência a elementos que são retomados ao longo do texto. Aplicando esta ideia ao excerto do romance de Vidas Secas, é correto afirmar que",
+            "images": [],
+            "alternatives": {
+              "A": "em “As crianças se espojariam com ela” (28), o pronome ela se refere à sinhá Vitória (29), mãe das crianças.",
+              "B": "no trecho “[...] emanações familiares revelavam-lhe a presença deles” (30), o uso do pronome lhe faz referência à Baleia (31).",
+              "C": "no enunciado “O estrondo, a pancada que recebera no quarto e a viagem difícil no barreiro ao fim do pátio desvaneciam-se no seu espírito” (32), o pronome seu está se referindo a Fabiano (33).",
+              "D": "a forma pronominal deles (34) retoma a expressão estes sons (35)."
+            },
+            "answer": "B"
+          },
+          {
+            "questionId": "Uece | GR0645",
+            "questionText": "Poluição das águas continentais\n\nA poluição das águas continentais, principalmente nos grandes centros urbanos, é cada vez mais alarmante.\n\nAs perspectivas futuras para as águas continentais são bastante negativas. Muitos são os estudos que buscam contemplar informações sobre a quantidade e qualidade da água disponível. A ONU (Organização das Nações Unidas) elaborou uma série de estudos para obter um parecer concreto da real situação no quadro hídrico do planeta e ficou comprovado que, com o passar do tempo, o comprometimento das águas para o consumo humano, para a manutenção de animais e para a irrigação na agricultura ocorre de forma crescente.\n\nAtualmente, vários fatores e seguimentos distintos contribuem para o processo de escassez desse recurso indispensável a todo ser vivo, dentre os principais estão: a atividade industrial, que utiliza os rios para escoar os seus rejeitos; as mineradoras; a agricultura, que faz uso de diversos insumos agrícolas (fertilizantes, inseticidas, herbicidas e etc.), com intuito de aumentar a produção, a fim de atender o mercado externo, ou seja, exportação; entre outros.\n\nUma parte dos insumos agrícolas é levada pela enxurrada da chuva, que chega a rios e córregos(04), inserindo várias substâncias tóxicas. Essas mesmas substâncias são absorvidas pelo solo e atingem o lençol freático(01).\n\nDas substâncias comumente encontradas como agentes poluidores estão: restos de petróleo e derivados, chumbo, mercúrio e metais pesados, que são largamente usados em indústrias e na extração de minérios.\n\nOutro centro de difusão de poluição são os centros urbanos, que, diariamente, em todo o planeta e, principalmente nos países pobres(12), lançam esgotos domésticos sem nenhum tipo de tratamento(11). O esgoto atinge rios e córregos(05), além do lençol freático(02) (14), que estão nas proximidades das cidades(06) (13). Isso acontece em vários lugares, no entanto, a incidência é mais comum em pequenas cidades que não possuem centros de tratamento do esgoto doméstico.\n\nO desmatamento é um fator direto que agrava a questão da escassez da água, uma vez que ao retirar a cobertura vegetal para a ocupação urbana ou rural, o solo fica exposto à água da chuva e vento. Com isso, o solo vai sendo depositado nos mananciais, provocando o assoreamento dos rios, esse processo promove mudanças climáticas e compromete a vida aquática.\n\nOs garimpos, que têm suas atividades às margens de rios(10), provocam a dispersão de minerais pesados(09), como o mercúrio, poluindo as águas que são consumidas por comunidades.\n\nOs portos realizam limpeza de cinco em cinco anos, jogando uma imensa quantidade de dejetos; os aterros sanitários(07) são grandes agentes poluidores de águas, principalmente do lençol freático(03), pois milhões de toneladas de lixo acumulados liberam um líquido(16) (chorume) que é absorvido pelo solo e atinge as reservas subterrâneas de água(08) (15).\n\nAdaptado de FREITAS, Eduardo de. Poluição de Águas Continentais. Brasil Escola. Disponível em: <https://brasilescola.uol.com.br/geografia/poluicao-aguas- continentais.htm>. Acesso em: 20 de maio de 2019.",
+            "question": "O autor utiliza o termo “lençol freático” em alguns trechos do texto 1 (01) (02) (03). No entanto, ele o substitui em determinada parte. A expressão que substitui “lençol freático” é",
+            "images": [],
+            "alternatives": {
+              "A": "rios e córregos (04) e (05).",
+              "B": "proximidades das cidades (06).",
+              "C": "aterros sanitários (07).",
+              "D": "reservas subterrâneas de água (08).",
+              "E": "nenhuma das alternativas acima."
+            },
+            "answer": "D"
+          },
+          {
+            "questionId": "Ifal | GR0650",
+            "questionText": "E, num fiapo de tempo, bem menor do que aquele em que um estilhaço de estrela resvala no céu escuro e cego, a raposa conheceu a morte, algo atordoador e fulgente que só poderia ser a morte, caso esta existisse em toda a sua absurda plenitude e dura magnificência, e não fosse apenas uma ficção ou um ponto de referência dos vivos deixados repentinamente de amar e odiar, demitidos de súbito de sua grandeza e miséria. Era a morte que, incandescente e perversa, a alcançava, alterando a sua inconfundível beleza animal, tumultuando-lhe o sangue, destruindo a sua ardente harmonia de movimentos, tornando vítrea a sua visão da manhã cristalina e fantasmagórica.\n\nDesfigurada pelos golpes que os homens lhe haviam vibrado, ela ficou jazendo durante mais de uma hora sobre as pedras da rua. Era um montão de carnes e pelos informes e ensanguentados, e em torno dela se revezava um círculo de curiosos, cambiando os comentários mais variados. Quando o dia já clareava por completo, uma carroça de lixo parou perto do ajuntamento, e o cadáver da raposa foi jogado entre os monturos.\n\nIVO, Lêdo. Ninho de cobras: uma história mal contada. Maceió: Imprensa Oficial Graciliano Ramos, 2015. p. 21-22.",
+            "question": "Considerando as relações de coesão referencial estabelecidas pelos pronomes no excerto de Ninho de cobras, marque a opção que aponta uma leitura EQUIVOCADA dessas relações.",
+            "images": [],
+            "alternatives": {
+              "A": "“... algo atordoador e fulgente que só poderia ser a morte...” / que = “algo”.",
+              "B": "“... demitidos de súbito de sua grandeza e miséria...” / sua = “os vivos”.",
+              "C": "“Era a morte que, incandescente e perversa, a alcançava...” / a = “a raposa”.",
+              "D": "“... e em torno dela se revezava um círculo de curiosos...” / dela = “ela” (“a raposa”).",
+              "E": "“que os homens lhe haviam vibrado, ela ficou jazendo...” / lhe = “golpes”."
+            },
+            "answer": "E"
+          },
+          {
+            "questionId": "Uece | GR0656",
+            "questionText": "Como se mede uma pessoa? Os tamanhos variam conforme o grau de envolvimento. Ela é enorme pra você quando fala do que leu e viveu, quando trata você com carinho e respeito, quando olha nos olhos e sorri destravado. É pequena pra você quando só pensa em si mesmo, quando se comporta de uma maneira pouco gentil, quando fracassa justamente no momento em que teria que demonstrar o que há de mais importante entre duas pessoas: a amizade.\n\nUma pessoa é gigante pra você quando se interessa pela sua vida(18), quando busca alternativas para o seu crescimento, quando sonha junto. É pequena quando desvia do assunto.\n\nUma pessoa é grande quando perdoa, quando compreende, quando se coloca no lugar do outro, quando age não de acordo com o que esperam dela, mas de acordo com o que espera de si mesma(22). Uma pessoa é pequena quando se deixa reger por comportamentos clichês.\n\nUma mesma pessoa pode aparentar grandeza ou miudeza dentro de um relacionamento(19), pode crescer ou decrescer num espaço de poucas semanas: será ela que mudou ou será que o amor é traiçoeiro nas suas medições? Uma decepção pode diminuir o tamanho de um amor que parecia ser grande. Uma ausência pode aumentar o tamanho de um amor que parecia ser ínfimo. (20)\n\nÉ difícil conviver com esta elasticidade: as pessoas se agigantam e se encolhem aos nossos olhos. Nosso julgamento é feito não através de centímetros e metros, mas de ações e reações, de expectativas e frustrações. Uma pessoa é única ao estender a mão, e ao recolhê-la inesperadamente, se orna mais uma. O egoísmo unifica os insignificantes.\n\nNão é a altura, nem o peso, nem os músculos que tornam uma pessoa grande. É a sua sensibilidade sem tamanho. (21)\n\nMEDEIROS, Martha. Non-stop: crônicas do cotidiano. Rio de Janeiro: L&PM Editores. 2001.",
+            "question": "No trecho “Uma pessoa é grande quando perdoa [...], quando age não de acordo com o que esperam dela, mas de acordo com o que espera de si mesma” (22), o termo “pessoa”, nas expressões destacadas do trecho acima, é retomado por meio de alguns recursos coesivos, a saber:",
+            "images": [],
+            "alternatives": {
+              "A": "Elipse, pronome pessoal do caso reto e pronome pessoal do caso oblíquo.",
+              "B": "Pronome pessoal do caso oblíquo, elipse e pronome pessoal do caso oblíquo.",
+              "C": "Elipse, pronome pessoal do caso oblíquo e pronome pessoal do caso oblíquo.",
+              "D": "Pronome pessoal do caso oblíquo, elipse e pronome pessoal do caso reto."
+            },
+            "answer": "C"
+          },
+          {
+            "questionId": "Uece | GR0657",
+            "questionText": "A imigrante italiana que se formou em nutrição aos 87 anos escreveu o TCC inteiro à mão\n\nOs cabelos brancos de Luísa Valencic Ficara contrastaram com a juventude(19) dos colegas durante sua(18) formatura. Nascida na Itália(25), Luísa imigrou para a América do Sul durante a Segunda Guerra Mundial, viveu em três países sul-americanos e se estabeleceu em Jundiaí, no interior de São Paulo(26). Aos 87 anos, ela acaba de se formar em nutrição.\n\nDona Luísa, como é conhecida, vive na cidade(24) há 40 anos. Após o falecimento do marido e de sua irmã, ela decidiu voltar a estudar para se mante ocupada. Foi assim que surgiu a ideia de se matricular no curso de nutrição do Centro Universitário Padre Anchieta. A graduação(21) foi concluída após seis anos de estudos, com um TCC sobre a cana-de-açúcar no Brasil. Segundo informações do Grupo Anchieta(23), todo o trabalho(20) foi escrito à mão. Colegas, professores e funcionários da instituição(22) ajudaram com a parte da digitação, configuração e impressão do trabalho, para apoiar Dona Luísa.\n\nMas a graduação não é o limite para a idosa. Ela, que também frequenta aulas de alemão, inglês e francês, já está pensando em ingressar em um curso de pós-graduação para continuar estudando, segundo contou ao G1.\n\nDisponível em: http://www.hypeness.com.br/2017/09/a-imigrante-italiana-que-se-formou-em-nutricao-aos-87-anos-escreveu-o-tcc-inteiro-a-mao/. Acesso em: 23 set. 2017.",
+            "question": "A notícia acima apresenta elementos coesivos que ajudam na “costura” temática do texto. A partir dessa ideia, é correto asseverar que",
+            "images": [],
+            "alternatives": {
+              "A": "o pronome “sua” (18) se relaciona à “juventude” (19).",
+              "B": "“todo o trabalho” (20) retoma “graduação” (21).",
+              "C": "“instituição” (22) substitui “Grupo Anchieta” (23).",
+              "D": "“cidade” (24) refere-se à “Itália” (25)."
+            },
+            "answer": "C"
+          },
+          {
+            "questionId": "Esc. Naval | GR0659",
+            "questionText": "Não, os livros não vão acabar\n\nNão sei se é a próxima chegada da Amazon ao Brasil ou a profecia maia do fim do mundo, mas o fato é que nunca vi tanta gente preocupada com o fim do livro. São estudantes que me escrevem motivados por pesquisas escolares, organizadores de eventos literários que me pedem palestras, leitores que manifestam sua apreensão. Em alguns casos, percebo uma espécie perversa de prazer apocalíptico, mas logo desaponto quem quer ver o mar pegando fogo para comer camarão cozido: é que absolutamente não acredito que o livro vai acabar.\n\nTenho escrito reiteradas vezes sobre o assunto; estou, aliás, numa posição bastante confortável para fazê-lo. Gosto igualmente de livros e de tecnologia, e seria a primeira a abraçar meus dois amores reunidos num só objeto; mas embora o Kindle e os vários pads tenham o seu valor como readers, os livros em papel não estão tão próximos da extinção quanto, digamos, o tigre de Sumatra.\n\nPara começo de conversa, é preciso lembrar que o negócio das editoras não é vender papel, mas sim vender histórias. O papel é apenas o suporte para os seus produtos. Aos poucos, em alguns casos, ele tende a ser mesmo substituído pelos tablets. Não dou vida longa aos livros de referência em papel. Estes funcionam melhor, e podem ser mais facilmente atualizados, em forma eletrônica. O caso clássico é o da Enciclopédia Britannica, cujos editores anunciaram, no começo do ano, que a edição corrente, de 2010, seria a última impressa, marcando o fim de 244 anos de uma bela - e volumosa -história em papel.\n\nEmbora quase todos os conjuntos de folhas impressas reunidos entre duas capas recebam o mesmo nome de livro, nem todos exercem a mesma função. Há livros e livros. Um manual técnico é um animal completamente diferente de um romance; um livro escolar não guarda nenhuma semelhança com uni livro de arte; uma antologia poética e um guia de viagem são produtos que só têm em comum o fato de serem vendidos no mesmo lugar.\n\nHá livros que só funcionam em papel. É o caso dos livros que os povos angloparlantes denominam coffee table books, \"livros de mesinha de centro\" - aqueles livrões bonitos, em formato grande, cheios de ilustrações e muito incómodos de ler no colo, impossíveis de levar para a cama. Estes são objetos que se destacam pelo tamanho, pela qualidade de impressão, pela vista que fazem. Quem quer ver um livro desses num tablet? Quem quer presentear um desses em e-formato?\n\nHá também os grandes clássicos, os romances que todos amamos e queremos ter ao alcance da mão. Esses são aqueles livros que, em geral, lemos pela primeira vez em formato de bolso, mas aos quais nos apegamos tanto que, não raro, acabamos comprando uma segunda edição, mais bonita, para nos fazer companhia pelo resto da vida.\n\nIsso explica as lindas edições que a Zahar, por exemplo, tem feito de obras que já encantaram várias gerações, como \"Peter Pan\", \"Os três mosqueteiros\" ou \"Vinte mil léguas submarinas\": livros lindos de se ver e de se pegar, cujo esmero físico complementa a edição caprichada. Ganhar de presente um livro desses é uma alegria que não se tem com um vale para uma compra eletrônica.\n\nFica a dica, aliás, já que o Natal vem aí.\n\nHá prazeres e sensações que só tem com o papel. Gosto de perceber o tamanho de um livro à primeira vista. Um tablet pode me informar quantas páginas um volume tem, mas essa informação é abstrata. Saber que um livro tem 500 páginas ou ver que um livro tem 500 páginas são coisas diferentes. Gosto também de folhear um livro e de fazer uma espécie de leitura em diagonal antes de me decidir pela compra. Isso é impossível de fazer com ebooks.\n\nSem falar, é claro, do cheiro inigualável dos livros em papel.\n\nRONAI, Cora. Jornal O Globo, Economia, 12 nov. 2012.",
+            "question": "Em que opção a autora empregou o paralelismo?",
+            "images": [],
+            "alternatives": {
+              "A": "“Não dou vida longa aos livros de referência em Papel.\" (3º parágrafo).",
+              "B": "“Sem falar, é claro, do cheiro inigualável dos livros em papel.\" (9º parágrafo).",
+              "C": "“Esses são aqueles livros que, em geral, lemos pela primeira vez [...].\" (6º parágrafo).",
+              "D": "“Gosto igualmente de livros e de tecnologia, e seria a primeira a abraçar [...].\" (2º parágrafo).",
+              "E": "“Em alguns casos, percebo uma espécie perversa de prazer apocalíptico [...].\" (1º parágrafo)."
+            },
+            "answer": "D"
+          },
+          {
+            "questionId": "Fuvest_GR0661",
+            "questionText": "A única frase em que se mantém o paralelismo entre os elementos que a constituem é:",
+            "question": "Fuvest | GR0661\n\nA única frase em que se mantém o paralelismo entre os elementos que a constituem é:",
+            "images": [],
+            "alternatives": {
+              "A": "Hoje, a flora e a fauna do Brasil continuam desaparecendo, assim como a madeira está sendo preservada em alguns jardins botânicos.",
+              "B": "Quanto aos nossos recursos naturais, temos de considerar o que estamos abandonando, destruindo e sendo usurpados.",
+              "C": "A grande questão é saber se a crise da indústria jornalística é estrutural, ou seja, mais profunda do que podemos divisar e pode afetar a essência do jornalismo, a credibilidade.",
+              "D": "A biodiversidade é a base das atividades agrícolas, pecuárias, pesqueiras e florestais e, também, da estratégica indústria da biotecnologia.",
+              "E": "As doenças estranhas são os pensamentos sistematicamente dedicados a falar levianamente das outras pessoas ou ao endeusamento do eu."
+            },
+            "answer": "D"
+          },
+          {
+            "questionId": "Fuvest_GR0662",
+            "questionText": "Considerado o contexto, contribuiria com o paralelismo sintático do texto o acréscimo da expressão sublinhada, no seguinte trecho do primeiro parágrafo:",
+            "question": "Fuvest | GR0662\n\nCruz Costa foi meu professor e meu amigo. Era um homem adorável, delicadíssimo, sempre de bom humor, disfarçando as pesadas amarguras da vida por meio não apenas de uma educação impecável, mas da ironia irreverente. Convivemos muito e até fomos juntos ao Uruguai para um curso de férias — ele sempre tratando o antigo aluno com a maior solicitude.\n\nEra informadíssimo, tinha uma cultura densa e múltipla, nascida da curiosidade por vários setores: filosofia, sociologia, literatura, história. Filho único de pais abastados, a sua formação foi a do gentleman culto que lê, observa, segue cursos aqui e fora, viaja, como quem está se preparando interminavelmente para algo que não sabe direito o que possa ser. Depois de ter começado e largado o curso médico no decênio de 1920, já tinha trinta anos quando este algo apareceu sob a forma da Faculdade de Filosofia, Ciências e Letras da Universidade de São Paulo. Cruz Costa foi o inscrito número um e mais tarde o orador da primeira turma, cujo ato de formatura sacudiu a classe média e os intelectuais da São Paulo provinciana de 1937, por causa do discurso do paraninfo, Júlio de Mesquita Filho, homem sem papas na língua, que fez reflexões consideradas acintosas pelas faculdades tradicionais, pois mostrava que a de Filosofia vinha inaugurar finalmente o saber desinteressado, que não separa o ensino da pesquisa e se torna fonte de novos saberes. O discurso de Cruz Costa fere com mais discrição teclas parecidas, dizendo coisas como: “Era necessário, portanto, que o nocivo regime individualista de autodidatas tivesse fim, pois mostrava-se incapaz de constituir base para a cultura nacional”. Por isso, tinha dito antes, prefigurando a própria carreira:\n\n“A nossa missão, quaisquer que sejam os caminhos que agora tenhamos de trilhar, está intimamente ligada aos destinos da Universidade. Interessa-nos altamente a sua existência e a sorte que lhe está reservada, porque o seu destino se confunde com o nosso.”\n\nDe fato, o rapaz meio diletante, que se orientava na cultura segundo o capricho das veleidades, começava a viver uma coisa nova no Brasil, para ele e para tantos mais: a carreira no setor das Humanidades.\n\nAntonio Candido, Recortes.",
+            "images": [],
+            "alternatives": {
+              "A": "“Cruz Costa foi meu professor e, mais além, meu amigo” (L. 1).",
+              "B": "“inclusive disfarçando as pesadas amarguras da vida” (L. 3).",
+              "C": "“mas também da ironia irreverente” (L. 4-5).",
+              "D": "“Convivemos muito um com o outro e até fomos juntos ao Uruguai” (L. 5-6).",
+              "E": "“ele, aliás, sempre tratando o antigo aluno com a maior solicitude” (L. 6-7)."
+            },
+            "answer": "C"
+          },
+          {
+            "questionId": "Famerp_GR0663",
+            "questionText": "Nessa frase, são associados dois substantivos semanticamente díspares: 'vista' e 'chapéu'. A quebra de paralelismo semântico provoca um curioso efeito de estilo. Entre as frases, retiradas de outro romance de Machado de Assis, a que produz efeito de estilo semelhante é:",
+            "question": "Famerp | GR0663\n\nUma noite destas, vindo da cidade para o Engenho Novo, encontrei num trem da Central um rapaz aqui do bairro, que eu conheço de vista e de chapéu. Cumprimentou-me, sentou-se ao pé de mim, falou da lua e dos ministros, e acabou recitando-me versos. A viagem era curta, e os versos pode ser que não fossem inteiramente maus. Sucedeu, porém, que, como eu estava cansado, fechei os olhos três ou quatro vezes; tanto bastou para que ele interrompesse a leitura e metesse os versos no bolso.\n\n– Continue, disse eu acordando.\n\n– Já acabei, murmurou ele.\n\n– São muito bonitos.\n\nVi-lhe fazer um gesto para tirá-los outra vez do bolso, mas não passou do gesto; estava amuado. No dia seguinte entrou a dizer de mim nomes feios, e acabou alcunhando-me Dom Casmurro. Os vizinhos, que não gostam dos meus hábitos reclusos e calados, deram curso à alcunha, que afinal pegou. Nem por isso me zanguei. [...]\n\nNão consultes dicionários. Casmurro não está aqui no sentido que eles lhe dão, mas no que lhe pôs o vulgo de homem calado e metido consigo. Dom veio por ironia, para atribuir-me fumos de fidalgo. Tudo por estar cochilando! Também não achei melhor título para a minha narração; se não tiver outro daqui até o fim do livro, vai este mesmo. O meu poeta do trem ficará sabendo que não lhe guardo rancor. E com pequeno esforço, sendo o título seu, poderá cuidar que a obra é sua. Há livros que apenas terão isso dos seus autores; alguns nem tanto.\n\n(Dom Casmurro, 2008.)",
+            "images": [],
+            "alternatives": {
+              "A": "Algum tempo hesitei se devia abrir estas memórias pelo princípio ou pelo fim.",
+              "B": "Já o leitor compreendeu que era a Razão que voltava à casa, e convidava a Sandice a sair.",
+              "C": "Um emplasto anti-hipocondríaco, destinado a aliviar a nossa melancólica humanidade.",
+              "D": "A minha ideia, depois de tantas cabriolas, constituíra-se ideia fixa.",
+              "E": "Marcela amou-me durante quinze meses e onze contos de réis."
+            },
+            "answer": "E"
+          },
+          {
+            "questionId": "Espm_GR0666",
+            "questionText": "Em um dos itens abaixo há falta de paralelismo na construção da frase. Assinale-o:",
+            "question": "Espm | GR0666\n\nEm um dos itens abaixo há falta de paralelismo na construção da frase. Assinale-o:",
+            "images": [],
+            "alternatives": {
+              "A": "Bebida alcoólica caseira causa intoxicação e mata 51 pessoas na Líbia.",
+              "B": "Três policiais são acusados de desviar drogas e ligação com traficantes internacionais.",
+              "C": "Plano de saúde muda de nome e escapa de punição da Agência Nacional de Saúde.",
+              "D": "Problema técnico na PF afetou não só emissão de passaportes, como também retirada.",
+              "E": "Exposição marca Dia Mundial da Água e incentiva consumo consciente."
+            },
+            "answer": "B"
+          },
+          {
+            "questionId": "Pucrs_GR0667",
+            "questionText": "Estão corretas as afirmativas",
+            "question": "Publicado na Folha da Manhã de 14/10/1928 (mantida a grafia original)\n\nCom a aplicação (02) do cinematographo falante, surgiu recentemente uma aguda polêmica sobre qual dos meios de expressão é o melhor. O que (12) mais chamará (07) a atenção do público: (11) as palavras ou as ações dos artistas? Alguns insistem (03) em que os sons provocam mais a curiosidade dos assistentes. Outros acham (04) que a ação é a verdadeira essência do cinematógrafo e (13) sendo (13) (08) a voz produto das machinhas mecânicas, ella só serve para distrair a atenção do público. (...)\n\n(01). Muitos não duvidaram em prognosticar que as películas de cores se generalizariam, chegando a serem (09) tão comuns como as que hoje existem (05) (02).\n\nEntretanto, não demorou em que fosse descoberto (10) que a novidade da cor distraia a mente nas partes mais culminantes do drama reflectido na tela. Logo depois, surgiu um systema de usar as côres unicamente em certas passagens para dar uma melhor impressão de efeito estético, mantendo-se invariavelmente o branco e o preto, para poder assim (14) ficarem registrados os verdadeiros e intensos momentos da dramaticidade da cena. A psicologia comprova isto. Ainda que com nossos olhos apreciemos (06) a natureza em suas próprias cores, o mesmo não acontece com a nossa mente.\n\n(Disponível em: www.folha.ad.uol.com.br/click.ng. Acesso em: 27/09/2011 Cinematógrafo: aparelho capaz de reproduzir numa tela o movimento, por meio de uma sequência de fotografias.)\n\n1. Se em lugar de “a aplicação” (02) fosse utilizado “o advento” ou “o uso”, a compreensão não seria prejudicada.\n\n2. “Alguns insistem” (03) e “Outros acham” (04) contribuem para a relação de paralelismo entre as estruturas que iniciam.\n\n3. “As que hoje existem” (05) faz contraponto a “as películas de côres”.\n\n4. “Apreciemos” (06) está no subjuntivo, modo verbal exigido pelo nexo concessivo “Ainda que”.",
+            "images": [],
+            "alternatives": {
+              "A": "1 e 2, apenas.",
+              "B": "2 e 3, apenas.",
+              "C": "2 e 4, apenas.",
+              "D": "1, 3 e 4, apenas.",
+              "E": "1, 2, 3 e 4."
+            },
+            "answer": "E"
+          },
+          {
+            "questionId": "Insper_GR0668",
+            "questionText": "A alternativa que corrige a falha de paralelismo gramatical existente na manchete, mantendo o mesmo sentido, é:",
+            "question": "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/c8da6c33-e5fe-4a81-8521-ffa3a4502488-arquivo-editor",
+            "images": ["https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/c8da6c33-e5fe-4a81-8521-ffa3a4502488-arquivo-editor"],
+            "alternatives": {
+              "A": "Presidente do UFC prevê abertura de escritório no Brasil e fazer evento na Rocinha.",
+              "B": "Presidente do UFC prevê que escritório seja aberto no Brasil e evento na Rocinha.",
+              "C": "Presidente do UFC prevê que abertura de escritório no Brasil crie evento na Rocinha.",
+              "D": "Presidente do UFC prevê abrir escritório no Brasil e realizar evento na Rocinha.",
+              "E": "Presidente do UFC prevê escritório no Brasil ou evento na Rocinha."
+            },
+            "answer": "D"
+          },
+          {
+            "questionId": "Unesp_GR0669",
+            "questionText": "Um dos melhores recursos expressivos empregados na letra de *Boiadeiro* é o processo de repetição da mesma estrutura sintática com a mudança de apenas um vocábulo, que faz progredir o sentido, tal como se verifica, por exemplo, entre os versos 5, 11 e 17. Tal recurso é conhecido como",
+            "question": "Boiadeiro\n\nDe manhãzinha, quando eu sigo pela estrada\n\nMinha boiada pra invernada eu vou levar:\n\nSão dez cabeças; é muito pouco, é quase nada\n\nMas não tem outras mais bonitas no lugar.\n\nVai boiadeiro, que o dia já vem,\n\nLeva o teu gado e vai pensando no teu bem.\n\nDe tardezinha, quando eu venho pela estrada,\n\nA fiarada tá todinha a me esperar;\n\nSão dez filinho, é muito pouco, é quase nada,\n\nMas não tem outros mais bonitos no lugar.\n\nVai boiadeiro, que a tarde já vem\n\nLeva o teu gado e vai pensando no teu bem.\n\nE quando chego na cancela da morada,\n\nMinha Rosinha vem correndo me abraçar.\n\nÉ pequenina, é miudinha, é quase nada\n\nMas não tem outra mais bonita no lugar.\n\nVai boiadeiro, que a noite já vem,\n\nGuarda o teu gado e vai pra junto do teu bem!\n\n(Armando Cavalcante e Klecius Caldas. *Boiadeiro.* In: Beth Cançado. *Aquarela brasileira*, vol. I. Brasília: Editora Corte Ltda., 1994. p. 59.)",
+            "images": [],
+            "alternatives": {
+              "A": "Paralelismo.",
+              "B": "Metáfora.",
+              "C": "Comparação.",
+              "D": "Pleonasmo.",
+              "E": "Metonímia."
+            },
+            "answer": "A"
+          },
+          {
+            "questionId": "Espm_GR0678",
+            "questionText": "No segundo parágrafo, no segmento: *...nem ainda atribuir-lhes papel decorativo...*, o pronome pessoal oblíquo “lhes” tem como referência no texto:",
+            "question": "Os fenômenos da linguagem examinavam-se outrora apenas à luz da gramática e da lógica, e já era muito se a análise reconhecia como palavras expletivas ou de realce os termos sobejantes¹ unidos à oração ou nela encravados.\n\nHoje que a ciência da linguagem investiga os fatos sem deixar-se pear² por antigos preconceitos, já não podemos levar essas expressões à conta da superfluidades nem ainda atribuir-lhes papel decorativo, o que seria contrassenso, uma vez que rareiam no discurso eloquente e retórico e se usam a cada instante justamente no falar desataviado de todos os dias.\n\nUma coisa é dirigirmo-nos à coletividade, a pessoas desconhecidas, de condições diversas, e que nos ouvem caladas; outra coisa é tratar com alguém de perto, falar e ouvir, e ajeitar a cada momento a linguagem em atenção a essa pessoa que está diante de nós, para que fique sempre bem impressionada com as nossas palavras.\n\n(Said Ali, *Meios de Expressão e Alterações Semânticas*, RJ)\n\n¹sobejantes: demasiados, excessivos, de sobras.\n\n²pear: prender.",
+            "images": [],
+            "alternatives": {
+              "A": "essas expressões.",
+              "B": "palavras expletivas.",
+              "C": "os fatos.",
+              "D": "antigos preconceitos.",
+              "E": "superfluidades."
+            },
+            "answer": "A"
+          }
+
+
+    ]
+}

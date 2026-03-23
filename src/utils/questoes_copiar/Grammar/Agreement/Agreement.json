@@ -1,0 +1,466 @@
+{
+    "examTitle": "Concordancia",
+    "questions": [
+        {
+            "questionId": "Enem_GR0388",
+            "questionText": "Nesse artigo de opinião, ao fazer uso de uma fala rebuscada no exemplo da compra do pão, o autor evidencia a importância de(a)",
+            "question": "O complexo de falar difícil\n\nO que importa realmente é que o(a) detentor(a) do notável saber jurídico saiba quando e como deve fazer uso desse português versão 2.0, até porque não tem necessidade de alguém entrar numa padaria de manhã com aquela cara de sono falando o seguinte: “Por obséquio, Vossa Senhoria teria a hipotética possibilidade de estabelecer com minha pessoa uma relação de compra e venda, mediante as imposições dos códigos Civil e do Consumidor, para que seja possível a obtenção de 10 pãezinhos em temperatura estável para que a relação pecuniária no valor de R$ 5,00 seja plenamente legítima e capaz de saciar minha fome matinal?”.\n\nO problema é que temos uma cultura de valorizar quem demonstra ser inteligente ao invés de valorizar quem é. Pela nossa lógica, todo mundo que fala difícil tende a ser mais inteligente do que quem valoriza o simples, e 99,9% das pessoas que estivessem na padaria iriam ficar boquiabertas se alguém fizesse uso das palavras que eu disse acima em plenas 7 da manhã em vez de dizer: “Bom dia! O senhor poderia me vender cinco reais de pão francês?”.\n\nAgora entramos na parte interessante: o que realmente é falar difícil? Simplesmente fazer uso de palavras que a maioria não faz ideia do que seja é um ato de falar difícil? Eu penso que não, mas é assim que muita gente age. Falar difícil é fazer uso do simples, mas com coerência e coesão, deixar tudo amarradinho gramaticalmente falando. Falar difícil pode fazer alguém parecer inteligente, mas não por muito tempo. É claro que em alguns momentos não temos como fugir do português rebuscado, do juridiquês propriamente dito, como no caso de documentos jurídicos, entre outros.\n\nARAÚJO, H. Disponível em: www.diariojurista.com. Acesso em: 20 nov. 2021 (adaptado).",
+            "images": [],
+            "alternatives": {
+              "A": "se ter um notável saber jurídico.",
+              "B": "valorização da inteligência do falante.",
+              "C": "falar difícil para demonstrar inteligência.",
+              "D": "coesão e da coerência em documentos jurídicos.",
+              "E": "adequação da linguagem à situação de comunicação."
+            },
+            "answer": "E"
+          },
+          {
+            "questionId": "Eear_GR0553",
+            "questionText": "Assinale a alternativa cujos verbos completam o texto abaixo, observando a concordância.\n\nO trote é uma atividade lúdica em que __________ ser preservada a intimidade e a honra dos calouros. Os abusos que, esporadicamente, __________ não podem justificar que se __________ uma norma rígida para __________ essa prática tradicional nas universidades.",
+            "question": "O trote é uma atividade lúdica em que __________ ser preservada a intimidade e a honra dos calouros. Os abusos que, esporadicamente, __________ não podem justificar que se __________ uma norma rígida para __________ essa prática tradicional nas universidades.",
+            "images": [],
+            "alternatives": {
+              "A": "deveria - ocorrem - estabeleça - coibir",
+              "B": "deveriam - ocorrem - estabeleça - coibir",
+              "C": "deveria - ocorre - estabeleçam - coibirem",
+              "D": "deveriam - ocorre - estabeleçam – coibirem"
+            },
+            "answer": "A"
+          },
+          {
+            "questionId": "Embraer_GR0216",
+            "questionText": "A concordância nominal atende à norma-padrão em:",
+            "question": "Retratos\n\nEu não tinha este rosto de hoje,\nassim calmo, assim triste, assim magro,\nnem estes olhos tão vazios,\nnem o lábio tão amargo.\n\nEu não tinha estas mãos sem força,\ntão paradas e frias e mortas,\neu não tinha este coração\nque nem se mostra.\n\nEu não dei por esta mudança,\ntão simples, tão certa e fácil:\n– Em que espelho ficou perdida\na minha face?\n\n(Cecília Meireles, Viagem)",
+            "images": [],
+            "alternatives": {
+              "A": "Reconheço que estão tristes meu rosto e meu coração.",
+              "B": "Hoje sinto que há grande forças em minhas mãos.",
+              "C": "Há mudanças tão certa e fácil que afetam as pessoas.",
+              "D": "No espelho, vejo que minha face está meia mudada."
+            },
+            "answer": "A"
+          },
+          {
+            "questionId": "Fgvsp_GR0211",
+            "questionText": "Assinale a alternativa em que os versos da primeira estrofe estão reescritos de acordo com a norma-padrão de concordância nominal e verbal.",
+            "question": "Verão carioca 73\n\nO carro do sol passeia rodas de incêndio\nsobre os corpos e as mentes, fulminando-os.\nRestam, sob o massacre, esquírolas de consciência,\na implorar, sem esperança, um caneco de sombra.\n\nAs árvores decotadas, alamedas sem árvores.\nO ar é neutro, fixo, e recusa passagem\nàs viaturas da brisa. O zinir de besouros buzinas\nressoa no interior da célula ferida.\n\nSobe do negro chão meloso espedaçado\no súlfur dos avernos em pescoções de fogo.\nA vida, esse lagarto invisível na loca,\nou essa rocha ardendo onde a verdura ria?\n\nO mar abre-se em leque à visita de uns milhares,\nmas, curvados ao peso dessa carga de chamas,\nem mil formas de esforço e pobreza e rotina, milhões\ncurtem a maldição do esplêndido verão.\n\n(Carlos Drummond de Andrade. As impurezas do branco. 2012)",
+            "images": [],
+            "alternatives": {
+              "A": "Passeiam rodas de incêndio do carro do sol / sobre mentes e corpos humanos, fulminando-os. / Acha-se, sob o massacre, esquírolas de consciência, / que implora, sem esperança, um caneco de sombra.",
+              "B": "Passeia rodas de incêndio do carro do sol / sobre corpos e mentes humanas, fulminando-os. / Estão, sob o massacre, esquírolas de consciência, / que implora, sem esperança, um caneco de sombra.",
+              "C": "Passeiam rodas de incêndio do carro do sol / sobre humanos corpos e mentes, fulminando-os. / Sobra, sob o massacre, esquírolas de consciência, / que imploram, sem esperança, um caneco de sombra.",
+              "D": "Passeia rodas de incêndio do carro do sol / sobre humanas mentes e corpos, fulminando-os. / Vê-se, sob o massacre, esquírolas de consciência, / que implora, sem esperança, um caneco de sombra.",
+              "E": "Passeiam rodas de incêndio do carro do sol / sobre mentes e corpos humanos, fulminando-os. / Encontram-se, sob o massacre, esquírolas de consciência, / que imploram, sem esperança, um caneco de sombra."
+            },
+            "answer": "E"
+          },
+          {
+            "questionId": "Unifesp_GR0200",
+            "questionText": "Mantida a norma-padrão da língua portuguesa, a frase que preenche corretamente o segundo balão é",
+            "question": "Leia:\n\nhttps://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/33b072f8-4f27-4f5d-858c-8d222b5254cb-arquivo-editor",
+            "images": ["https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/33b072f8-4f27-4f5d-858c-8d222b5254cb-arquivo-editor"],
+            "alternatives": {
+              "A": "Todos os dragões o tem.",
+              "B": "Todos os dragões têm isso.",
+              "C": "Os dragões todos lhe tem.",
+              "D": "Sempre se encontra dragões com isso.",
+              "E": "Sofre disso todos os dragões."
+            },
+            "answer": "B"
+          },
+          {
+            "questionId": "Cfn_GR0218",
+            "questionText": "Marque a alternativa INCORRETA no que tange à concordância verbal:",
+            "question": "Marque a alternativa INCORRETA no que tange à concordância verbal:",
+            "images": [],
+            "alternatives": {
+              "A": "Fazem anos que não o vejo.",
+              "B": "Os Estados Unidos ainda determinam a atividade econômica no mundo.",
+              "C": "Depois da discussão, pai e filho fizeram as pazes.",
+              "D": "Para decisões importantes necessita-se de coragem e de competência.",
+              "E": "Há vários políticos honestos no Brasil."
+            },
+            "answer": "A"
+          },
+          {
+            "questionId": "Unesp_GR0217",
+            "questionText": "Nos trechos “asseguradas a liberdade de escolha e a igualdade das contratações” (inciso II) e “assegurada a proteção jurídica, administrativa e técnica aos necessitados” (inciso VII), a análise das concordâncias dos adjetivos em destaque permite afirmar que",
+            "question": "Art. 6∘São direitos básicos do consumidor:\n\nA proteção da vida, saúde e segurança contra os riscos provocados por práticas no fornecimento de produtos e serviços considerados perigosos ou nocivos;\n\nA educação e divulgação sobre o consumo adequado dos produtos e serviços, asseguradas a liberdade de escolha e a igualdade nas contratações;\n\nA informação adequada e clara sobre os diferentes produtos e serviços, com especificação correta de quantidade, características, composição, qualidade, tributos incidentes e preço, bem como sobre os riscos que apresentem;\n\nA proteção contra a publicidade enganosa e abusiva, métodos comerciais coercitivos ou desleais, bem como contra práticas e cláusulas abusivas ou impostas no fornecimento de produtos e serviços;\n\nA modificação das cláusulas contratuais que estabeleçam prestações desproporcionais ou sua revisão em razão de fatos supervenientes que as tornem excessivamente onerosas;\n\nA efetiva prevenção e reparação de danos patrimoniais e morais, individuais, coletivos e difusos;\n\nO acesso aos órgãos judiciários e administrativos com vistas à prevenção ou reparação de danos patrimoniais e morais, individuais, coletivos ou difusos, assegurada a proteção jurídica, administrativa e técnica aos necessitados;\n\nA facilitação da defesa de seus direitos, inclusive com a inversão do ônus da prova, a seu favor, no processo civil, quando, a critério do juiz, for verossímil a alegação ou quando for ele hipossuficiente, segundo as regras ordinárias de experiências;\n\nA adequada e eficaz prestação dos serviços públicos em geral.\n\nArt. 7∘Os direitos previstos neste código não excluem outros decorrentes de tratados ou convenções internacionais de que o Brasil seja signatário, da legislação interna ordinária, de regulamentos expedidos pelas autoridades administrativas competentes, bem como dos que derivem dos princípios gerais do direito, analogia, costumes e equidade.\n\nParágrafo único. Tendo mais de um autor a ofensa, todos responderão solidariamente pela reparação dos danos previstos nas normas de consumo.\n\nDisponível em: www.planalto.gov.br",
+            "images": [],
+            "alternatives": {
+              "A": "Apenas a primeira ocorrência está correta.",
+              "B": "Apenas a segunda ocorrência está correta.",
+              "C": "As duas ocorrências são aceitáveis, mas não corretas.",
+              "D": "As duas ocorrências estão incorretas.",
+              "E": "As duas ocorrências estão corretas."
+            },
+            "answer": "E"
+          },
+          {
+            "questionId": "EscNaval_GR0201",
+            "questionText": "Está de acordo com a norma padrão da língua a concordância do termo destacado no seguinte enunciado do texto: 'Eu tenho muitos livros.' Em que opção tal fato também ocorre?",
+            "question": "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/1d44af9a-72fd-4731-93c6-bb7364c74713-arquivo-editor",
+            "images": ["https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/1d44af9a-72fd-4731-93c6-bb7364c74713-arquivo-editor"],
+            "alternatives": {
+              "A": "A autora ficou meia preocupada com as críticas a seu novo livro.",
+              "B": "Nos dias atuais, há bastante pessoas que admiram os novos escritores.",
+              "C": "Uma boa leitura é necessário para passar o tempo rapidamente.",
+              "D": "O autor enviou os próximos capítulos do livro anexos ao contrato.",
+              "E": "A escritora mesmo participou da apresentação comentada de seu livro."
+            },
+            "answer": "D"
+          },
+          {
+            "questionId": "Cfn_GR0208",
+            "questionText": "Escolha a alternativa INCORRETA no que tange a concordância nominal.",
+            "question": "Escolha a alternativa INCORRETA no que tange a concordância nominal.",
+            "images": [],
+            "alternatives": {
+              "A": "É proibido a entrada de animais.",
+              "B": "Seguem anexos os documentos solicitados.",
+              "C": "Neymar possui velocidade e habilidade invejáveis.",
+              "D": "Está vergonhosa a situação da saúde e da educação.",
+              "E": "Foram chamados os candidatos da primeira e segunda relações."
+            },
+            "answer": "A"
+          },
+          {
+            "questionId": "Eear_GR0215",
+            "questionText": "Quanto à concordância verbal, assinale a alternativa que contém a sequência que completa, correta e respectivamente, as lacunas do texto abaixo.",
+            "question": "Caros cidadãos:\n\nAmanhã um grupo ______ (passar) nas ruas deste bairro arrecadando roupas para as vítimas da última tempestade. A maioria das peças ______ (dever) ser para adultos; apenas 10% das roupas ______ (ir) para crianças de 2 a 7 anos. ______(Haver) muitos pedidos de cobertores, por isso podem doar esse item também.\n\nA Associação de Bairro agradece a todos!",
+            "images": [],
+            "alternatives": {
+              "A": "passará – deverá – irão – Houve",
+              "B": "passará – deverão – irá – Houve",
+              "C": "passarão – deverão – irá – Houveram",
+              "D": "passarão – deverá – irão – Houveram"
+            },
+            "answer": "A"
+          },
+          {
+            "questionId": "Esa_GR0219",
+            "questionText": "Das frases a seguir, a única inteiramente de acordo com as regras de concordância verbal é:",
+            "question": "Das frases a seguir, a única inteiramente de acordo com as regras de concordância verbal é:",
+            "images": [],
+            "alternatives": {
+              "A": "A rede de coleta e de tratamento de esgoto possuem tubulações mais estreitas que as galerias pluviais nas ruas.",
+              "B": "Na sala de aula, haviam inúmeros quadros de artistas renomados.",
+              "C": "Ocorreram, naquele mesmo ano, acontecimentos extraordinários.",
+              "D": "Podem trazer sérias consequências ao planeta a falta de cuidados com o ambiente.",
+              "E": "O técnico e o presidente da empresa chegou muito cedo ao local do acidente."
+            },
+            "answer": "C"
+          },
+          {
+            "questionId": "Esc. Naval_GR0206",
+            "questionText": "No que se refere às normas da concordância verbal, observe as proposições.",
+            "question": "I. Contra a disseminação de notícias falsas, tramitam, no Congresso Nacional, inúmeras iniciativas amplamente debatidas.\n\nII. Nem o Congresso nem a justiça mensura os danos causados pelos boatos mentirosos e enganadores ao mundo corporativo.\n\nIII. Durante muito tempo, acreditou-se sem questionar, nos meios de comunicação de massa, principalmente, nos jornais impressos.\n\nIV. Hoje em dia, eu estou bem certo de que somos nós que devemos coibir a disseminação de notícias falsas em escala industrial.\n\nEstá correto o que se afirma apenas em:",
+            "images": [],
+            "alternatives": {
+              "A": "I e II.",
+              "B": "II e III.",
+              "C": "I, III e IV.",
+              "D": "III e IV.",
+              "E": "II, III e IV."
+            },
+            "answer": "C"
+          },
+          {
+            "questionId": "Epcar_GR0213",
+            "questionText": "O bom humor faz bem para saúde\n\nO bom humor é, antes de tudo, a expressão de que o corpo está bem\n\nPor Fábio Peixoto\n\n“Procure ver o lado bom das coisas ruins.” Essa frase poderia estar em qualquer livro de autoajuda (01) ou parecer um conselho bobo de um mestre de artes marciais saído de algum filme ruim (02). Mas, segundo os especialistas que estudam o humor a sério, trata-se do maior segredo para viver bem. (...)\n\nO bom humor é, antes de tudo, a expressão de que o corpo está bem (03). Ele depende de fatores físicos e culturais e varia de acordo com a personalidade e a formação de cada um. Mas, mesmo sendo o resultado de uma combinação de ingredientes, pode ser ajudado com uma visão otimista do mundo. “Um indivíduo bem-humorado sofre menos porque produz mais endorfina, um hormônio que relaxa”, diz o clínico geral Antônio Carlos Lopes, da Universidade Federal de São Paulo. Mais do que isso: a endorfina aumenta a tendência de ter bom humor. Ou seja, quanto mais bem-humorado você está, maior o seu bem-estar e, consequentemente, mais bem-humorado você fica. Eis aqui um círculo virtuoso, que Lopes prefere chamar de “feedback positivo” (06). A endorfina também controla a pressão sanguínea, melhora o sono e o desempenho sexual. (Agora você se interessou, né?)\n\nMas, mesmo que não houvesse tantos benefícios no bom humor, os efeitos do mau humor sobre o corpo já seriam suficientes para justificar uma busca incessante de motivos para ficar feliz. Novamente Lopes explica por quê: “O indivíduo mal-humorado fica angustiado, o que provoca a liberação no corpo de hormônios como a adrenalina. Isso causa palpitação, arritmia cardíaca, mãos frias, dor de cabeça, dificuldades na digestão e irritabilidade”. A vítima acaba maltratando os outros porque não está bem, sente-se culpada e fica com um humor pior ainda. Essa situação pode ser desencadeada por pequenas tragédias cotidianas — como um trabalho inacabado ou uma conta para pagar —, que só são trágicas porque as encaramos desse modo.\n\nEvidentemente, nem sempre dá para achar graça em tudo. Há situações em que a tristeza é inevitável — e é bom que seja assim. “Você precisa de tristeza e de alegria para ter um convívio social adequado”, diz o psiquiatra Teng Chei Tung, do Hospital das Clínicas de São Paulo. “A alegria favorece a integração e a tristeza propicia a introspecção e o amadurecimento (08). ” Temos de saber lidar com a flutuação entre esses estágios, que é necessária e faz parte da natureza humana.\n\nO humor pode variar da depressão (o extremo da tristeza) até a mania (o máximo da euforia). Esses dois estados são manifestações de doenças e devem ser tratados com a ajuda de psiquiatras e remédios que regulam a produção de substâncias no cérebro. Uma em cada quatro pessoas tem, durante a vida, pelo menos um caso de depressão que mereceria tratamento psiquiátrico.\n\nEnquanto as consequências deletérias do mau humor são estudadas há décadas (05), não faz muito tempo que a comunidade científica passou a pesquisar os efeitos benéficos do bom humor. O interesse no assunto surgiu há vinte anos, quando o editor norte-americano Norman Cousins publicou o livro Anatomia de uma Doença, contando um impressionante caso de cura pelo riso. Nos anos, ele contraiu uma doença degenerativa que ataca a coluna vertebral (07), chamada espondilite ancilosa, e sua chance de sobreviver era de apenas uma em quinhentas.\n\nEm vez de ficar no hospital esperando para virar estatística, ele resolveu sair e se hospedar num hotel das redondezas, com autorização dos médicos. Sob os atentos olhos de uma enfermeira, com quase todo o corpo paralisado, Cousins reunia os amigos para assistir a programas de “pegadinhas” e seriados cômicos na TV. Gradualmente foi se recuperando até poder voltar a viver e a trabalhar normalmente. Cousins morreu em 1990, aos 75 anos. Se Cousins saiu do hospital em busca do humor, hoje há muitos profissionais de saúde que defendem a entrada das risadas no dia a dia dos pacientes internados.\n\nUma boa gargalhada é um método ótimo de relaxamento muscular. Isso ocorre porque os músculos não envolvidos no riso tendem a se soltar — está aí a explicação para quando as pernas ficam bambas de tanto rir ou para quando a bexiga se esvazia inadvertidamente depois daquela piada genial. Quando a risada acaba, o que surge é uma calmaria geral. Além disso, se é certo que a tristeza abala o sistema imunológico, sabe-se também que a endorfina, liberada durante o riso, melhora a circulação e a eficácia das 90 defesas do organismo. A alegria também aumenta a capacidade de resistir à dor, graças também à endorfina.\n\nEvidências como essa fundamentam o trabalho dos Doutores da Alegria, que já visitaram 170.000 crianças em hospitais. As invasões de quartos e UTIs 95 feitas por 25 atores vestidos de “palhaços-médicos” não apenas aceleram a recuperação das crianças, mas motivam os médicos e os pais. A psicóloga Morgana Masetti acompanha os Doutores há sete anos. “É evidente que o trabalho diminui a medicação para os pacientes”, diz ela.\n\nO princípio que torna os Doutores da Alegria engraçados tem a ver com a flexibilidade de pensamento defendida pelos especialistas em humor — aquela ideia de ver as coisas pelo lado bom. “O clown não segue a lógica à qual estamos acostumados”, diz Morgana. “Ele pode passar por um balcão de enfermagem e pedir uma pizza ou multar as macas por excesso de velocidade.” Para se tornar um membro dos Doutores da Alegria, o ator passa num curioso teste de autoconhecimento (04): reconhece o que há de ridículo em si mesmo e ri disso. “Um clown não tem medo de errar — pelo contrário, ele se diverte com isso”, diz Morgana. Nem é preciso mencionar quanto mais de saúde haveria no mundo se todos aprendêssemos a fazer o mesmo.\n\nDisponível em: https://super.abril.com.br/saude/o-bom-humor-faz-bem-para-saude/. Acesso em: 11 abr. 2015.",
+            "question": "Assinale a alternativa que NÃO apresenta infrações no que diz respeito à regência e à concordância.",
+            "images": [],
+            "alternatives": {
+              "A": "Grande parte das pessoas prefere lamentar do que buscar soluções para complexos problema e situação.",
+              "B": "Os doutores da alegria já assistiram a 170.000 mil crianças nas UTIs, noventa por cento delas apresentou melhoras.",
+              "C": "Não agrada ninguém um trabalho inacabado ou uma conta a pagar, mas encará-los como tragédia cotidiana desencadeia o mau humor.",
+              "D": "Aversões ao erro e ao ridículo são fatores favoráveis para o surgimento do mau humor."
+            },
+            "answer": "D"
+          },
+          {
+            "questionId": "Ufrgs_GR0209",
+            "questionText": "(Adaptada) Nada mais importante para chamar a atenção sobre uma verdade (8) do que exagerá-la. Mas (1) também, nada mais perigoso, ________ um dia vem a (5) reação (11) indispensável (6) e a relega injustamente para a categoria do erro, até que se efetue a operação difícil de chegar (14) a um ponto de vista objetivo, sem desfigurá-la (7) de um lado nem de outro. É o que tem ocorrido com o estudo da relação entre a obra e o seu condicionamento social, que a certa altura chegou a ser vista como chave (19) para compreendê-la, depois foi rebaixada (15) como falha de visão, - e talvez só agora comece a ser proposta nos devidos termos. (25)\n\nDe fato (2), antes se procurava mostrar que o valor e o significado de uma obra dependiam de ela exprimir (22) ou não certo aspecto da realidade, e que este aspecto constituía o que ela tinha de essencial. Depois, chegou-se à posição oposta, procurando-se mostrar que a matéria de uma obra é secundária, e que a sua importância deriva das operações formais postas em jogo, conferindo-lhe uma peculiaridade que a torna de fato independente de quaisquer (12) condicionamentos, sobretudo social, considerado inoperante como elemento de compreensão. Hoje (26) sabemos que a integridade da obra não permite adotar nenhuma (20) dessas visões ________; e que só a podemos entender fundindo texto e contexto numa interpretação dialeticamente (27) íntegra, em que tanto o velho ponto de vista que explicava (23) pelos fatores externos (24), quanto o outro, norteado pela convicção (17) de que a estrutura é virtualmente independente, se combinam como momentos necessários (21) do processo interpretativo. Sabemos, ainda, que o externo (10) (no caso, o social) importa, não como causa, nem como significado, mas como elemento que desempenha certo papel na constituição da estrutura, tornando-se (9), portanto (3), interno.\n\nNeste caso, saímos dos aspectos periféricos da sociologia, ou da história sociologicamente orientada, para chegar a uma interpretação estética que assimilou a dimensão social como fator de arte. Quando isto se dá, ocorre o paradoxo (13) assinalado inicialmente: o externo se torna interno e a crítica deixa de ser sociológica, para ser apenas crítica. Segundo esta ordem de ideias, o ângulo sociológico adquire uma validade maior do que tinha. Em ________, não pode mais ser imposto como critério único, ou mesmo preferencial, pois (4) a importância de cada fator depende do caso a ser analisado. Uma crítica que se queira integral deve deixar (16) de ser unilateralmente sociológica, psicológica ou linguística (18), para utilizar livremente os elementos capazes de conduzirem a uma interpretação coerente.\n\n(Adaptado de: CANDIDO, Antônio. Literatura e sociedade. 9. ed. Rio de Janeiro: Ouro sobre Azul, 2006.)",
+            "question": "Considere o trecho abaixo extraído do texto.\n\nÉ o que tem ocorrido com o estudo da relação entre a obra e o seu condicionamento social, que a certa altura chegou a ser vista como chave para compreendê-la, depois foi rebaixada como falha de visão, - e talvez só agora comece a ser proposta nos devidos termos. (25)\n\nSe a locução “da relação” fosse substituída por “do vínculo”, quantas outras palavras no trecho teriam de ser modificadas para fins de correção gramatical?",
+            "images": [],
+            "alternatives": {
+              "A": "Duas.",
+              "B": "Três.",
+              "C": "Quatro.",
+              "D": "Cinco.",
+              "E": "Seis."
+            },
+            "answer": "C"
+          },
+          {
+            "questionId": "Cfn_GR0207",
+            "questionText": "FUGA\n\n(1)    Mal colocou o papel na máquina, o menino\n\n         começou a empurrar uma cadeira pela sala,\n\n         fazendo um barulho infernal.\n\n         — Para com esse barulho, meu filho —\n\n(5)    falou, sem se voltar.\n\n         Com três anos já sabia reagir como homem\n\n         ao impacto das grandes injustiças paternas:\n\n         Não estava fazendo barulho, estava só\n\n         empurrando uma cadeira.\n\n(10)  — Pois então para de empurrar a cadeira.\n\n         — Eu vou embora — foi a resposta.\n\n         Distraído, o pai não reparou que ele\n\n         juntava ação às palavras, no ato de juntar\n\n         do chão suas coisinhas, enrolando-as num\n\n(15)  pedaço de pano. Era a sua bagagem: um\n\n         caminhão de madeira com apenas três rodas,\n\n         um resto de biscoito, uma chave (onde diabo\n\n         meteram a chave da dispensa? — a mãe mais\n\n         tarde irá dizer), metade de uma tesoura\n\n(20)  enferrujada, sua única arma para a grande\n\n         aventura, um botão amarrado num barbante.\n\n         A calma que baixou então na sala era\n\n         vagamente inquietante. De repente, o pai\n\n         olhou ao redor e não viu o menino. Deu com a\n\n(25)  porta da rua aberta, correu até o portão:\n\n         — Viu um menino saindo desta casa? —\n\n         gritou para o operário que descansava diante\n\n         da obra do outro lado da rua, sentado no\n\n         meio-fio.\n\n(30)  — Saiu agora mesmo com uma trouxinha —\n\n         informou ele.\n\n         Correu até a esquina e teve tempo de vêlo\n\n         ao longe, caminhando cabisbaixo ao longo\n\n         do muro. A trouxa, arrastada no chão, ia\n\n(35)  deixando pelo caminho alguns de seus\n\n         pertences: o botão, o pedaço de biscoito e —\n\n         saíra de casa desprevenido — uma moeda de 1\n\n         cruzeiro. Chamou-o, mas ele apertou o\n\n         passinho, abriu a correr em direção à\n\n(40)  avenida, como disposto a atirar-se diante do\n\n         lotação que surgia a distância.\n\n         — Meu filho, cuidado!\n\n         A lotação deu uma freada brusca, uma\n\n         guinada para a esquerda, os pneus cantaram\n\n(45)  no asfalto. O menino, assustado, arrepiou\n\n         carreira. O pai precipitou-se e o arrebanhou\n\n         com o braço como a um animalzinho:\n\n         — Que susto você me passou, meu filho —\n\n         e apertava-o contra o peito fora de si.\n\n(50)  — Deixa eu descer, papai. Você está me\n\n         machucando.\n\n         Irresoluto, o pai pensava agora se não\n\n         seria o caso de lhe dar umas palmadas:\n\n         — Machucando, é? Fazer uma coisa dessas\n\n(55) com seu pai.\n\n         — Me larga. Eu quero ir embora.\n\n         Trouxe-o para casa e o largou novamente\n\n         na sala — tendo antes o cuidado de fechar a\n\n         porta da rua e retirar a chave, como ele\n\n(60)  fizera com a da despensa.\n\n         — Fique aí quietinho, está ouvindo?\n\n         Papai está trabalhando.\n\n         — Fico, mas vou empurrar esta cadeira.\n\n         E o barulho recomeçou.\n\n(Fernando Sabino)",
+            "question": "No trecho “Deu com a porta da rua aberta (...)” – linhas 24 e 25 – a concordância nominal foi estabelecida corretamente. Assinale a única alternativa que também está correta.",
+            "images": [],
+            "alternatives": {
+              "A": "É meio-dia e meio.",
+              "B": "Ela está meia cansada.",
+              "C": "Vitamina é boa para a saúde.",
+              "D": "Remeto-lhe anexas as certidões.",
+              "E": "Juliana comprou duzentas gramas de queijo."
+            },
+            "answer": "D"
+          },
+          {
+            "questionId": "Puccamp_GR0210",
+            "questionText": "Os anos seguintes à proclamação da Independência, em 7 de setembro de 1822, foram marcados por agitações políticas e intensas negociações sobre a criação da nação brasileira e a definição de um perfil de Estado nacional. Era preciso investir na formação de uma elite intelectual capaz de gerir a pátria recém-emancipada, instituindo-lhe uma identidade própria, em oposição à portuguesa. Mais do que novas leis, o país precisava de uma consciência jurídica, que deveria emanar de cursos estabelecidos em território nacional. Foram esses, entre outros, os argumentos que deram o tom das discussões políticas que culminaram nas duas primeiras faculdades de direito do Brasil, em agosto de 1827, em São Paulo e Recife. “A criação de escolas de direito nas regiões Sul e Norte, como se dizia à época, pretendia integrar as diferentes regiões do país, fortalecendo a unidade territorial”, explica a advogada e historiadora Ana Paula Araújo de Holanda, da Universidade de Fortaleza, Ceará.\n\nA proposta de criação de um curso de direito foi apresentada em 1823. Tratava-se de um pedido de brasileiros matriculados na Universidade de Coimbra, em Portugal, onde a maioria dos que pretendiam seguir nas profissões jurídicas estudava. O projeto, apresentado pelo advogado Fernandes Pinheiro, foi encaminhado para debate na Assembleia, e logo iniciaram-se as divergências sobre a localização dos cursos. Os debates transcorreram de forma apaixonada. “Os parlamentares advogavam em favor de suas províncias de origem, já que desses cursos sairia a elite política do país”, comenta a advogada e historiadora Bistra Stefanova Apostolova, da Faculdade de Direito da Universidade de Brasília. O projeto aprovado na Assembleia Geral, no entanto, não rompeu totalmente com a tradição jurídica portuguesa. Houve desencontros entre as intenções dos parlamentares e a prática, segundo Bistra. Adotaram-se provisoriamente os Estatutos da Universidade de Coimbra.\n\nAmbas as faculdades tornaram-se importantes polos inspiradores das artes literárias e poéticas nacionais, contribuindo para a construção da identidade nacional. As instituições também foram importantes para os principais movimentos cívicos, literários e políticos que se seguiram ao longo das décadas no país, como os que levaram à proclamação da República, em 1889, e à Abolição, um ano antes.\n\n(Adaptado de ANDRADE, Rodrigo de Oliveira. ”Para formar homens de lei”. Revista Pesquisa Fapesp, out/2017)",
+            "question": "No contexto em que se insere, o verbo que pode ser corretamente flexionado em uma forma do plural está sublinhado em:",
+            "images": [],
+            "alternatives": {
+              "A": "Houve desencontros entre as intenções dos parlamentares e a prática.",
+              "B": "Tratava-se de um pedido de brasileiros matriculados na Universidade de Coimbra.",
+              "C": "Mais do que novas leis, o país precisava de uma consciência jurídica.",
+              "D": "onde a maioria dos que pretendiam seguir nas profissões jurídicas estudava.",
+              "E": "desses cursos sairia a elite política do país."
+            },
+            "answer": "D"
+          },
+          {
+            "questionId": "Esc_Naval_GR0204",
+            "questionText": "A concordância do termo destacado em “Um casal de meia idade se senta à mesa vizinha da minha.\" (25) está de acordo com a norma-padrão da língua. Em que opção tal fato também ocorre?",
+            "question": "",
+            "images": [],
+            "alternatives": {
+              "A": "Não é permitida conversa pelo celular neste restaurante.",
+              "B": "A mulher ficou meia chateada, pois o marido não parava de usar o celular.",
+              "C": "Há bastantes pessoas que usam o WhatsApp no Brasil.",
+              "D": "Seguem anexas às mensagens meu perfil no aplicativo.",
+              "E": "Só, sem qualquer amigo mais próximo, muitas pessoas se refugiam no mundo virtual."
+            },
+            "answer": "C"
+          },
+          {
+            "questionId": "Esc_Naval_GR0205",
+            "questionText": "No que se refere à concordância verbal, observe as frases abaixo.\n\nI) Espera-se muitas novidades no campo da informática educacional este ano.\nII) Em todos os países, faz-se muitas promessas aos fabricantes de mídias digitais.\nIII) Choveram reclamações sobre o novo celular disponibilizado nas lojas do ramo.\nIV) Houveram-se muito bem os expositores da Feira de Tecnologia no Anhembi.",
+            "question": "Assinale a opção que apresenta as frases gramaticalmente corretas:",
+            "images": [],
+            "alternatives": {
+              "A": "Apenas as afirmativas I, II e IV.",
+              "B": "Apenas as afirmativas II, III e IV.",
+              "C": "Apenas as afirmativas I, III e IV.",
+              "D": "Apenas as afirmativas I e II.",
+              "E": "Apenas as afirmativas III e IV."
+            },
+            "answer": "E"
+          },
+          {
+            "questionId": "Puccamp_GR0212",
+            "questionText": "Os franceses, no século XIX, se valeram da palavra inglesa spleen para nomear a melancolia, o sentimento depressivo. O cronista Rubem Braga era um mestre na expressão desse sentimento, ao qual, nesta crônica, opôs o da vivacidade, ou, para usar outra expressão inglesa, o de struggle for life: “Daquela pequena conversa triste no bar, em que dissemos as coisas mais desesperadamente banais, saímos, os dois, com uma espécie de amor raivoso à vida, ciúme e pressa da vida. Volto para casa. Estou cansado e tenho motivo já não digo para estar triste, mas, vamos dizer, aborrecido. Mas me distraio olhando o passarinho que trouxe da roça. Não é bonito e canta pouco, esse bicudo que ainda não fez a segunda muda. Mas o que é fascinante, nele, o que me prende a ele, é sua vida, sua vitalidade inquieta, ágil, infatigável, seu apetite, seu susto, a reação instantânea com que abre o bico, zangado, quando o ameaça com a mão. Ele está tomando banho e se sacode todo, salta, muda de poleiro, agita as penas – e me vigia de lado, com um olhinho escuro e vivo. Mudo-lhe a água do bebedouro, jogo-lhe pedrinhas de calcita que ele gosta de trincar. E me sinto bem com essa presença viva que não me compreende, mas que sente em mim um outro bicho, amigo ou inimigo, uma outra vida. Ele não sabe da morte, não a espera nem a teme – e a desmente em cada vibração de seu pequeno ser ávido e inquieto. Meu bicudo é um grande companheiro e irmão, e, na verdade, muito me ajuda.”\n\n(Adaptado de: BRAGA, Rubem. Recado de primavera. Rio de Janeiro: Record, 1984, p. 156)",
+            "question": "As normas de concordância verbal estão plenamente observadas na frase:",
+            "images": [],
+            "alternatives": {
+              "A": "Diante das reações do bicudo reanimavam-se, nas palavras do cronista, sua disposição para o que vale a pena viver.",
+              "B": "Depreende-se que das palavras difíceis que trocou o casal restaram alguns duros e talvez permanentes rancores.",
+              "C": "O que mais prendia o autor ao seu passarinho era as demonstrações vitais que se expressava em cada atitude do bicudo.",
+              "D": "O fato de não ser bonito e bom cantor pouco ou nada significavam para o cronista, preso à viva companhia do passarinho.",
+              "E": "Às tumultuadas e nervosas conversas de bar costumam seguir a sensação de que muito do que foi dito pautou-se por injustas acusações."
+            },
+            "answer": "B"
+          },
+          {
+            "questionId": "Esc_Naval_GR0202",
+            "questionText": "O desaparecimento dos livros na vida cotidiana e a diminuição da leitura(26) é preocupante quando sabemos que os livros são dispositivos fundamentais(18) na formação subjetiva das pessoas. Nos perguntamos sobre o que os meios de comunicação fazem conosco: da televisão ao computador, dos brinquedos ao telefone celular, somos formados por objetos e aparelhos.\n\nSe em nossa época a leitura diminui vertiginosamente, ao mesmo tempo, cresce o elogio da ignorância,(15) nossa velha conhecida. Há, nesse contexto, dois tipos de ignorância(25) em relação às quais os livros são potentes ou impotentes.(2) Uma é a ignorância filosófica, aquela que em Sócrates se expunha(9) na ironia do \"sei-que-nada-sei\". Aquele que não sabe e quer saber(19) pode procurar os livros, esses objetos que guardam tantas informações, tantos conteúdos, que podemos esperar deles muita coisa: perguntas e, até mesmo, respostas. A outra é a ignorância prepotente, à qual alguns filósofos deram o nome de \"burrice\". Pela burrice, essa forma cognitiva impotente e, contudo, muito prepotente,(22) alguém transforma o não saber em suposto saber, a resposta pronta é transformada em verdade. Nesse caso, os livros são esquecidos. Eles são desnecessários como \"meios para o saber\". Cancelada a curiosidade, como sinal de um desejo de conhecimento, os livros tornam-se inúteis.(10) Assim, a ignorância que nos permite saber se opõe à que nos deforma(1) por estagnação,(23) A primeira gosta dos livros, a segunda os detesta.(13)\n\n[ ... ]\n\nPara aprender a perguntar, precisamos aprender a ler. Não porque o pensamento dependa da gramática(16) ou da língua formal, mas porque ler é um tipo de experiência que nos ensina(12) a desenvolver raciocínios, nos ensina a entender, a ouvir e a falar para compreender. Nos ensina a interpretar. Nos ajuda, portanto, a elaborar questões,(8) a fazer perguntas. Perguntas que nos ajudam a dialogar,(6) ou seja, a entrar em contato com o outro. Nem que este outro seja,(20) em um primeiro momento, apenas cada um de nós mesmos.\n\nPensar, esse ato que está faltando entre nós, começa aí, muitas vezes em silêncio, quando nos dedicamos a esse gesto(4) simples(17) e ao mesmo tempo complexo que é ler um livro, É lamentável que as pessoas sucumbam ao clima programado da cultura(14) em que ler é proibido. Os meios tecnológicos de comunicação são insidiosos nesse momento, pois prometem uma completude que o ato de ler(5) um livro nunca prometeu. É que o ato da leitura nunca nos engana.(3) Por isso, também, muitos afastam-se dele.(11) Muitos que foram educados para não pensar,(24) passam a não gostar do que não conhecem.(7) Mas há quem tenha descoberto esse prazer(21) que é o prazer de pensar a partir da experiência da linguagem - compreensão e diálogo - que sempre está ofertada em um livro. Certamente para essas pessoas, o mundo todo - e ela mesma - é algo bem diferente.\n\nTIBURI, Márcia. Potência do pensamento: por uma filosofia política da leitura. Disponível em: http://revistacult.uol.com.br>. Acesso em: 31 jan. 2016, (Adaptado.)",
+            "question": "Em \"Há, nesse contexto, dois tipos de ignorância[...].\"(25), a concordância verbal, de acordo com a variedade padrão da língua, é feita na 3ª pessoa do singular. Em que opção isso também deve ocorrer?",
+            "images": [],
+            "alternatives": {
+              "A": "Cresce, no mundo, os casos de rejeição à leitura e consequente valorização de outros meios.",
+              "B": "Nas escolas, assiste-se a mudanças no que diz respeito ao prazer de pensar a partir da experiência da linguagem.",
+              "C": "Devia existir mais programas de incentivo à leitura, uma vez que ela ensina a desenvolver raciocínios.",
+              "D": "Do lado de fora da sala, ouvia-se os gritos dos alunos, extasiados com a história lida pela professora.",
+              "E": "Já é comum, na vida cotidiana, os meios tecnológicos de comunicação."
+            },
+            "answer": "B"
+          },
+          {
+            "questionId": "Puccamp_GR0214",
+            "questionText": "No museu do passado\n\nO interesse pela história deu origem aos museus e também à decisão de preservar os monumentos históricos. A justificativa inicial dessas iniciativas era: lembrar-se para não repetir. Não deu muito certo, pois nunca paramos de repetir o pior. Na verdade, suspeito que nosso gosto pelos resíduos do passado não seja pedagógico. Por que nos importa a história? Por que deambulamos pelos museus?\n\nAcreditamos que os homens devam afirmar-se segundo as suas habilidades. Não queremos que o passado decida nosso destino: o que nos importa, em princípio, é o futuro. \"Não me fale de suas façanhas de ontem, diga-me o que sabe fazer.\" Se inventamos a arqueologia, a história, o museu, a restauração e a conservação das antiguidades, não foi para aprender uma lição. A razão dessa nossa paixão é o caráter incompleto da revolução moderna: o futuro é um terreno demasiado inquietante e incerto para aceitarmos que só ele nos defina; portanto, o passado assombra nossos dias.\n\nNão conseguimos esquecer: proclamamos a liberdade dos espíritos, mas cultivamos antigos preconceitos de raça, cultura e classe. Ou então nos dizemos autônomos, mas explicamos nossos atos pelos eventos da nossa infância ou pelo legado dos nossos pais.\n\nNuma cultura diferente da nossa, os restos do passado poderiam parecer bem mais importantes do que uma vida. Talvez um homem do Antigo Regime nos dissesse que sem a presença do passado não haveria sociedade nem sujeitos. Talvez, para ele, a promessa de futuro contida no sorriso de um menino valesse menos do que os artefatos que sustentam a memória de um povo.\n\n(Adaptado de: CALLIGARIS, Contardo. Terra de ninguém. S. Paulo, Cia das Letras, 2004, p. 331-332)",
+            "question": "As normas de concordância verbal estão plenamente observadas na frase:",
+            "images": [],
+            "alternatives": {
+              "A": "Não lhes faltariam, aos homens do Antigo Regime, a convicção de que as experiências do passado trazem lições mais preciosas do que se investirem no futuro.",
+              "B": "Por mais que se invistam na criação de museus, sempre haverá aqueles que não contem senão com as habilidades que com o progresso mantenha compromisso.",
+              "C": "Ainda que nos digamos autônomos em nossa conduta, acabamos conferindo aos nossos atos uma justificativa que só nas experiências passadas se sustentariam.",
+              "D": "Existem nas diferentes culturas e civilizações a manifestação de preconceitos distintos, que derivam de singulares processos de formação dos valores coletivos.",
+              "E": "Ao não se atribuir aos tempos passados o mérito de uma real pedagogia, investe-se mais nas habilidades que se aproveitem para a construção do futuro."
+            },
+            "answer": "E"
+          },
+          {
+            "questionId": "Esc_Naval_GR0203",
+            "questionText": "O desaparecimento dos livros na vida cotidiana e a diminuição da leitura(26) é preocupante quando sabemos que os livros são dispositivos fundamentais(18) na formação subjetiva das pessoas. Nos perguntamos sobre o que os meios de comunicação fazem conosco: da televisão ao computador, dos brinquedos ao telefone celular, somos formados por objetos e aparelhos.\n\nSe em nossa época a leitura diminui vertiginosamente, ao mesmo tempo, cresce o elogio da ignorância,(15) nossa velha conhecida. Há, nesse contexto, dois tipos de ignorância(25) em relação às quais os livros são potentes ou impotentes.(2) Uma é a ignorância filosófica, aquela que em Sócrates se expunha(9) na ironia do \"sei-que-nada-sei\". Aquele que não sabe e quer saber(19) pode procurar os livros, esses objetos que guardam tantas informações, tantos conteúdos, que podemos esperar deles muita coisa: perguntas e, até mesmo, respostas. A outra é a ignorância prepotente, à qual alguns filósofos deram o nome de \"burrice\". Pela burrice, essa forma cognitiva impotente e, contudo, muito prepotente,(22) alguém transforma o não saber em suposto saber, a resposta pronta é transformada em verdade. Nesse caso, os livros são esquecidos. Eles são desnecessários como \"meios para o saber\". Cancelada a curiosidade, como sinal de um desejo de conhecimento, os livros tornam-se inúteis.(10) Assim, a ignorância que nos permite saber se opõe à que nos deforma(1) por estagnação,(23) A primeira gosta dos livros, a segunda os detesta.(13)\n\n[ ... ]\n\nPara aprender a perguntar, precisamos aprender a ler. Não porque o pensamento dependa da gramática(16) ou da língua formal, mas porque ler é um tipo de experiência que nos ensina(12) a desenvolver raciocínios, nos ensina a entender, a ouvir e a falar para compreender. Nos ensina a interpretar. Nos ajuda, portanto, a elaborar questões,(8) a fazer perguntas. Perguntas que nos ajudam a dialogar,(6) ou seja, a entrar em contato com o outro. Nem que este outro seja,(20) em um primeiro momento, apenas cada um de nós mesmos.\n\nPensar, esse ato que está faltando entre nós, começa aí, muitas vezes em silêncio, quando nos dedicamos a esse gesto(4) simples(17) e ao mesmo tempo complexo que é ler um livro, É lamentável que as pessoas sucumbam ao clima programado da cultura(14) em que ler é proibido. Os meios tecnológicos de comunicação são insidiosos nesse momento, pois prometem uma completude que o ato de ler(5) um livro nunca prometeu. É que o ato da leitura nunca nos engana.(3) Por isso, também, muitos afastam-se dele.(11) Muitos que foram educados para não pensar,(24) passam a não gostar do que não conhecem.(7) Mas há quem tenha descoberto esse prazer(21) que é o prazer de pensar a partir da experiência da linguagem - compreensão e diálogo - que sempre está ofertada em um livro. Certamente para essas pessoas, o mundo todo - e ela mesma - é algo bem diferente.\n\nTIBURI, Márcia. Potência do pensamento: por uma filosofia política da leitura. Disponível em: http://revistacult.uol.com.br>. Acesso em: 31 jan. 2016, (Adaptado.)",
+            "question": "Em que opção a concordância nominal está correta?",
+            "images": [],
+            "alternatives": {
+              "A": "Pais e professores estão alertas para a notória diminuição do hábito de leitura entre os jovens.",
+              "B": "Infelizmente, tornaram-se tiranas as mães e os educadores que não refletiram sobre a palestra.",
+              "C": "Algumas pessoas ficaram todo felizes quando acertaram muitas questões na prova de seleção.",
+              "D": "O profissional inexperiente traduziu errada uma das frases, confundindo muitos leitores.",
+              "E": "Muitos sabem que é proibida entrada de animais em supermercados e hortifrútis."
+            },
+            "answer": "C"
+          },
+          {
+            "questionId": "Enem PPL_GR0604",
+            "questionText": "Considerando-se os contextos de uso de “Todas chora”, essa expressão é um exemplo de variante linguística",
+            "images": ["https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/7c852350-3659-4f40-ae36-091146606897-arquivo-editor"],
+            "alternatives": {
+              "A": "típica de pessoas despreocupadas em seguir as regras de escrita.",
+              "B": "usada como recurso para atrair a atenção de interlocutores e consumidores.",
+              "C": "transposta de situações de interação típicas de ambientes rurais do interior do Brasil.",
+              "D": "incompatível com ambientes frequentados por usuários da norma-padrão da língua.",
+              "E": "condenável em produtos voltados para uma clientela exigente e interessada em novidades."
+            },
+            "answer": "B"
+          },
+          {
+            "questionId": "Enem_GR0619",
+            "questionText": "Maurício e o leão chamado Millôr\n\nLivro de Flavia Maria ilustrado por cartunista nasce como um dos grandes títulos do gênero infantil\n\nUm livro infantil ilustrado por Millôr há de ter alguma grandeza natural, um viço qualquer que o destaque de um gênero que invade as livrarias (2 mil títulos novos, todo ano) nem sempre com qualidade. Uma pegada que o afaste do risco de fazer sombra ao fato de ser ilustrado por Millôr: Maurício - O Leão de Menino (CosacNaify, 24 páginas, R$ 35), de Flavia Maria, tem essa pegada.\n\nDisponível em: http://www.revistalingua.com.br. Acesso em: 30 abr. 2010. (Fragmento.)",
+            "images": [],
+            "question": "Como qualquer outra variedade linguística, a norma padrão tem suas especificidades. No texto, observam-se marcas da norma padrão que são determinadas pelo veículo em que ele circula, que é a Revista Língua Portuguesa. Entre essas marcas, evidencia-se",
+            "alternatives": {
+              "A": "a obediência às normas gramaticais, como a concordância em “um gênero que invade as livrarias”.",
+              "B": "a presença de vocabulário arcaico, como em “há de ter alguma grandeza natural”.",
+              "C": "o predomínio de linguagem figurada, como em “um viço qualquer que o destaque”.",
+              "D": "o emprego de expressões regionais, como em “tem essa pegada”.",
+              "E": "o uso de termos técnicos, como em “grandes títulos do gênero infantil”."
+            },
+            "answer": "A"
+          },
+          {
+            "questionId": "Ifpe_GR0653",
+            "questionText": "A GESTÃO DE ESPAÇOS AMBIENTAIS PROTEGIDOS\n\n(1) O meio ambiente é um bem de uso comum do povo. Deve o poder público e a coletividade defendê-lo e preservá-lo. Quanto ao poder público, incumbe, especialmente, preservar e restaurar os processos ecológicos essenciais; prover o manejo ecológico das espécies e ecossistemas; preservar a diversidade e a integridade do patrimônio genético do país; dentre outras medidas. Nesse intuito, destaca-se como medida de execução desse dever a definição de espaços territoriais especialmente protegidos.\n\n(2) De fato, a legislação ambiental brasileira é pródiga em estabelecer uma disciplina territorial, fixando, em áreas de domínio público e privado, espaços protegidos, em que o uso é limitado ou proibido. Em linhas gerais, os espaços protegidos são criados por três diferentes formas. Em primeiro lugar, há espaços protegidos criados por lei, correspondentes às limitações e à utilização da propriedade privada – é o caso das áreas de preservação permanente e de reserva legal. Em segundo lugar, há espaços protegidos criados por ato dos proprietários, as RPPNs (Reservas Particulares do Patrimônio Natural) e as servidões ambientais. Por último, há os espaços protegidos criados por ato do poder público, que são as unidades de conservação e as áreas de interesse ecológico. Cada um desses espaços protegidos submete-se a um regime de proteção, correspondente a uma finalidade socioambiental fixada pela legislação.\n\n(3) A definição de espaços protegidos é uma estratégia de proteção ambiental de escolhas radicais. Trata-se de uma limitação de usos do território que, na maior parte das vezes, é feita sem considerar a necessária equalização de interesses sobre o território, causando conflitos excessivos e desnecessários. É evidente que a criação de unidades de conservação, por exemplo, pode se mostrar importante ferramenta para a conservação da biodiversidade e para a manutenção de processos ecológicos. A imposição dos seus limites sob o território não pode ser feita, no entanto, como mera regra de exclusão das populações locais e situadas em seu entorno.\n\n(4) Essa situação mostra-se agravada quando a imposição de proibições, embargos ou limites absolutos é feita pelo poder judiciário, nos termos de um conflito limitado ao presente nos autos de um processo judicial, no qual a participação limita-se às partes, sem, necessariamente, considerar todas as populações envolvidas na decisão e impactadas pelo precedente. Na maior parte das vezes, o judiciário impõe soluções de ruptura, que não podem contemplar vias alternativas, considerando a peculiaridade do fato ou as tecnologias disponíveis para conciliar os interesses ambientais com os da sustentabilidade.\n\n(5) Diferentemente do que acontece com a definição dos espaços protegidos, que é uma previsão estática de limitação de usos, a sustentabilidade necessita de uma governança dinâmica, que possa equilibrar riscos e alterações da situação ambiental com benefícios sociais das intervenções humanas no ambiente. Essa análise é incompatível com regras predefinidas, estanques, ou com a solução binária decorrente dos processos judiciais.\n\nBUENO, Francisco de Godoy. A gestão de espaços ambientais protegidos. Jornal Gazeta do Povo. Publicado em 22 maio 2019.<https://www.gazetadopovo.com.br/opiniao/artigos/a-gestao-de-espacosambientais-protegidos/>. Acesso em: 25 maio 2019 (adaptado).",
+            "question": "As regras de concordância promovem, em um texto, a correspondência harmoniosa entre as palavras e as expressões que o compõem; e as regras de regência, por sua vez, tratam das relações de dependência entre os termos que formam a oração e entre as orações que o constituem. Sobre sintaxe de concordância e de regência, analise as proposições a seguir, acerca de trechos do TEXTO 1, e assinale a alternativa CORRETA.\n\nI. Em “há espaços protegidos criados por ato dos proprietários” e em “há os espaços protegidos criados por ato do poder público” (2º parágrafo), o verbo haver é impessoal e, portanto, intransitivo, podendo, por essa razão, ser grafado no singular.\n\nII. No trecho “Deve o poder público e a coletividade defendê-lo e preservá-lo” (1º parágrafo), a forma verbal em destaque, por estar anteposta ao seu sujeito, pôde ser grafada no singular, concordando, apenas, com o núcleo mais próximo.\n\nIII. Em “Nesse intuito, destaca-se como medida de execução desse dever a definição de espaços territoriais especialmente protegidos” (1º parágrafo), o elemento destacado poderia ser pluralizado, concordando, dessa forma, com “espaços territoriais [...] protegidos”, e não haveria alteração de sentido no trecho.\n\nIV. Em “há espaços protegidos criados por lei” e em “há espaços protegidos criados por ato dos proprietários” (2° parágrafo), se substituíssemos as formas do verbo “haver” pelas do verbo “existir”, este deveria ser grafado no plural, por não manter a impessoalidade daquele.\n\nV. No trecho “a legislação ambiental brasileira é pródiga em estabelecer uma disciplina territorial” (2º parágrafo), a preposição foi utilizada devido à regência do adjetivo que a antecede, funcionando como elemento de ligação entre esse nome e o complemento que ele rege.\n\nEstão CORRETAS, apenas, as proposições",
+            "images": [],
+            "alternatives": {
+              "A": "I, II e III.",
+              "B": "II, IV e V.",
+              "C": "III, IV e V.",
+              "D": "I, II e IV.",
+              "E": "I, III e V."
+            },
+            "answer": "B"
+          },
+          
+  {
+    "questionId": "Col_Naval_GR0664",
+    "questionText": "Campeonato do desperdício\n\nNo campeonato do desperdício, somos campeões em várias modalidades. Algumas de que nos orgulhamos e outras de que nem tanto.(6) Meu amigo Adamastor, antropólogo das horas vagas, não me deu as causas(7) primeiras de nossa primazia, mas forneceu-me(18) uma lista em que somos imbatíveis. Claro, das modalidades que 'nem tanto'.\n\nVocês já ouviram falar em lixo rico?(31) Somos os campeões. Nosso lixo faria a fartura de um Haiti. Com o que jogamos fora e que poderia ser aproveitado, poder-se-ia alimentar(8) muito mais do que a população do Haiti.(5) Há pesquisas do assunto e cálculos exatos que 'nem tanto'. Somos um país pobre com mania de rico.(22) E nosso lixo é mais rico do que o lixo dos países ricos. Meu falecido pai costumava dizer: rico raspa o queijo com as costas da faca;(32) remediado corta uma casca bem fininha; pobre, contudo, arranca uma lasca imensa do queijo. Meu pai dizia, e tenho a impressão que meu pai era(13) um homem preconceituoso,(30) mas em termos de manuseio dos alimentos nacionais, arrancamos uma lasca imensa do queijo, ah, sim, arrancamos.\n\nOutra modalidade em que somos campeões absolutos, o desperdício do transporte.(25) Ninguém no mundo consegue, tanto quanto nós, jogar grãos nas estradas.(15) Não viajo pouco e me considero testemunha ocular.(20) A Anhanguera, por exemplo, tem verdadeiras plantações de soja(33) em suas margens. Quando pego uma traseira de caminhão e aquela chuva de grãos me assusta, penso rápido e fico calmo: faz parte da competição, e temos de ser campeões.(2)\n\nNa construção civil o desperdício chega a ser escandaloso.(1) Um dia o Adamastor, antropólogo das horas vagas, me veio com uma folha de jornal onde se liam estatísticas indecentes.(10) Com o que se joga fora(19) de material (do mais bruto ao mais sofisticado),(26) o Brasil poderia construir todos os estádios que a FIFA exige(11) e ainda poderia exportar cidades para o mundo.(27)\n\nAntigamente, este que vos atormenta, levava um litro lavado para trocar por outro cheio de leite.(28) Você, caro leitor, talvez nem tenha notícia disso. Mas era assim. Agora, compram-se o leite e sua embalagem internamente aluminizada para jogá-la no lixo.(3) Quanto de nosso petróleo vai para o lixo em forma de sacos plásticos?(21) Vocês já ouviram falar que o petróleo é um recurso inesgotável?(29) Claro que não! Mas sente algum remorso ao jogar os sacos trazidos do supermercado no lixo?(16) Claro que não. Nossa cultura de mosaico nos tirou a capacidade(9) de ligar os fenômenos entre si.(14)\n\nE o que desperdiçamos de talentos, de esforço educacional? São advogados atendendo em balcão de banco,(34) engenheiros vendendo cachorro-quente nas avenidas de São Paulo,(4) são gênios que se desperdiçam diariamente(12) como se fossem recursos,(17) eles também, inesgotáveis. No dia em que a gente precisar, vai lá e pega.(23) No dia em que a gente precisar, pode não existir mais. Não importa, vivemos no melhor dos mundos, segundo a opinião do Adamastor, o gigante, plagiando um tal de Dr. Pangloss, que ironizava um tal de Leibniz.(24)\n\nBRAFF, Menalton. Campeonato do desperdício. Disponível em: www.cartacapital.com.br. Acesso em: 14 jan. 2013 (adaptado).\n\nDr. Pangloss – personagem de Cândido, de Voltaire. Caracteriza-se pelo extremo otimismo.\n\nLeibniz – autor da teoria de que nada acontece ao acaso. Estamos no melhor dos mundos possíveis, o ser só é, só existe, porque é o melhor possível.\n\nAdamastor, o gigante – personificação do Cabo das Tormentas, em Os Lusíadas, do escritor português Luiz Vaz de Camões.",
+    "question": "Em que opção há um desvio da norma padrão no que diz respeito à concordância?",
+    "images": [],
+    "alternatives": {
+      "A": "“Ninguém no mundo consegue, tanto quanto nós, jogar grãos nas estradas.” (15)",
+      "B": "“Um dia o Adamastor, antropólogo das horas vagas, me veio com uma folha de jornal onde se liam estatísticas indecentes.” (10)",
+      "C": "“Vocês já ouviram falar que o petróleo é um recurso inesgotável? Claro que não! Mas sente algum remorso ao jogar os sacos trazidos do supermercado no lixo?” (16)",
+      "D": "“Nosso lixo faria a fartura de um Haiti. Com o que jogamos fora e que poderia ser aproveitado, poder-se-ia alimentar muito mais do que a população do Haiti.” (5)",
+      "E": "“São advogados atendendo em balcão de Banco, engenheiros vendendo cachorro-quente nas avenidas de São Paulo, são gênios que se desperdiçam diariamente como se fossem recursos[...].” (17)"
+    },
+    "answer": "C"
+  },
+  {
+    "questionId": "Espm_GR0679",
+    "questionText": "Observando o aviso acima, é possível constatar duas ocorrências linguísticas (uma ligada à transgressão gramatical e outra ligada à semântica). Essas ocorrências são respectivamente de:",
+    "question": "",
+    "images": [
+      "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/0d134b25-9a9f-429d-87e3-fb902615e981-arquivo-editor"
+    ],
+    "alternatives": {
+      "A": "concordância nominal e ambiguidade.",
+      "B": "concordância verbal e ambiguidade.",
+      "C": "flexão de gênero e polissemia.",
+      "D": "ortografia e redundância.",
+      "E": "regência verbal e léxico."
+    },
+    "answer": "A"
+  },
+  {
+    "questionId": "Espm_GR0681",
+    "questionText": "(...) Esta casa do Engenho Novo, conquanto reproduza a de Mata-cavalos, apenas me lembra aquela, e mais por efeito de comparação e de reflexão que de sentimento. Já disse isto mesmo.\n\nHão de perguntar-me por que razão, tendo a própria casa velha, na mesma rua antiga, não impedi que a demolissem e vim reproduzi-la nesta. A pergunta devia ser feita a princípio, mas aqui vai a resposta. A razão é que, logo que minha mãe morreu, querendo ir para lá, fiz primeiro uma longa visita de inspeção por alguns dias, e toda a casa me desconheceu. No quintal a aroeira e a pitangueira, o poço, a caçamba velha e o lavadouro, nada sabia de mim. A casuarina era a mesma que eu deixara ao fundo, mas o tronco, em vez de reto, como outrora, tinha agora um ar de ponto de interrogação; naturalmente pasmava do intruso. (...)\n\nTudo me era estranho e adverso. Deixei que demolissem a casa, e, mais tarde, quando vim para o Engenho Novo, lembrou-me fazer esta reprodução por explicações que dei ao arquiteto, segundo contei em tempo.\n\n(Machado de Assis, Dom Casmurro, Capítulo CXLIV)",
+    "question": "Considere o trecho: “No quintal a aroeira e a pitangueira, o poço, a caçamba velha e o lavadouro, nada sabia de mim” e assinale a afirmação incorreta:",
+    "images": [],
+    "alternatives": {
+      "A": "O pronome indefinido “nada” funciona sintaticamente, na oração, como aposto resumidor.",
+      "B": "O segmento “a aroeira e a pitangueira, o poço, a caçamba velha e o lavadouro” exerce a função sintática de sujeito composto.",
+      "C": "A flexão do verbo no singular (“sabia”) se deve ao fato de haver uma concordância ideológica, ou seja, uma silepse de número.",
+      "D": "Trata-se de um caso especial de concordância, a qual não segue a regra geral que estabelece: “todo verbo deve concordar em número e pessoa com o núcleo do sujeito”.",
+      "E": "Após o adjunto adverbial de lugar “No quintal”, poderia haver uma vírgula."
+    },
+    "answer": "C"
+  },
+  {
+    "questionId": "Unifenas_GR0695",
+    "questionText": "Angelina Jolie entra no Instagram para chamar a atenção sobre sofrimento afegão\n\nJolie, que é enviada especial da Agência das Nações Unidas para Refugiados, publicou que planeja compartilhar histórias de pessoas “que estão lutando por seus direitos humanos básicos”\n\nFoto preta e branca de mulher com cabelo escuro\n\nDescrição gerada automaticamente\n\nA atriz Angelina Jolie. Foto: Instagram/ Reprodução. Leah Asmelashda CNN.\n\n1. Angelina Jolie, uma das poucas celebridades notoriamente privadas, sem presença nas redes sociais, aderiu ao Instagram para usar a plataforma como meio de chamar a atenção para a situação no Afeganistão. Jolie entrou na plataforma na sexta-feira (20), postando uma carta que diz ter recebido de uma adolescente afegã, cujo nome e localização foram borrados.\n\n2. Na carta, a menina expressa suas preocupações e temores sobre a vida sob o regime do Taleban, escrevendo que “estamos presos novamente”. “Antes de o Talibã entrar … todos nós tínhamos direitos, podíamos defendê-los livremente”, diz a carta. “Mas quando eles vêm, todos temos medo deles e pensamos que todos os nossos sonhos se foram.”\n\n3. Jolie, que é enviada especial da Agência das Nações Unidas para Refugiados, escreveu em sua legenda que planeja compartilhar histórias de pessoas em todo o mundo “que estão lutando por seus direitos humanos básicos”.\n\n(...)\n\n5. Após a retirada dos EUA do Afeganistão, o Taleban rapidamente assumiu o poder, causando medo generalizado entre muitos no país. Anteriormente, o Talibã detinha o poder entre 1996 e 2001, liderando um regime opressor em que as mulheres ficavam em grande parte confinadas em casa, enquanto amputações e execuções públicas não eram incomuns.\n\n6. Embora o Taleban tenha dito que eles mudaram, muitas pessoas dentro e fora do Afeganistão estão céticas. “Duvido muito que o Taleban tenha mudado. Eles não têm os mesmos valores que o povo afegão. A democracia está fora de cogitação para eles. Acreditamos que o Taleban está se manifestando porque a comunidade internacional e as Nações Unidas estão observando-os de perto”, disse uma mulher afegã em Kunduz em nota de voz à CNN esta semana.\n\n7. Enquanto isso, milhares de afegãos tentaram fugir do país, causando estragos no Aeroporto Internacional Hamid Karzai, em Cabul, enquanto os EUA tentavam realocar cidadãos americanos e afegãos vulneráveis.",
+    "question": "Sobre os verbos observados nesse trecho, é correto afirmar que",
+    "images": [],
+    "alternatives": {
+      "A": "o verbo “mudaram” deveria ser usado no singular caso o pronome “eles”, que o antecede, fosse retirado da frase.",
+      "B": "o verbo “duvido” tem sujeito indeterminado, já que não se sabe quem pratica a ação de duvidar.",
+      "C": "o verbo “têm” recebe acento circunflexo por ser um monossílabo tônico terminado em “EM”.",
+      "D": "o verbo “acreditamos” está, equivocadamente, na 1ª pessoa do plural, já que o correto seria o uso da 1ª pessoa do singular.",
+      "E": "a locução “estão observando” indica uma voz passiva analítica, já que o Taleban sofre a ação de ser observado."
+    },
+    "answer": "A"
+  },
+  {
+    "questionId": "Afa_GR0793",
+    "questionText": "Apenas uma das alternativas abaixo apresenta ERRO de concordância verbal. Assinale-a.\n\nVíveres: alimentos, gêneros alimentícios.",
+    "question": "",
+    "images": [],
+    "alternatives": {
+      "A": "Davam três horas quando ela chegou ao dentista.",
+      "B": "Hoje existem poucas chances de conquistarmos a liderança do grupo.",
+      "C": "“Um gesto, um olhar, um sorriso bastariam para que o rapaz se sentisse feliz.”",
+      "D": "Faltou víveres no acampamento da escola."
+    },
+    "answer": "D"
+  },
+  {
+    "questionId": "Uenp_GR0885",
+    "questionText": "Com relação às palavras “cestas” e “sextas”, considere as afirmativas a seguir.\n\nI. As duas palavras pertencem à mesma classe gramatical.\n\nII. São paroxítonas e pronunciadas com “e” fechado.\n\nIII. Apresentam a mesma pronúncia, mas grafia e significado diferentes.\n\nIV. A substituição de uma palavra pela outra não altera o significado.",
+    "question": "",
+    "images": [
+      "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/b80318df-7925-4c6a-8ee7-1a0a97c2548d-arquivo-editor"
+    ],
+    "alternatives": {
+      "A": "Somente as afirmativas I e II são corretas.",
+      "B": "Somente as afirmativas I e IV são corretas.",
+      "C": "Somente as afirmativas III e IV são corretas.",
+      "D": "Somente as afirmativas I, II e III são corretas.",
+      "E": "Somente as afirmativas II, III e IV são corretas."
+    },
+    "answer": "D"
+    },
+    {
+        "questionId": "Ufrgs_GR0886",
+        "questionText": "– Para mim esta é a melhor hora do dia – Ema disse, voltando do quarto dos meninos. – Com as crianças na cama, a casa fica tão sossegada. \n\n– Só que já é noite – a amiga corrigiu, sem tirar os olhos da revista. Ema agachou-se para recolher o quebra-cabeça esparramado pelo chão. \n\n– É força de expressão, sua boba. O dia acaba quando eu vou dormir, isto é, o dia tem vinte quatro horas e a semana tem sete dias, não está certo? – Descobriu um sapato sob a poltrona. Pegou-o e, quase deitada no tapete, procurou, depois, o par ______1 dos outros móveis.\n\nEra bom ter uma amiga experiente. Nem precisa ser da mesma idade – deixou-se cair no sofá – Bárbara, muito mais sábia. Examinou-a a ler: uma linha de luz dourada valorizava o perfil privilegiado. As duas eram tão inseparáveis quanto seus maridos, colegas de escritório. Até ter filhos juntas conseguiram, acreditasse quem quisesse. Tão gostoso, ambas no hospital. A semelhança física teria contribuído para o perfeito entendimento? “Imaginava que fossem irmãs”, muitos diziam, o que sempre causava satisfação.\n\n– O que está se passando nessa cabecinha? – Bárbara estranhou a amiga, só doente pararia quieta. Admirou-a: os cabelos soltos, caídos no rosto, escondiam os olhos ______2, azuis ou verdes, conforme o reflexo da roupa. De que cor estariam hoje seus olhos? \n\nEma aprumou o corpo.\n\n– Pensava que se nós morássemos numa casa grande, vocês e nós... \n\nBárbara sorriu. Também ela uma vez tivera a ideia. – As crianças brigariam o tempo todo.\n\nNovamente a amiga tinha razão. Os filhos não se suportavam, discutiam por qualquer motivo, ciúme doentio de tudo. O que sombreava o relacionamento dos casais. \n\n– Pelo menos podíamos morar mais perto, então.\n\nSe o marido estivesse em casa, seria obrigada a assistir à televisão, ______3, ele mal chegava, ia ligando o aparelho, ainda que soubesse que ela detestava sentar que nem múmia diante do aparelho – levantou-se, repelindo a lembrança. Preparou uma jarra de limonada. ______4 todo aquele interesse de Bárbara na revista? Reformulou a pergunta em voz alta.\n\n– Nada em especial. Uma pesquisa sobre o comportamento das crianças na escola, de como se modificam as personalidades longe dos pais.",
+        "question": "",
+        "images": [],
+        "alternatives": {
+          "A": "em baixo – cinza – por que – Porque",
+          "B": "embaixo – cinzas – porque – Por que",
+          "C": "embaixo – cinza – porque – Por que",
+          "D": "em baixo – cinzas – por que – Porque",
+          "E": "embaixo – cinzas – porque – Porque"
+        },
+        "answer": "C"
+      },
+      {
+        "questionId": "Enem_GR0925",
+        "questionText": "Falar errado é uma arte, Arnesto!\n\nNo dia 6 de agosto de 1910, Emma Riccini Rubinato pariu um garoto sapeca em Valinhos e deu a ele o nome de João Rubinato. Na escola, João não passou do terceiro ano. Não era a área dele, tinha de escolher outra. Fez o que apareceu. Foi ser garçom, metalúrgico, até virar radialista, comediante, ator de cinema e TV, cantor e compositor. De samba.\n\nComo tinha sobrenome italiano, João resolveu mudar para emplacar seu samba. E como ia mudar o sobrenome, mudou o nome. Virou Adoniran Barbosa. O cara falava errado, voz rouca, pinta de malandro da roça. Virou ícone da música brasileira, o mais paulista de todos, falando errado e irritando Vinicius de Moraes, que ficou de bico fechado depois de ouvir a música que Adoniran fez para a letra Bom dia, tristeza, de autoria do Poetinha. Coisa de arrepiar.\n\nPara toda essa gente que implicava, Adoniran tinha uma resposta neoerudita: “Gosto de samba e não foi fácil, pra mim, ser aceito como compositor, porque ninguém queria nada com as minhas letras que falavam ‘nóis vai’, ‘nóis fumo’, ‘nóis fizemo’, ‘nóis peguemo’. Acontece que é preciso saber falar errado. Falar errado é uma arte, senão vira deboche”.\n\nEle sabia o que fazia. Por isso dizia que falar errado era uma arte. A sua arte. Escolhida a dedo porque casava com seu tipo. O Samba do Arnesto é um monumento à fala errada, assim como Tiro ao Álvaro. O erudito podia resmungar, mas o povo se identificava.\n\nPEREIRA, E. Disponível em: www.tribunapr.com.br. Acesso em: 8 jul. 2024 (adaptado).",
+        "question": "O “falar errado” a que o texto se refere constitui um preconceito em relação ao uso que Adoniran Barbosa fazia da língua em suas composições, pois esse uso",
+        "alternatives": {
+          "A": "marcava a linguagem dos comediantes no mesmo período.",
+          "B": "prejudicava a compreensão das canções pelo público.",
+          "C": "denunciava a ausência de estilo nas letras de canção.",
+          "D": "restringia a criação poética nas letras do compositor.",
+          "E": "transgredia a norma-padrão vigente à época."
+        },
+        "answer": "E"
+      }
+
+]
+}

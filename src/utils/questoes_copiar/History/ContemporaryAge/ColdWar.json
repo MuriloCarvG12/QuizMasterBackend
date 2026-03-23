@@ -1,0 +1,278 @@
+{
+    "examTitle": "Guerra Fria",
+    "questions": [
+          {
+    "questionId": "Uerj_H0746",
+    "questionText": "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/076aa556-5396-45d0-8721-af161e495f37-arquivo-editor\n\nNa esfera das relações internacionais, o contexto histórico ao qual a personagem faz referência era marcado por uma divisão do mundo decorrente sobretudo do seguinte fator:",
+    "question": "Identifique o fator que marcou a divisão do mundo no contexto histórico mencionado:",
+    "images": ["https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/076aa556-5396-45d0-8721-af161e495f37-arquivo-editor"],
+    "alternatives": {
+      "A": "disputa religioso-cultural",
+      "B": "antagonismo étnico-linguístico",
+      "C": "bipolaridade político-ideológica",
+      "D": "rivalidade financeiro-comercial"
+    },
+    "answer": "C"
+  },
+  {
+    "questionId": "Enem_H1060",
+    "questionText": "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/eedd0fe8-4033-41f7-a262-b3630b76abd1-arquivo-editor\n\nA memória recuperada pela autora apresenta a relação entre:",
+    "question": "Qual é a relação apresentada pela memória recuperada pela autora?",
+    "images": ["https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/eedd0fe8-4033-41f7-a262-b3630b76abd1-arquivo-editor"],
+    "alternatives": {
+      "A": "conflito trabalhista e engajamento sindical",
+      "B": "organização familiar e proteção à infância",
+      "C": "centralização econômica e pregação religiosa",
+      "D": "estrutura educacional e desigualdade de renda",
+      "E": "transformação política e modificação de costumes"
+    },
+    "answer": "E"
+  },
+  {
+    "questionId": "Upf_H0739",
+    "questionText": "Leia o poema “Muro de Berlim”:\n\nPela tevê assisto a queda\ndo muro de Berlim\ne as picaretas trabalham em mim.\nCai o muro de Berlim.\nA utopia chega ao fim.\nDesmorona, se esfacela,\ntijolo por tijolo\num sonho implode, por fim.\nNão. Não sou a favor do muro.\nÉ o que o que com ele chega ao fim.\nJá agonizava, bem sabia,\nmas a morte anunciada\nnão te alivia\nquando se vê a morte, enfim.\nE tantos sonharam com a utopia.\nPor ela tantos lutaram no dia-a-dia\ne agora morta assim.\nNão lamentarei mais\nque a morte não volta atrás.\nUm sonho está morto.\nOs erros foram tantos.\nÉ o fim?\n\n(Radamés)\n\nO poeta registra um dos mais importantes episódios da História Contemporânea, ocorrido em 10 de novembro de 1989.",
+    "question": "Sobre a queda do Muro de Berlim, é correto afirmar:",
+    "images": [],
+    "alternatives": {
+      "A": "Foi o resultado dos esforços da ONU que, através de acordos bilaterais, conseguiu reunificar a cidade de Berlim, dividida pelos aliados ao final da Segunda Guerra Mundial.",
+      "B": "Constituiu-se num dos grandes símbolos do final da Guerra Fria, disputa política que dominou as relações internacionais após a Segunda Guerra Mundial.",
+      "C": "O fato acirrou as tensões entre Oriente e Ocidente, exemplificadas na permanência da divisão da Alemanha.",
+      "D": "A queda foi o resultado de uma tensa disputa diplomática, resultando na entrada da Alemanha no grupo militar chamado de Pacto de Varsóvia.",
+      "E": "Representou a vitória dos princípios liberais e democráticos contra os princípios absolutistas e conservadores."
+    },
+    "answer": "B"
+  },
+  {
+    "questionId": "Unesp_H0734",
+    "questionText": "Leia o texto:\n\nCom o fim da Segunda Guerra Mundial, os Estados Unidos se viram numa situação privilegiada, como a mais forte, coesa e próspera economia mundial. O governo americano coordenou um vasto plano de apoio para recuperar as economias capitalistas da Europa Ocidental, já no contexto da Guerra Fria. As agitações revolucionárias na Ásia, África e América Latina forçariam desdobramentos dos investimentos americanos também para essas áreas.\n\nO resultado desse conjunto de medidas foi um crescimento econômico sem precedentes das economias industriais. Entre 1953 e 1975 a taxa de produção industrial cresceu na escala extraordinária de seis por cento ao ano. O crescimento da riqueza foi de cerca de quatro por cento per capita em todo esse período. Mesmo com a crise do petróleo, que atingiu e abateu os mercados entre 1973 e 1980, o crescimento continuou, embora reduzido a cerca de dois e meio por cento ao ano, o que ainda era uma escala notável.\n\n(Nicolau Sevcenko. A corrida para o século XXI: no loop da montanha-russa, 2001. Adaptado.)",
+    "question": "O apoio à recuperação das economias capitalistas da Europa Ocidental e os investimentos na Ásia, África e América Latina correspondem à atuação dos Estados Unidos:",
+    "images": [],
+    "alternatives": {
+      "A": "na defesa de posições políticas e ideológicas de caráter globalista e multicultural, após a onda nacionalista trazida pela Segunda Guerra.",
+      "B": "na disputa pelos mercados internos dos países do centro e oriente da Europa e dos países do Hemisfério Sul.",
+      "C": "no cenário geopolítico do pós-Segunda Guerra, em meio às disputas de caráter econômico, militar e ideológico com o bloco socialista.",
+      "D": "na constituição de uma hegemonia mundial unilateral, favorecida pelo declínio econômico e militar dos países do centro e do ocidente europeus.",
+      "E": "no esforço de reconstrução dos países afetados diretamente pelos bombardeios e pelas invasões territoriais durante a Segunda Guerra."
+    },
+    "answer": "C"
+  },
+    {
+    "questionId": "Uerj_H0741",
+    "questionText": "1970: BRANDT DE JOELHOS EM VARSÓVIA\n\nAo se ajoelhar diante do Memorial aos Heróis do Gueto de Varsóvia, em 7 de dezembro de 1970, o então chanceler federal alemão, Willy Brandt (1913-1992), protagonizou um gesto que entraria para a história como um símbolo da busca alemã pela reconciliação no pós-Guerra.\n\nOs nazistas haviam encurralado meio milhão de judeus no Gueto de Varsóvia. Em abril de 1943, aconteceu o levante, reprimido violentamente pelas tropas de Hitler. O cair de joelhos do chefe de governo Willy Brandt e o silêncio que se seguiu repercutiram no mundo como um símbolo de arrependimento, pedido de perdão e tentativa de reconciliação da Alemanha.\n\nDentro do país, entretanto, Brandt foi até xingado. Vinte e cinco anos depois do final da Segunda Guerra, a viagem de Brandt à Polônia de regime comunista foi um tema extremamente controvertido na Alemanha. O objetivo era a assinatura do tratado de normalização das relações entre os dois países, que seria seguido de um acordo no mesmo sentido entre a Alemanha e a União Soviética.\n\nA coragem e a espontaneidade de Willy Brandt naquele 7 de dezembro de 1970 foram apenas um dos motivos que lhe valeram o Prêmio Nobel da Paz do ano seguinte.\n\nA foto e o episódio relatado na reportagem indicam transformações que afetaram a sociedade alemã entre as décadas de 1930 e 1970.\n\nUma dessas transformações, no âmbito das relações internacionais, está associada à seguinte mudança de orientação:",
+    "question": "Qual mudança de orientação nas relações internacionais está indicada pelo episódio de Willy Brandt?",
+    "images": [],
+    "alternatives": {
+      "A": "do isolacionismo territorial à neutralidade militar",
+      "B": "do expansionismo comercial à proteção alfandegária",
+      "C": "do colaboracionismo migratório à discriminação étnica",
+      "D": "do nacionalismo totalitário à multilateralidade diplomática"
+    },
+    "answer": "D"
+  },
+  {
+    "questionId": "Enem_H1073",
+    "questionText": "Os soviéticos tinham chegado a Cuba muito cedo na década de 1960, esgueirando-se pela fresta aberta pela imediata hostilidade norte-americana em relação ao processo social revolucionário. Durante três décadas os soviéticos mantiveram sua presença em Cuba com bases e ajuda militar, mas, sobretudo, com todo o apoio econômico que, como saberíamos anos mais tarde, mantinha o país à tona, embora nos deixasse em dívida com os irmãos soviéticos – e depois com seus herdeiros russos – por cifras que chegavam a US$ 32 bilhões. Ou seja, o que era oferecido em nome da solidariedade socialista tinha um preço definido.",
+    "question": "O texto indica que durante a Guerra Fria as relações internas em um mesmo bloco foram marcadas pelo(a):",
+    "images": [],
+    "alternatives": {
+      "A": "busca da neutralidade política",
+      "B": "estímulo à competição comercial",
+      "C": "subordinação à potência hegemônica",
+      "D": "elasticidade das fronteiras geográficas",
+      "E": "compartilhamento de pesquisas científicas"
+    },
+    "answer": "C"
+  },
+  {
+    "questionId": "Ueg_H0744",
+    "questionText": "Em 1949, os Estados Unidos lideraram uma organização que reuniria os países europeus do sistema capitalista em um pacto de auxílio militar mútuo. No dia 4 de abril daquele ano foi criada em Washington a Organização do Atlântico Norte (OTAN). Ficava estabelecido que os países envolvidos se comprometiam na colaboração militar mútua em caso de ataques oriundos dos países referentes ao bloco socialista.\n\nDisponível em: <www.infoescola.com/geografia/otan>. Acesso em: 15 mar. 2019.",
+    "question": "No contexto geopolítico após o fim da Guerra Fria, a OTAN:",
+    "images": [],
+    "alternatives": {
+      "A": "foi extinta, após a queda do Muro de Berlim, uma vez que o socialismo não mais representava uma ameaça à Europa",
+      "B": "teve ativa participação nos conflitos mundiais contemporâneos, como a invasão do Afeganistão após o 11 de Setembro",
+      "C": "manteve o seu caráter de aliança militar, mas sem a presença dos Estados Unidos, após a criação da União Europeia",
+      "D": "transformou-se numa instituição de regulação de armamentos e atividade nuclear, após o acidente de Chernobyl",
+      "E": "tornou-se uma agência de inteligência, uma vez que perdeu a razão de ser com o fim da União Soviética em 1991"
+    },
+    "answer": "B"
+  },
+  {
+    "questionId": "Ifpe_H0745",
+    "questionText": "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/3802b4c1-d9c8-434b-8c42-a0ef6a22df03-arquivo-editor\n\nNo centro do mapa acima, está a península da Coreia, dividida politicamente em: Coreia do Norte e Coreia do Sul. A linha que separa os dois países é composta por uma zona desmilitarizada e foi traçada a partir do paralelo 38º.\n\nEntre as alternativas abaixo, assinale aquela que apresenta, CORRETAMENTE, uma das causas para o surgimento de dois Estados distintos na península.",
+    "question": "Qual foi uma das causas para o surgimento de dois Estados distintos na península da Coreia?",
+    "images": ["https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/3802b4c1-d9c8-434b-8c42-a0ef6a22df03-arquivo-editor"],
+    "alternatives": {
+      "A": "Política de apaziguamento imposta pelas Nações Unidas",
+      "B": "Conflitos imperialistas europeus ao longo da Guerra Fria",
+      "C": "Lutas étnicas durante o processo de independência",
+      "D": "Guerra civil posterior à descolonização chinesa e japonesa",
+      "E": "Disputas ideológicas após a Segunda Guerra Mundial"
+    },
+    "answer": "E"
+  },
+    {
+    "questionId": "Acafe_H0743",
+    "questionText": "Passados 66 anos da Guerra da Coreia (1950-1953). A região onde localizam-se a Coreia do Norte e a Coreia do Sul, apresenta uma instabilidade política e militar no contexto atual. Ameaças, reuniões, visitas de presidentes e tentativas de uma política de apaziguamento marcam as relações entre estes dois países nos últimos anos. Acerca da Guerra da Coreia, todas as afirmações estão corretas, exceto a alternativa:",
+    "question": "Qual das afirmações sobre a Guerra da Coreia está INCORRETA?",
+    "images": [],
+    "alternatives": {
+      "A": "Em 1953, ocorreu um armistício e a guerra não teve um vencedor. A península da Coreia continua dividida em dois países.",
+      "B": "A Coreia do Norte invadiu a Coreia do Sul com o objetivo de impor seu regime a toda região.",
+      "C": "O governo chinês chegou a enviar reforços para ajudar os norte-coreanos na guerra. O exército sul-coreano recebia o apoio de tropas estadunidenses.",
+      "D": "A Coreia do Norte, aliada do Japão, e com o apoio do Conselho de Segurança da ONU, buscava unificar as duas Coreias sob um regime socialista-democrático."
+    },
+    "answer": "D"
+  },
+  {
+    "questionId": "Enem_H1077",
+    "questionText": "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/b6b99d68-d62a-4865-b069-64a45ac26a46-arquivo-editor\n\nEsse ônibus relaciona-se ao ato praticado, em 1955, por Rosa Parks, apresentada em fotografia ao lado de Martin Luther King. O veículo alcançou o estatuto de obra museológica por simbolizar o(a)",
+    "question": "O ônibus simboliza:",
+    "images": ["https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/b6b99d68-d62a-4865-b069-64a45ac26a46-arquivo-editor"],
+    "alternatives": {
+      "A": "impacto do medo da corrida armamentista",
+      "B": "democratização do acesso à escola pública",
+      "C": "preconceito de gênero no transporte coletivo",
+      "D": "deflagração do movimento por igualdade civil",
+      "E": "eclosão da rebeldia no comportamento juvenil"
+    },
+    "answer": "D"
+  },
+  {
+    "questionId": "Ufrgs_H0736",
+    "questionText": "Em agosto de 1969, foi realizado, no estado de Nova Iorque, um grande festival de música e arte que ficou conhecido como “Woodstock”, considerado marco e expressão do movimento de contracultura.\n\nA respeito dos objetivos desse movimento, é correto afirmar que",
+    "question": "Qual era o objetivo principal do movimento de contracultura Woodstock?",
+    "images": [],
+    "alternatives": {
+      "A": "era composto, majoritariamente, por jovens apoiadores da expansão imperialista dos Estados Unidos no Oriente Médio",
+      "B": "representou os ideais conservadores de artistas e intelectuais do Partido Republicano, contrários à expansão de uma nova cultura juvenil que pregava a liberdade sexual",
+      "C": "foi um movimento engajado na luta pacifista e contrário à participação dos Estados Unidos na guerra do Vietnã",
+      "D": "foi um movimento que, fundado por jovens oriundos do sul do continente, pregava a valorização do folclore e da cultura da América Latina",
+      "E": "foi liderado por artistas como Jimi Hendrix, Janis Joplin, Joan Baez e Bob Dylan, defensores do caráter neutro da cultura em relação aos assuntos políticos"
+    },
+    "answer": "C"
+  },
+  {
+    "questionId": "Ifmg_H0738",
+    "questionText": "Em 8 de junho de 1972, o fotógrafo Nick Ut registrou a fuga de várias crianças após bombas de napalm terem sido lançadas sobre sua aldeia nos arredores de Trang Bang, durante a Guerra do Vietnã (1964-1975). No centro da imagem, encontra-se uma menina chamada Phan Thi Kim Phúc, que estava nua em função do incêndio que queimou 30% do seu corpo. A criança foi socorrida pelo fotógrafo e sobreviveu, tornando-se atual embaixadora da Boa Vontade da Unesco. A imagem teve uma grande repercussão na época e é considerada uma referência do fotojornalismo.\n\nSobre a relação da imagem com a Guerra do Vietnã, é INCORRETO afirmar que",
+    "question": "Qual afirmação sobre a imagem de Phan Thi Kim Phúc é INCORRETA?",
+    "images": [],
+    "alternatives": {
+      "A": "o movimento antiguerra usou a fotografia como símbolo para influenciar a opinião pública mundial",
+      "B": "o uso de armas químicas pelos Estados Unidos começou a ser questionado em função da crueldade de seus efeitos",
+      "C": "a imagem das crianças na fotografia contrapõe-se à justificativa ideológica utilizada para a intervenção estadunidense",
+      "D": "o empenho em ajudar as vítimas do ataque de napalm levou os soldados a serem condecorados como heróis de guerra"
+    },
+    "answer": "D"
+  },
+  {
+    "questionId": "Unicamp_H0733",
+    "questionText": "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/31f24e23-7e5b-4be3-bad7-c665995f3eb9-arquivo-editor\n\nA imagem anterior circulou em 1964 e faz parte de um conjunto de propagandas do governo de Mao Tsé-Tung (1893-1976). Sobre o cartaz e o contexto, é correto afirmar:",
+    "question": "Qual interpretação correta sobre a propaganda de Mao Tsé-Tung?",
+    "images": ["https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/31f24e23-7e5b-4be3-bad7-c665995f3eb9-arquivo-editor"],
+    "alternatives": {
+      "A": "A imagem do líder próximo à população camponesa e da fartura no campo era recorrente no Partido sob liderança de Mao Tsé-Tung e contrastava com a realidade marcada pela baixa produtividade e pela fome",
+      "B": "A Revolução Cultural na China, liderada por Mao Tsé-Tung, garantiu a alfabetização da população chinesa e a abertura econômica. A imagem retrata o apoio popular ao líder",
+      "C": "A imagem é uma propaganda que buscava valorizar a tradição dos saberes do campo, conciliada com o Grande Salto para Frente, que visava a transformar a China em uma potência tecnológica",
+      "D": "A Revolução Cultural deu início a uma ditadura que funcionava sobre os princípios dos comitês locais. Na propaganda, Mao Tsé-Tung consulta um conselho do povo sobre a produção de arroz"
+    },
+    "answer": "A"
+  },
+    {
+    "questionId": "Uece_H0737",
+    "questionText": "Em abril de 1966, Mao Tsé Tung declarou a necessidade de banir da China os intelectuais dissidentes e suas ideias, porque muitas autoridades do próprio Partido Comunista protegiam aqueles que divergiam, bem como outros inimigos de classe. Essas pessoas eram definidas como “pessoas que estavam no poder, mas que seguiam a estrada capitalista”.",
+    "question": "Qual campanha Mao Tsé Tung lançou formalmente?",
+    "images": [],
+    "alternatives": {
+      "A": "de neutralização da oposição, conhecida como Revolução Cultural",
+      "B": "de expulsão dos ingleses da cidade de Hong Kong, por considerá-los traidores da Revolução",
+      "C": "de destruição da política ideológica divulgada pelo jornal Diário do Povo",
+      "D": "de contenção dos excessos da Guarda Vermelha na proteção do regime maoísta"
+    },
+    "answer": "A"
+  },
+  {
+    "questionId": "Ucs_H0735",
+    "questionText": "A Revolução Industrial e as duas Grandes Guerras Mundiais levaram a ciência, de uma maneira geral, e os aviões e foguetes, em particular, a um extraordinário avanço. Após a Segunda Guerra Mundial, deu-se início à Guerra Fria, que levou à Corrida Espacial, cabendo ao norte-americano Neil Armstrong concretizar, em 20 de julho de 1969, o sonho da humanidade de pisar no solo lunar. Com a queda do Muro de Berlim (símbolo da Guerra Fria), em 1989, russos e americanos, ex-adversários na Corrida Espacial, tornaram-se os principais responsáveis pela construção e montagem da Estação Espacial Internacional. Na Corrida Espacial, não houve perdedores: a humanidade foi a grande vencedora e, desde então, as portas do Universo se abriram.",
+    "question": "Sobre o contexto da Guerra Fria, é correto afirmar:",
+    "images": ["https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/2010/10/ijespacial_03_corrida_espacial_p1.pdf"],
+    "alternatives": {
+      "A": "a Liga das Nações pode ser considerada bem-sucedida, por ter conseguido manter a rivalidade pós-Segunda Guerra sob controle",
+      "B": "os países, antes unidos contra o nazismo, com o final da Segunda Guerra Mundial, viram reaparecer suas diferenças ideológicas",
+      "C": "a Corrida Espacial tinha o objetivo de estabelecer superioridade bélica em relação à potência oponente, sem, contudo, usá-la para fins políticos",
+      "D": "o Muro de Berlim visava impedir um ataque militar das potências capitalistas contra a zona de ocupação soviética",
+      "E": "a conquista da Lua implicou em grandes investimentos por parte do governo norte-americano, não se convertendo em desenvolvimento para a sociedade em geral"
+    },
+    "answer": "B"
+  },
+  {
+    "questionId": "Ufms_H0740",
+    "questionText": "“Esse é um pequeno passo para um homem, um salto gigante para a humanidade” (Neil Armstrong).",
+    "question": "Em relação à corrida espacial, assinale a alternativa correta:",
+    "images": [],
+    "alternatives": {
+      "A": "Foi um período de intensa corrida bélica entre os países que compunham a Tríplice Entente e a Tríplice Aliança, já que havia um clima de tensões e animosidades, podendo desencadear uma guerra a qualquer momento",
+      "B": "Foi um acordo assinado entre Estados Unidos e União Soviética para não transferir a tecnologia espacial aos demais países. A ideia era promover um uso racional do espaço",
+      "C": "Foi uma corrida tecnológica entre Estados Unidos e União Soviética a partir de 1957. Os Estados Unidos logo obtiveram vantagem quando inauguraram em 1961, a Estação Espacial Modular, que permitiu avanços significativos na tecnologia aeroespacial",
+      "D": "Foi uma corrida tecnológica entre Estados Unidos e União Soviética a partir de 1957. A ideia era desenvolver tecnologia para a construção de aeronaves espaciais e satélites que ajudassem na exploração do espaço",
+      "E": "Foi uma corrida tecnológica desenvolvida em parceria entre Estados Unidos e União Soviética a partir de 1945, para a construção de aeronaves espaciais e satélites que ajudassem na exploração do espaço"
+    },
+    "answer": "D"
+  },
+  {
+    "questionId": "Upf_H0732",
+    "questionText": "Neste mês de julho de 2021, o Partido Comunista da China está comemorando o centenário de sua fundação. Em 1949, este partido liderado por Mao Tse-Tung, através de uma ofensiva político militar, venceu o governo chinês nacionalista dirigido por Chiang Kai-Shek, que era apoiado pelos Estados Unidos. Os comunistas entraram em Pequim em janeiro de 1949 e, no dia 1º de outubro, proclamaram a República Popular da China.",
+    "question": "Entre as especificidades da Revolução Chinesa, é correto apontar:",
+    "images": [],
+    "alternatives": {
+      "A": "O apoio da burguesia chinesa ao Partido Comunista, a neutralidade das principais potências mundiais e o apoio decisivo do exército soviético aos revolucionários",
+      "B": "A organização nacional deficiente do Partido Comunista, o apoio decisivo do governo comunista de Cuba e a defesa da implantação do socialismo através da via parlamentar",
+      "C": "A construção de um modelo socialista associado a preceitos capitalistas, a presença das brigadas internacionais e o apoio militar da Coréia do Norte comunista",
+      "D": "A existência de uma guerra civil de longa duração, a progressão lenta do poder local ao poder central e a decisiva participação dos camponeses na construção de uma ordem socialista",
+      "E": "A manutenção da propriedade privada como incentivo à construção da ordem socialista, a restauração do Império na China e a presença de tropas revolucionárias da União Soviética"
+    },
+    "answer": "D"
+  },
+    {
+    "questionId": "Enem_PPL_H1327",
+    "questionText": "RODRIGUES, R. C. A.; SANTANA, F. T. M.; ERTHAL, L. Aprendendo com filmes. Rio de Janeiro: Faperj; Lamparina, 2012 (adaptado).",
+    "question": "A divisão representada do território alemão refletia um contexto geoestratégico de busca por:",
+    "images": ["https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/694aef7d-654a-48d8-a379-cc8b4f379705-arquivo-editor"],
+    "alternatives": {
+      "A": "espólio de guerra",
+      "B": "áreas de influência",
+      "C": "rotas de navegação",
+      "D": "controle do petróleo",
+      "E": "monopólio do comércio"
+    },
+    "answer": "B"
+  },
+  {
+    "questionId": "Enem_PPL_H1347",
+    "questionText": "O modelo de conservacionismo norte-americano espalhou-se rapidamente pelo mundo recriando a dicotomia entre “povos” e “parques”. Como essa ideologia se expandiu, sobretudo para os países do Terceiro Mundo, seu efeito foi devastador sobre as “populações tradicionais” de extrativistas, pescadores, índios, cuja relação com a natureza é diferente da analisada pelos primeiros “ideólogos” dos parques nacionais norte-americanos. É fundamental enfatizar que a transposição deste “modelo” de parques sem moradores, vindo de países industrializados e de clima temperado, para países cujas florestas remanescentes foram e continuam sendo, em grande parte, habitadas por populações tradicionais, está na base não só de conflitos insuperáveis, mas de uma visão inadequada de áreas protegidas.",
+    "question": "O modelo de preservação ambiental criticado no texto é considerado inadequado para o Brasil por promover ações que:",
+    "images": [],
+    "alternatives": {
+      "A": "incentivam o comércio de produtos locais",
+      "B": "separam o homem do lugar de origem",
+      "C": "regulamentam as disputas fundiárias",
+      "D": "deslocam a diversidade biológica",
+      "E": "fomentam a atividade turística"
+    },
+    "answer": "B"
+  },
+  {
+    "questionId": "Enem_PPL_H1386",
+    "questionText": "A Guerra Fria foi, acima de tudo, um produto da heterogeneidade no sistema internacional ― para repetir, da heterogeneidade da organização interna e da prática internacional ― e somente poderia ser encerrada pela obtenção de uma nova homogeneidade. O resultado disto foi que, enquanto os dois sistemas distintos existiram, o conflito da Guerra Fria estava destinado a continuar: a Guerra Fria não poderia terminar com o compromisso ou a convergência, mas somente com a prevalência de um destes sistemas sobre o outro.",
+    "question": "A caracterização da Guerra Fria apresentada pelo texto implica interpretá-la como um(a):",
+    "images": [],
+    "alternatives": {
+      "A": "esforço de homogeneização do sistema internacional negociado entre Estados Unidos e União Soviética",
+      "B": "guerra, visando o estabelecimento de um renovado sistema social, híbrido de socialismo e capitalismo",
+      "C": "conflito intersistêmico em que países capitalistas e socialistas competiriam até o fim pelo poder de influência em escala mundial",
+      "D": "compromisso capitalista de transformar as sociedades homogêneas dos países socialistas em democracias liberais",
+      "E": "enfrentamento bélico entre capitalismo e socialismo pela homogeneização social de suas respectivas áreas de influência política"
+    },
+    "answer": "C"
+  }
+    ]}

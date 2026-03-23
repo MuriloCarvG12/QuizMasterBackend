@@ -3,20 +3,34 @@ import { MigrationInterface, QueryRunner } from "typeorm";
 export class GenerateChemistryTopics1762996213412 implements MigrationInterface {
 
     public async up(queryRunner: QueryRunner): Promise<void> {
+
+        const chemistry_code_bd = await queryRunner.query(`Select "Id" from "Subjects" where "SubjectName" = 'Chemistry'`)
+
+        const chemistry_id = chemistry_code_bd[0].Id;
+
+        const organic_chemistry_code_bd = await queryRunner.query(`Select "Id" from "Subjects" where "SubjectName" = 'OrganicChemistry'`)
+
+        const organic_chemistry_id = organic_chemistry_code_bd[0].Id;
+
         await queryRunner.query(`
             INSERT INTO "Topics" ("SubjectId", "TopicName")
             VALUES 
-                (3, 'ElectroChemistry')
-                (3, 'Equilibrium')
-                (3, 'Stoichiometry')
-                (3, 'Oxygenated Functions')
-                (3, 'Gases')
-                (3, 'ChemicalBonds')
-                (3, 'NOX')
-                (3, 'Kinetics')
-                (3, 'ColigativeProperties')
-                (3, 'PhysicalChemicalOfOrganicalCompounds')
-                (3, 'EnviromentalChemistry')
+                (${chemistry_id}, 'ElectroChemistry'),
+                (${chemistry_id}, 'Equilibrium'),
+                (${chemistry_id}, 'Stoichiometry'),
+                (${chemistry_id}, 'Oxygenated Functions'),
+                (${chemistry_id}, 'Gases'),
+                (${chemistry_id}, 'ChemicalBonds'),
+                (${chemistry_id}, 'NOX'),
+                (${chemistry_id}, 'Kinetics'),
+                (${chemistry_id}, 'ColigativeProperties'),
+                (${chemistry_id}, 'PhysicalChemicalOfOrganicalCompounds'),
+                (${chemistry_id}, 'EnviromentalChemistry'),
+                (${organic_chemistry_id}, 'Introduction'),
+                (${organic_chemistry_id}, 'Isomery'),
+                (${organic_chemistry_id}, 'NitrogenFunctions'),
+                (${organic_chemistry_id}, 'OxygenatedFunctions'),
+                (${organic_chemistry_id}, 'HydroCarbons')
         `);  
     }
 

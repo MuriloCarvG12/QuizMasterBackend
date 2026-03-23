@@ -1,0 +1,333 @@
+{
+    "examTitle": "Termos acessorios",
+    "questions": [
+        {
+            "questionId": "Fuvest_GR0337",
+            "questionText": "Dentre as expressões destacadas, a que exerce a mesma função sintática do termo sublinhado em “o treino restaurativo, o relaxamento e o treinamento cardiovascular” é:",
+            "question": "",
+            "images": [],
+            "alternatives": {
+              "A": "um atleta de seleção precisa de treinamento intenso.",
+              "B": "o amor ao esporte é fundamental para o atleta.",
+              "C": "a população incorpora radicalmente atitudes saudáveis.",
+              "D": "muitas pessoas se beneficiam de alimentos verdes.",
+              "E": "todo tipo de atividade física faz bem à saúde mental."
+            },
+            "answer": "A"
+          },
+          {
+            "questionId": "Cfn_GR0186",
+            "questionText": "No segmento “Será que eles não ficam querendo sair desse vidro, mãe?” a palavra destacada pode ser classificada como",
+            "question": "",
+            "images": [
+              "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/b9d112d0-ca71-4a89-850e-1ed9bdcdbba9-arquivo-editor"
+            ],
+            "alternatives": {
+              "A": "aposto.",
+              "B": "sujeito.",
+              "C": "predicado.",
+              "D": "agente da passiva.",
+              "E": "vocativo."
+            },
+            "answer": "E"
+          },
+          {
+            "questionId": "Fuvest_GR0328",
+            "questionText": "No período “Nem mesmo comparando com outros robozinhos: tanto os que espalham informações mentirosas quanto aqueles que divulgam dados verdadeiros alcançaram o mesmo número de pessoas.”, os dois-pontos são utilizados para introduzir uma",
+            "question": "",
+            "images": [],
+            "alternatives": {
+              "A": "conclusão.",
+              "B": "concessão.",
+              "C": "explicação.",
+              "D": "contradição.",
+              "E": "condição."
+            },
+            "answer": "C"
+          },
+          {
+            "questionId": "Fuvest_GR0546",
+            "questionText": "Leia as seguintes afirmações a respeito da letra da música: I. Os adjuntos adverbiais temporais remetem a um contraste entre passado e presente, o que reforça o caráter metafórico do texto. II. A locução “apesar de” contribui para a expressão de um sentimento inesperado em relação ao sentido de “muito moço”. III. As formas verbais “morri” e “morro”, embora se refiram a momentos distintos, apresentam sentido denotativo.",
+            "question": "",
+            "images": [],
+            "alternatives": {
+              "A": "I, apenas.",
+              "B": "II, apenas.",
+              "C": "I e II, apenas.",
+              "D": "II e III, apenas.",
+              "E": "I, II e III."
+            },
+            "answer": "C"
+          },
+          {
+            "questionId": "Unifor_GR0199",
+            "questionText": "Hortelã\n\nTodas as noites\n\ne ela esperava a noite chegar\n\ntrazendo o pai do trabalho.\n\nÀs vezes era o pai\n\nque trazia a noite\n\nnum saquinho de bala de hortelã.\n\nEla gostava da noite\n\nporque a noite trazia\n\no suor do pai\n\nEla gostava da noite\n\nporque a noite trazia\n\no suor do pai.\n\nEla gostava da noite\n\nporque, à noite, ela e o pai\n\nbrincavam de dar nome às estrelas.\n\n(NETHO, Paulo. Poesia Futebol Clube e outros poemas. São Paulo: Formato. 2007. p. 22)\n\nNo texto, há várias ocorrências da palavra noite. Considerando essas ocorrências, avalie as afirmativas.\n\nI - Em todas as ocorrências, a palavra “noite” exerce a mesma função sintática. \n\nII - Em “ela esperava a noite chegar”, o termo destacado é complemento nominal.\n\nIII - Em “Ela gostava da noite”, o termo destacado exerce a função sintática de objeto indireto.\n\nIV - Em “Às vezes era o pai/ que trazia a noite”, o termo destacado exerce a função de sujeito.\n\nV - Em “porque, à noite, ela e o pai/ brincavam de dar nome às estrelas”, o termo destacado exerce a função de adjunto adverbial.\n\nEstá correto o que se afirma apenas em",
+            "question": "",
+            "images": [],
+            "alternatives": {
+              "A": "I.",
+              "B": "II e V.",
+              "C": "III e V.",
+              "D": "II, III e V.",
+              "E": "II, III, IV e V."
+            },
+            "answer": "C"
+          },
+          {
+            "questionId": "Eear_GR0191",
+            "questionText": "Marque a alternativa em que há erro na classificação do termo em destaque.",
+            "question": "",
+            "images": [],
+            "alternatives": {
+              "A": "“Para um homem se ver a si mesmo, são necessárias três coisas: olhos, espelho e luz.” (Pe. Antônio Vieira) – aposto",
+              "B": "Ofendi-vos, meu Deus, é bem verdade” (Gregório de Matos) – vocativo",
+              "C": "Sete anos de pastor Jacó servia / Labão, pai de Raquel, serrana bela” (Luís de Camões) – aposto",
+              "D": "“Este lugar delicioso, e triste, / Cansada de viver, tinha escolhido / Para morrer a mísera Lindoia.” (Basílio da Gama) – aposto",
+              "E": ""
+            },
+            "answer": "D"
+          },
+          {
+            "questionId": "Eear_GR0192",
+            "questionText": "Assinale a alternativa que apresenta, em destaque, adjunto adnominal e adjunto adverbial.",
+            "question": "",
+            "images": [],
+            "alternatives": {
+              "A": "Símbolo da riqueza terrestre, o ouro nasce no espaço.",
+              "B": "As legendárias ondas do Havaí atraem surfistas do mundo todo.",
+              "C": "O poeta Vinícius de Moraes é referência para vários músicos do Brasil.",
+              "D": "As pequenas empresas têm até o mês de abril para recolher os impostos.",
+              "E": ""
+            },
+            "answer": "A"
+          },
+          {
+            "questionId": "Etec_GR0189",
+            "questionText": "Leia a tirinha que apresenta o diálogo entre Mafalda e seu pai e responda à questão.\n",
+            "question": "",
+            "images": [
+              "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/fec8ca3f-3a37-452a-a45d-5b8be37b39e9-arquivo-editor"
+            ],
+            "alternatives": {
+              "A": "você",
+              "B": "se",
+              "C": "tão",
+              "D": "papai",
+              "E": "como"
+            },
+            "answer": "D"
+          },
+          {
+            "questionId": "Esc_Naval_GR0193",
+            "questionText": "Em \"Um dos maiores estudos sobre a disseminação de notícias falsas na internet, publicado no ano passado na revista 'Science’, foi realizado pelo Instituto de Tecnologia de Massachusetts [...]\" (5º§), os termos destacados exercem, respectivamente, a função sintática de",
+            "question": "",
+            "images": [],
+            "alternatives": {
+              "A": "adjunto adverbial e agente da passiva.",
+              "B": "objeto indireto e complemento nominal.",
+              "C": "complemento nominal e objeto indireto.",
+              "D": "adjunto adverbial e predicativo do objeto.",
+              "E": "predicativo do sujeito e agente da passiva."
+            },
+            "answer": "A"
+          },
+          {
+            "questionId": "Cfn_GR0197",
+            "questionText": "No trecho “Viu um menino saindo desta casa?” – linha 26 – o complemento do verbo e termo acessório são, respectivamente,",
+            "question": "",
+            "images": [],
+            "alternatives": {
+              "A": "objeto direto e objeto indireto.",
+              "B": "adjunto adverbial e complemento nominal.",
+              "C": "objeto direto e complemento nominal.",
+              "D": "objeto direto e adjunto adverbial.",
+              "E": "objeto indireto e pronome demonstrativo."
+            },
+            "answer": "D"
+          },
+          {
+            "questionId": "Esc_Naval_GR0195",
+            "questionText": "Em qual opção o termo destacado exerce mesmo papel sintático que \"No grupo maior, há de tudo: o louco, o filósofo, o depressivo, o conquistador de garganta, o saudosista...\" (6º Parágrafo)?",
+            "question": "",
+            "images": [],
+            "alternatives": {
+              "A": "\"Um amigo me lembra: nos whatsApps se trocam mensagens por escrito.” (5º Parágrafo)",
+              "B": "\"No telefone, não há essa copresença física [...].” (5º Parágrafo)",
+              "C": "\"[...] faz-nos sentir, fortemente, a nossa natureza humana, a maior valia da vida.” (7º Parágrafo)",
+              "D": "\"O whatsApp é de graça, proclamam.\" (4º Parágrafo)",
+              "E": "\"[...] proporciona a abrangência do outro, [...]\" (3º Parágrafo)"
+            },
+            "answer": "C"
+          },
+          {
+            "questionId": "Unesp_GR0187",
+            "questionText": "Na última estrofe do poema, os termos “Afilhadas do luar”, “mãos de rainha” e “Mãos que sois um perpétuo amanhecer” funcionam, no período de que fazem parte, como",
+            "question": "",
+            "images": [],
+            "alternatives": {
+              "A": "orações intercaladas.",
+              "B": "apostos.",
+              "C": "adjuntos adverbiais.",
+              "D": "vocativos.",
+              "E": "complementos nominais."
+            },
+            "answer": "D"
+          },
+          {
+            "questionId": "Unesp_GR0185",
+            "questionText": "O Bumba-Meu-Boi\n\nEntre os autos populares conhecidos e praticados no Brasil – pastoril, fandango, chegança, reisado, congada, etc. – aquele em que melhor o povo exprime a sua crítica, aquele que tem maior conteúdo jornalístico, é, realmente, o bumbameu-boi, ou simplesmente boi.\n\nPara Renato Almeida, é o “bailado mais notável do Brasil, o folguedo brasileiro de maior significação estética e social”. Luís da Câmara Cascudo, por seu turno, observou a sua superioridade porque “enquanto os outros autos cristalizaram, imóveis, no elenco de outrora, o bumba-meu-boi é sempre atual, incluindo soluções modernas, figuras de agora, vocabulário, sensação, percepção contemporânea. Na época da escravidão mostrava os vaqueiros escravos vencendo pela inteligência, astúcia e cinismo. Chibateava a cupidez, a materialidade, o sensualismo de doutores, padres, delegados, fazendo-os cantar versinhos que eram confissões estertóricas. O capitão-do-mato, preador de escravos, assombro dos moleques, faz-sono dos negrinhos, vai ‘caçar’ os negros que fugiram, depois da morte do Boi, e em vez de trazê-los é trazido amarrado, humilhado, tremendo de medo. O valentão mestiço, capoeira, apanha pancada e é mais mofino que todos os mofinos. Imaginem a alegria negra, vendo e ouvindo essa sublimação aberta, franca, na porta da casa-grande de engenho ou no terreiro da fazenda, nos pátios das vilas, diante do adro da igreja! A figura dos padres, os padres do interior, vinha arrastada com a violência de um ajuste de contas. O doutor, o curioso, metido a entender de tudo, o delegado autoritário, valente com a patrulha e covarde sem ela, toda a galeria perpassa, expondo suas mazelas, vícios, manias, cacoetes, olhada por uma assistência onde estavam muitas vítimas dos personagens reais, ali subalternizados pela virulência do desabafo”.\n\nComo algumas outras manifestações folclóricas, o bumbameu-boi utiliza uma forma antiga, tradicional; entretanto, fála revestir-se de novos aspectos, atualiza o entrecho, recompõe a trama. Daí “o interesse do tipo solidário que desperta nas camadas populares”, como o assinala Édison Carneiro. Interesse que só pode manter-se porque o que no auto se apresenta não reflete apenas situações do passado, “mas porque têm importância para o futuro”. Com efeito, tendo por tema central a morte e a ressurreição do boi, “cerca-se de episódios acessórios, não essenciais, muito desligados da ação principal, que variam de região para região... em cada lugar, novos personagens são enxertados, aparentemente sem outro objetivo senão o de prolongar e variar a brincadeira”. Contudo, dentre esses personagens, os que representam as classes superiores são caricaturados, cobrindo-se de ridículo, o que torna “o folguedo, em si mesmo, uma reivindicação”.\n\nSílvio Romero recolheu os versos de um bumba-meu-boi, através dos quais se constata a intenção caricaturesca nos personagens do folguedo. Como o Padre, que recita:\n\nNão sou padre, não sou nada\n\n“Quem me ver estar dançando\n\nNão julgue que estou louco;\n\nSecular sou como os outros”.\n\nOu como o Capitão-do-Mato que, dando com o negro Fidélis, vai prendê-lo:\n\n“CAPITÃO – Eu te atiro, negro\n\nEu te amarro, ladrão,\n\nEu te acabo, cão.”\n\nMas, ao contrário, quem vai sobre o Capitão e o amarra é o Fidélis:\n\n“CORO – Capitão de campo\n\nVeja que o mundo virou\n\nFoi ao mato pegar negro\n\nMas o negro lhe amarrou.\n\nCAPITÃO – Sou valente afamado\n\nComo eu não pode haver;\n\nQualquer susto que me fazem\n\nLogo me ponho a correr”.\n\n(Luiz Beltrão. Comunicação e folclore. São Paulo: Edições Melhoramentos, 1971.)\n\nO capitão-do-mato, preador de escravos, assombro dos moleques, faz-sono dos negrinhos, vai ‘caçar’ os negros que fugiram ...",
+            "question": "Nesta passagem, levando-se em conta o contexto, a função sintática e o significado, verifica-se que faz-sono é",
+            "images": [],
+            "alternatives": {
+              "A": "substantivo.",
+              "B": "adjetivo.",
+              "C": "verbo.",
+              "D": "advérbio.",
+              "E": "interjeição."
+            },
+            "answer": "A"
+          },
+          {
+            "questionId": "Unesp_GR0302",
+            "questionText": "Leia o soneto de Luís de Camões.\n\nEnquanto quis Fortuna 1 que tivesse\nEsperança de algum contentamento,\nO gosto de um suave pensamento 2\nMe fez que seus efeitos escrevesse.\n\nPorém, temendo Amor 3 que aviso desse\nMinha escritura a algum juízo isento 4,\nEscureceu-me o engenho 5 com tormento,\nPara que seus enganos não dissesse.\n\nÓ vós que Amor obriga a ser sujeitos\nA diversas vontades! Quando lerdes\nNum breve livro casos tão diversos,\nverdades puras são, e não defeitos 6,\nE sabei que, segundo o amor tiverdes,\nTereis o entendimento de meus versos.\n\n(Luís de Camões. 20 sonetos, 2018.)\n\n1 Fortuna: entidade mítica que presidia a sorte dos homens.\n2 suave pensamento: sentimento amoroso.\n3 Amor: entidade mítica que personifica o amor.\n4 juízo isento: os inocentes do amor, aqueles que nunca se apaixonaram.\n5 engenho: talento poético, inspiração.\n6 defeitos: inverdades, fantasia.",
+            "question": "No soneto, o eu lírico dirige-se, mediante vocativo,",
+            "images": [],
+            "alternatives": {
+              "A": "àqueles que não entendem seus versos.",
+              "B": "a Amor.",
+              "C": "àqueles que nunca se apaixonaram.",
+              "D": "aos amantes.",
+              "E": "a Fortuna."
+            },
+            "answer": "D"
+          },
+          {
+            "questionId": "Efomm_GR0198",
+            "questionText": "\"Mas o coração humano, lugar dos sonhos, ao contrário da ciência, é coisa imprecisa.\"\n\nNa passagem acima, a expressão sublinhada cumpre determinada função sintática que aparece nas opções abaixo, EXCETO em",
+            "question": "",
+            "images": [],
+            "alternatives": {
+              "A": "Não só os poetas: C. Wright Mills, um sociólogo sábio, comparou a nossa civilização a uma galera que navega pelos mares.",
+              "B": "Infelizmente a ciência, utilíssima, especialista em saber como as coisas funcionam, tudo ignora sobre o coração humano.",
+              "C": "Mas há um pesadelo que me atormenta: o deserto.",
+              "D": "O paraíso é jardim, lugar de felicidade, prazeres e alegrias para os homens e mulheres.",
+              "E": "Sugiro aos educadores que pensem menos nas tecnologias do ensino - psicologias e quinquilharias - e tratem de sonhar, com os seus alunos, sonhos de um Paraíso."
+            },
+            "answer": "B"
+          },
+          {
+            "questionId": "Esc_Naval_GR0188",
+            "questionText": "Qual das orações abaixo traz o adjunto adnominal em destaque?",
+            "question": "",
+            "images": [],
+            "alternatives": {
+              "A": "[...] qual seria o problema fundamental do Brasil, a maioria indica a precariedade da educação. (1°§)",
+              "B": "Para eles, a educação dos filhos não se baseia no aprendizado dos exemplos dados pelos pais. (3°§)",
+              "C": "A demanda por cursos técnicos que elevam suas habilidades para o bom exercício da profissão está em alta. (7°§)",
+              "D": "[...] a compreensão de textos simples, elaboração de cálculos aritméticos de operações básicas, (1°§)",
+              "E": "No entanto, não se pode pensar que a sua deficiência depende somente das autoridades. (4°§)"
+            },
+            "answer": "A"
+          },
+          {
+            "questionId": "Esc. Naval_GR0196",
+            "questionText": "Encontros e desencontros\n\nHoje, jantando num pequeno restaurante aqui perto de casa, pude presenciar, ao vivo, uma cena que já me tinham descrito. Um casal de meia idade se senta à mesa vizinha da minha. Feitos os pedidos ao garçom, o homem, bem depressinha, tira o celular do bolso, e não mais o deixa, a merecer sua atenção exclusiva. A mulher, certamente de saber feito, não se faz de rogada e apanha um livro que trazia junto à bolsa. Começa a lê-lo a partir da página assinalada por um marcador. Espichando o meu pescoço inconveniente (nem tanto, afinal as mesas eram coladinhas) deu para ver que era uma obra da Martha Medeiros.\n\nDesse modo, os dois iam usufruindo suas gulodices, sem comentários, com algumas reações dele, rindo com ele mesmo com postagens que certamente ocorriam em seu celular. Até dois estranhos, postos nessa situação, talvez acabassem por falar alguma coisa. Pensei: devem estar juntos há algum tempo, sem ter mais o que conversar. Cada um sabia tudo do outro, nada a acrescentar, nada de novo ou surpreendente. E assim caminhava, decerto, a vida daquele casal.\n\nO que me choca, mesmo observando esta situação, como outras que o dia a dia me oferece, é a ausência de conversa. Sem conversa eu não vivo, sem sua força agregadora para trocar ideias, para convencer ou ser convencido pelo outro, para manifestar humor, para desabafar sobre o que angústia a alma, em suma, para falar e para ouvir. A conversa não é a base da terapia? Sei não, mas, atualmente, contar com um amigo para jogar conversa fora ou para confessar aquele temor que lhe está roubando o sossego talvez não seja fácil. O tempo também, nesta vida corre-corre, tem lá outras prioridades. Mia Couto é contundente: “Nunca o nosso mundo teve ao seu dispor tanta comunicação. E nunca foi tão dramática a nossa solidão.” Até se fala muito, mas ouvir o outro? Falo de conversas entre pessoas no mundo real. Vive-se hoje, parece, mais no mundo digital. Nele, até que se conversa muito; porém, é tão diferente, mesmo quando um está vendo o outro. O compartilhamento do mesmo espaço, diria, é que nos proporciona a abrangência do outro, a captação do seu respirar, as batidas de seu coração, o seu cheiro, o seu humor...(16)\n\nDesse diálogo é que tanta gente está sentindo falta. Até por telefone as pessoas conversam, atualmente, bem menos. Pelo WhatsApp fica mais fácil, alega-se. Rapidinho, rapidinho. Mas e a conversa? Conversa-se, sim, replicam. Será? Ou se trocam algumas palavras? Quando falo em conversa, refiro-me àquelas que se esticam, sem tempo marcado, sem caminho reto, a pularem de assunto em assunto. O WhatsApp é de graça, proclamam. Talvez um argumento que pode ser robusto, como se diz hoje, a favor da utilização desse instrumento moderno.\n\nMas será apenas por isso? Um amigo me lembra: nos WhatsApps se trocam mensagens por escrito. Eu sei. Entretanto, língua escrita é outra modalidade, outro modo de ativar a linguagem, a começar pela não copresença física dos interlocutores. No telefone, não há essa copresença física, mas esse meio de comunicação não é impeditivo de falante e ouvinte, a cada passo, trocarem de papéis e até mesmo de falarem ao mesmo tempo, configurando, pois, características próprias da modalidade oral. Contudo, não se respira o mesmo ar, ainda que já se possa ver o outro. As pessoas passaram a valer-se menos do telefone, e as conversas também vão, por isso, tornando-se menos frequentes.\n\nGosto, mesmo, é de conversas, de preferência com poucos companheiros, sem pauta, sem temas censurados, sem se ter de esmerar na linguagem. Conversa sem compromisso, a não ser o de evitar a chatice. Com suas contundências, conflitos de opiniões e momentos de solidariedade. Conversa que é vida, que retrata a vida no seu dia a dia. No grupo maior, há de tudo: o louco, o filósofo, o depressivo, o conquistador de garganta, o saudosista... Nem sempre, é verdade, estou motivado para participar desses grupos. Porém, passado um tempo, a saudade me bate.\n\nAqueles bate-papos intimistas com um amigo de tantas afinidades, merecedores que nos tornamos da confiança um do outro, esses não têm nada igual. A apreensão abrangente do amigo, de seu psiquismo, dos seus sentimentos, das dificuldades mais íntimas por que passa, faz-nos sentir, fortemente, a nossa natureza humana, a maior valia da vida.\n\nEsses momentos vão se tornando, assim me parece, uma cena menos habitual nestes tempos digitais. A pressa, os problemas a se multiplicarem, as tarefas a se diversificarem, como encontrar uma brecha para aquela conversa, que é entrega, confiança, despojamento? Conversa que exige respeito: um local calminho, sem gritos, vozes esganiçadas, garçons serenos. Sim, umas tulipas estourando de geladas e uns tira-gostos de nosso paladar a exigirem nova pedida. Não queria perder esses encontros. Afinal, a vida está passando tão depressa...",
+            "question": "Assinale a opção na qual o termo oracional em destaque foi corretamente classificado.",
+            "images": [],
+            "alternatives": {
+              "A": "\"Ou se trocam algumas palavras?\" (26) - objeto direto",
+              "B": "[...] assinalada por um marcador. (27) - complemento nominal",
+              "C": "[...] me oferece, é a ausência de conversa. (28) - objeto indireto",
+              "D": "[...] um amigo de tantas afinidades [...] (29) - adjunto adverbial",
+              "E": "[...] temor que lhe está roubando o sossego [...]. (30) - adjunto adnominal"
+            },
+            "answer": "E"
+          },
+          {
+            "questionId": "Uefs_GR0624",
+            "questionText": "Texto VII\n\nBrasil\n\nO Zé Pereira chegou de caravela\n\nE preguntou pro guarani da mata virgem\n\n– Sois cristão?\n\n– Não. Sou bravo, sou forte, sou filho da Morte\n\nTeterê tetê Quizá Quizá Quecê!\n\nLá longe a onça resmungava Uu! ua! uu!\n\nO negro zonzo saído da fornalha\n\nTomou a palavra e respondeu\n\n– Sim pela graça de Deus\n\nCanhem Babá Canhem Babá Cum Cum!\n\nE fizeram o Carnaval\n\n(ANDRADE, Oswald de. Primeiro Caderno do Aluno de Poesia Oswald de Andrade. São Paulo: Globo, 1991, p. 41.)",
+            "question": "O elemento do Texto VII que apresenta a mesma função sintática do termo \"zonzo\" (verso 07) é",
+            "images": [],
+            "alternatives": {
+              "A": "De caravela (verso 1).",
+              "B": "Pro guarani (verso 2).",
+              "C": "Da mata virgem (verso 2).",
+              "D": "Da fornalha (verso 7).",
+              "E": "Pela graça de deus (verso 9)."
+            },
+            "answer": "C"
+          },
+          {
+            "questionId": "Unifenas_GR0692",
+            "questionText": "Leia, com atenção, o excerto da LIRA XIX, de “Marília de Dirceu”, de Tomás Antônio Gonzaga.\n\nNesta triste masmorra,\n\nDe um semivivo corpo sepultura,\n\nInda, Marília, adoro\n\nA tua formosura.\n\nAmor na minha ideia te retrata;\n\nBusca extremoso, que eu assim resista\n\nÀ dor imensa, que me cerca, e mata.\n\nQuando em meu mal pondero,\n\nEntão mais vivamente te diviso:\n\nVejo o teu rosto, e escuto\n\nA tua voz, e riso.\n\nMovo ligeiro para o vulto os passos;\n\nEu beijo a tíbia luz em vez da face;\n\nE aperto sobre o peito em vão os braços.\n\nConheço a ilusão minha;\n\nA violência da mágoa não suporto;\n\nFoge-me a vista, e caio,\n\nNão sei se vivo, ou morto.\n\nEnternece-se Amor de estrago tanto;\n\nReclina-me no peito, e com mão terna\n\nMe limpa os olhos do salgado pranto.\n\nDivisar: distinguir pela visão; enxergar.\n\nTíbia: fraca.\n\nEnternecer-se: tornar-se terno; ter piedade; suavizar.",
+            "question": "Avalie as afirmações sobre os aspectos destacados do texto.\n\nI- Os vocábulos Marília, tíbia, violência, mágoa, extraídos do excerto, receberam acento gráfico em virtude da mesma razão.\n\nII- No verso “Movo ligeiro para o vulto os passos”, o vocábulo constitui exemplo de derivação imprópria, que consiste na mudança de classe gramatical de palavras.\n\nIII- Em “Nesta triste masmorra...” (1ª estrofe), “Então mais vivamente te diviso... (2ª estrofe), “Movo ligeiro para o vulto os passos....” (2ª estrofe) e “Reclina-me no peito, e com mão terna... (3ª estrofe), foram destacados termos acessórios e modificadores de formas verbais, às quais acrescentam algum tipo de circunstância.\n\nIV- “De um semivivo corpo sepultura...” (1ª estrofe); “Movo ligeiro para o vulto os passos...” (2ª estrofe); Enternece-se Amor de estrago tanto...” (3ª estrofe) ; “Reclina-me no peito; e com mão terna...” (3ª estrofe), as preposições sublinhadas estabelecem, pela ordem, os seguintes sentidos: posse, direção, causa e meio.\n\nV- Em “Amor na minha ideia te retrata” (1ª estrofe); “À dor imensa, que me cerca, e mata” (1ª estrofe); “Então vivamente te diviso” (2ª estrofe); “Me limpa os olhos do salgado pranto” (3ª estrofe), todos os termos destacados exercem a mesma função sintática.",
+            "images": [],
+            "alternatives": {
+              "A": "todas corretas, sem exceção.",
+              "B": "todas corretas, com única exceção.",
+              "C": "todas corretas, exceto II e V.",
+              "D": "todas corretas, exceto III e IV.",
+              "E": "todas corretas, exceto I e II."
+            },
+            "answer": "B"
+          },
+          {
+            "questionId": "Espcex_GR0727",
+            "questionText": "Assiste à demolição\n\n— Morou mais de vinte anos nesta casa? Então vai sentir “uma coisa” quando ela for demolida.\n\nComeçou a demolição. Passando pela rua, ele viu a casa já sem telhado, e operários, na poeira, removendo caibros. Aquele telhado que lhe dera tanto trabalho por causa das goteiras, tapadas aqui, reaparecendo ali. Seu quarto de dormir estava exposto ao céu, no calor da manhã. Ao fundo, no terraço, tinham desaparecido as colunas da pérgula, e a cobertura de ramos de buganvília – dois troncos subindo do pátio lá embaixo e enchendo de florinhas vermelhas o chão de ladrilho, onde gatos da vizinhança amavam fazer sesta e surpreender tico-ticos.\n\nPassou nos dias seguintes e viu o progressivo desfazer-se das paredes, que escancarava a casa de frente e de flancos jogando-a por assim dizer na rua. Os marcos das portas apareciam emoldurando o vazio. O azul e as nuvens circulavam pelos cômodos, em composição surrealista. E o pequeno balcão da fachada, cercado de ar, parecia um mirante espacial, baixado ao nível dos míopes.\n\nA demolição prosseguiu à noite, espontaneamente. Um lanço de parede desabou sozinho, para fora do tapume, quando já cessara na rua o movimento dos lotações. Caiu discreto, sem ferir ninguém, apenas avariando – desculpem – a rede telefônica.\n\nA casa encolhera-se, em processo involutivo. Já agora de um só pavimento, sem teto, aspirava mesmo à desintegração. Chegou a vez da pequena sala de estar, da sala de jantar com seu lambri envernizado a preto, que ele passara meses raspando a poder de gilete, para recuperar a cor da madeira. E a vez do escritório, parte pensante e sentinte de seu mecanismo individual, do eu mais íntimo e simultaneamente mais público, eu de gavetas sigilosas, manuseadas por um profissional da escrita. De todo o tempo que vivera na casa, fora ali que passara o maior número de horas, sentado, meio corcunda, desligado de acontecimentos, ouvindo, sem escutar, rumores que chegavam de outro mundo – cantoria de bêbados, motor de avião, chorinho de bebê, galo na madrugada.\n\nE não sentiu dor vendo esfarinharem-se esses compartimentos de sua história pessoal. Nem sequer a melancolia do desvanecimento das coisas físicas. Elas tinham durado, cumprido a tarefa.\n\nChega o instante em que compreendemos a demolição como um resgate de formas cansadas, sentença de liberdade. Talvez sejamos levados a essa compreensão pelo trabalho similar, mais surdo, que se vai desenvolvendo em nós. E não é preciso imaginar a alegria de formas novas, mais claras, a surgirem constantemente de formas caducas, para aceitar de coração sereno o fim das coisas que se ligaram à nossa vida.\n\nFitou tranquilo o que tinha sido sua casa e era um amontoado de caliça e tijolo, a ser removido. Em breve restaria o lote, à espera de outra casa maior, sem sinal dele e dos seus, mas destinada a concentrar outras vivências. Uma ordem, um estatuto pairava sobre os destroços, e tudo era como devia ser, sem ilusão de permanência.\n\nFonte: ANDRADE, Carlos Drummond de. Cadeira de balanço. 12. ed. Rio de Janeiro: Livraria José Olympio Editora, 1979.",
+            "question": "Marque a alternativa que traz, respectivamente, a correta classificação das expressões sublinhadas nas frases “A demolição prosseguiu à noite...” e “... aspirava mesmo à desintegração...”.",
+            "images": [],
+            "alternatives": {
+              "A": "adjunto adverbial – complemento verbal.",
+              "B": "adjunto adverbial – adjunto adverbial.",
+              "C": "adjunto adnominal – complemento verbal.",
+              "D": "complemento verbal – adjunto adnominal.",
+              "E": "complemento verbal – adjunto adverbial."
+            },
+            "answer": "A"
+          },
+          {
+            "questionId": "Espcex_GR0741",
+            "questionText": "Homem no mar\n\nRubem Braga\n\nDe minha varanda vejo, entre árvores e telhados, o mar. Não há ninguém na praia, que resplende ao sol. O vento é nordeste, e vai tangendo, aqui e ali, no belo azul das águas, pequenas espumas que marcham alguns segundos e morrem, como bichos alegres e humildes; perto da terra a onda é verde.\n\nMas percebo um movimento em um ponto do mar; é um homem nadando. Ele nada a uma certa distância da praia, em braçadas pausadas e fortes; nada a favor das águas e do vento, e as pequenas espumas que nascem e somem parecem ir mais depressa do que ele. Justo: espumas são leves, não são feitas de nada, toda sua substância é água e vento e luz, e o homem tem sua carne, seus ossos, seu coração, todo seu corpo a transportar na água.\n\nEle usa os músculos com uma calma energia; avança. Certamente não suspeita de que um desconhecido o vê e o admira porque ele está nadando na praia deserta. Não sei de onde vem essa admiração, mas encontro nesse homem uma nobreza calma, sinto-me solidário com ele, acompanho o seu esforço solitário como se ele estivesse cumprindo uma bela missão. Já nadou em minha presença uns trezentos metros; antes, não sei; duas vezes o perdi de vista, quando ele passou atrás das árvores, mas esperei com toda confiança que reaparecesse sua cabeça, e o movimento alternado de seus braços. Mais uns cinquenta metros, e o perderei de vista, pois um telhado o esconderá. Que ele nade bem esses cinquenta ou sessenta metros; isto me parece importante; é preciso que conserve a mesma batida de sua braçada, e que eu o veja desaparecer assim como o vi aparecer, no mesmo rumo, no mesmo ritmo, forte, lento, sereno. Será perfeito; a imagem desse homem me faz bem.\n\nÉ apenas a imagem de um homem, e eu não poderia saber sua idade, nem sua cor, nem os traços de sua cara. Estou solidário com ele, e espero que ele esteja comigo. Que ele atinja o telhado vermelho, e então eu poderei sair da varanda tranquilo, pensando \"vi um homem sozinho, nadando no mar; quando o vi ele já estava nadando; acompanhei-o com atenção durante todo o tempo, e testemunho que ele nadou sempre com firmeza e correção; esperei que ele atingisse um telhado vermelho, e ele o atingiu\".\n\nAgora não sou mais responsável por ele; cumpri o meu dever, e ele cumpriu o seu. Admiro-o. Não consigo saber em que reside, para mim, a grandeza de sua tarefa; ele não estava fazendo nenhum gesto a favor de alguém, nem construindo algo de útil; mas certamente fazia uma coisa bela, e a fazia de um modo puro e viril. Não desço para ir esperá-lo na praia e lhe apertar a mão; mas dou meu silencioso apoio, minha atenção e minha estima a esse desconhecido, a esse nobre animal, a esse homem, a esse correto irmão.\n\n(ANDRADE, Carlos Drummond de; et al. Elenco de cronistas modernos. 8. ed. Rio de Janeiro: José Olympio, 1984. p.128-129)",
+            "question": "No trecho “nada a favor das águas e do vento\", o termo sublinhado tem a mesma função sintática do termo destacado em:",
+            "images": [],
+            "alternatives": {
+              "A": "O homem nadava forte, mas com uma calma energia.",
+              "B": "Não desço para ir esperá-lo na praia e lhe apertar a mão.",
+              "C": "Dou meu silencioso apoio, minha atenção e minha estima a esse desconhecido.",
+              "D": "Será perfeito; a imagem desse homem me faz bem.",
+              "E": "Agora não sou mais responsável por ele; cumpri o meu dever e ele cumpriu o dele."
+            },
+            "answer": "A"
+          },
+          {
+            "questionId": "Uft_GR0747",
+            "questionText": "",
+            "question": "Analise as afirmativas a respeito do período: “Estão maltratando uma velhinha!\".\n\nI. O sujeito do período é composto.\n\nII. O objeto indireto do período é “uma velhinha!\".\n\nIII. O predicado é “estão maltratando uma velhinha!\"\n\nIV. A construção “estão maltratando\" indica ao leitor que a ação está em processo.\n\nAssinale a alternativa CORRETA.",
+            "images": [
+              "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/b05be694-61a6-4253-913f-492dba011a9f-arquivo-editor"
+            ],
+            "alternatives": {
+              "A": "Apenas as afirmativas I e II estão corretas.",
+              "B": "Apenas as afirmativas I e III estão corretas.",
+              "C": "Apenas as afirmativas II e IV estão corretas.",
+              "D": "Apenas as afirmativas III e IV estão corretas.",
+              "E": ""
+            },
+            "answer": "D"
+          },
+          {
+            "questionId": "Ita_GR0789",
+            "questionText": "A menina conduz-me diante do (50) leão, (14) esquecido por um circo de passagem. Não está preso, velho e doente, em gradil de ferro. (41). Foi solto no gramado (01) e a tela fina (12) de arame (06) é escarmento ao rei dos animais. (02) (46) (53). Não mais que um caco de leão: (17) (54) as pernas reumáticas, a juba emaranhada e sem brilho. (52). Os olhos globulosos (18) fecham-se (21) cansados, (11) sobre o focinho (07) contei (26) nove ou dez moscas, (19) (42) (51) que ele não tinha ânimo de espantar. (55) Das grandes narinas (03) escorriam (31) gotas e pensei, por um momento, (48) que fossem lágrimas. (36).\n\nObservei (22) em volta: somos todos adultos, sem contar a menina. Apenas para nós o leão conserva (27) o seu antigo prestígio — as crianças estão em redor dos macaquinhos. (42) Um dos presentes explica que o bicho tem (23) as pernas entrevadas, (08) (56) a vida inteira na minúscula jaula. Derreado, não pode (13) sustentar-se em pé.(57).\n\nChega-se um piá e, desafiando (28) com olhar selvagem (04) o leão, atira-lhe um punhado de cascas de amendoim. O rei sopra (32) pelas narinas, ainda é um leão faz estremecer a grama a seus pés.\n\n       Um de nós protesta (33) que deviam servir-lhe a carne em pedacinhos. (37)\n\n— Ele não tem dente?\n\n— Tem sim, não vê? Não tem é força de morder.\n\nContinua (24) o moleque a jogar amendoim na cara devastada do leão. Ele nos olha e um brilho de compreensão (40) nos faz baixar a cabeça: é conhecido o travo amargoso da derrota. Está velho, artrítico, (15) não se aguenta das pernas, mas é um leão. De repente, (45) sacudindo a juba, põe-se a mastigar o capim. Ora, leão come verde! (20) Lança-lhe (29) o guri uma pedra: acertou no olho (44) lacrimoso (05) e doeu. (34)\n\nO leão abriu a bocarra de dentes (47) amarelos, (10) não era um bocejo. Entre caretas do dor, (09) elevou-se (30) aos poucos (38) nas pernas tortas. Sem sair (25) do lugar, ficou de pé. Escancarou (35) pensamento os beiços moles e negros, ouviu-se a rouca buzina (39) de fordeco antigo.\n\nPor um instante o rugido manteve suspensos os macaquinhos e fez bater mais depressa o coração da menina.(49) O leão soltou seis ou sete urros. Exausto, deixou-se cair (16) de lado e fechou os olhos para sempre.\n\nEscarmento: castigo, punição",
+            "question": "Em qual das opções os termos retirados do texto acima desempenham a mesma função sintática?",
+            "images": [],
+            "alternatives": {
+              "A": "no gramado (01) / de arame (06).",
+              "B": "ao rei dos animais (02) / sobre o focinho (07).",
+              "C": "Das grandes narinas (03) / as pernas entrevadas (08).",
+              "D": "com olhar selvagem (04) / Entre caretas de dor (09).",
+              "E": "no olho lacrimoso (05) / de dentes amarelos (10)."
+            },
+            "answer": "D"
+          }
+    ]
+}

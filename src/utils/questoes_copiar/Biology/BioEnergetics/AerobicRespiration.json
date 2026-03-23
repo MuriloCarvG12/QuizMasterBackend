@@ -1,0 +1,471 @@
+{
+    "examTitle": "Respiracao Aerobica",
+    "questions": [
+        {
+  "questionId": "Enem_B0551",
+  "questionText": "As proteínas de uma célula eucariótica possuem peptídeos sinais, que são sequências de aminoácidos responsáveis pelo seu endereçamento para as diferentes organelas, de acordo com suas funções. Um pesquisador desenvolveu uma nanopartícula capaz de carregar proteínas para dentro de tipos celulares específicos. Agora ele quer saber se uma nanopartícula carregada com uma proteína bloqueadora do ciclo de Krebs in vitro é capaz de exercer sua atividade em uma célula cancerosa, podendo cortar o aporte energético e destruir essas células.",
+  "question": "Ao escolher essa proteína bloqueadora para carregar as nanopartículas, o pesquisador deve levar em conta um peptídeo sinal de endereçamento para qual organela?",
+  "images": [],
+  "alternatives": {
+    "A": "Núcleo.",
+    "B": "Mitocôndria.",
+    "C": "Peroxissomo.",
+    "D": "Complexo golgiense.",
+    "E": "Retículo endoplasmático."
+  },
+  "answer": "B"
+},
+{
+  "questionId": "Fsm_B0552",
+  "questionText": "O ciclo de Krebs, também chamado de ciclo do ácido cítrico, é a segunda etapa da respiração aeróbica da célula, antecedida pela glicólise e seguida pela cadeia respiratória. Observa a imagem abaixo que representa esse ciclo.",
+  "question": "Assinale a alternativa que corresponde ao composto representado pelo número 1.",
+  "images": [
+    "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/525f2442-987c-450a-ac50-f5d0d23d8635-arquivo-editor"
+  ],
+  "alternatives": {
+    "A": "Acetil-coA.",
+    "B": "Malato.",
+    "C": "Ácido Cítrico.",
+    "D": "Leucina.",
+    "E": "Fumarato."
+  },
+  "answer": "A"
+},
+{
+  "questionId": "Enem_B3876",
+  "questionText": "Os ursos, por não apresentarem uma hibernação verdadeira, acordam por causa da presença de termogenina, uma proteína mitocondrial que impede a chegada dos prótons até a ATP sintetase, gerando calor. Esse calor é importante para aquecer o organismo, permitindo seu despertar.",
+  "question": "Em qual etapa do metabolismo energético celular a termogenina interfere?",
+  "images": [],
+  "alternatives": {
+    "A": "Glicólise.",
+    "B": "Fermentação lática.",
+    "C": "Ciclo do ácido cítrico.",
+    "D": "Oxidação do piruvato.",
+    "E": "Fosforilação oxidativa."
+  },
+  "answer": "E"
+},
+{
+  "questionId": "Fip_B0561",
+  "questionText": "Fosforilação oxidativa é uma sequência de reações determinada pela:",
+  "question": "Qual das alternativas descreve corretamente o processo de fosforilação oxidativa?",
+  "images": [],
+  "alternatives": {
+    "A": "energia liberada em uma sequência de reações ao longo da cadeia respiratória que é utilizada na conversão do ADP+Pi em ATP.",
+    "B": "energia liberada em uma sequência de reações ao longo da cadeia respiratória que não é utilizada na conversão do ADP+Pi em ATP.",
+    "C": "formação da acetilcoenzima A, produzida a partir do piruvato, que é produto da glicólise ou da oxidação de ácidos graxos pela β-oxidação.",
+    "D": "quebra de glicose em duas moléculas de piruvato.",
+    "E": "sequência de eventos que degradam a glicólise, transformando-a em duas moléculas de piruvato, liberando energia."
+  },
+  "answer": "A"
+},
+{
+  "questionId": "Facisa_B0550",
+  "questionText": "As mitocôndrias são organelas membranosas, geralmente em forma de bastonete, responsáveis pela respiração celular aeróbia em eucariontes como nos humanos. Dentre as etapas do referido processo de respiração celular (a partir da glicose), ocorrem fora e dentro da mitocôndria, respectivamente:",
+  "question": "Quais etapas da respiração celular ocorrem fora e dentro da mitocôndria, respectivamente?",
+  "images": [],
+  "alternatives": {
+    "A": "Glicólise e Ciclo de Krebs.",
+    "B": "Glicólise e formação de piruvato.",
+    "C": "Formação do acetil-CoA e Cadeia respiratória.",
+    "D": "Formação de acetil-CoA e formação de piruvato.",
+    "E": "Ciclo de Krebs e Glicólise."
+  },
+  "answer": "A"
+},
+{
+  "questionId": "Uece_B0556",
+  "questionText": "Com relação à respiração celular é correto afirmar que:",
+  "question": "Qual afirmação corretamente descreve a respiração celular?",
+  "images": [],
+  "alternatives": {
+    "A": "a glicose é totalmente degradada durante a glicólise.",
+    "B": "a formação de ATP ocorre, somente, dentro da mitocôndria.",
+    "C": "não ocorre liberação de CO2 durante o Ciclo de Krebs.",
+    "D": "o O2 é o aceptor final de elétrons na respiração aeróbia."
+  },
+  "answer": "D"
+},
+{
+  "questionId": "Uesb_B0565",
+  "questionText": "A imagem ilustra a produção de ATP em um ambiente membranoso no interior de uma determinada organela presente em células eucarióticas. A respeito desse processo metabólico ilustrado, é correto afirmar:",
+  "question": "O que o processo metabólico ilustrado na imagem representa?",
+  "images": [
+    "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/ac4dceda-ecc6-4878-8683-864c4f32ec7a-arquivo-editor"
+  ],
+  "alternatives": {
+    "A": "Representa a etapa da glicólise, conjunto de reações essenciais ao processo da respiração celular.",
+    "B": "É um processo gerador de um gradiente de prótons no espaço intermembranoso para posterior ativação da enzima ATP sintetase responsável por intensa fosforilação oxidativa.",
+    "C": "A energia luminosa captada pela clorofila presente no estroma dos cloroplastos é utilizada para acumular H+ no espaço intermembranoso através do consumo de moléculas de ATP.",
+    "D": "Os polissomos aderidos à membrana do retículo endoplasmático encadeiam aminoácidos na formação de novas moléculas de proteínas a serem exportadas pelo complexo golgiense.",
+    "E": "As enzimas hidrolíticas presentes no interior dos lisossomos irão se unir ao material englobado do fagossomo com intenso deslocamento de moléculas de ATP."
+  },
+  "answer": "B"
+},
+{
+  "questionId": "Ufg_B0564",
+  "questionText": "O mapa mundi mostra o itinerário da viagem realizada entre 1831 e 1836 no navio H.M.S. Beagle, comandada por FitzRoy e que contou com Charles Darwin como naturalista. Durante sua passagem pelo Rio de Janeiro em 1832, Darwin descreveu a mandioca, destacando que seu suco é venenoso devido à presença de glicosídeos cianogênicos que liberam ácido cianídrico (HCN), substância de alta afinidade por íons envolvidos no transporte de elétrons.",
+  "question": "O bloqueio provocado pelo HCN leva à interrupção de qual etapa metabólica?",
+  "images": [],
+  "alternatives": {
+    "A": "do ciclo de Calvin.",
+    "B": "do ciclo de Krebs.",
+    "C": "da cadeia respiratória.",
+    "D": "glicólise.",
+    "E": "da fotofosforilação."
+  },
+  "answer": "C"
+},
+{
+  "questionId": "Uerj_B0557",
+  "questionText": "A afirmação diz que no homem todo O2 que entra no sangue pelos pulmões sai pelo mesmo órgão ligado ao carbono, como CO2. A frase não é correta.",
+  "question": "Por qual razão essa afirmação é considerada incorreta?",
+  "images": [],
+  "alternatives": {
+    "A": "o CO2 é excretado sob a forma de bicarbonato pelos rins.",
+    "B": "os pulmões eliminam pequena parte do CO2 produzido no organismo.",
+    "C": "o O2, na cadeia respiratória mitocondrial, é incorporado na água formada.",
+    "D": "o O2 encontrado no ar expirado pelos pulmões é originário de reações metabólicas."
+  },
+  "answer": "C"
+},
+{
+  "questionId": "Uerj_B0563",
+  "questionText": "LAUDOS CONFIRMAM QUE TODAS AS MORTES NA KISS OCORRERAM PELA INALAÇÃO DA FUMAÇA\n\nNecropsia das 234 vítimas daquela noite revela que todas as mortes ocorreram devido à inalação de gás cianídrico e de monóxido de carbono gerados pela queima do revestimento acústico da boate.\n\nAdaptado de ultimosegundo.ig.com.br, 5/03/2013.\n\nOs dois agentes químicos citados no texto, quando absorvidos, provocam o mesmo resultado: paralisação dos músculos e asfixia, culminando na morte do indivíduo. Com base nessas informações, pode-se afirmar que tanto o gás cianídrico quanto o monóxido de carbono interferem no processo denominado:",
+  "question": "Em qual processo esses agentes interferem?",
+  "images": [],
+  "alternatives": {
+    "A": "síntese de DNA.",
+    "B": "transporte de íons.",
+    "C": "eliminação de excretas.",
+    "D": "metabolismo energético."
+  },
+  "answer": "D"
+},
+{
+  "questionId": "Unifor_B0554",
+  "questionText": "Observando o esquema acima, avalie as afirmações que se seguem:\n\nI. A etapa A representa a etapa anaeróbica do processo de degradação da glicose que acontece no citosol.\n\nII. A maior parte do NADH é produzida no interior da mitocôndria, durante a etapa B.\n\nIII. A síntese da maior parte do ATP está acoplada à redução das moléculas de NADH e FADH2, que se transformam em NAD+ e FAD, respectivamente, e ocorre durante a etapa B.\n\nIV. A etapa C ocorre nas cristas mitocondriais e produz maior quantidade de ATP do que a etapa B.",
+  "question": "Quais afirmações estão corretas?",
+  "images": [
+    "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/3b07bbf5-ea9c-4128-aea9-62b4e311c768-arquivo-editor"
+  ],
+  "alternatives": {
+    "A": "I e II.",
+    "B": "I e III.",
+    "C": "III e IV.",
+    "D": "I, II e IV.",
+    "E": "II, III e IV."
+  },
+  "answer": "D"
+},
+{
+  "questionId": "Enem_B0548",
+  "questionText": "Segundo a teoria evolutiva mais aceita hoje, as mitocôndrias, responsáveis pela produção de ATP em células eucariotas, teriam se originado de procariontes ancestrais incorporados por células mais complexas. Uma característica da mitocôndria que sustenta essa teoria é:",
+  "question": "Qual característica mitocondrial sustenta a teoria da endossimbiose?",
+  "images": [],
+  "alternatives": {
+    "A": "Capacidade de produzir moléculas de ATP.",
+    "B": "Presença de parede celular semelhante à de procariontes.",
+    "C": "Presença de membranas envolvendo e separando a matriz mitocondrial do citoplasma.",
+    "D": "Capacidade de autoduplicação dada por DNA circular próprio semelhante ao bacteriano.",
+    "E": "Presença de um sistema enzimático eficiente às reações químicas do metabolismo aeróbio."
+  },
+  "answer": "D"
+},
+{
+  "questionId": "Unifor_B0547",
+  "questionText": "Durante a digestão, carboidratos são degradados até monossacarídeos e absorvidos. Após a absorção, frutose e galactose são convertidas em glicose para que ocorra seu catabolismo e produção de ATP. A questão pede a equação que representa o catabolismo de uma molécula de glicose.",
+  "question": "Qual equação representa o catabolismo aeróbio da glicose?",
+  "images": [],
+  "alternatives": {
+    "A": "glicose + H2O → ATPs + CO2 + O2.",
+    "B": "glicose + ATPs → ATPs + CO2 + H2O.",
+    "C": "glicose + piruvato → ATPs + CO2.",
+    "D": "glicose + O2 → ATPs + CO2 + H2O.",
+    "E": "glicose + CO2 → ATPs + O2 + H2O."
+  },
+  "answer": "D"
+},
+{
+  "questionId": "Uerj_B0560",
+  "questionText": "Os compartimentos e membranas das mitocôndrias contêm componentes do metabolismo energético. São fornecidas imagens com estruturas numeradas (1 a 4). A questão pede identificar onde se encontram citocromos, ATP sintase e enzimas do ciclo de Krebs.",
+  "question": "Quais números correspondem, respectivamente, aos locais dos citocromos, ATP sintase e enzimas do ciclo de Krebs?",
+  "images": [
+    "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/0d16b0ed-7cb6-4aab-ba31-1a8e7ad16994-arquivo-editor",
+    "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/39d0fbc0-19b5-4402-9571-7fe44e2b4e31-arquivo-editor"
+  ],
+  "alternatives": {
+    "A": "1, 2 e 4.",
+    "B": "3, 3 e 2.",
+    "C": "4, 2 e 1.",
+    "D": "4, 4 e 1."
+  },
+  "answer": "D"
+},
+{
+  "questionId": "Enem_B0566",
+  "questionText": "O 2,4-dinitrofenol (DNP) é conhecido como desacoplador da cadeia de elétrons na mitocôndria e apresenta um efeito emagrecedor. Contudo, por ser perigoso e pela ocorrência de casos letais, seu uso como medicamento é proibido em diversos países. O DNP captura prótons no espaço intermembranas e os devolve à matriz mitocondrial sem que passem pela ATP sintase. O efeito emagrecedor desse composto está relacionado ao(à)",
+  "question": "",
+  "images": [],
+  "alternatives": {
+    "A": "obstrução da cadeia respiratória, resultando em maior consumo celular de ácidos graxos.",
+    "B": "bloqueio das reações do ciclo de Krebs, resultando em maior gasto celular de energia.",
+    "C": "diminuição da produção de acetil CoA, resultando em maior gasto celular de piruvato.",
+    "D": "inibição da glicólise, resultando em maior absorção celular da glicose sanguínea.",
+    "E": "redução da produção de ATP, resultando em maior gasto celular de nutrientes."
+  },
+  "answer": "E"
+},
+{
+  "questionId": "Unichristus_B0549",
+  "questionText": "Pesquisadores descobriram um novo tipo de bactéria que pode alterar o entendimento sobre a origem das mitocôndrias. Sobre as organelas citadas, depreende-se que:",
+  "question": "",
+  "images": [],
+  "alternatives": {
+    "A": "são delimitadas por duas membranas lipoproteicas semelhantes às demais membranas celulares. Enquanto a membrana externa é lisa, a membrana interna possui inúmeras pregas, as cristas mitocondriais.",
+    "B": "o fato de essas organelas possuírem material genético próprio permite a elas capacidade de se autoduplicarem, principalmente em tecidos orgânicos que requerem uma compensação fisiológica menor quanto à demanda energética.",
+    "C": "são encontrados, em sua matriz, os peroxissomos, que produzem proteínas necessárias às organelas. Eles são diferentes daqueles encontrados no citoplasma celular e mais parecidos com o das bactérias.",
+    "D": "possuem apenas membrana lipoproteica com inúmeras dobras, além de moléculas de DNA, enzimas e ribossomos e têm capacidade de autoduplicação. O tamanho, a forma, a quantidade e a distribuição dessas organelas variam de uma célula para outra.",
+    "E": "desempenham um papel central no metabolismo de células procarióticas, contribuindo para a produção de energia, para o metabolismo intermediário e para os mecanismos de morte celular."
+  },
+  "answer": "A"
+},
+{
+  "questionId": "Fuvest_B0558",
+  "questionText": "Em um experimento, camundongos respiraram oxigênio contendo o isótopo 18O. Em qual composto o isótopo será detectado primeiramente nas células?",
+  "question": "",
+  "images": [],
+  "alternatives": {
+    "A": "no ATP.",
+    "B": "na glicose.",
+    "C": "no NADH.",
+    "D": "no gás carbônico.",
+    "E": "na água."
+  },
+  "answer": "E"
+},
+{
+  "questionId": "Ufrgs_B0559",
+  "questionText": "A mitocôndria é uma organela da célula eucariótica. Considere as seguintes afirmações sobre essa organela.\n\nI. A membrana interna forma pregas, possibilitando o aumento da superfície que contém proteínas e enzimas da cadeia respiratória.\n\nII. A membrana externa apresenta aceptores que participam da glicólise.\n\nIII. Ela está presente em abundância nas células do tecido muscular estriado esquelético.",
+  "question": "Quais estão corretas?",
+  "images": [],
+  "alternatives": {
+    "A": "Apenas I.",
+    "B": "Apenas II.",
+    "C": "Apenas I e III.",
+    "D": "Apenas II e III.",
+    "E": "I, II e III."
+  },
+  "answer": "C"
+},
+{
+  "questionId": "Unifor_B0568",
+  "questionText": "Cientistas descobriram um mecanismo biológico que transforma gordura branca em gordura marrom. A primeira acumula energia no corpo e está associada à obesidade; a segunda está ligada à regulação da temperatura. Esta descoberta representa uma estratégia para combater a obesidade.",
+  "question": "O mecanismo de regulação da temperatura realizado pela gordura marrom está associado à:",
+  "images": [],
+  "alternatives": {
+    "A": "A utilização de ATP (trifosfato de adenosina) para produção de calor.",
+    "B": "A presença de termogenina, uma proteína desacopladora.",
+    "C": "A inibição da cadeia transportadora de elétrons na mitocôndria, dissipando calor.",
+    "D": "A ativação da fosforilação oxidativa na matriz mitocondrial.",
+    "E": "A hidrólise de ATP (trifosfato de adenosina) em ADP (difosfato de adenosina) liberando calor."
+  },
+  "answer": "B"
+},
+{
+  "questionId": "Uece_B0553",
+  "questionText": "O agricultor cearense usa tambores de duzentos litros, hermeticamente fechados, para conservar suas safras durante o ano. No caso do feijão, o ciclo vital do gorgulho, Callosobruchus maculatus, inseto que ataca o feijão, é interrompido pela sua incapacidade de respirar. A etapa da respiração que é bloqueada pela ausência de _____ é o(a) _____. Ela ocorre no (a) _____.",
+  "question": "Qual alternativa preenche, na ordem e corretamente, as lacunas?",
+  "images": [],
+  "alternatives": {
+    "A": "CO2, glicose, citoplasma.",
+    "B": "CO2, ciclo de Krebs, crista mitocondrial.",
+    "C": "O2, ciclo de Krebs, matriz mitocondrial.",
+    "D": "O2, cadeia respiratória, crista mitocondrial."
+  },
+  "answer": "D"
+},
+{
+  "questionId": "Uerj_B0569",
+  "questionText": "As concentrações de ATP / ADP regulam a velocidade de transporte de elétrons pela cadeia respiratória; em concentrações altas de ATP a velocidade é reduzida, mas aumenta se os níveis de ATP baixam. Na presença de inibidores da respiração, como o cianeto, a passagem de elétrons através da cadeia respiratória é bloqueada. Na presença de desacopladores da fosforilação oxidativa, como o dinitrofenol, a síntese de ATP a partir do ADP diminui, mas o funcionamento da cadeia respiratória não é diretamente afetado pelo desacoplador. O gráfico abaixo mostra o consumo de oxigênio de quatro porções, numeradas de 1 a 4, de uma mesma preparação de mitocôndrias em condições ideais. A uma delas foi adicionado um inibidor da cadeia e, a outra, um desacoplador. A de número 2 é um controle que não recebeu nenhuma adição e, à alíquota restante, pode ou não ter sido adicionado um inibidor ou um desacoplador.",
+  "question": "As porções que contêm um inibidor da cadeia respiratória e um desacoplador são, respectivamente, as de números:",
+  "images": [
+    "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/e6260190-c7f0-423c-830f-37dcdabfadab-arquivo-editor"
+  ],
+  "alternatives": {
+    "A": "1 e 4.",
+    "B": "1 e 3.",
+    "C": "3 e 4.",
+    "D": "4 e 1."
+  },
+  "answer": "A"
+},
+{
+  "questionId": "Unicamp_B0570",
+  "questionText": "Podemos obter energia no organismo pela oxidação de diferentes fontes. Entre essas fontes destacam-se a gordura e o açúcar. A gordura pode ser representada por uma fórmula mínima (CH2)n enquanto um açúcar pode ser representado por (CH2O)n. Considerando essas duas fontes de energia, podemos afirmar corretamente que, na oxidação total de 1 grama de ambas as fontes em nosso organismo, os produtos formados são",
+  "question": "Quais são os produtos formados na oxidação total de 1 grama de gordura (CH2)n e de açúcar (CH2O)n?",
+  "images": [],
+  "alternatives": {
+    "A": "os mesmos, mas as quantidades de energia são diferentes.",
+    "B": "diferentes, mas as quantidades de energia são iguais.",
+    "C": "os mesmos, assim como as quantidades de energia.",
+    "D": "diferentes, assim como as quantidades de energia."
+  },
+  "answer": "A"
+},
+{
+  "questionId": "Fmj_B0567",
+  "questionText": "Com relação ao papel desacoplador, como o dinitrofenol, na fosforilação oxidativa, é correto afirmar que:",
+  "question": "Qual é o efeito de um desacoplador como o dinitrofenol na fosforilação oxidativa?",
+  "images": [],
+  "alternatives": {
+    "A": "inibe o transporte de elétrons e a síntese de ATP.",
+    "B": "permite que o transporte de elétrons ocorra sem síntese de ATP.",
+    "C": "inibe o transporte de elétrons sem prejuízo da síntese de ATP.",
+    "D": "inibe especificamente a citocromo b.",
+    "E": "atua como inibidor competitivo as reações que requerem NAD+ na mitocôndria."
+  },
+  "answer": "B"
+},
+{
+  "questionId": "Unichristus_B0574",
+  "questionText": "A Bioenergética compreende o estudo quantitativo das transformações de energia que ocorrem nas células vivas, bem como a natureza e função dos processos químicos envolvidos nessas transformações.",
+  "question": "Em relação à bioenergética, qual das afirmativas abaixo é incorreta?",
+  "images": [],
+  "alternatives": {
+    "A": "a completa oxidação da glicose até CO2 e H2O é um processo favorável, pois ocorre o aumento da entropia e uma variação negativa da entalpia.",
+    "B": "a energia liberada por oxidações ocorridas no ciclo de Krebs é conservada em moléculas de NAD e FAD reduzidas.",
+    "C": "o ciclo de Krebs não é um processo altamente energético, porque ocorre a fosforilação de apenas um GTP.",
+    "D": "NAD e FAD reduzidos se reoxidam na cadeia respiratória.",
+    "E": "elétrons conduzidos ao longo da cadeia respiratória liberam energia que será conservada na forma de ATP, pela fosforilação oxidativa."
+  },
+  "answer": "C"
+},
+{
+  "questionId": "Famene_B0572",
+  "questionText": "A charge abaixo reporta, de forma bem-humorada, um dos diversos aspectos biológicos ligados à organela citoplasmática em questão. Baseando-se no conhecimento científico geral sobre esta e demais organelas relacionadas à produção de energia na célula, analise as assertivas abaixo classificando-as como verdadeiras (V) ou falsas (F):\n\nI. O número de mitocôndrias que constituem o condrioma é bastante variável entre as células de um mesmo indivíduo, sendo maior nos tipos celulares com atividade metabólica elevada.\n\nII. Enzimas, grânulos densos, ribossomos, e moléculas de DNA e RNA são elementos que podemos encontrar na matriz mitocondrial. Todavia, em comparação aos encontrados no citoplasma, os ribossomos da organela em questão (mitorribossomos) são menores, semelhantes aos ribossomos de células procarióticas.\n\nIII. As mitocôndrias originam-se exclusivamente pela autoduplicação de mitocôndrias preexistentes. Após a divisão mitótica de uma célula, cada uma das duas células filhas recebe aproximadamente metade da quantidade da referida organela existente na célula mãe.\n\nIV. Hidrogenossomos e mitossomos são outros tipos de organelas que, assim como a mitocôndria, estão relacionados à produção de energia na célula. Eles ocorrem em seres que vivem em ambientes desprovidos de gás nitrogênio.\n\nV. Nas células eucarióticas animais, a herança de genes de organelas difere daquela de genes nucleares. Dentre as razões para que isso aconteça, podemos citar, além do condrioma, o fato de que as mitocôndrias geralmente são herdadas somente a partir da mãe.\n\nVI. Comumente, as células do corpo dos animais contêm mitocôndrias herdadas apenas da mãe. Embora os gametas feminino e masculino possuam a referida organela, assim que ocorre a fecundação (e se forma a célula ovo), as mitocôndrias do gameta masculino degeneram e apenas as provenientes do gameta feminino permanecem na célula.",
+  "question": "A soma total (Σ) dos algarismos romanos associados apenas às assertivas verdadeiras é igual a:",
+  "images": [
+    "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/3f1e1255-c7cd-47df-acb8-8b3e8d86436e-arquivo-editor"
+  ],
+  "alternatives": {
+    "A": "03.",
+    "B": "12.",
+    "C": "16.",
+    "D": "17.",
+    "E": "21."
+  },
+  "answer": "D"
+},
+{
+  "questionId": "Unit_B0576",
+  "questionText": "Observando-se o esquema que demonstra a ação da FoF1-ATP-sintetase e com base nos conhecimentos sobre o assunto, é correto afirmar:",
+  "question": "Qual das alternativas está correta sobre a ação da FoF1-ATP-sintetase?",
+  "images": [
+    "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/a912afd2-e674-4176-8e29-95a128801208-arquivo-editor"
+  ],
+  "alternatives": {
+    "A": "O refluxo do H+ para a matriz mitocondrial demanda de ATP.",
+    "B": "Para que ocorra a sua ação a presença do oxigênio é dispensável.",
+    "C": "A ação dessa proteína é uma consequência do processo que ocorreu por conta do transporte de elétrons.",
+    "D": "A FoF1-ATP-sintetase é uma proteína integral sintetizada por polissomos aderidos ao Complexo de Golgi.",
+    "E": "A fosforilação do ATP ocorre por conta de um refluxo de H+ que ocorreu em direção à matriz mitocondrial."
+  },
+  "answer": "C"
+},
+{
+  "questionId": "Uerj_B0573",
+  "questionText": "O ciclo de Krebs, que ocorre no interior das mitocôndrias, é um conjunto de reações químicas aeróbias fundamental no processo de produção de energia para a célula eucarionte. Ele pode ser representado pelo seguinte esquema. Admita um ciclo de Krebs que, após a entrada de uma única molécula de acetil-CoA, ocorra normalmente até a etapa de produção do fumarato. Ao final da passagem dos produtos desse ciclo pela cadeia respiratória, a quantidade total de energia produzida, expressa em adenosinas trifosfato (ATP), será igual a:",
+  "question": "Qual é a quantidade total de ATP produzida ao final da cadeia respiratória considerando que o ciclo ocorreu até a formação de fumarato?",
+  "images": [
+    "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/a3b86610-5d88-4458-8a2f-841046001513-arquivo-editor"
+  ],
+  "alternatives": {
+    "A": "3.",
+    "B": "4.",
+    "C": "9.",
+    "D": "12.",
+    "E": ""
+  },
+  "answer": "C"
+},
+{
+  "questionId": "Unp_B0575",
+  "questionText": "Grande parte dos seres vivos obtém energia por meio da respiração celular. Esse modelo de respiração se divide em três etapas importantes: glicólise, ciclo de Krebs e cadeia respiratória. Indique nas alternativas abaixo a produção de ATPs que ocorre em cada uma das etapas da respiração celular.",
+  "question": "Qual é a produção de ATPs em cada uma das etapas da respiração celular?",
+  "images": [],
+  "alternatives": {
+    "A": "Glicólise 2 ATPs, Ciclo de Krebs 2 ATPs e Cadeia respiratória 34 ATPs.",
+    "B": "Glicólise 4 ATPs, Ciclo de Krebs 1 ATPs e Cadeia respiratória 36 ATPs.",
+    "C": "Glicólise 4 ATPs, Ciclo de Krebs 2 ATPs e Cadeia respiratória 34 ATPs.",
+    "D": "Glicólise 2 ATPs, Ciclo de Krebs 1 ATPs e Cadeia respiratória 36 ATPs.",
+    "E": ""
+  },
+  "answer": "C"
+},
+{
+  "questionId": "Facisa_B0571",
+  "questionText": "Denomina-se ligação de alta energia a que libera mais de 5.000 cal/mol. Os compostos que apresentam essas ligações de alto nível energético são de grande importância no metabolismo energético. Dentre as substâncias mencionadas a seguir, a que não apresenta ligações de alto valor energético é:",
+  "question": "Qual substância não apresenta ligações de alto valor energético?",
+  "images": [],
+  "alternatives": {
+    "A": "Glicose.",
+    "B": "Acetil-coA.",
+    "C": "ATP.",
+    "D": "NADP.",
+    "E": "ADP."
+  },
+  "answer": "A"
+},
+{
+  "questionId": "Unifor_B0555",
+  "questionText": "Quando uma importante artéria coronária é bloqueada, resulta em isquemia, inibindo o transporte de elétrons e a fosforilação oxidativa nas mitocôndrias. A isquemia causa danos aos tecidos afetados. Analise os eventos metabólicos: I. Diminuição do ATP intracelular; II. Diminuição de NADH/NAD+; III. Acidose láctica; IV. Depleção do glicogênio celular. Marque a opção correta em relação aos eventos metabólicos que ocorrem na isquemia:",
+  "question": "Quais eventos metabólicos ocorrem durante a isquemia?",
+  "images": [],
+  "alternatives": {
+    "A": "I e II somente.",
+    "B": "I e III somente.",
+    "C": "I, II e III somente.",
+    "D": "I, III e IV somente.",
+    "E": "I, II, III e IV somente."
+  },
+  "answer": "D"
+},
+{
+  "questionId": "Enem_B3901",
+  "questionText": "A produção de ATP depende do gradiente de prótons gerado pela cadeia respiratória. Nessas reações, os elétrons provenientes da oxidação do NADH percorrem a cadeia até chegarem à citocromo c oxidase. O oxigênio atua como aceptor final desses elétrons formando água. O cianeto liga-se ao Fe3+ da citocromo c oxidase, impedindo a redução e bloqueando a cadeia respiratória. Esse bloqueio aumenta a concentração celular de:",
+  "question": "O bloqueio da cadeia respiratória pelo cianeto aumenta a concentração celular de qual composto?",
+  "images": [
+    "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/aec78ef3-db7f-4dd1-a82e-d6f80e91f62a-arquivo-editor"
+  ],
+  "alternatives": {
+    "A": "ATP.",
+    "B": "água.",
+    "C": "NADH.",
+    "D": "dióxido de carbono.",
+    "E": "citocromo c oxidase."
+  },
+  "answer": "C"
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    ]
+}

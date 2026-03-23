@@ -1,0 +1,242 @@
+{
+    "examTitle": "Isomeria Geometrica",
+    "questions": 
+    [
+            {
+      "questionId": "Ifsul_Q1045",
+      "questionText": "A Cannabis sativa (maconha) possui diversas substâncias químicas que, ao entrarem em contato com o corpo do usuário, desencadeiam uma série de efeitos, entre eles a sensação de excitação provocada pelo reagente THC. O THC tem sua fórmula estrutural mostrada ao lado.\n\nSobre a estrutura do THC, é correto afirmar que ela apresenta:",
+      "images": [
+        "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/436049d0-6910-4e8d-8819-4254933a2523-arquivo-editor"
+      ],
+      "alternatives": {
+        "A": "5 carbonos quirais",
+        "B": "função fenol e éter",
+        "C": "3 anéis aromáticos",
+        "D": "apenas carbonos sp3"
+      },
+      "answer": "B"
+    },
+    {
+      "questionId": "Enem_PPL_Q1666",
+      "questionText": "Várias características e propriedades de moléculas orgânicas podem ser inferidas analisando sua fórmula estrutural. Na natureza, alguns compostos apresentam a mesma fórmula molecular e diferentes fórmulas estruturais. São os chamados isômeros, como ilustrado nas estruturas.\n\nEntre as moléculas apresentadas, observa-se a ocorrência de isomeria:",
+      "images": [
+        "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/8dd68d5c-e546-4685-b2e2-cc1320982dc2-arquivo-editor"
+      ],
+      "alternatives": {
+        "A": "ótica",
+        "B": "de função",
+        "C": "de cadeia",
+        "D": "geométrica",
+        "E": "de compensação"
+      },
+      "answer": "A"
+    },
+    {
+      "questionId": "Enem_Q1433",
+      "questionText": "Pesquisas demonstram que nanodispositivos baseados em movimentos de dimensões atômicas, induzidos por luz, poderão ter aplicações em tecnologias futuras, substituindo micromotores, sem a necessidade de componentes mecânicos. Exemplo de movimento molecular induzido pela luz pode ser observado pela flexão de uma lâmina delgada de silício, ligado a um polímero de azobenzeno e a um material suporte, em dois comprimentos de onda, conforme ilustrado na figura. Com a aplicação de luz ocorrem reações reversíveis da cadeia do polímero, que promovem o movimento observado.\n\nO fenômeno de movimento molecular, promovido pela incidência de luz, decorre do(a):",
+      "images": [
+        "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/1ca96d76-9cfc-4b22-bcac-287a9116878c-arquivo-editor"
+      ],
+      "alternatives": {
+        "A": "movimento vibracional dos átomos, que leva ao encurtamento e à relaxação das ligações",
+        "B": "isomerização das ligações N = N, sendo a forma cis do polímero mais compacta que a trans",
+        "C": "tautomerização das unidades monoméricas do polímero, que leva a um composto mais compacto",
+        "D": "ressonância entre os elétrons π do grupo azo e os do anel aromático que encurta as ligações duplas",
+        "E": "variação conformacional das ligações N = N, que resulta em estruturas com diferentes áreas de superfície"
+      },
+      "answer": "B"
+    },
+    {
+      "questionId": "Fac_Albert_Einstein_Q1038",
+      "questionText": "Ritalina é o nome comercial do metilfenidato, droga frequentemente receitada para pacientes com transtorno do déficit de atenção e hiperatividade (TDAH). A fórmula estrutural do fenilfenidato está representada a seguir:\n\nA respeito dessa substância foram feitas algumas afirmações:\n\nI. Apresenta fórmula molecular C14H19NO2.\nII. Um comprimido com 20 mg apresenta menos de 1,0 x 10–5 mol dessa substância.\nIII. A molécula apresenta carbono quiral.\nIV. Apresenta as funções amina e ácido carboxílico.\n\nEstão corretas apenas as afirmações:",
+      "images": [
+        "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/066c7c80-6c48-4979-aaa2-1097316ebe6a-arquivo-editor"
+      ],
+      "alternatives": {
+        "A": "I e III",
+        "B": "II e III",
+        "C": "I e IV",
+        "D": "III e IV"
+      },
+      "answer": "A"
+    },
+        {
+      "questionId": "Enem_Q1383",
+      "questionText": "A talidomida é um sedativo leve e foi muito utilizado no tratamento de náuseas, comuns no início da gravidez. Quando foi lançada, era considerada segura para o uso de grávidas, sendo administrada como uma mistura racêmica composta pelos seus dois enantiômeros (R e S). Entretanto, não se sabia, na época, que o enantiômero S leva à malformação congênita, afetando principalmente o desenvolvimento normal dos braços e pernas do bebê.\n\nEssa malformação congênita ocorre porque esses enantiômeros:",
+      "images": [],
+      "alternatives": {
+        "A": "reagem entre si",
+        "B": "não podem ser separados",
+        "C": "não estão presentes em partes iguais",
+        "D": "interagem de maneira distinta com o organismo",
+        "E": "são estruturas com diferentes grupos funcionais"
+      },
+      "answer": "D"
+    },
+    {
+      "questionId": "Pucsp_Q1059",
+      "questionText": "A melanina é o pigmento responsável pela pigmentação da pele e do cabelo. Em nosso organismo, a melanina é produzida a partir da polimerização da tirosina, cuja estrutura está representada a seguir.\n\nSobre a tirosina foram feitas algumas afirmações:\n\nI. A sua fórmula molecular é C9H11NO3. \nII. A tirosina contém apenas um carbono quiral (assimétrico) em sua estrutura.\nIII. A tirosina apresenta as funções cetona, álcool e amina.\n\nEstá(ão) correta(s) apenas a(s) afirmação(ões):",
+      "images": [
+        "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/95c3aa82-a6ab-47b8-bb2f-00422840cb8f-arquivo-editor"
+      ],
+      "alternatives": {
+        "A": "I e II",
+        "B": "I e III",
+        "C": "II e III",
+        "D": "I",
+        "E": "III"
+      },
+      "answer": "A"
+    },
+    {
+      "questionId": "Enem_Q1055",
+      "questionText": "Os feromônios são substâncias utilizadas na comunicação entre indivíduos de uma espécie. O primeiro feromônio isolado de um inseto foi o bombicol, substância produzida pela mariposa do bicho-da-seda.\n\nO uso de feromônios em ações de controle de insetos-praga está de acordo com o modelo preconizado para a agricultura do futuro. São agentes altamente específicos e seus compostos químicos podem ser empregados em determinados cultivos, conforme ilustrado no quadro.\n\nConsiderando essas estruturas químicas, o tipo de estereoisomeria apresentada pelo bombicol é também apresentada pelo feromônio utilizado no controle do inseto:",
+      "images": [
+        "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/3dd0988b-9dcb-4f6a-9fa8-8b3cd255f249-arquivo-editor",
+        "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/8bbfe757-7c05-4b10-93c4-471cd576dac5-arquivo-editor"
+      ],
+      "alternatives": {
+        "A": "Sitophilus spp.",
+        "B": "Migdolus fryanus",
+        "C": "Anthonomus rubi",
+        "D": "Grapholita molesta",
+        "E": "Scrobipalpuloides absoluta"
+      },
+      "answer": "E"
+    },
+    {
+      "questionId": "Ucs_Q1064",
+      "questionText": "A talidomida, cuja estrutura química encontra-se representada abaixo, foi comercializada pela primeira vez na Alemanha em 1957. A indústria farmacêutica que a desenvolveu acreditou que a mesma era tão segura que a prescreveu para mulheres grávidas para combater enjoos matinais. Infelizmente, várias gestantes que a utilizaram tiveram bebês com mãos, braços, pés e pernas atrofiadas (efeito teratogênico). Posteriormente, verificou-se que a talidomida apresentava quiralidade e que apenas a (–)talidomida era teratogênica, enquanto a (+)talidomida é que minimizava o enjoo matinal.\n\nA (–)talidomida e a (+)talidomida são:",
+      "images": [
+        "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/d7fcb46d-14c7-4006-afdf-5236d0a137a5-arquivo-editor"
+      ],
+      "alternatives": {
+        "A": "isômeros de cadeia",
+        "B": "tautômeros",
+        "C": "isômeros de função",
+        "D": "enantiômeros"
+      },
+      "answer": "D"
+    },
+        {
+      "questionId": "Ufrgs_Q1044",
+      "questionText": "Um trabalho publicado em 2016, na revista Nature, mostrou que o composto PMZ21, quando testado em camundongos, apresenta um efeito analgésico tão potente quanto o da morfina, com a vantagem de não causar alguns dos efeitos colaterais observados para a morfina.\n\nO número de estereoisômeros possíveis do PMZ21 é:",
+      "images": [
+        "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/1a6ac18a-8f20-437b-9416-ac8ae96447ea-arquivo-editor"
+      ],
+      "alternatives": {
+        "A": "0",
+        "B": "1",
+        "C": "2",
+        "D": "3",
+        "E": "4"
+      },
+      "answer": "E"
+    },
+    {
+      "questionId": "Udesc_Q1057",
+      "questionText": "A molécula de epinefrina foi primeiramente isolada em sua forma pura em 1897 e sua estrutura foi determinada em 1901. Ela é produzida na glândula adrenal (daí vem o seu nome usual, adrenalina) como um único enantiômero.\n\nAnalise as proposições em relação à molécula de epinefrina.\n\nI. Possui seis carbonos com a configuração sp e três com configuração sp3.\nII. A fórmula molecular é C9H13NO3.\nIII. Apresenta somente um carbono assimétrico. \nIV. Apresenta as funções amida, álcool e fenol.\n\nAssinale a alternativa correta:",
+      "images": [
+        "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/e9945c82-9fae-48e7-93d8-fb9ed7d1d8f4-arquivo-editor"
+      ],
+      "alternatives": {
+        "A": "Somente as afirmativas II e III são verdadeiras",
+        "B": "Somente a afirmativa II é verdadeira",
+        "C": "Somente a afirmativa III é verdadeira",
+        "D": "Somente as afirmativas I e II são verdadeiras",
+        "E": "Somente as afirmativas I e III são verdadeiras"
+      },
+      "answer": "A"
+    },
+    {
+      "questionId": "Feevale_Q1047",
+      "questionText": "O Retinal, molécula apresentada abaixo, associado à enzima rodopsina, é o responsável pela química da visão. Quando o Retinal absorve luz (fótons), ocorre uma mudança na sua geometria, e essa alteração inicia uma série de reações químicas, provocando um impulso nervoso que é enviado ao cérebro, onde é percebido como visão.\n\nEntre as alternativas a seguir, assinale aquela em que a sequência I, II e III apresenta corretamente as geometrias das duplas ligações circuladas em I e II e a função química circulada em III:",
+      "images": [
+        "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/3b9c6cab-9a01-4a40-9394-ed8e197dabbb-arquivo-editor"
+      ],
+      "alternatives": {
+        "A": "I - Cis II - Trans III - Aldeído",
+        "B": "I - Trans II - Cis III - Álcool",
+        "C": "I - Trans II - Trans III - Aldeído",
+        "D": "I - Trans II - Cis III - Aldeído",
+        "E": "I - Cis II - Trans III – Ácido carboxílico"
+      },
+      "answer": "A"
+    },
+    {
+      "questionId": "Upf_Q1049",
+      "questionText": "A carvona é uma substância que pode ser encontrada no óleo essencial extraído da Mentha viridis (ℓ).\n\nSobre a carvona, é correto afirmar:",
+      "images": [
+        "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/79533a17-a43c-4feb-9e6d-c77d64018414-arquivo-editor"
+      ],
+      "alternatives": {
+        "A": "Apresenta todas as duplas conjugadas entre si",
+        "B": "Apresenta duas duplas com isomeria geométrica (cis-trans)",
+        "C": "Apresenta a fórmula molecular C10H13O",
+        "D": "Apresenta quatro carbonos com hibridização sp2",
+        "E": "Apresenta um carbono assimétrico em sua estrutura"
+      },
+      "answer": "E"
+    },
+        {
+      "questionId": "Unesp_Q1330",
+      "questionText": "Considere a estrutura da vitamina K1.\n\nAnalisando-se a fórmula estrutural da vitamina K1, nota-se que essa vitamina é __________, apresenta cadeia carbônica __________, átomo de carbono __________ e apresenta isômeros __________.",
+      "images": [
+        "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/aa776a9c-db9e-47f7-9e0c-43ef79a1fe1f-arquivo-editor"
+      ],
+      "alternatives": {
+        "A": "hidrossolúvel – saturada – terciário – geométricos",
+        "B": "lipossolúvel – insaturada – quaternário – ópticos",
+        "C": "lipossolúvel – insaturada – terciário – geométricos",
+        "D": "lipossolúvel – saturada – terciário – ópticos",
+        "E": "hidrossolúvel – insaturada – quaternário – geométricos"
+      },
+      "answer": "C"
+    },
+    {
+      "questionId": "Unisc_Q1060",
+      "questionText": "A Ritalina®, medicamento largamente utilizado para atenuar sintomas de inquietação e hiperatividade, principalmente por jovens e estudantes, apresenta a seguinte estrutura molecular.\n\nEm relação à estrutura da Ritalina é incorreto afirmar que:",
+      "images": [
+        "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/f11f3ad4-f86b-46f2-9355-4523924c4580-arquivo-editor"
+      ],
+      "alternatives": {
+        "A": "apresenta as funcionalidades éster e amina secundária",
+        "B": "possui fórmula molecular C14H19NO2",
+        "C": "apresenta 3 carbonos assimétricos",
+        "D": "possui 7 carbonos com hibridização sp2",
+        "E": "possui 2 carbonos terciários"
+      },
+      "answer": "C"
+    },
+    {
+      "questionId": "Ufpr_Q1054",
+      "questionText": "Isomeria é o nome dado à ocorrência de compostos que possuem a mesma fórmula molecular, mas que apresentam estruturas diferentes entre si. Os isômeros são classificados em constitucionais, que diferem na maneira como os átomos estão conectados (conectividade) em cada isômero, e estereoisômeros, que apresentam a mesma conectividade, mas diferem na maneira como seus átomos estão dispostos no espaço. Os estereoisômeros se dividem ainda em enantiômeros, que têm uma relação de imagem e objeto (que não são sobreponíveis), e diastereoisômeros, que não têm relação imagem e objeto.\n\nCom relação à isomeria, numere a coluna 2 de acordo com sua correspondência com a coluna 1.\n\nColuna 1\nhttps://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/fa4d9cd4-a2f1-4af5-afaf-46f56508d4e9-arquivo-editor\n\nColuna 2\n(__) Enantiômeros.\n(__) Mesmo composto.\n(__) Não são isômeros.\n(__) Diastereoisômeros.\n\nAssinale a alternativa que apresenta a numeração correta da coluna da direita, de cima para baixo:",
+      "images": [
+        "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/fa4d9cd4-a2f1-4af5-afaf-46f56508d4e9-arquivo-editor"
+      ],
+      "alternatives": {
+        "A": "1 – 2 – 3 – 4",
+        "B": "1 – 3 – 4 – 2",
+        "C": "2 – 3 – 1 – 4",
+        "D": "2 – 1 – 4 – 3",
+        "E": "4 – 1 – 3 – 2"
+      },
+      "answer": "B"
+    },
+    {
+      "questionId": "Fac_PequenoPrincipe_Q1046",
+      "questionText": "A cortisona é um hormônio que atua no combate a inflamações. Em situações extremas, a produção desse hormônio não é suficiente para frear a inflamação e medicações preparadas à base de cortisona são necessárias.\n\nAo analisar a estrutura desse hormônio, observamos que a substância:",
+      "images": [
+        "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/3db1859c-4899-45ba-b603-8d302a79b22c-arquivo-editor"
+      ],
+      "alternatives": {
+        "A": "apresenta as funções orgânicas fenol e cetona e pode se apresentar até como 6 isômeros opticamente ativos",
+        "B": "apresenta as funções orgânicas álcool e cetona e pode se apresentar até como 64 isômeros opticamente ativos",
+        "C": "apresenta as funções orgânicas álcool e éster e pode se apresentar até como 6 isômeros opticamente ativos",
+        "D": "apresenta as funções orgânicas álcool e cetona e pode se apresentar até como 32 isômeros opticamente ativos",
+        "E": "apresenta as funções orgânicas álcool e éster e pode se apresentar até como 32 isômeros opticamente ativos"
+      },
+      "answer": "B"
+    }
+    ]
+}

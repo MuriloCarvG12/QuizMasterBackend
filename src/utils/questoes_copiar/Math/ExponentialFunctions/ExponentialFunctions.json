@@ -1,0 +1,286 @@
+{
+    "examTitle": "exponencial",
+    "questions": [
+        {
+            "questionId": "Unesp_M0518",
+            "questionText": "A revista Pesquisa Fapesp, na edição de novembro de 2012, publicou o artigo intitulado Conhecimento Livre, que trata dos repositórios de artigos científicos disponibilizados gratuitamente aos interessados, por meio eletrônico. Nesse artigo, há um gráfico que mostra o crescimento do número dos repositórios institucionais no mundo, entre os anos de 1991 e 2011.\n\nObservando o gráfico, pode-se afirmar que, no período analisado, o crescimento do número de repositórios institucionais no mundo foi, aproximadamente:",
+            "question": "Como foi o crescimento do número de repositórios institucionais no mundo entre 1991 e 2011?",
+            "images": [
+              "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/ferrettopublic/9db18aae-0ceb-46c1-ae07-cf1066deb17c.png"
+            ],
+            "alternatives": {
+              "A": "exponencial.",
+              "B": "linear.",
+              "C": "logarítmico.",
+              "D": "senoidal.",
+              "E": "nulo."
+            },
+            "answer": "A"
+          },
+          {
+            "questionId": "Enem_PPL_M0516",
+            "questionText": "O sindicato de trabalhadores de uma empresa sugere que o piso salarial da classe seja de R$ 1.800,00, propondo um aumento percentual fixo por cada ano dedicado ao trabalho. A expressão que corresponde à proposta salarial (s), em função do tempo de serviço (t), em anos, é  s(t) = 1.800 x (1,03)t.\n\nDe acordo com a proposta do sindicato, o salário de um profissional dessa empresa com 2 anos de tempo de serviço será, em reais:",
+            "question": "Qual será o salário de um profissional com 2 anos de tempo de serviço, de acordo com a proposta do sindicato?",
+            "images": [],
+            "alternatives": {
+              "A": "7.416,00",
+              "B": "3.819,24",
+              "C": "3.709,62",
+              "D": "3.708,00",
+              "E": "1.909,62"
+            },
+            "answer": "E"
+          },
+                
+        {
+            "questionId": "Pucmg_M0631",
+            "questionText": "Um equipamento laboratorial, comprado por R$60.000,00, tem seu valor reduzido à metade a cada 15 meses. Assim, a equação V(t) = 60.000 · 2^(-t/15), onde t é o tempo de uso em meses e V(t) é o valor em reais, representa a variação do valor desse equipamento. Com base nessas informações, é CORRETO afirmar que o valor do equipamento após 45 meses de uso será igual a:",
+            "question": "Qual será o valor do equipamento após 45 meses de uso?",
+            "images": [],
+            "alternatives": {
+            "A": "R$ 3.750,00",
+            "B": "R$ 7.500,00",
+            "C": "R$10.000,00",
+            "D": "R$20.000,00"
+            },
+            "answer": "B"
+        },
+        {
+            "questionId": "Enem_M0517",
+            "questionText": "Em um experimento, uma cultura de bactérias tem sua população reduzida pela metade a cada hora, devido à ação de um agente bactericida.\n\nNeste experimento, o número de bactérias em função do tempo pode ser modelado por uma função do tipo:",
+            "question": "Qual o tipo da função que modela a redução da população de bactérias?",
+            "images": [],
+            "alternatives": {
+            "A": "afim.",
+            "B": "seno.",
+            "C": "cosseno.",
+            "D": "logarítmica crescente.",
+            "E": "exponencial."
+            },
+            "answer": "E"
+        },
+        
+  {
+    "questionId": "Acafe_M0529",
+    "questionText": "Um dos perigos da alimentação humana são os microrganismos, que podem causar diversas doenças e até levar a óbito. Entre eles, podemos destacar a Salmonella. Atitudes simples como lavar as mãos, armazenar os alimentos em locais apropriados, ajudam a prevenir a contaminação pelos mesmos. Sabendo que certo microrganismo se prolifera rapidamente, dobrando sua população a cada 20 minutos, pode-se concluir que o tempo que a população de 100 microrganismos passará a ser composta de 3.200 indivíduos é:",
+    "question": "Qual o tempo necessário para a população de 100 microrganismos chegar a 3.200 indivíduos?",
+    "images": [],
+    "alternatives": {
+      "A": "1 h e 35 min.",
+      "B": "1 h e 40 min.",
+      "C": "1 h e 50 min.",
+      "D": "1 h e 55 min."
+    },
+    "answer": "B"
+  },
+  {
+    "questionId": "Uepa_M0524",
+    "questionText": "Os dados estatísticos sobre violência no trânsito nos mostram que é a segunda maior causa de mortes no Brasil, sendo que 98% dos acidentes de trânsito são causados por erro ou negligência humana e a principal falha cometida pelos brasileiros nas ruas e estradas é usar o celular ao volante. Considere que em 2012 foram registrados 60.000 mortes decorrentes de acidentes de trânsito e destes, 40% das vítimas estavam em motos.\n\nA função N(t) = N0 · (1,2)^t fornece o número de vítimas que estavam de moto a partir de 2012, sendo t o número de anos e N0 o número de vítimas que estavam em moto em 2012. Nessas condições, o número previsto de vítimas em moto para 2015 será de:",
+    "question": "Qual o número de vítimas em moto previsto para 2015?",
+    "images": [],
+    "alternatives": {
+      "A": "41.472.",
+      "B": "51.840.",
+      "C": "62.208.",
+      "D": "82.944.",
+      "E": "103.680."
+    },
+    "answer": "A"
+  },
+  {
+    "questionId": "Fer_M0625",
+    "questionText": "O número de bactérias de uma determinada cultura evolui, sob certas condições, conforme a função B(t) = 10 · 3^(t-1), em que B(t) expressa a quantidade de bactérias e t representa o tempo em horas. Para atingir uma cultura de 810 bactérias, após o início do experimento, o tempo decorrido, em horas, corresponde a:",
+    "question": "Qual o tempo necessário para atingir 810 bactérias?",
+    "images": [],
+    "alternatives": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4",
+      "E": "5"
+    },
+    "answer": "E"
+  },
+  {
+    "questionId": "Ufpr_M0521",
+    "questionText": "Uma pizza a 185°C foi retirada de um forno quente. Entretanto, somente quando a temperatura atingir 65°C será possível segurar um de seus pedaços com as mãos nuas, sem se queimar. Suponha que a temperatura T da pizza, em graus Celsius, possa ser descrita em função do tempo t, em minutos, pela expressão T = 160 · 2^(-0,8t) + 25. Qual o tempo necessário para que se possa segurar um pedaço dessa pizza com as mãos nuas, sem se queimar?",
+    "question": "Qual o tempo necessário para a pizza atingir 65°C?",
+    "images": [],
+    "alternatives": {
+      "A": "0,25 minutos.",
+      "B": "0,68 minutos.",
+      "C": "2,5 minutos.",
+      "D": "6,63 minutos.",
+      "E": "10,0 minutos."
+    },
+    "answer": "C"
+  },
+  {
+    "questionId": "Fer_M0624",
+    "questionText": "A expressão V(t) = 1000 · 20,0625^t fornece uma boa aproximação do valor V (em reais) em função do tempo t (em anos) de uma aplicação financeira ao longo do tempo. Depois de quantos anos o valor inicialmente investido dobrará?",
+    "question": "Após quantos anos o valor investido dobrará?",
+    "images": [],
+    "alternatives": {
+      "A": "8",
+      "B": "12",
+      "C": "16",
+      "D": "24",
+      "E": "32"
+    },
+    "answer": "C"
+  },
+  {
+    "questionId": "Fer_M0627",
+    "questionText": "Um modelo matemático que determina o número de bactérias em determinado objeto é a função definida por N(t) = 500 · 2^t, em que t é o tempo, em horas, a partir da observação inicial. Segundo esse modelo, o tempo, em horas, para que a quantidade de bactérias no objeto atinja 7.000, é dado por um número pertencente ao intervalo",
+    "question": "Qual o intervalo de tempo necessário para que a quantidade de bactérias atinja 7.000?",
+    "images": [],
+    "alternatives": {
+      "A": "[99, 100]",
+      "B": "[13, 14]",
+      "C": "[6, 7]",
+      "D": "[3, 4]",
+      "E": "[1, 2]"
+    },
+    "answer": "D"
+  },
+  {
+    "questionId": "Fer_M0623",
+    "questionText": "Em um experimento laboratorial, 400 indivíduos de uma espécie de inseto foram submetidos a testes de radiação, para verificar o tempo de sobrevivência da espécie. Verificou-se que o modelo matemático que determinava o número de insetos sobreviventes, em função do tempo era N(t) = C · A^t, com o tempo t dado em dias e A e C dependiam do tipo de radiação. Três dias após o início do experimento, havia 50 insetos ainda vivos. Quantos indivíduos vivos existiam no quarto dia após o início do experimento?",
+    "question": "Quantos indivíduos vivos existiam no quarto dia após o início do experimento?",
+    "images": [],
+    "alternatives": {
+      "A": "40",
+      "B": "30",
+      "C": "25",
+      "D": "20",
+      "E": "10"
+    },
+    "answer": "C"
+  },
+  {
+    "questionId": "Ufrn_M0527",
+    "questionText": "A pedido do seu orientador, um bolsista de um laboratório de biologia construiu o gráfico a seguir a partir dos dados obtidos no monitoramento do crescimento de uma cultura de micro-organismos. Analisando o gráfico, o bolsista informou ao orientador que a cultura crescia segundo o modelo matemático, N = k · 2^at, com t em horas e N em milhares de micro-organismos. Para constatar que o modelo matemático apresentado pelo bolsista estava correto, o orientador coletou novos dados com t = 4 horas e t = 8 horas. Para que o modelo construído pelo bolsista esteja correto, nesse período, o orientador deve ter obtido um aumento na quantidade de micro-organismos de",
+    "question": "Quanto deve ser o aumento na quantidade de micro-organismos entre t = 4 horas e t = 8 horas?",
+    "images": [
+      "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/ferrettopublic/80422a84-a9c2-4730-8094-19d627d91c2e.png"
+    ],
+    "alternatives": {
+      "A": "80.000",
+      "B": "160.000",
+      "C": "40.000",
+      "D": "120.000"
+    },
+    "answer": "D"
+  },
+  {
+    "questionId": "Fer_M0626",
+    "questionText": "Uma substância radioativa tem o seu decrescimento, em termos de quantidade de massa, representado pela função exponencial real dada por f(t) = at. Então, pode-se afirmar que",
+    "question": "Qual é a relação sobre o valor de a na função de decrescimento exponencial?",
+    "images": [],
+    "alternatives": {
+      "A": "a < 0",
+      "B": "a = 0",
+      "C": "0 < a < 1",
+      "D": "a > 1",
+      "E": "a ∈ ℝ"
+    },
+    "answer": "C"
+  },
+  {
+    "questionId": "Espcex_M0528",
+    "questionText": "Na pesquisa e desenvolvimento de uma nova linha de defensivos agrícolas, constatou-se que a ação do produto sobre a população de insetos em uma lavoura pode ser descrita pela expressão N(t) = N0 · 2^kt, sendo N0 a população no início do tratamento, N(t), a população após t dias de tratamento e k uma constante, que descreve a eficácia do produto. Dados de campo mostraram que, após dez dias de aplicação, a população havia sido reduzida à quarta parte da população inicial. Com estes dados, podemos afirmar que o valor da constante de eficácia deste produto é igual a",
+    "question": "Qual é o valor da constante de eficácia do produto?",
+    "images": [],
+    "alternatives": {
+      "A": "5^-1",
+      "B": "-5^-1",
+      "C": "10",
+      "D": "10-1",
+      "E": "-10-1"
+    },
+    "answer": "B"
+  },
+  {
+    "questionId": "Esc_Naval_M0515",
+    "questionText": "O elemento químico Califórnio, Cf251, emite partículas alfa, transformando-se no elemento Cúrio, Cm247. Essa desintegração obedece à função exponencial N(t) = N0 e^(-αt), onde N(t) é quantidade de partículas de Cf251 no instante t em determinada amostra; N0 é a quantidade de partículas no instante inicial; e α é uma constante, chamada constante de desintegração. Sabendo que em 898 anos a concentração de Cf251 é reduzida à metade, pode-se afirmar que o tempo necessário para que a quantidade de Cf251 seja apenas 25% da quantidade inicial está entre",
+    "question": "Qual é o intervalo de tempo necessário para que a quantidade de Cf251 seja reduzida a 25% da quantidade inicial?",
+    "images": [],
+    "alternatives": {
+      "A": "500 e 1000 anos.",
+      "B": "1000 e 1500 anos.",
+      "C": "1500 e 2000 anos.",
+      "D": "2000 e 2500 anos.",
+      "E": "2500 e 3000 anos."
+    },
+    "answer": "C"
+  },
+  {
+    "questionId": "Unicamp_M0533",
+    "questionText": "Em uma xícara que já contém certa quantidade de açúcar, despeja-se café. A curva a seguir representa a função exponencial M(t), que fornece a quantidade de açúcar não dissolvido (em gramas), t minutos após o café ser despejado. Pelo gráfico, podemos concluir que",
+    "question": "Qual é a expressão que descreve a quantidade de açúcar não dissolvido em função do tempo?",
+    "images": ["https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/ferrettopublic/1ffe8824-38d3-429e-ab3f-49ca06d6dd32.png"],
+    "alternatives": {
+      "A": "M(t) = 2^4 - t/75",
+      "B": "M(t) = 2^4 - t/50",
+      "C": "M(t) = 2^5 - t/50",
+      "D": "M(t) = 2^5 - t/150"
+    },
+    "answer": "A"
+  },
+  {
+    "questionId": "Pucrs_M0534",
+    "questionText": "Uma substância que se desintegra ao longo do tempo tem sua quantidade existente, após 't' anos, dada por M(t) = M0 · (1,4)^(–t/1000), onde M0 representa a quantidade inicial. A porcentagem da quantidade existente após 1000 anos em relação à quantidade inicial M0 é, aproximadamente,",
+    "question": "Qual é a porcentagem da quantidade existente após 1000 anos em relação à quantidade inicial?",
+    "images": [],
+    "alternatives": {
+      "A": "14%",
+      "B": "28%",
+      "C": "40%",
+      "D": "56%",
+      "E": "71%"
+    },
+    "answer": "E"
+  },
+  {
+    "questionId": "Uepb_M0523",
+    "questionText": "Biólogos e Matemáticos acompanharam em laboratório o crescimento de uma cultura de bactérias e concluíram que esta população crescia com o tempo t ≥ 0, ao dia, conforme a lei P(t) = P0 · 5^(λt), onde P0 é a população inicial da cultura (t = 0) e λ é uma constante real positiva. Se, após dois dias, o número inicial de bactérias duplica, então, após seis dias, esse número é:",
+    "question": "Qual é o número da população após 6 dias?",
+    "images": [],
+    "alternatives": {
+      "A": "10P0",
+      "B": "6P0",
+      "C": "3P0",
+      "D": "8P0",
+      "E": "4P0"
+    },
+    "answer": "D"
+  },
+  {
+    "questionId": "Pucrj_M0530",
+    "questionText": "Quanto vale a soma de todas as soluções reais da equação abaixo? (5x)² – 26 · 5x + 25 = 0",
+    "question": "Qual é a soma de todas as soluções reais da equação?",
+    "images": [],
+    "alternatives": {
+      "A": "0",
+      "B": "1",
+      "C": "2",
+      "D": "3",
+      "E": "4"
+    },
+    "answer": "C"
+  },
+  {
+    "questionId": "Enem_PPL_M2048",
+    "questionText": "Um tipo de célula se reproduz constantemente por divisão celular, triplicando sua quantidade a cada duas horas, sob condições ideais de proliferação. Suponha uma quantidade inicial Q0 dessas células sob as condições ideais de proliferação durante um certo período. Qual a representação algébrica da quantidade Q dessas células em função do tempo t, em hora, nesse período?",
+    "question": "Qual é a representação algébrica da quantidade de células em função do tempo?",
+    "images": [],
+    "alternatives": {
+      "A": "Q(t) = Q0 . 3^t.",
+      "B": "Q(t) = Q0 . 3^(2t).",
+      "C": "Q(t) = Q0 . 2^(t/3).",
+      "D": "Q(t) = Q0 . 3^(t/2).",
+      "E": "Q(t) = Q0 . 3^(t/2) - 1."
+    },
+    "answer": "D"
+  }
+    ]}  

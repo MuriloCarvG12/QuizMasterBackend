@@ -1,10 +1,10 @@
 import { Entity, PrimaryGeneratedColumn, Column } from "typeorm"
 
-@Entity("subjects")
+@Entity("Subjects")
 export class Subject {
     @PrimaryGeneratedColumn()
     Id: number
 
-    @Column()
+    @Column("text")
     SubjectName: string
 }

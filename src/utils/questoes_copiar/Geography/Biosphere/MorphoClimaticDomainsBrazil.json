@@ -1,0 +1,443 @@
+{
+    "examTitle": "Dominios Morfo Climatico Brasil",
+    "questions": [
+          {
+    "questionId": "Enem_G1490",
+    "questionText": "Foram esses cientistas Xavante que esclareceram os mistérios da germinação de cada uma das sementes. Eles tinham o conhecimento para quebrar a dormência. O fogo era fundamental para muitas; para outras, o caminho para despertar passava pelo sistema digestivo dos animais silvestres. “Essa planta nasce depois que fazemos a caçada com fogo, diziam eles, esta outra quando a anta caga a semente, aquela precisa ser comida pelo lobo”. Aliando os conhecimentos dos cientistas da aldeia e da cidade, essa área do Cerrado foi recuperada totalmente.\n\nPAPPIANI, A. Tecnologias indígenas: esplendor e captura. Disponível em: https://outraspalavras.net. Acesso em: 10 out. 2019 (adaptado).",
+    "question": "No texto, a relação socioespacial dos indígenas evidencia a importância do(a)",
+    "images": [],
+    "alternatives": {
+      "A": "prática agrícola para a logística nacional.",
+      "B": "cultivo de hortaliças para o consumo urbano.",
+      "C": "saber tradicional para a conservação ambiental.",
+      "D": "criação de gado para o aprimoramento genético.",
+      "E": "reflorestamento comercial para a produção orgânica."
+    },
+    "answer": "C"
+  },
+  {
+    "questionId": "Enem_G1491",
+    "questionText": "No semiárido brasileiro, o sertanejo desenvolveu uma acuidade detalhada para a observação dos fenômenos, ao longo dos tempos, presenciados na natureza, em especial para a previsão do tempo e do clima, utilizando como referência a posição dos astros, constelação e nuvens. Conforme os sertanejos, a estação vai ser chuvosa quando a primeira lua cheia de janeiro “sair vermelha, por detrás de uma barra de nuvens”, mas “se surgir prateada, é sinal de seca”.\n\nMAIA, D.; MAIA, A. C. A utilização dos ditos populares e da observação do tempo para a climatologia escolar no ensino fundamental II. GeoTextos, n. 1. jul. 2010 (adaptado).",
+    "question": "O texto expõe a produção de um conhecimento que se constitui pela",
+    "images": [],
+    "alternatives": {
+      "A": "técnica científica.",
+      "B": "experiência perceptiva.",
+      "C": "negação das tradições.",
+      "D": "padronização das culturas.",
+      "E": "uniformização das informações."
+    },
+    "answer": "B"
+  },
+  {
+    "questionId": "Unesp_G0323",
+    "questionText": "Leia o excerto do romance Águas atávicas, do escritor Marcos Faustino.\n\nImpério das águas, deserto de gente. Reino das onças, veados mateiros e capivaras na terra firme. Nos ares, multidão de pássaros variados, belas garças e os grandes e desajeitados tuiuiús, jaburus. Por baixo, no esconderijo das águas, o perigo dos jacarés traiçoeiros, sucuris imensas e peixes aos milhares. Brejão úmido de imensas planuras. Esparsas ilhas de terrenos pouco mais elevados, maiores na vazante da seca em setembro, menores nas enchentes de fevereiro.\n\nApud IBGE. Atlas das representações literárias de regiões brasileiras, 2016. Adaptado.",
+    "question": "A região literária apresentada no excerto corresponde ao",
+    "images": [],
+    "alternatives": {
+      "A": "Pantanal.",
+      "B": "Jalapão.",
+      "C": "Vale do Rio Doce.",
+      "D": "Pampa.",
+      "E": "Vale do Itajaí."
+    },
+    "answer": "A"
+  },
+  {
+    "questionId": "Mackenzie_G0339",
+    "questionText": "Observe o mapa abaixo e relacione as afirmativas aos números indicados.\n\nhttps://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/27fa85c0-b888-47d3-bea7-de082845dcfc-arquivo-editor\n\nA. Terrenos planálticos; solos ácidos; clima tropical semiúmido; vegetação de cerrado.\n\nB. Depressões interplanálticas; solos pedregosos; rios intermitentes; clima tropical semiárido.\n\nC. Extensas áreas com depressões e planícies; solos arenosos; clima quente e úmido o ano todo; floresta de tipo equatorial.\n\nD. Terrenos marcados pela presença de morros de estrutura cristalina; climas variados, desde o tropical, tropical de altitude e subtropical; ocorrência de floresta tropical.\n\nE. Extensas áreas de planícies; ocorrência de solos de origem basáltica; clima subtropical; vegetação predominante de campos.",
+    "question": "Relacione as afirmativas aos números indicados.",
+    "images": [
+      "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/27fa85c0-b888-47d3-bea7-de082845dcfc-arquivo-editor"
+    ],
+    "alternatives": {
+      "A": "1A; 2B; 3C; 4D; 5E",
+      "B": "1B; 2A; 3C; 4E; 5D",
+      "C": "1C; 2B; 3D; 4E; 5A",
+      "D": "1D; 2C; 3A; 4B; 5E",
+      "E": "1E; 2D; 3B; 4C; 5A"
+    },
+    "answer": "C"
+  },
+    {
+    "questionId": "Unicamp_G0340",
+    "questionText": "Assinale a alternativa que indica corretamente a localização e uma característica predominante dos domínios morfoclimáticos do Cerrado, da Caatinga e dos Mares de Morros.",
+    "question": "Assinale a alternativa que indica corretamente a localização e uma característica predominante dos domínios morfoclimáticos do Cerrado, da Caatinga e dos Mares de Morros.",
+    "images": [
+      "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/24b1dbdd-f8c9-4495-ae3c-adcb51e1cb89-arquivo-editor"
+    ],
+    "alternatives": {
+      "A": "1, Cerrado, com clima subtropical; 2, Caatinga, com rios perenes; 3, Mares de Morros, com vegetação do tipo savana estépica.",
+      "B": "1, Caatinga, com clima semiárido; 2, Mares de Morros, com mata atlântica; 3, Cerrado, com vegetação do tipo savana.",
+      "C": "1, Caatinga, com clima tropical de altitude; 2, Mares de Morros, com rios intermitentes; 3, Cerrado, com mata de araucária.",
+      "D": "1, Cerrado, com vegetação do tipo savana; 2, Caatinga, com clima semiárido; 3, Mares de Morros, com mata atlântica.",
+      "E": ""
+    },
+    "answer": "D"
+  },
+  {
+    "questionId": "Ufpr_G0341",
+    "questionText": "Num clássico trabalho publicado em 1967, o geógrafo brasileiro Aziz Nacib Ab'Saber caracterizou seis grandes domínios morfoclimáticos, apresentados no mapa abaixo, cujas áreas estão relacionadas a regiões climatobotânicas, áreas geopedológicas, províncias fitogeográficas e regiões hidrológicas particularmente bem definidas.\n\nCada quadro na legenda, de 1 a 6, no mapa, representa um domínio morfoclimático. Numere as caracterizações abaixo, estabelecendo sua correspondência com a legenda do mapa.\n\n(__) Domínio dos planaltos de araucárias, com predomínio de drenagens perenes e solos diversificados.\n\n(__) Domínio dos chapadões recobertos por cerrados e penetrados por florestas de galerias, composto por planaltos de estrutura complexa, capeados ou não por lateritas de cimeira, planaltos sedimentares com vertentes em rampas suaves, drenagens espaçadas pouco ramificadas.\n\n(__) Domínio das terras baixas florestadas com planícies de inundação labirínticas e/ou meândricas, tabuleiros extensos e morros baixos e arredondados nas áreas cristalinas adjacentes, terraços de cascalhos e/ou laterita, rios com elevada carga de sedimentos e drenagens perenes.\n\n(__) Domínio das depressões interplanálticas semiáridas, revestido por diferentes tipos de caatingas, apresenta fraca decomposição das rochas com frequentes afloramentos, chãos pedregosos e drenagens intermitentes.\n\n(__) Domínio das pradarias mistas, coxilhas extensivas, grandes matas subtropicais, apresenta fraca decomposição das rochas e presença de banhados.\n\n(__) Domínio dos mares de morros florestados, apresenta fortíssima e generalizada decomposição de rochas, densas drenagens perenes, extensiva mamelonização.",
+    "question": "Assinale a alternativa que apresenta a numeração correta, de cima para baixo.",
+    "images": [
+      "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/6019b56b-5ab3-4009-b796-10a508e9f617-arquivo-editor"
+    ],
+    "alternatives": {
+      "A": "5 – 2 – 1 – 4 – 6 – 3",
+      "B": "1 – 4 – 5 – 2 – 6 – 3",
+      "C": "1 – 2 – 6 – 5 – 3 – 4",
+      "D": "5 – 6 – 1 – 4 – 3 – 2",
+      "E": "3 – 4 – 6 – 5 – 1 – 2"
+    },
+    "answer": "A"
+  },
+  {
+    "questionId": "Acafe_G0318",
+    "questionText": "O domínio morfoclimático designa um conjunto espacial em que há integração entre os processos ecológicos e as paisagens. Observe o mapa a seguir:\n\nDe acordo com a classificação dos Domínios Morfoclimáticos Brasileiros, proposta pelo geógrafo Aziz Ab’Saber, marque V para Verdadeiro ou F para Falso.\n\n(__) O número I representa o Domínio Amazônico, cujo ecossistema florestal é constituído por imensa diversidade biológica, ameaçada pela devastação da floresta causada, entre outras coisas, por grandes projetos minerais e agropecuários na região.\n\n(__) O Domínio dos Cerrados corresponde ao número III, onde houve intensa exploração da cana-de-açúcar e do café.\n\n(__) O Domínio do Mares de Morros, assinalado pelo número II corresponde a uma extensa área montanhosa no Planalto Central Brasileiro.\n\n(__) O número V corresponde ao Domínio das Araucárias, ocupando os planaltos da porção oriental da bacia do rio Paraná, primariamente recoberta por uma floresta semi-homogênea na qual as araucárias se destacavam com espécies dominantes.\n\n(__) O número IV corresponde ao Domínio das Caatingas, estendendo-se por uma porção semiárida do Nordeste, caracterizada pela escassez e pela irregularidade de chuvas.\n\n(__) O número VI corresponde ao Domínio das Pradarias, no estado do Rio Grande do Sul, com uma predominância de floresta de árvores de grande porte.",
+    "question": "A sequência correta, de cima para baixo é:",
+    "images": [
+      "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/a71e660a-26e5-47ca-9776-a21d50a28d4a-arquivo-editor"
+    ],
+    "alternatives": {
+      "A": "V – F – F – V – V – F",
+      "B": "V – V – F – V – V – F",
+      "C": "V – F – V – V – F – F",
+      "D": "F – F – V – F – F – V",
+      "E": ""
+    },
+    "answer": "A"
+  },
+    {
+    "questionId": "Fuvest_G0337",
+    "questionText": "O mapa representa um dos possíveis trajetos da chamada Ferrovia Transoceânica, planejada para atender, entre outros interesses, ao transporte de produtos agrícolas e de minérios, tornando as exportações possíveis tanto pelo Oceano Atlântico quanto pelo Oceano Pacífico.\n\nConsiderando-se o trajeto indicado no mapa e levando em conta uma sobreposição aos principais Domínios Morfoclimáticos da América do Sul e as faixas de transição entre eles, definidos pelo geógrafo Aziz Ab’Sáber, pode-se identificar a seguinte sequência de Domínios, do Brasil ao Peru:",
+    "question": "Considerando-se o trajeto indicado no mapa, identifique a sequência de Domínios Morfoclimáticos do Brasil ao Peru.",
+    "images": [
+      "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/5467ea94-73f1-4e29-b78e-4c15eb54e5b8-arquivo-editor"
+    ],
+    "alternatives": {
+      "A": "Chapadões Florestados, Cerrados, Caatingas, Pantanal, Andes Equatoriais.",
+      "B": "Mares de Morros, Pantanal, Chaco Central, Andes Equatoriais.",
+      "C": "Chapadões Florestados, Chaco Central, Cerrados, Punas.",
+      "D": "Mares de Morros, Cerrados, Amazônico, Andes Equatoriais.",
+      "E": "Mares de Morros, Cerrados, Caatingas, Amazônico, Punas."
+    },
+    "answer": "D"
+  },
+  {
+    "questionId": "Fac_Albert_Einstein_G0333",
+    "questionText": "A classificação do território brasileiro em diferentes domínios morfoclimáticos foi elaborada pelo geógrafo Aziz Ab’Sáber (1924–2012). Ele identificou seis grandes domínios: o amazônico, o do cerrado, o dos mares de morros, o da caatinga, o das araucárias e o das pradarias. Assinale a alternativa que identifica corretamente os domínios abaixo e suas características.",
+    "question": "Assinale a alternativa que identifica corretamente os domínios morfoclimáticos e suas características.",
+    "images": [
+      "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/a8750a91-ed68-4037-a67b-09c1034c2ca9-arquivo-editor"
+    ],
+    "alternatives": {
+      "A": "O Domínio I é o Domínio Morfoclimático dos Mares de Morros. Tal denominação se deve às suas feições geomorfológicas, com formas de relevo em aparência convexa, no estilo chamado de “mamelonar”, como se fossem pequenos morros no formato de meias laranjas.",
+      "B": "O Domínio II é o Domínio Cerrado. Essa área se caracteriza por chuvas bem distribuídas ao longo do ano e com vegetação savânica. Abrange predominantemente a Região Nordeste e é pouco explorada economicamente.",
+      "C": "O Domínio I é o Domínio Morfoclimático dos Mares de Morros. É marcado por vegetação composta por herbáceas, que são plantas com caules não lenhosos ou flexíveis, nunca maiores do que dois metros. Possui grandes riscos de desertificação.",
+      "D": "O Domínio II é o Domínio Cerrado. O Cerrado brasileiro não possui diferenças em relação às savanas africanas. As chuvas concentram-se entre os meses de maio, junho e julho. É marcada por relevo de planície e rede hidrográfica pobre."
+    },
+    "answer": "A"
+  },
+  {
+    "questionId": "Fuvest_G0338",
+    "questionText": "Leia o seguinte texto.\n\nO quilombola Francisco Sales Coutinho Mandira até tentou sair da lama, mas logo percebeu que o mangue era o seu lar. Tivesse investido em continuar como ajudante de pedreiro, quando ficou dois anos fora do quilombo que leva seu sobrenome, certamente hoje não conheceria África do Sul, Dinamarca e Itália. Tudo porque organizou os quilombolas para fazer uso racional dos recursos naturais. Fez tão bem que virou exemplo internacional (...). A mudança começou em 1993, quando pesquisadores da USP e órgãos do governo passaram a divulgar o conceito de reserva extrativista, em que populações tradicionais continuam retirando seu sustento da natureza, mas de forma planejada.\n\nRevista Unesp Ciência, maio de 2014.\n\nSobre o ecossistema manguezal, é correto afirmar:",
+    "question": "Sobre o ecossistema manguezal, é correto afirmar:",
+    "images": [],
+    "alternatives": {
+      "A": "É formado por uma rica biodiversidade vegetal, com presença principal de coníferas e nele vivem, sobretudo, crustáceos, os quais servem de alimento e renda para populações costeiras.",
+      "B": "Define-se como formações rasteiras ou herbáceas que atingem até 60 cm, constituindo ambiente propício à reprodução de espécies marinhas e favorável à pesca artesanal, fonte de renda para populações tradicionais.",
+      "C": "É constituído de solo predominantemente lodoso, deficiente em oxigênio, com espécies vegetais adaptadas à flutuação de salinidade, onde se reproduzem espécies de peixes, moluscos e crustáceos, fonte de alimento e renda para populações tradicionais.",
+      "D": "Corresponde a cordão arenoso coberto por vegetação rasteira, rico em nutrientes, onde se alimentam mamíferos, aves, peixes, moluscos e crustáceos, constituindo-se fonte de alimento e renda para populações costeiras.",
+      "E": "Caracteriza-se por vegetação caducifólia, predominantemente arbustiva, de raízes muito profundas e galhos retorcidos, abrigando o mineral ferro, com grande valor de mercado, o qual constitui fonte de renda para populações tradicionais."
+    },
+    "answer": "C"
+  },
+    {
+    "questionId": "Uepg_G0330",
+    "questionText": "(Adaptada) Sobre os biomas brasileiros, assinale o que for correto.\n\nI. O litoral brasileiro possui ecossistema de restinga associado à região do bioma de Mata Atlântica.\n\nII. A Amazônia é um bioma caracterizado por árvores de folhas latifoliadas, que facilitam a evapotranspiração.\n\nIII. Significando \"mata branca\" em tupi-guarani, a Caatinga possui vegetação semiárida xerófila, arbustiva, cactácea e espinhosa em sua composição.\n\nIV. Entre a Amazônia, a Caatinga e o Cerrado, nos estados do Maranhão e Piauí estão localizados os Campos Naturais ou Pradarias Brasileiras, exclusivos de formações rasteiras e herbáceas de no máximo 60 cm de altura.\n\nO correto é dado por:",
+    "question": "O correto é dado por:",
+    "images": [],
+    "alternatives": {
+      "A": "I e III",
+      "B": "II e IV",
+      "C": "I e IV",
+      "D": "I, II e III",
+      "E": "II e III"
+    },
+    "answer": "D"
+  },
+  {
+    "questionId": "Fgv_G0332",
+    "questionText": "Basta um peteleco para causar um efeito dominó em sua biodiversidade. E além do Brasil, a região cobre mais oito países. Esse bioma agora está sob ameaça de seis barragens que podem ser construídas nos Andes por nossos vizinhos, o que pode gerar consequências trágicas. A região andina abrange somente 11% desta bacia, mas fornece 93% dos sedimentos e a maior parte dos nutrientes levados por seus rios.\n\n(www.umagotanooceano.org. Adaptado)\n\nO excerto refere-se à biodiversidade",
+    "question": "O excerto refere-se à biodiversidade",
+    "images": [],
+    "alternatives": {
+      "A": "do Cerrado.",
+      "B": "da Mata Atlântica.",
+      "C": "da Caatinga.",
+      "D": "da Amazônia.",
+      "E": "do Pantanal."
+    },
+    "answer": "D"
+  },
+  {
+    "questionId": "Uem_G0327",
+    "questionText": "(Adaptada) Em relação à localização e às características dos domínios morfoclimáticos definidos pelo geógrafo Aziz Nacib Ab’Sáber, assinale o que for correto.\n\nI. O domínio amazônico abrange outros países além do Brasil e, entre eles, estão a Guiana Francesa e o Suriname.\n\nII. Desde o século passado, uma nova fronteira agrícola e pecuária se estabeleceu no domínio do cerrado.\n\nIII. A presença de rios intermitentes e a vegetação conhecida como xerófita são características marcantes dos domínios da caatinga.\n\nIV. As áreas características dos domínios dos mares de morros localizam-se na Região Norte do Brasil.\n\nV. No domínio das pradarias, a ocorrência do clima é subtropical, e os campos constituem a vegetação típica.\n\nO correto é dado por:",
+    "question": "O correto é dado por:",
+    "images": [],
+    "alternatives": {
+      "A": "I, II, III e V",
+      "B": "II, III, IV e V",
+      "C": "I, II e IV",
+      "D": "I e V",
+      "E": "II e III"
+    },
+    "answer": "A"
+  },
+    {
+    "questionId": "Fatec_G0325",
+    "questionText": "A Mata dos Cocais é um tipo de cobertura vegetal presente no Meio-Norte do Brasil, principalmente nos estados do Maranhão e do Piauí. É uma zona de transição entre os biomas Floresta Amazônica, Cerrado e Caatinga.\n\nNessa área de transição são encontrados alguns tipos de vegetais, dentre os quais se destacam",
+    "question": "Nessa área de transição são encontrados alguns tipos de vegetais, dentre os quais se destacam",
+    "images": [],
+    "alternatives": {
+      "A": "as seringueiras e as bananeiras.",
+      "B": "as laranjeiras e os pinheiros.",
+      "C": "as carnaúbas e os babaçus.",
+      "D": "as catuabas e os juazeiros.",
+      "E": "as perobas e os jatobás."
+    },
+    "answer": "C"
+  },
+  {
+    "questionId": "Uefs_G0324",
+    "questionText": "A natureza é uma totalidade onde todos, dependem de todos. Essa totalidade é o resultado de combinações das condições necessárias para que as espécies obtenham energia e participem das interações biológicas em seus nichos. (CONTI; FURIAM. 2011. p. 21).\n\nConsiderando o excerto e os conhecimentos sobre as formações fitogeográficas do Brasil, marque V nas afirmativas verdadeiras e F, nas falsas.\n\n(__) A Mata Atlântica também recebe o nome, nas áreas mais úmidas, de floresta latifoliada úmida de encosta, devido à umidade que recebe da Massa Tropical Atlântica ou dos ventos alísios de sudeste.\n\n(__) O Cerrado é um domínio vegetal nativo do Brasil Central, apresentando vegetais tropófilos e vários aspectos ou fisionomias.\n\n(__) O domínio da vegetação herbácea ou campo é encontrado em várias porções do país, sempre associado às elevadas altitudes e à degradação dos solos, formando areais.\n\n(__) A vegetação do Pantanal é considerada complexa, porque apresenta espécies das florestas, dos campos e dos cerrados, estando localizada em uma área de planície sedimentar drenada pelo rio Paraguai.\n\n(__) A Mata de Araucária, das florestas brasileiras, é a única localizada em clima temperado, razão pela qual apresenta vegetais higrófilos, latifoliados e caducifólios.\n\nA alternativa que apresenta a sequência correta, de cima para baixo, é a",
+    "question": "A alternativa que apresenta a sequência correta, de cima para baixo, é a",
+    "images": [],
+    "alternatives": {
+      "A": "F – V – F – F – V",
+      "B": "F – V – V – F – V",
+      "C": "V – V – F – V – F",
+      "D": "V – F – V – V – F",
+      "E": "F – F – V – F – V"
+    },
+    "answer": "C"
+  },
+  {
+    "questionId": "Mackenzie_G0320",
+    "questionText": "A paisagem retratada corresponde ao domínio morfoclimático indicado no mapa, pelo número",
+    "question": "A paisagem retratada corresponde ao domínio morfoclimático indicado no mapa, pelo número",
+    "images": [
+      "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/1b86c9cf-83a6-454d-a36a-649e8627492b-arquivo-editor"
+    ],
+    "alternatives": {
+      "A": "3",
+      "B": "5",
+      "C": "1",
+      "D": "4",
+      "E": "2"
+    },
+    "answer": "C"
+  },
+    {
+    "questionId": "Espcex_G0335",
+    "questionText": "Observe o mapa a seguir, que mostra a distribuição dos domínios morfoclimáticos brasileiros, e considere as afirmativas abaixo:\n\nhttps://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/2fb3b43b-e51d-4ed5-b861-a22974b86558-arquivo-editor\n\nI. no domínio “A” encontramos a maior parte do chamado “arco do desmatamento”, onde a vegetação vem perdendo espaço para as atividades agrícolas, causando significativos prejuízos à biodiversidade.\n\nII. o domínio “B” caracteriza-se por solos pobres em matéria orgânica e pedregosos, porém projetos de irrigação têm viabilizado a produção de frutas, como a uva para exportação, nessa área.\n\nIII. os domínios “C” e “F” são considerados hotspots, pois são áreas prioritárias para conservação e de alta biodiversidade, as quais, por se constituírem em fronteiras agrícolas, vêm tendo sua vegetação suprimida para dar lugar às atividades pecuárias.\n\nIV. os domínios “B” e “E” são caracterizados por vegetação herbácea associada a climas que apresentam grande período de estiagem e solos em processo de desertificação, dificultando a atividade agrícola.\n\nV. o domínio “D” apresenta clima tropical úmido e relevo de morros arredondados, revelando intenso trabalho erosivo em estrutura cristalina.\n\nAssinale a alternativa em que todas as afirmativas estão corretas.",
+    "question": "Assinale a alternativa em que todas as afirmativas estão corretas.",
+    "images": [
+      "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/2fb3b43b-e51d-4ed5-b861-a22974b86558-arquivo-editor"
+    ],
+    "alternatives": {
+      "A": "I, III e IV",
+      "B": "I, II e V",
+      "C": "III, IV e V",
+      "D": "I, II e IV",
+      "E": "II, III e V"
+    },
+    "answer": "B"
+  },
+  {
+    "questionId": "Uefs_G0336",
+    "questionText": "Sua biodiversidade é única em todo o mundo. Seus 844,4 mil quilômetros quadrados representam cerca de 10% do território brasileiro. Apesar do clima, é pontilhada por “ilhas de umidade”, de solo extremamente fértil. Vivem nesse bioma cerca de 1,2 mil espécies de plantas –360 delas endêmicas (que não ocorrem em nenhum outro lugar do planeta) – e outras tantas de mamíferos, aves, répteis e anfíbios. Quanto à vegetação, as plantas são xerófilas, ou seja, adaptadas ao clima seco e à pouca quantidade de água. Algumas armazenam água; outras possuem raízes superficiais para captar o máximo das chuvas. Há as que contam com recursos para diminuir a transpiração, como espinhos e poucas folhas. A vegetação é formada por três estratos: o arbóreo, com árvores de 8 a 12 metros; o arbustivo, com vegetação de 2 a 5 metros; e o herbáceo, abaixo de 2 metros.\n\nOs maiores problemas enfrentados pela região são a salinização do solo e a desertificação de grandes áreas.\n\nMais vida, e mais temores. Geografia. Vestibular + Enem.\n\nSão Paulo: Abril, ed. 7, 2015, p. 81.\n\nO bioma brasileiro descrito no texto é o",
+    "question": "O bioma brasileiro descrito no texto é o",
+    "images": [],
+    "alternatives": {
+      "A": "do Cerrado.",
+      "B": "do Pantanal.",
+      "C": "da Amazônia.",
+      "D": "da Caatinga.",
+      "E": "da Mata Atlântica."
+    },
+    "answer": "D"
+  },
+  {
+    "questionId": "Enem_G1461",
+    "questionText": "Uma pesquisa realizada por Carolina Levis, especialista em ecologia do Instituto Nacional de Pesquisas da Amazônia, e publicada na revista Science, demonstra que as espécies vegetais domesticadas pelas civilizações pré-colombianas são as mais dominantes.\n\n“A domesticação de plantas na floresta começou há mais de 8.000 anos. Primeiro eram selecionadas as plantas com características que poderiam ser úteis ao homem e em um segundo momento era feita a propagação dessas espécies. Começaram a cultivá-las em pátios e jardins, por meio de um processo quase intuitivo de seleção”.\n\nOLIVEIRA, J. Indígenas foram os primeiros a alterar o ecossistema da Amazônia. Disponível em: https://brasil.elpais.com. Acesso em: 11 dez. 2017 (adaptado).\n\nO texto apresenta um novo olhar sobre a configuração da Floresta Amazônica por romper com a ideia de",
+    "question": "O texto apresenta um novo olhar sobre a configuração da Floresta Amazônica por romper com a ideia de",
+    "images": [],
+    "alternatives": {
+      "A": "primazia de saberes locais.",
+      "B": "ausência de ação antrópica.",
+      "C": "insuficiência de recursos naturais.",
+      "D": "necessidade de manejo ambiental.",
+      "E": "predominância de práticas agropecuárias."
+    },
+    "answer": "B"
+  },
+    {
+    "questionId": "Ufrgs_G0317",
+    "questionText": "O mapa abaixo representa os principais biomas brasileiros.\n\nhttps://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/1829f0d3-6384-4248-8963-5ed718234098-arquivo-editor\n\nAssinale a alternativa correta com relação aos biomas representados.",
+    "question": "Assinale a alternativa correta com relação aos biomas representados.",
+    "images": [
+      "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/1829f0d3-6384-4248-8963-5ed718234098-arquivo-editor"
+    ],
+    "alternatives": {
+      "A": "O 2 é pobre em recursos hídricos.",
+      "B": "O 3 caracteriza-se pela presença de vegetação caducifólia.",
+      "C": "O 4 caracteriza-se pela presença de vegetais com pneumatóforos.",
+      "D": "O 5 é o que perdeu a maior parte de sua área original.",
+      "E": "O 6 caracteriza-se pela inundação de grandes áreas, nos meses de cheia."
+    },
+    "answer": "E"
+  },
+  {
+    "questionId": "Unesp_G0321",
+    "questionText": "Leia os excertos do geógrafo Aziz Nacib Ab’Sáber.\n\nExcerto 1\n\nDomínio com fortíssima e generalizada decomposição de rochas, densas drenagens perenes, extensiva mamelonização, agrupamentos eventuais de “pães de açúcar”, planícies de inundação meândricas.\n\nExcerto 2\n\nDomínio com planaltos de estrutura complexa, planaltos com vertentes em rampas suaves, ausência quase completa de mamelonização, drenagens espaçadas pouco ramificadas.\n\n“Domínios morfoclimáticos e províncias fitogeográficas do Brasil”.\n\nIn: A obra de Aziz Nacib Ab’Sáber, 2010. Adaptado.\n\nOs domínios morfoclimáticos caracterizados nos excertos 1 e 2 referem-se, respectivamente,",
+    "question": "Os domínios morfoclimáticos caracterizados nos excertos 1 e 2 referem-se, respectivamente,",
+    "images": [],
+    "alternatives": {
+      "A": "ao cerrado e à caatinga.",
+      "B": "à caatinga e aos mares de morros.",
+      "C": "ao amazônico e às pradarias.",
+      "D": "aos mares de morros e ao cerrado.",
+      "E": "às araucárias e às pradarias."
+    },
+    "answer": "D"
+  },
+  {
+    "questionId": "Enem_G1445",
+    "questionText": "O bioma Cerrado foi considerado recentemente um dos 25 hotspots de biodiversidade do mundo, segundo uma análise em escala mundial das regiões biogeográficas sobre áreas globais prioritárias para conservação. O conceito de hotspot foi criado tendo em vista a escassez de recursos direcionados para conservação, como objetivo de apresentar os chamados “pontos quentes”, ou seja, locais para os quais existe maior necessidade de direcionamento de esforços, buscando evitar a extinção de muitas espécies que estão altamente ameaçadas por ações antrópicas.\n\nPINTO, P.P.; DINIZ-FILHO, J. A. F. In: ALMEIDA, M. G. (Org.). Tantos cerrados: múltiplas abordagens sobre a biogeodiversidade e singularidade cultural. Goiânia: Vieira. 2005 (adaptado).\n\nA necessidade desse tipo de ação na área mencionada tem como causa a",
+    "question": "A necessidade desse tipo de ação na área mencionada tem como causa a",
+    "images": [],
+    "alternatives": {
+      "A": "intensificação da atividade turística.",
+      "B": "implantação de parques ecológicos.",
+      "C": "exploração dos recursos minerais.",
+      "D": "elevação do extrativismo vegetal.",
+      "E": "expansão da fronteira agrícola."
+    },
+    "answer": "E"
+  },
+    {
+    "questionId": "Uepg_G0328",
+    "questionText": "(Adaptada) Sobre os manguezais no Brasil, assinale o que for correto.\n\nI. Os manguezais são ecossistemas responsáveis pela reprodução de seres subaquáticos e estão presentes em áreas litorâneas do país.\n\nII. Os mangues são, em sua maior parte, vegetação de gramíneas rasteiras comuns em areias de praias, na maior parte do litoral brasileiro.\n\nIII. No Brasil, este ecossistema não possui ameaças antrópicas, devido ao ordenamento de atividades econômicas e de ocupação no país.\n\nIV. Os manguezais predominam, no Brasil, nas margens dos rios, sobretudo na porção norte do país.\n\nV. Possuem vegetação arbustiva e arbórea com espécies halófilas, adaptadas ao sal.\n\nO correto é dado por:",
+    "question": "O correto é dado por:",
+    "images": [],
+    "alternatives": {
+      "A": "I, II e III",
+      "B": "IV e V",
+      "C": "I e IV",
+      "D": "I e V",
+      "E": "II e III"
+    },
+    "answer": "D"
+  },
+  {
+    "questionId": "Fatec_G0331",
+    "questionText": "Com uma área de cerca de 250 mil km2, tem-se um bioma que se estende pela Bolívia, Paraguai e Brasil, sendo aproximadamente 62% no Brasil. Inserido na parte central da bacia hidrográfica do Alto Paraguai, é influenciado pelo rio Paraguai e por seus vários afluentes que alagam a região, formando extensas áreas alagadiças.\n\nÉ caracterizado pela alternância entre períodos de muita chuva, que acontecem de outubro a março, e períodos de seca entre os meses de abril e setembro. Seu relevo é plano, levemente ondulado, com alguns raros morros isolados e com muitas depressões rasas. As altitudes não ultrapassam 200 metros acima do nível do mar e a declividade é quase nula.\n\n<https://tinyurl.com/y23jnyg9> Acesso em: 16.06.2019. Adaptado.\n\nEssa descrição caracteriza corretamente o bioma",
+    "question": "Essa descrição caracteriza corretamente o bioma",
+    "images": [],
+    "alternatives": {
+      "A": "Amazônia.",
+      "B": "Cerrado.",
+      "C": "Caatinga.",
+      "D": "Pampa.",
+      "E": "Pantanal."
+    },
+    "answer": "E"
+  },
+  {
+    "questionId": "Unesp_G0329",
+    "questionText": "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/ee2019cd-7e4a-40e5-a16c-344e2d71fb29-arquivo-editor\n\nO bioma esquematizado e a relevância das vegetações destacadas pelo número 1 correspondem",
+    "question": "O bioma esquematizado e a relevância das vegetações destacadas pelo número 1 correspondem",
+    "images": [
+      "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/ee2019cd-7e4a-40e5-a16c-344e2d71fb29-arquivo-editor"
+    ],
+    "alternatives": {
+      "A": "ao Cerrado e à preservação dos fitoplânctons.",
+      "B": "ao Cerrado e à proteção ao assoreamento.",
+      "C": "ao Pampa e ao combate à arenização.",
+      "D": "ao Pantanal e à proteção às inundações.",
+      "E": "ao Pampa e ao combate à eutrofização."
+    },
+    "answer": "B"
+  },
+  {
+    "questionId": "Enem_G1462",
+    "questionText": "A presunção de que a superfície das chapadas e chapadões representa uma velha peneplanície é a corroborada pelo fato de que ela é coberta por acumulações superficiais, tais como massas de areia, camadas de cascalhos e seixos e pela ocorrência generalizada de concreções ferruginosas que formam uma crosta laterítica, denominada “canga”.\n\nWEIBEL, L. Disponível em: http://biblioteca.ibge.gov.br. Acesso em: 8 jul. 2015 (adaptado).\n\nQual tipo climático favorece o processo de alteração do solo descrito no texto?",
+    "question": "Qual tipo climático favorece o processo de alteração do solo descrito no texto?",
+    "images": [],
+    "alternatives": {
+      "A": "Árido, com deficit hídrico.",
+      "B": "Subtropical, com baixas temperaturas.",
+      "C": "Temperado, com invernos frios e secos.",
+      "D": "Tropical, com sazonalidade das chuvas.",
+      "E": "Equatorial, com pluviosidade abundante."
+    },
+    "answer": "D"
+  },
+    {
+    "questionId": "Espcex_G0334",
+    "questionText": "Considere as seguintes afirmativas sobre impactos ambientais em três grandes domínios morfoclimáticos brasileiros:\n\nI. Possui uma formação vegetal muito densa, com grande biodiversidade. Possui o maior número de espécies ameaçadas do Brasil devido, dentre outros, à exploração madeireira, às monoculturas de exportação e à expansão urbana. Devido ao intenso desmatamento de suas encostas, são intensos os processos erosivos e frequentes os deslizamentos de terra nesse domínio morfoclimático.\n\nII. Nas bordas desse domínio, caracterizado pelo relevo de planícies, depressões e baixos planaltos, localiza-se a maior parte do chamado arco do desmatamento, uma área cujas atividades econômicas, ligadas à extração madeireira e à abertura de novas áreas para a agricultura e pecuária, vêm acarretando intenso processo de queimada, desflorestamento e intensificação dos processos erosivos.\n\nIII. Esse domínio tem sofrido o maior dos impactos ambientais no contexto brasileiro com a expansão da monocultura canavieira e da soja. Embora tenha sido declarado como um dos principais hotspots brasileiros, 57% de sua área original já estão desmatados, e se o ritmo do desmatamento de sua vegetação não diminuir, até 2030 essa formação poderá ter desaparecido.\n\nAs afirmativas acima referem-se, respectivamente, aos domínios morfoclimáticos",
+    "question": "As afirmativas acima referem-se, respectivamente, aos domínios morfoclimáticos",
+    "images": [],
+    "alternatives": {
+      "A": "Amazônico – Cerrado – Pantanal.",
+      "B": "Mata Atlântica – Cerrado – Amazônico.",
+      "C": "Mares de Morro – Amazônico – Cerrado.",
+      "D": "Amazônico – Cerrado – Mata Atlântica.",
+      "E": "Araucária – Amazônico – Pantanal."
+    },
+    "answer": "C"
+  },
+  {
+    "questionId": "Enem_G1453",
+    "questionText": "Ao destruir uma paisagem de árvores de troncos retorcidos, folhas e arbustos ásperos sobre os solos ácidos, não raro laterizados ou tomados pelas formas bizarras dos cupinzeiros, essa modernização lineariza e aparentemente não permite que se questione a pretensão modernista de que a forma deve seguir a função.\n\nHAESBAERT, R. “Gaúchos” e baianos no “novo” Nordeste: entre a globalização econômica e a reinvenção das identidades territoriais. In: CASTRO, I. E.; GOMES, P. C. C.; CORREA, R. L. (Org.). Brasil: questões atuais da reorganização do território. Rio de Janeiro: Bertrand Brasil, 2008.\n\nO processo descrito ocorre em uma área biogeográfica com predomínio de vegetação",
+    "question": "O processo descrito ocorre em uma área biogeográfica com predomínio de vegetação",
+    "images": [],
+    "alternatives": {
+      "A": "tropófila e clima tropical.",
+      "B": "xerófila e clima semiárido.",
+      "C": "hidrófila e clima equatorial.",
+      "D": "aciculifoliada e clima subtropical.",
+      "E": "semidecídua e clima tropical úmido."
+    },
+    "answer": "A"
+  },
+  {
+    "questionId": "Enem_G1429",
+    "questionText": "Algumas regiões do Brasil passam por uma crise de água por causa da seca. Mas, uma região de Minas Gerais está enfrentando a falta de água no campo tanto em tempo de chuva como na seca. As veredas estão secando no norte e no noroeste mineiro. Ano após ano, elas vêm perdendo a capacidade de ser a caixa-d’água do grande sertão de Minas.\n\nVIEIRA. C. Degradação do solo causa perda de fontes de água de famílias de MG. Disponível em: http://g1.globo.com. Acesso em: 1 nov. 2014.\n\nAs veredas têm um papel fundamental no equilíbrio hidrológico dos cursos de água no ambiente do Cerrado, pois",
+    "question": "As veredas têm um papel fundamental no equilíbrio hidrológico dos cursos de água no ambiente do Cerrado, pois",
+    "images": [],
+    "alternatives": {
+      "A": "colaboram para a formação de vegetação xerófila.",
+      "B": "formam os leques aluviais nas planícies das bacias.",
+      "C": "fornecem sumidouro para as águas de recarga da bacia.",
+      "D": "contribuem para o aprofundamento dos talvegues à jusante.",
+      "E": "constituem um sistema represador da água na chapada."
+    },
+    "answer": "E"
+  },
+  {
+    "questionId": "Udesc_G0319",
+    "questionText": "O bioma Cerrado, no Brasil, foi bastante destruído devido às atividades agropastoris.\n\nAnalise as proposições.\n\nI. Os Cerrados têm um aspecto característico, marcado por árvores, geralmente, tortuosas e espaçadas.\n\nII. Apesar do aspecto xeromórfico no cerrado, não há escassez de água, mesmo nas estações mais secas. Os cerrados brasileiros, em comparação com as savanas africanas, são úmidos, apesar da sazonalidade da umidade.\n\nIII. O Cerrado está presente nos estados de Minas Gerais, Mato Grosso, Bahia, Mato Grosso do Sul, Tocantins, Goiás, São Paulo e Paraná.\n\nIV. Até os 1970 acreditava-se que o solo do cerrado era improdutivo, mas novas tecnologias e novos tratamentos de solo fizeram desta região uma das mais produtivas do Brasil.\n\nV. Os incêndios nos cerrados são a principal ameaça, atualmente.\n\nAssinale a alternativa correta.",
+    "question": "Assinale a alternativa correta.",
+    "images": [],
+    "alternatives": {
+      "A": "Somente as afirmativas I, II e III são verdadeiras.",
+      "B": "Somente as afirmativas II, IV e V são verdadeiras.",
+      "C": "Somente as afirmativas III e V são verdadeiras.",
+      "D": "Somente as afirmativas I, II, IV e V são verdadeiras.",
+      "E": "Todas as afirmativas são verdadeiras."
+    },
+    "answer": "E"
+  }
+    ]}

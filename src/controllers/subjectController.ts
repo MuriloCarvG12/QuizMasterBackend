@@ -1,7 +1,7 @@
-import AppDataSource from "../data_source";
+import AppDataSource from "../data_source.js";
 import { Request , Response } from "express";
-import { Subject } from "../entities/Subject";
-import ConstSubjects from "../consts/ConstSubject";
+import { Subject } from "../entities/Subject.js";
+import ConstSubjects from "../consts/ConstSubject.js";
 
 
 
@@ -33,13 +33,13 @@ class subjectController {
         const Subject  = await this.SubjectRepository.findOneBy({SubjectName: String(BodySubjectName)});  
         if(Subject == null)
             {
-                res.status(404).json(ConstSubjects["NoName"]);   
+               return  res.status(404).json(ConstSubjects["NoName"]);   
             }
-            res.status(200).json(Subject)
+            return  res.status(200).json(Subject)
         } 
         catch (error) 
         {
-            res.status(500).json(ConstSubjects["GenericError"] + error);   
+            return  res.status(500).json(ConstSubjects["GenericError"] + error);   
         } 
     }
 

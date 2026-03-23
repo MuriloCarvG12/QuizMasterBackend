@@ -1,61 +1,62 @@
-import { Entity, PrimaryGeneratedColumn, Column, JoinColumn, ManyToOne } from "typeorm"
-import { Subject } from "./Subject"
-import { Topic } from "./Topic"
-import { Subtopic } from "./SubTopic"
+import { Entity, PrimaryGeneratedColumn, Column, JoinColumn, ManyToOne, OneToMany } from "typeorm"
+import { Subject } from "./Subject.js"
+import { Topic } from "./Topic.js"
+import { Subtopic } from "./SubTopic.js"
+import { Image } from "./Images.ts"
 
-@Entity("questions")
+@Entity("Questions")
 export class Question {
     @PrimaryGeneratedColumn()
     Id: number
 
-    @Column()
-    ImageUrl: string
+    @Column("integer")
+    QuestionId: string
 
-    @Column()
+    @Column("text")
     QuestionText: string
 
-    @Column()
+    @Column("text")
     QuestionPrompt: string
 
-    @Column()
+    @Column("text")
     QuestionAltA: string
 
-    @Column()
+    @Column("text")
     QuestionAltB: string
 
-    @Column()
+    @Column("text")
     QuestionAltC: string
 
-    @Column()
+    @Column("text")
     QuestionAltD: string
 
-    @Column()
+    @Column("text")
     QuestionAltE: string
 
-    @Column()
+    @Column("char")
     CorrectAlternative: string
-
-    @Column()
-    QuestionDifficulty: string
 
     @ManyToOne(() => Subject, { eager: false }) 
         @JoinColumn({ name: "SubjectId" }) 
         subject: Subject
     
-    @Column()
+    @Column("integer")
     SubjectId: number 
 
     @ManyToOne(() => Topic, { eager: false }) 
         @JoinColumn({ name: "TopicId" }) 
         Topic: Topic
     
-    @Column()
+    @Column("integer")
     TopicId: number 
 
-    @ManyToOne(() => Topic, { eager: false }) 
-        @JoinColumn({ name: "TopicId" }) 
+    @ManyToOne(() => Subtopic) 
+        @JoinColumn({ name: "SubTopicId" })
         SubTopic: Subtopic
     
-    @Column()
+    @Column("integer")
     SubTopicId: number 
+
+    @OneToMany("Image", "question")
+    images: Image[];
 }

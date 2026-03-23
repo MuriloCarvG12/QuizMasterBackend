@@ -1,0 +1,405 @@
+{
+    "examTitle": "Propriedades Coligativas",
+    "questions":[
+          {
+    "questionId": "Enem_PPL_Q1668",
+    "questionText": "Bebidas podem ser refrigeradas de modo mais rápido utilizando-se caixas de isopor contendo gelo e um pouco de sal grosso comercial. Nesse processo ocorre o derretimento do gelo com consequente formação de líquido e resfriamento das bebidas. Uma interpretação equivocada, baseada no senso comum, relaciona esse efeito à grande capacidade do sal grosso de remover calor do gelo.",
+    "question": "Do ponto de vista científico, o resfriamento rápido ocorre em razão da",
+    "images": [],
+    "alternatives": {
+      "A": "variação da solubilidade do sal.",
+      "B": "alteração da polaridade da água.",
+      "C": "elevação da densidade do líquido.",
+      "D": "modificação da viscosidade do líquido.",
+      "E": "diminuição da temperatura de fusão do líquido."
+    },
+    "answer": "E"
+  },
+  {
+    "questionId": "Ueg_Q0795",
+    "questionText": "As propriedades físicas dos líquidos podem ser comparadas a partir de um gráfico de pressão de vapor em função da temperatura, como mostrado no gráfico hipotético a seguir para as substâncias A, B, C e D.",
+    "question": "Segundo o gráfico, o líquido mais volátil será a substância",
+    "images": [
+      "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/825edd21-8a14-4260-8dec-da3cec7a6dbe-arquivo-editor"
+    ],
+    "alternatives": {
+      "A": "A",
+      "B": "B",
+      "C": "C",
+      "D": "D",
+      "E": ""
+    },
+    "answer": "A"
+  },
+  {
+    "questionId": "Ufrgs_Q0809",
+    "questionText": "Na gastronomia, empregam-se diversos conhecimentos provindos de diferentes áreas da química. Considere os conhecimentos químicos listados no bloco superior abaixo e os processos relacionados à produção e conservação de alimentos, listados no bloco inferior.\n\n1. Propriedades coligativas\n2. Coloides\n3. Emulsões\n4. Reversibilidade de reações\n\n(__) Produção de charque\n(__) Preparo de gelatina\n(__) Preparo de maionese",
+    "question": "A sequência correta de preenchimento dos parênteses, de cima para baixo, é",
+    "images": [],
+    "alternatives": {
+      "A": "1, 2 e 3.",
+      "B": "1, 2 e 4.",
+      "C": "2, 3 e 4.",
+      "D": "2, 1 e 3.",
+      "E": "3, 4 e 2."
+    },
+    "answer": "A"
+  },
+  {
+    "questionId": "Upe_Q0801",
+    "questionText": "As afirmativas abaixo estão relacionadas às propriedades da água e das soluções aquosas moleculares e iônicas. Sobre elas, é correto afirmar que",
+    "question": "Sobre as propriedades da água e das soluções aquosas, é correto afirmar que",
+    "images": [],
+    "alternatives": {
+      "A": "quando se abre a tampa de uma garrafa de bebida gaseificada com dióxido de carbono, verifica-se que o gás borbulha fortemente; isso está relacionado com o aumento da pressão parcial do gás no momento em que se remove a tampa.",
+      "B": "não é aconselhável adicionar sal de cozinha ao recipiente contendo gelo, utilizado para gelar a bebida que será servida em uma festa, pois esse procedimento provocaria um aumento na temperatura de congelação da água.",
+      "C": "as águas dos oceanos congelam rapidamente, em regiões perto dos polos, sempre que a temperatura nesses locais atingir 0 ˚C que é a temperatura de congelação da água pura ao nível do mar.",
+      "D": "um náufrago, mesmo com sede intensa, sob um sol inclemente, não deve ingerir água do mar, pois esse procedimento acelera a desidratação corporal, ocasionando sérios problemas para a sua saúde.",
+      "E": "numa panela de pressão usada praticamente por todas as donas de casa, a água ferve a uma temperatura superior a 100 ˚C porque a pressão sobre a água no interior da panela é menor que 1 atm."
+    },
+    "answer": "D"
+  },
+    {
+    "questionId": "Enem_Q0805",
+    "questionText": "A cal (óxido de cálcio, CaO), cuja suspensão em água é muito usada como uma tinta de baixo custo, dá uma tonalidade branca aos troncos de árvores. Essa é uma prática muito comum em praças públicas e locais privados, geralmente usada para combater a proliferação de parasitas. Essa aplicação, também chamada de caiação, gera um problema: elimina microrganismos benéficos para a árvore.\n\nDisponível em: http://super.abril.com.br. Acesso em: 1 abr. 2010 (adaptado).",
+    "question": "A destruição do microambiente, no tronco de árvores pintadas com cal, é devida ao processo de",
+    "images": [],
+    "alternatives": {
+      "A": "difusão, pois a cal se difunde nos corpos dos seres do microambiente e os intoxica.",
+      "B": "osmose, pois a cal retira água do microambiente, tornando-o inviável ao desenvolvimento de microrganismos.",
+      "C": "oxidação, pois a luz solar que incide sobre o tronco ativa fotoquimicamente a cal, que elimina os seres vivos do microambiente.",
+      "D": "aquecimento, pois a luz do Sol incide sobre o tronco e aquece a cal, que mata os seres vivos do microambiente.",
+      "E": "vaporização, pois a cal facilita a volatilização da água para a atmosfera, eliminando os seres vivos do microambiente."
+    },
+    "answer": "B"
+  },
+  {
+    "questionId": "Cps_Q0834",
+    "questionText": "Conservação de alimentos é o conjunto dos métodos que evitam a deterioração dos alimentos ao longo de um determinado período.\n\nO objetivo principal desses processos é evitar as alterações provocadas pelas enzimas próprias dos produtos naturais ou por micro-organismos que, além de causarem o apodrecimento dos alimentos, podem produzir toxinas que afetam a saúde dos consumidores. Mas também existe a preocupação em manter a aparência, o sabor e conteúdo nutricional dos alimentos.\n\nUma das técnicas utilizadas é a desidratação, em que se remove ou se diminui a quantidade de água no alimento, para evitar que sejam criadas condições propícias para o desenvolvimento dos micro-organismos, já que a água é essencial para que eles existam. O bacalhau e a carne-seca, por exemplo, são assim conservados com adição prévia de sal de cozinha, que desidrata o alimento por osmose.",
+    "question": "Sobre o texto e o processo descrito é correto afirmar que",
+    "images": [],
+    "alternatives": {
+      "A": "o sal de cozinha apresenta fórmula molecular SoCl.",
+      "B": "o alimento desidratado deve ser conservado em geladeira.",
+      "C": "a desidratação é um processo desaconselhável para conservação de peixes.",
+      "D": "na osmose ocorre passagem de água apenas para o meio menos concentrado.",
+      "E": "a osmose cria um ambiente desfavorável à sobrevivência dos micro-organismos."
+    },
+    "answer": "E"
+  },
+  {
+    "questionId": "Ufrn_Q0799",
+    "questionText": "Sorvete em cinco minutos.\n\nUma receita rápida, prática e que parece mágica para o preparo de um sorvete de morango recomenda o seguinte procedimento:\n\nDespeje o leite, o açúcar e a essência de morango num saco de plástico de 0,5 litro e certifique-se de que ele fique bem fechado. Coloque 16 cubos de gelo e 6 colheres de sopa de sal comum (NaCl) num outro saco plástico de 1 litro. Insira o saco de 0,5 litro dentro do saco de 1 litro e feche muito bem. Agite as bolsas de plástico por 5 minutos e, após esse tempo, remova o saco de 0,5 litro de dentro do outro. Em seguida, corte um dos bicos inferiores do saco de 0,5 litro e despeje o sorvete no recipiente de sua preferência.\n\nO que parece mágica, ou seja, o congelamento do sorvete a uma temperatura (-20°C) mais baixa que 0°C, pela solução aquosa de NaCl, é explicado pela propriedade coligativa de diminuição da temperatura de início de solidificação.",
+    "question": "Outro soluto que pode produzir a mesma diminuição da temperatura que o NaCl é",
+    "images": [],
+    "alternatives": {
+      "A": "cloreto de potássio (KCl).",
+      "B": "cloreto de cálcio (CaCl2).",
+      "C": "glicose (C6H12O6).",
+      "D": "glicerina (C3H8O3).",
+      "E": ""
+    },
+    "answer": "A"
+  },
+  {
+    "questionId": "Unesp_Q0802",
+    "questionText": "A concentração de cloreto de sódio no soro fisiológico é 0,15 mol/L. Esse soro apresenta a mesma pressão osmótica que uma solução aquosa 0,15 mol/L de",
+    "question": "Esse soro apresenta a mesma pressão osmótica que uma solução aquosa 0,15 mol/L de",
+    "images": [],
+    "alternatives": {
+      "A": "sacarose, C12H22O11",
+      "B": "sulfato de sódio, Na2SO4",
+      "C": "sulfato de alumínio, Al2(SO4)3",
+      "D": "glicose, C6H12O6",
+      "E": "cloreto de potássio, KCl"
+    },
+    "answer": "E"
+  },
+    {
+    "questionId": "Ufu_Q0798",
+    "questionText": "O estudo das propriedades coligativas das soluções permite-nos prever as alterações nas propriedades de seu solvente.",
+    "question": "A respeito das propriedades coligativas, assinale a alternativa correta.",
+    "images": [],
+    "alternatives": {
+      "A": "Se for colocada água com glutamato de monossódio dissolvido para congelar em uma geladeira, a temperatura de fusão da água na solução permanecerá a mesma que a da água pura.",
+      "B": "As propriedades coligativas independem do número de partículas do soluto na solução, da natureza das partículas e de sua volatilidade.",
+      "C": "Se forem preparadas duas soluções aquosas de mesma concentração, uma de glutamato de monossódio e outra de açúcar, a temperatura de ebulição da água na solução será maior que a da água na solução de açúcar.",
+      "D": "Em uma panela tampada, a pressão de vapor da solução aquosa de glutamato de monossódio é maior do que a pressão de vapor da água pura porque a presença do sal facilita a evaporação do solvente.",
+      "E": ""
+    },
+    "answer": "C"
+  },
+  {
+    "questionId": "Ufpr_Q0831",
+    "questionText": "Em festas e churrascos em família, é costume usar geleiras de isopor para resfriar bebidas enlatadas ou engarrafadas. Para gelar eficientemente, muitas pessoas costumam adicionar sal e/ou álcool à mistura gelo/água.",
+    "question": "A melhor eficiência mencionada se deve ao fato de que a presença de sal ou álcool",
+    "images": [],
+    "alternatives": {
+      "A": "aumenta a taxa de transferência de calor.",
+      "B": "abaixa a temperatura do gelo.",
+      "C": "aumenta a temperatura de ebulição.",
+      "D": "abaixa a temperatura de fusão.",
+      "E": "abaixa a dissipação de calor para o exterior."
+    },
+    "answer": "D"
+  },
+  {
+    "questionId": "Acafe_Q0814",
+    "questionText": "Os peixes ósseos marinhos evoluíram ao que tudo indica de ancestrais de água doce, que possuem a tonicidade de seus líquidos internos bem maior que a tonicidade da água doce. Por isso, eles estão continuamente ganhando água do meio e perdendo sais, conforme o esquema abaixo.",
+    "question": "Pode(m)-se identificar o(s) seguinte(s) tipo(s) de transporte(s) no esquema, apontados pelas setas 1 e 2:",
+    "images": [
+      "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/30e768f9-c9f3-466b-8ea3-b4e5bec5272e-arquivo-editor"
+    ],
+    "alternatives": {
+      "A": "liberação de bomba de Na+ e Cl– pelo peixe.",
+      "B": "liberação de íons carbonatos pelo peixe.",
+      "C": "transporte ativo e osmose.",
+      "D": "difusão e transporte ativo.",
+      "E": "osmose e difusão."
+    },
+    "answer": "E"
+  },
+  {
+    "questionId": "Pucrs_Q0811",
+    "questionText": "Quando se compara a água do mar com a água destilada, pode-se afirmar que a primeira, em relação à segunda, tem menor __________, mas maior __________.",
+    "question": "Quando se compara a água do mar com a água destilada, pode-se afirmar que a primeira, em relação à segunda, tem menor e maior quais propriedades, respectivamente?",
+    "images": [],
+    "alternatives": {
+      "A": "densidade – ponto de ebulição",
+      "B": "condutividade elétrica – densidade",
+      "C": "pressão de vapor – condutividade elétrica",
+      "D": "concentração de íons – ponto de ebulição",
+      "E": "ponto de congelação – facilidade de vaporização do solvente"
+    },
+    "answer": "C"
+  },
+    {
+    "questionId": "Udesc_Q0815",
+    "questionText": "As características físico-químicas, que dependem somente da quantidade de partículas presentes em solução e não da natureza destas partículas, são conhecidas como propriedades coligativas.\n\nSobre as propriedades coligativas, analise as proposições.\n\nI. A alface, quando colocada em uma vasilha contendo uma solução salina, murcha. Esse fenômeno pode ser explicado pela propriedade coligativa, chamada pressão osmótica, pois ocorre a migração de solvente da solução mais concentrada para a mais diluída.\n\nII. Em países com temperaturas muito baixas ou muito elevadas, costuma-se adicionar etilenoglicol à água dos radiadores dos carros para evitar o congelamento e o superaquecimento da água. As propriedades coligativas envolvidas, nestes dois processos, são a crioscopia e a ebulioscopia, respectivamente.\n\nIII. Soluções fisiológicas devem possuir a mesma pressão osmótica que o sangue e as hemácias. Ao se utilizar água destilada no lugar de uma solução fisiológica ocorre um inchaço das hemácias e a morte delas. A morte das hemácias por desidratação também ocorre ao se empregar uma solução saturada de cloreto de sódio. Nas duas situações ocorre a migração do solvente (água) do meio menos concentrado para o meio mais concentrado.",
+    "question": "Assinale a alternativa correta.",
+    "images": [],
+    "alternatives": {
+      "A": "Somente as afirmativas I e II são verdadeiras.",
+      "B": "Somente as afirmativas II e III são verdadeiras.",
+      "C": "Somente a afirmativa III é verdadeira.",
+      "D": "Somente a afirmativa II é verdadeira.",
+      "E": "Somente as afirmativas I e III são verdadeiras."
+    },
+    "answer": "B"
+  },
+  {
+    "questionId": "Udesc_Q0819",
+    "questionText": "A pressão osmótica no sangue humano é de aproximadamente 7,7 atm e os glóbulos vermelhos (hemácias) possuem aproximadamente a mesma pressão; logo, pode-se afirmar que estas são isotônicas em relação ao sangue. Sendo assim, o soro fisiológico, que é uma solução aquosa de cloreto de sódio utilizada para repor o líquido perdido por uma pessoa em caso de desidratação, também deve possuir a mesma pressão osmótica para evitar danos às hemácias.",
+    "question": "Em relação à informação, assinale a alternativa correta.",
+    "images": [],
+    "alternatives": {
+      "A": "A pressão osmótica do soro não é afetada quando a concentração de cloreto de sódio é modificada.",
+      "B": "A injeção de água destilada no sangue provoca a desidratação e, consequentemente, a morte das hemácias.",
+      "C": "O uso de uma solução aquosa saturada de cloreto de sódio não afeta a pressão osmótica do sangue.",
+      "D": "A injeção de água destilada no sangue provoca uma absorção excessiva de água pelas hemácias, provocando um inchaço e, consequentemente, a morte das hemácias.",
+      "E": "A injeção de uma solução aquosa saturada de cloreto de sódio provoca uma absorção excessiva de água pelas hemácias, causando um inchaço e, consequentemente, a morte das hemácias."
+    },
+    "answer": "D"
+  },
+  {
+    "questionId": "Mackenzie_Q0832",
+    "questionText": "Em um laboratório, são preparadas três soluções A, B e C, contendo todas elas a mesma quantidade de um único solvente e cada uma delas, diferentes quantidades de um único soluto não volátil.\n\nConsiderando que as quantidades de soluto, totalmente dissolvidas no solvente, em A, B e C, sejam crescentes, a partir do gráfico abaixo, que mostra a variação da pressão de vapor para cada uma das soluções em função da temperatura, é correto afirmar que, a uma dada temperatura “T”,",
+    "question": "A partir do gráfico, assinale a alternativa correta.",
+    "images": [
+      "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/91b92676-8fb3-4674-8335-a770c7df40ad-arquivo-editor"
+    ],
+    "alternatives": {
+      "A": "a solução C corresponde à curva I, pois quanto maior a quantidade de soluto não volátil dissolvido em um solvente, menor é a pressão de vapor dessa solução.",
+      "B": "solução A corresponde à curva III, pois quanto menor a quantidade de soluto não volátil dissolvido em um solvente, maior é a pressão de vapor dessa solução.",
+      "C": "as soluções A, B e C correspondem respectivamente às curvas III, II e I, pois quanto maior a quantidade de um soluto não volátil dissolvido em um solvente, maior a pressão de vapor da solução.",
+      "D": "as soluções A, B e C correspondem respectivamente às curvas I, II e III, pois quanto menor a quantidade de um soluto não volátil dissolvido em um solvente, maior a pressão de vapor da solução.",
+      "E": "a solução B é a mais volátil, que é representada pela curva II."
+    },
+    "answer": "D"
+  },
+  {
+    "questionId": "Ufrgs_Q0826",
+    "questionText": "Uma solução injetável foi preparada de modo inadequado, pois, ao entrar na corrente sanguínea, promoveu o inchamento e a ruptura dos glóbulos vermelhos.",
+    "question": "A solução é portanto __________ em relação ao soro sanguíneo, e a concentração de soluto é __________ àquela que deveria ter sido preparada.",
+    "images": [],
+    "alternatives": {
+      "A": "hipotônica – superior",
+      "B": "hipotônica – inferior",
+      "C": "isotônica – superior",
+      "D": "hipertônica – superior",
+      "E": "hipertônica – inferior"
+    },
+    "answer": "B"
+  },
+    {
+    "questionId": "Unicamp_Q0817",
+    "questionText": "Muito se ouve sobre ações em que se utilizam bombas improvisadas. Nos casos que envolvem caixas eletrônicos, geralmente as bombas são feitas com dinamite (TNT-trinitrotolueno), mas nos atentados terroristas geralmente são utilizados explosivos plásticos, que não liberam odores. Cães farejadores detectam TNT em razão da presença de resíduos de DNT (dinitrotolueno), uma impureza do TNT que tem origem na nitração incompleta do tolueno. Se os cães conseguem farejar com mais facilidade o DNT, isso significa que, numa mesma temperatura, esse composto deve ser",
+    "question": "Assinale a alternativa correta.",
+    "images": [],
+    "alternatives": {
+      "A": "menos volátil que o TNT, e portanto tem uma menor pressão de vapor.",
+      "B": "mais volátil que o TNT, e portanto tem uma menor pressão de vapor.",
+      "C": "menos volátil que o TNT, e portanto tem uma maior pressão de vapor.",
+      "D": "mais volátil que o TNT, e portanto tem uma maior pressão de vapor.",
+      "E": ""
+    },
+    "answer": "D"
+  },
+  {
+    "questionId": "Img_Q0822",
+    "questionText": "O Mar Morto corresponde a uma grande extensão de águas localizadas entre Israel e a Jordânia e apresenta alto teor salino, em torno de 300 g de sal por litro de água, inviabilizando a vida marinha. Essa característica é responsável pelo fato de suas propriedades serem distintas daquelas pertencentes à água pura, como, por exemplo,",
+    "question": "Assinale a alternativa correta.",
+    "images": [],
+    "alternatives": {
+      "A": "maior pressão de vapor.",
+      "B": "menor pressão osmótica.",
+      "C": "maior temperatura de fusão.",
+      "D": "menor condutibilidade elétrica.",
+      "E": "maior temperatura de ebulição."
+    },
+    "answer": "E"
+  },
+  {
+    "questionId": "Udesc_Q0825",
+    "questionText": "A pressão de vapor de um solvente líquido diminui devido à presença de um soluto não volátil (efeito tonoscópico), afetando a temperatura de fusão (efeito crioscópico) e a temperatura de vaporização do solvente (efeito ebulioscópico). Faz-se uso destes fenômenos, por exemplo, nos anticongelantes utilizados nos radiadores de automóveis e nos sais empregados para fundir gelo em regiões onde há ocorrência de neve. Os líquidos A, B, C e D, listados abaixo, estão a 1 atm e a 25 ˚C e apresentam, respectivamente, pressões de vapor PA, PB, PC e PD.\n\nLíquido A: 100 mL de solução 0,01 mol/L de NaCl em água.\n\nLíquido B: 100 mL de água.\n\nLíquido C: 100 mL de solução 0,01 mol/L de glicose em água.\n\nLíquido D: 50 mL de água.",
+    "question": "Assinale a alternativa correta com relação à pressão de vapor dos líquidos A, B, C e D.",
+    "images": [],
+    "alternatives": {
+      "A": "PD = PB > PC > PA",
+      "B": "PA > PC > PB > PD",
+      "C": "PA = PC > PD > PB",
+      "D": "PD > PB > PA = PC",
+      "E": "PD > PA = PC > PB"
+    },
+    "answer": "A"
+  },
+  {
+    "questionId": "Unicamp_Q1364",
+    "questionText": "Em 2020, o Brasil foi impactado com a notícia de que muitas pessoas haviam se contaminado ao ingerir cerveja. Como se apurou mais tarde, a bebida havia sido contaminada por dietilenoglicol. O fabricante argumentou que havia comprado monoetilenoglicol, e que o dietilenoglicol chegou ao produto por contaminação ou por engano.",
+    "question": "A respeito desse episódio, pode-se afirmar que, se o dietilenoglicol, que estava dissolvido em água, fosse utilizado no sistema de",
+    "images": [],
+    "alternatives": {
+      "A": "resfriamento na linha de produção de cerveja, esse material poderia ser substituído por etanol, mas não por sal de cozinha.",
+      "B": "aquecimento na linha de produção de cerveja, esse material poderia ser substituído por etanol.",
+      "C": "resfriamento na linha de produção de cerveja, esse material poderia ser substituído por sal de cozinha.",
+      "D": "aquecimento na linha de produção de cerveja, esse material poderia ser substituído por etanol, mas não por sal de cozinha.",
+      "E": ""
+    },
+    "answer": "C"
+  },
+{
+    "questionId": "Uece_Q0818",
+    "questionText": "A panela de pressão, inventada pelo físico francês Denis Papin (1647-1712) é um extraordinário utensílio que permite o cozimento mais rápido dos alimentos, economizando combustível.",
+    "question": "Sobre a panela de pressão e seu funcionamento, pode-se afirmar corretamente que",
+    "images": [],
+    "alternatives": {
+      "A": "é uma aplicação prática da lei de Boyle-Mariotte.",
+      "B": "foi inspirada na lei de Dalton das pressões parciais.",
+      "C": "aumenta o ponto de ebulição da água contida nos alimentos.",
+      "D": "o vapor d’água represado catalisa o processo de cocção dos alimentos.",
+      "E": ""
+    },
+    "answer": "C"
+  },
+  {
+    "questionId": "Uern_Q0824",
+    "questionText": "Um estudante de química, realizando um experimento em laboratório, colocou dois copos iguais e nas mesmas condições de temperatura e pressão, dentro de uma tampa transparente. No copo 1 continha apenas água e, no copo 2, uma solução de 0,3 mol/L de cloreto de sódio.",
+    "question": "Com relação ao experimento, é correto afirmar que o estudante chegou à seguinte conclusão:",
+    "images": [
+      "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/d0c56439-b0b9-46a3-9d6d-fe4f055fe2ba-arquivo-editor"
+    ],
+    "alternatives": {
+      "A": "O ponto de ebulição nos dois copos é igual.",
+      "B": "A pressão de vapor no copo 1 é menor que a do copo 2.",
+      "C": "A solução presente no copo 2 congela mais rápido que a do copo 1.",
+      "D": "Com o decorrer do tempo, o volume do copo 1 diminui e o do copo 2 aumenta.",
+      "E": ""
+    },
+    "answer": "D"
+  },
+  {
+    "questionId": "Ufrgs_Q0800",
+    "questionText": "Observe o gráfico abaixo, referente à pressão de vapor de dois líquidos, A e B, em função da temperatura.",
+    "question": "Considere as afirmações abaixo, sobre o gráfico.\n\nI. O líquido B é mais volátil que o líquido A.\nII. A temperatura de ebulição de B, a uma dada pressão, será maior que a de A.\nIII. Um recipiente contendo somente o líquido A em equilíbrio com o seu vapor terá mais moléculas na fase vapor que o mesmo recipiente contendo somente o líquido B em equilíbrio com seu vapor, na mesma temperatura.\n\nQuais estão corretas?",
+    "images": [
+      "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/3e4b0e2b-ebef-4e74-8ef1-9f0c679d35d1-arquivo-editor"
+    ],
+    "alternatives": {
+      "A": "Apenas I.",
+      "B": "Apenas II.",
+      "C": "Apenas III.",
+      "D": "Apenas II e III.",
+      "E": "I, II e III."
+    },
+    "answer": "D"
+  },
+  {
+    "questionId": "Unesp_Q1342",
+    "questionText": "Todas as soluções aquosas cujos solutos estão indicados nas alternativas são de mesma concentração em mol/L.",
+    "question": "A solução que deve apresentar menor temperatura de congelamento é a de",
+    "images": [],
+    "alternatives": {
+      "A": "C6H12O6",
+      "B": "K2SO4",
+      "C": "NH4Cl",
+      "D": "CuSO4",
+      "E": "CH3COOH"
+    },
+    "answer": "B"
+  },
+    {
+    "questionId": "Ufrgs_Q0796",
+    "questionText": "Assinale a alternativa que completa corretamente as lacunas do enunciado abaixo, na ordem em que aparecem.\n\nUma sopa muito salgada é aquecida numa panela aberta. Nessas condições, a sopa deve entrar em ebulição numa temperatura ......... .. 100°C. Assim, à medida que a água da sopa evapora, a temperatura da sopa ............... .",
+    "question": "A alternativa correta que completa as lacunas é",
+    "images": [],
+    "alternatives": {
+      "A": "acima de – aumenta",
+      "B": "acima de – diminui",
+      "C": "abaixo de – aumenta",
+      "D": "igual a – permanece constante",
+      "E": "igual a – aumenta"
+    },
+    "answer": "A"
+  },
+  {
+    "questionId": "Pucrs_Q0812",
+    "questionText": "Um dos cuidados básicos em relação à prevenção da gripe A, cujo vírus é conhecido como H1N1, consiste em fazer vacina. Entretanto, também é fundamental lavar as mãos com frequência e usar o álcool gel.",
+    "question": "Em relação a esse produto, pode-se afirmar que é uma",
+    "images": [],
+    "alternatives": {
+      "A": "solução diluída de etanol.",
+      "B": "suspensão de álcool etílico.",
+      "C": "dispersão coloidal contendo etanol.",
+      "D": "mistura homogênea de álcool etílico e metanol.",
+      "E": "mistura homogênea de etanol e um tensoativo."
+    },
+    "answer": "C"
+  },
+  {
+    "questionId": "Mackenzie_Q0820",
+    "questionText": "Em um experimento de laboratório, realizado sob pressão constante e ao nível do mar, foram utilizadas duas soluções, A e B, ambas apresentando a água como solvente e mesmo sal como soluto não volátil, as quais, estando inicialmente na fase líquida, foram aquecidas até ebulição. Desse experimento, foram coletados os dados que constam da tabela abaixo:\n\nSolução A: 104,2 °C\nSolução B: 106,7 °C\n\nUm analista, baseando-se nos resultados obtidos, fez as seguintes afirmações:\n\nI. A pressão de vapor de ambas as soluções é menor do que a pressão de vapor da água pura.\nII. A solução A apresenta menor concentração de sal em relação à concentração salina da solução B.\nIII. As forças de interação intermoleculares na solução B apresentam maior intensidade do que as forças de interação existentes, tanto na solução A como na água.",
+    "question": "É correto dizer que",
+    "images": [],
+    "alternatives": {
+      "A": "nenhuma afirmação é verdadeira.",
+      "B": "as afirmações I e II são verdadeiras.",
+      "C": "as afirmações I e III são verdadeiras.",
+      "D": "as afirmações II e III são verdadeiras.",
+      "E": "todas as afirmações são verdadeiras."
+    },
+    "answer": "E"
+  },
+  {
+    "questionId": "Unimontes_Q0797",
+    "questionText": "Em um recipiente contendo um chumaço de algodão umedecido com propanona, inseriu-se um termômetro e verificou-se a variação de temperatura. Repetiu-se o mesmo procedimento com etanol e depois com água. Observou-se que houve abaixamento da temperatura nos três casos devido à vaporização das substâncias. No entanto, o abaixamento da temperatura foi maior na propanona e menor na água.",
+    "question": "A partir desse experimento, é possível concluir que a ordem crescente da pressão máxima de vapor das substâncias é",
+    "images": [],
+    "alternatives": {
+      "A": "propanona, etanol, água.",
+      "B": "água, propanona, etanol.",
+      "C": "água, etanol, propanona.",
+      "D": "propanona, água, etanol."
+    },
+    "answer": "C"
+  }
+    ]}

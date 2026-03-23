@@ -1,0 +1,225 @@
+{
+    "examTitle": "America Central",
+    "questions": [
+        {
+            "questionId": "Uepg_G1180",
+            "questionText": "(Adaptada) Sobre problemas econômicos e sociais na América latina, leia as proposições a seguir:\n\nI) O narcotráfico é um grave fator desestabilizador da estrutura econômica e social dos países latino-americanos, afetando a qualidade de vida das pessoas, aumentando a violência e a insegurança.\n\nII) As dívidas externas e internas das economias latino-americanas têm um baixo custo e, o que seria gasto no pagamento das mesmas, tem sido utilizado para melhorar o bem-estar das populações.\n\nIII) Apesar da redução da pobreza absoluta, Brasil, México e Equador não conseguiram avanços na distribuição de renda entre toda a população.\n\nIV) O desemprego é um item que não preocupa os governos dos países latino-americanos, pois os índices são os mais baixos do mundo.\n\nV) A região concentra quase toda a produção mundial de coca, a base para obtenção da cocaína, e as áreas de maior produção estão na Colômbia, Peru e Bolívia.",
+            "question": "Estão CORRETAS apenas as proposições:",
+            "images": [],
+            "alternatives": {
+              "A": "I, II e III.",
+              "B": "II, IV e V.",
+              "C": "I, III e V.",
+              "D": "III, IV e V.",
+              "E": "I, II e IV."
+            },
+            "answer": "C"
+          },
+          
+          {
+            "questionId": "Ufpr_G1176",
+            "questionText": "“No período de 2009 a 2014, a economia de Cuba apresentou baixo crescimento do PIB e do PIB per capita, além de déficit fiscal em quase todos os anos. São evidências de uma profunda crise estrutural ocasionada por deficiências internas e influências externas que limitam fortemente o desempenho da economia, o desenvolvimento e a melhora da qualidade de vida da população”\n\n(Rodríguez, 2016).",
+            "question": "Sobre Cuba, levando em consideração os dados apresentados e os conhecimentos de geografia, é correto afirmar:",
+            "images": [],
+            "alternatives": {
+              "A": "A crise mundial iniciada em 2008 estancou o processo de desenvolvimento acelerado que a economia cubana vinha alcançando desde 1992, quando o fim da URSS livrou Cuba da interferência soviética.",
+              "B": "O baixo ritmo de crescimento do PIB é compensado pelas políticas de distribuição de renda adotadas no país, que contribuem para elevar a renda média da população.",
+              "C": "A participação popular na elaboração e execução de políticas públicas é um dos fatores estruturais responsáveis pelo déficit fiscal persistente, na medida em que pressiona os gastos sociais para cima.",
+              "D": "A crise internacional de 2008, o bloqueio econômico dos EUA e as deficiências do modelo de economia planificada são fatores externos e internos que contribuem para o baixo dinamismo econômico.",
+              "E": "As altas taxas de crescimento demográfico são um fator interno que contribui para o baixo crescimento do PIB per capita."
+            },
+            "answer": "D"
+          },
+
+          {
+            "questionId": "Fatec_G1185",
+            "questionText": "“O tipo de colonização mercantilista e exploradora deixou marcas profundas nas sociedades latino-americanas. Algumas dessas marcas permanecem até hoje. Como exemplo, podemos mencionar a utilização dos melhores solos agrícolas para o cultivo de gêneros de exportação, ficando os piores para a produção dos alimentos consumidos pelos próprios habitantes. Ou ainda a concentração da população predominantemente perto do litoral e dos portos que davam acesso às metrópoles e que, hoje, dão acesso aos mercados estrangeiros.”\n\n(VESENTINI, José W. & VLACH, Vânia. Geografia crítica, 7ª série. 3ª ed. São Paulo: Ática, 2007, p. 76. Adaptado.)",
+            "question": "Outra dessas marcas sociais características da colonização de exploração nos países latino-americanos é",
+            "images": [],
+            "alternatives": {
+              "A": "a independência tecnológica dos países latino-americanos.",
+              "B": "a enorme concentração de terras em territórios e em reservas indígenas.",
+              "C": "as elevadas taxas de natalidade causadas pela seca nas regiões desérticas.",
+              "D": "a grande desigualdade social e econômica entre as várias regiões nacionais.",
+              "E": "o imperialismo norte-americano exercido sobre suas colônias latino-americanas."
+            },
+            "answer": "D"
+          },
+          
+          {
+            "questionId": "Usf_G1177",
+            "questionText": "Analise o infográfico que revela alguns dados sociais e nos remete aos treze anos de Missão de Paz da ONU no Haiti.",
+            "question": "De acordo com os dados apresentados, é correto afirmar que",
+            "images": [
+              "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/41a6d808-de09-487f-8015-9d3e4f4704eb-arquivo-editor"
+            ],
+            "alternatives": {
+              "A": "o Haiti ainda se caracteriza como um país subdesenvolvido.",
+              "B": "a missão da ONU favoreceu muito o país a ponto de torná-lo desenvolvido.",
+              "C": "o Haiti conseguiu atingir índices de alfabetização semelhantes aos do Brasil.",
+              "D": "o acesso à internet alcança índices semelhantes aos dos países do Mercosul.",
+              "E": "a Previdência Social é uma preocupação para a maioria da população do Haiti."
+            },
+            "answer": "A"
+          },
+          {
+            "questionId": "Cftrj_G1173",
+            "questionText": "Regionalizar é uma tarefa de dividir o espaço segundo diferentes critérios que são devidamente explicitados e que variam segundo as intenções explicativas de cada trabalho. As divisões não são definitivas, nem pretendem inscrever a totalidade da diversidade espacial, elas devem simplesmente contribuir para um certo entendimento de um problema, colaborar para uma dada explicação.\n\nGOMES, PC. da C. O conceito de Região e sua discussão. In: CASTRO, l. E. de; GOMES, P. C. da C.; CORRÊA, R. L. Geografia: conceitos e temas. Rio de Janeiro: Bertrand Brasil, 2000, pp. 49–76, p. 63. (Adaptado).",
+            "question": "Considerando as informações do texto, a tradicional regionalização do continente americano representada no mapa tem a intenção de diferenciar o espaço com base no seguinte critério:",
+            "images": [
+              "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/967359d9-7b0f-4071-8864-ab4d38e58ff9-arquivo-editor"
+            ],
+            "alternatives": {
+              "A": "Ocupação colonial.",
+              "B": "Origem geológica.",
+              "C": "Tipo climático.",
+              "D": "Pureza étnica."
+            },
+            "answer": "A"
+          },
+          
+          {
+            "questionId": "Unesp_G1172",
+            "questionText": "Dado que o Presidente eleito Donald Trump articulou uma visão coerente dos assuntos externos, parece que os Estados Unidos devem rejeitar a maioria das políticas do período pós-1945. Para Trump, a OTAN é um mau negócio, a corrida nuclear é algo bom, o presidente russo Vladimir Putin é um colega admirável, os grandes negócios vantajosos apenas para nós, norte-americanos, devem substituir o livre-comércio.\n\nCom seu estilo peculiar, Trump está forçando uma pergunta que, provavelmente, deveria ter sido levantada há 25 anos: os Estados Unidos devem ser uma potência global, que mantenha a ordem mundial – inclusive com o uso de armas, o que Theodore Roosevelt chamou, como todos sabem, de Big Stick?\n\nCuriosamente, a morte da União Soviética e o fim da Guerra Fria não provocaram imediatamente esse debate. Na década de 1990, manter um papel de liderança global para os Estados Unidos parecia barato – afinal, outras nações pagaram pela Guerra do Golfo Pérsico de 1991. Nesse conflito e nas sucessivas intervenções norte-americanas na antiga Iugoslávia, os custos e as perdas foram baixos. Então, no início dos anos 2000, os americanos foram compreensivelmente absorvidos pelas consequências do 11 de setembro e pelas guerras e ataques terroristas que se seguiram. Agora, para melhor ou para pior, o debate está nas nossas mãos.\n\nEliot Cohen. “Should the U.S. still carry a ‘big stick’?”. www.latimes.com, 18.01.2017. Adaptado.",
+            "question": "A chamada “política do Big Stick”, desenvolvida pelo presidente norte-americano Theodore Roosevelt, manifestou-se por meio",
+            "images": [],
+            "alternatives": {
+              "A": "do respeito ao princípio da autonomia e da independência dos povos nativos do continente americano.",
+              "B": "dos estímulos financeiros à recuperação econômica dos países latino-americanos, após a depressão econômica de 1929.",
+              "C": "das contínuas intervenções diretas e indiretas em assuntos internos dos países latino-americanos.",
+              "D": "da elevação das taxas alfandegárias na entrada de mercadorias europeias nos Estados Unidos, após a crise de 1929.",
+              "E": "da repressão às manifestações por direitos civis nos Estados Unidos da década de 1960."
+            },
+            "answer": "C"
+          },
+          {
+            "questionId": "Cp2_G1183",
+            "questionText": "Construído no início do século XX, o Canal do Panamá está sendo ampliado.",
+            "question": "Identifique a alternativa que justifica a construção e ampliação do Canal do Panamá.",
+            "images": [
+              "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/0ed487a0-2908-4516-b993-f14b0d9eb43c-arquivo-editor"
+            ],
+            "alternatives": {
+              "A": "A construção do Canal favoreceu a exploração de petróleo na Venezuela ao permitir a ligação entre os Oceanos Atlântico e Pacífico;",
+              "B": "A ligação feita pelo Canal favorece as relações econômicas entre a Europa e os Estados Unidos que financiaram a sua construção;",
+              "C": "Com o canal as embarcações evitam contornar a América do Sul para passar de um oceano para o outro, reduzindo a distância e gastos com combustível;",
+              "D": "O Canal permite a ligação entre a América do Norte e a América do Sul, estimulando as atividades comerciais entre estas duas regiões do Continente Americano."
+            },
+            "answer": "C"
+          },
+          
+          {
+            "questionId": "Ifce_G1179",
+            "questionText": "Sobre a economia latino-americana, leia atentamente os itens abaixo.\n\nI. Os países latino-americanos mais ricos são Brasil, México, Peru e Venezuela. Considerados emergentes, a economia destes países corresponde a, aproximadamente, 75% do PIB dos países da América Latina.\n\nII. Os países latino-americanos são países dependentes da exportação de commodities agrícolas e minerais. Brasil, Argentina, México e Chile se destacam também na produção e exportação de manufaturados, pois possuem uma boa base industrial.\n\nIII. Nos demais países latino-americanos, principalmente da América Central, predominam indústrias de beneficiamento de produtos primários para exportação.\n\nIV. Um dos fatores que criam sérias dificuldades ao desenvolvimento econômico e à integração social da América Latina é a relativa carência de vias de transporte em boas condições de uso.",
+            "question": "Marque a alternativa que contém os itens verdadeiros.",
+            "images": [],
+            "alternatives": {
+              "A": "Somente II, III e IV.",
+              "B": "Somente I e III.",
+              "C": "Somente I, II e IV.",
+              "D": "Somente I, III e IV.",
+              "E": "I, II, III e IV."
+            },
+            "answer": "A"
+          },
+          {
+            "questionId": "Fgv_G1181",
+            "questionText": "A construção do Grande Canal Interoceânico, na Nicarágua, ligando os oceanos Atlântico e Pacífico, promete ser a maior rede de transporte hidroviário do hemisfério ocidental e poderá desafiar o controle dos EUA sobre a região. A nova hidrovia irá se estender por 286 km contra os atuais 81,5 km do Canal do Panamá. A principal vantagem da rota é sua largura de 83 metros e a profundidade de 27,5 m, o que permitirá a navegação de embarcações de classe superpesada, com porte de até 270 mil toneladas.",
+            "question": "A construção do canal é um projeto conjunto entre Nicarágua, Rússia e",
+            "images": [],
+            "alternatives": {
+              "A": "Cuba, que idealizou e custeará todo o projeto.",
+              "B": "China, que fornecerá o maior investimento financeiro.",
+              "C": "Venezuela, que lucrará com a diminuição dos custos de exportação do petróleo.",
+              "D": "EUA, que colaborará com amplos e variados recursos tecnológicos.",
+              "E": "Alemanha, pela redução dos custos de transporte de suas exportações para os países asiáticos."
+            },
+            "answer": "B"
+          },
+          
+          {
+            "questionId": "Uepg-pss_G1175",
+            "questionText": "Sobre aspectos políticos, sociais, culturais e econômicos e físicos de Cuba, assinale com V para verdadeiro e F para falso nas proposições a seguir.\n\n1. (__) Aliado econômico dos EUA no período de Guerra Fria, Cuba sofre os efeitos do seu subdesenvolvimento nas áreas de educação e saúde principalmente.\n\n2. (__) Apesar de possuírem papel relevante na Revolução Cubana e na maior parte da história recente da geopolítica desse país, nenhum dos irmãos Castro é presidente de Cuba atualmente.\n\n3. (__) Cuba é um país continental da América Central e assim como outros países centro-americanos dessa área é banhado tanto pelo oceano Atlântico, como pelo Oceano Pacífico.\n\n4. (__) Cuba, país socialista desde a segunda metade do século XX, permanece com esse sistema econômico mesmo em dias atuais.",
+            "question": "A sequência CORRETA está indicada na alternativa:",
+            "images": [],
+            "alternatives": {
+              "A": "F, V, F, V.",
+              "B": "V, V, F, F.",
+              "C": "F, F, F, V.",
+              "D": "F, V, F, F."
+            },
+            "answer": "A"
+          },
+          {
+            "questionId": "Unicamp_G1174",
+            "questionText": "O chamado Triângulo Norte da América Central (TNAC) é uma das regiões mais violentas do planeta, equiparando-se às zonas de guerra. Grupos organizados praticam diariamente extorsão, perseguição, sequestros, assassinatos, abuso sexual, entre outros crimes. Em 2018, sob condições extremas de pobreza e violência, sem escolha, milhares de pessoas do TNAC abandonaram suas casas, deslocando-se por perigosas rotas em direção ao México e aos EUA.",
+            "question": "Considerando essa situação geográfica, indique os países que compõem a região do TNAC e a atual estratégia adotada pela população emigrante.",
+            "images": [],
+            "alternatives": {
+              "A": "Venezuela, Costa Rica, Nicarágua; pequenos grupos deslocam-se por trens para fugir da violência dos guias ilegais (coyotes).",
+              "B": "El Salvador, Honduras, Guatemala; os emigrantes deslocam-se a pé em grandes caravanas por ser mais seguro e para se beneficiarem de apoio mútuo.",
+              "C": "Cuba, Haiti, República Dominicana; pequenos grupos deslocam-se em barcos, por ser mais seguro e para diminuir os custos da travessia.",
+              "D": "Belize, Nicarágua, Guatemala; os emigrantes deslocam-se a pé em grandes caravanas para diminuir os custos com os guias ilegais (coyotes)."
+            },
+            "answer": "B"
+          },
+          
+          {
+            "questionId": "Ufba_G1184",
+            "questionText": "A América Latina parece começar a dominar — ou, pelo menos, a criar as condições para superar algumas de suas chagas históricas: pobreza, convulsões sociais, instabilidade política e baixo crescimento. Na última década, apesar da crise financeira internacional e da incerteza nos mercados do mundo rico, registrou vários anos seguidos de crescimento. O Brasil está redescobrindo a América Latina, e os sinais dessa mudança podem ser atestados de várias maneiras. Desde 2003, o comércio do país com a região quase triplicou. Visitas de empresários brasileiros em busca de oportunidades de investimentos nos países vizinhos são cada vez mais frequentes. Pode-se creditar às multinacionais brasileiras uma parte importante desse novo empuxo.",
+            "question": "Com base no texto e nos conhecimentos sobre o continente latino-americano, em seus aspectos físicos, políticos, sociais e econômicos, é INCORRETO afirmar:",
+            "images": [],
+            "alternatives": {
+              "A": "A América Latina é uma porção do continente americano que, se comparada a situação de sua população com a da América Anglo-Saxônica, revela grandes diferenças étnicas, culturais, econômicas e sociais.",
+              "B": "Os governos dos países latino-americanos, na pós-crise de 2008, aplicaram políticas para combater o período crítico, aumentaram o gasto público social, e conseguiram, de modo geral, baixar a inflação, com avanços no combate à pobreza extrema.",
+              "C": "O México, situado na América Central, tem seu território formado por imensas planícies, apresentando grande produção agrícola, industrial e amplo crescimento após sua integração ao Acordo de Livre Comércio da América.",
+              "D": "O Brasil, além de investir na produção de bens e serviços, financia obras de infraestrutura em vários países latino-americanos, possui empresas envolvidas na construção de estradas, pontes e hidrelétricas em países andinos e fábricas de cimento e aço em várias regiões, somando-se a outros investimentos que pontilham o mapa do continente.",
+              "E": "O Brasil é o país que detém a maior superfície e o maior número de fronteiras com outros países da América Latina, ocorrendo, no trecho do Arco Central — uma área de transição entre a Amazônia e o Centro Sul —, problemas relacionados com o tráfico de entorpecentes."
+            },
+            "answer": "C"
+          },
+
+          {
+            "questionId": "Espm_G1182",
+            "questionText": "O Canal do Panamá, que liga o Oceano Atlân­tico (através do Mar do Caribe) ao Oceano Pacífico, completa em 2014 cem anos. Em 1878, o francês Ferdinand de Lesseps, construtor do Canal de Suez, obteve da Co­lômbia, a quem a região pertencia naquela época, permissão para realizar a obra. Os trabalhos foram iniciados em 1880 e foram interrompidos quatro anos depois pela fa­lência da empresa construtora. O presidente dos EUA, Theodore Roosevelt, demonstrou interesse, em 1903, em termi­nar o projeto. Como o Senado colombiano se opunha ao projeto, os norte-americanos instigaram o movimento de independência do Panamá contra a Colômbia. Com a independência do Panamá, o gover­no panamenho concedeu aos EUA o direito de completar a obra e controlar a zona do canal e os lucros gerados.",
+            "question": "O Canal do Panamá atualmente funciona sob o controle:",
+            "images": [],
+            "alternatives": {
+              "A": "dos EUA;",
+              "B": "do Panamá;",
+              "C": "da Colômbia;",
+              "D": "de parceria EUA – Panamá;",
+              "E": "de parceria EUA – Panamá – Colômbia."
+            },
+            "answer": "B"
+          },
+          
+          {
+            "questionId": "Upe-ssa_G1178",
+            "questionText": "A América Central é integrada por uma área continental e outra área insular, separadas pelo mar das Antilhas ou mar do Caribe. A área continental se constitui em um grande istmo, que a une aos blocos da América do Norte e da América do Sul.",
+            "question": "Sobre os aspectos físico-geográficos e geoeconômicos dessa área, é correto afirmar que",
+            "images": [],
+            "alternatives": {
+              "A": "1 e 3, apenas.",
+              "B": "2 e 4, apenas.",
+              "C": "1, 3 e 4, apenas.",
+              "D": "2, 3 e 5, apenas.",
+              "E": "1, 2, 3, 4 e 5."
+            },
+            "answer": "A"
+          },
+          {
+            "questionId": "Enem_PPL_G1622",
+            "questionText": "A recente crise generalizada que se instalou na primeira república negra do mundo não pode ser entendida de forma pontual e simplória. É necessário compreender sua história, marcada por intervenções, regimes ditatoriais, corrupção e desastres ambientais, originando a atual realidade socioeconômica e política do Haiti.",
+            "question": "No contexto atual, os problemas enfrentados pelo Haiti resultaram em um expressivo fluxo migratório em direção ao Brasil devido ao seguinte fato:",
+            "images": [],
+            "alternatives": {
+              "A": "Melhores condições de vida.",
+              "B": "Tratamento legal diferenciado.",
+              "C": "Garantia de empregos formais.",
+              "D": "Equivalência de costumes culturais.",
+              "E": "Auxílio para qualificação profissional."
+            },
+            "answer": "A"
+          }
+    ]}

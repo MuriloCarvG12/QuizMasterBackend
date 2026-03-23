@@ -1,0 +1,614 @@
+{
+    "examTitle": "Producao Agricola E Pecuaria",
+    "questions": [
+          {
+    "questionId": "Ifba_G0793",
+    "questionText": "“Pecuária é responsável por mais de 80% do desmatamento no Brasil\n\nExpansão de pastos foi o principal fator para desmatamento na América Latina, de acordo com estudo.\n\nNo último mês, a Organização das Nações Unidas para Alimentação e Agricultura (FAO) lançou o relatório Estado das Florestas do Mundo 2016, que traz números sobre o desmatamento no Brasil e América Latina, entre outros países.\n\nSegundo o estudo, entre 1990 e 2005, 71% do desmatamento na Argentina, Colômbia, Bolívia, Paraguai, Peru, Venezuela e Brasil foi devido a demanda de pastos; 14% os cultivos comerciais, e menos de 2% infraestrutura e expansão urbana. A expansão dos pastos causou a perda de ao menos um terço das florestas em seis países analisados. Na Argentina, a expansão dos pastos foi responsável por 45% do desmatamento e a expansão de terras de cultivo comerciais respondeu por mais de 43%. No Brasil, mais de 80% do desmatamento estava ligado à conversão de terras em terrenos de pasto.”\n\nDisponível em: http://amazonia.org.br/2016/09/pecuaria-e-responsavel-por-mais-de-80-do-desmatamento-no-brasil/. Acesso em 7 ago. 2017.\n\nA leitura do trecho da reportagem revela dados importantes e também preocupantes sobre a atual situação de ameaça em que se encontram alguns dos biomas mais importantes do continente latino-americano, especialmente o bioma amazônico.\n\nSobre esse quadro alarmante e a sua relação com a expansão das atividades humanas sobre os ecossistemas na América do Sul, assinale a alternativa correta:",
+    "question": "Sobre o quadro alarmante apresentado e sua relação com a expansão das atividades humanas, assinale a alternativa correta.",
+    "images": [],
+    "alternatives": {
+      "A": "Nos últimos anos, apesar das iniciativas bem-sucedidas de organizações ambientais no combate ao desmatamento das florestas e ecossistemas tropicais, verificou-se um aumento expressivo do desmatamento causado especialmente pela expansão das cidades na América Latina.",
+      "B": "O trecho da reportagem revela uma triste tendência atual de transferência de atividades de cultivo comercial de países latino-americanos em crise, como Venezuela e Bolívia, para países que se encontram em processo de crescimento econômico mais acelerado, como o Brasil.",
+      "C": "O Brasil tornou-se um notório produtor e exportador mundial de carne bovina neste século, o que tem levantado debates tanto relacionados à questão social de acesso à terra e ameaças aos povos da floresta, quanto à questão ambiental desencadeada pelo vigoroso aumento do desflorestamento para formação de pastagens.",
+      "D": "A Amazônia, por ser um bioma que ocorre exclusivamente no território brasileiro, tornou-se prioridade nas políticas de demarcação de terras e de conservação do governo brasileiro, que restringe frequentemente as atividades agropecuárias e de mineração na região desde a década de 1980.",
+      "E": "Ainda que a reportagem citada aponte para um quadro de forte degradação socioambiental na região, percebe-se uma tendência clara de abandono da pecuária bovina, em especial no Brasil, onde escândalos recentes de corrupção levaram o governo brasileiro a proibir as exportações de carne para diversos países."
+    },
+    "answer": "C"
+  },
+  {
+    "questionId": "Espm_G0798",
+    "questionText": "A pecuária bovina brasileira notabilizou-se nos últimos anos por:",
+    "question": "A pecuária bovina brasileira notabilizou-se nos últimos anos por",
+    "images": [],
+    "alternatives": {
+      "A": "Apresentar uma queda em seu ritmo de expansão que vinha desde o período colonial, provocada pela perda de mercados internacionais.",
+      "B": "Perder o lugar para avicultura que substituiu as áreas criatórias do rebanho.",
+      "C": "Converter o Brasil num dos países com maior número de cabeça de gado comercial do mundo, tornando-se o maior exportador de carne nos últimos anos e expandir-se em direção à Amazônia.",
+      "D": "Manter-se como uma das mais importantes do mundo, no entanto, superada em número de cabeças de gado pela pecuária argentina e uruguaia no âmbito do Mercosul.",
+      "E": "Reduzir enormemente a produção e exportação de carne devido às sanções fitossanitárias implementadas no Brasil por conta da febre aftosa que atinge grande parte do rebanho nacional."
+    },
+    "answer": "C"
+  },
+  {
+    "questionId": "Enem_G0788",
+    "questionText": "TEXTO I\n\nDe modo geral, para a Região Norte, o fato contundente é a expansão dos padrões motivados pela pecuária. Hoje, as pastagens se estendem como uma frente pecuarista para o interior do Pará, com São Félix do Xingu contabilizando um dos maiores rebanhos do país.\n\nIBGE. Censo agropecuário. Rio de Janeiro: IBGE, 2006.\n\nTEXTO II\n\nAs várzeas dos rios são os principais espaços de aproveitamento para o cultivo de uma lavoura rudimentar dedicada ao consumo local, com produção de pouca extração e baixo nível tecnológico, induzindo a aquisição monetária à complementaridade através da pesca e da extração vegetal.\n\nIBGE. Censo agropecuário. Rio de Janeiro: IBGE, 2006.\n\nDe acordo com os textos, observa-se na Região Norte a coexistência de dois modelos agrários baseados, respectivamente, no(a)",
+    "question": "Na Região Norte, coexistem dois modelos agrários baseados, respectivamente, em que tipos de produção?",
+    "images": [],
+    "alternatives": {
+      "A": "mercado de exportação e na subsistência.",
+      "B": "agricultura familiar e na agroecologia.",
+      "C": "sistema de arrendamento e no agronegócio.",
+      "D": "produção orgânica e na sustentabilidade.",
+      "E": "abastecimento interno e na transumância."
+    },
+    "answer": "A"
+  },
+  {
+    "questionId": "Cps_G0796",
+    "questionText": "O Brasil é um dos maiores produtores mundiais de soja em grãos. Nas décadas de 1960 e 1970, a região Sul era a principal produtora de soja do Brasil. A partir da década de 1980, a produção de soja se expandiu para a região Centro-Oeste em função, entre outros fatores, da topografia favorável à mecanização, o que propicia maior rendimento nas operações de preparo do solo para cultivo.\n\nAtualmente, o estado brasileiro que mais produz esse grão e o país que mais importa esse produto do Brasil são, respectivamente,",
+    "question": "Atualmente, qual é o estado que mais produz soja no Brasil e o principal país importador?",
+    "images": [],
+    "alternatives": {
+      "A": "Pará e Estados Unidos.",
+      "B": "São Paulo e Austrália.",
+      "C": "Paraíba e Dinamarca.",
+      "D": "Pernambuco e Japão.",
+      "E": "Mato Grosso e China."
+    },
+    "answer": "E"
+  },
+    {
+    "questionId": "Enem_G0792",
+    "questionText": "A agricultura ecológica e a produção orgânica de alimentos estão ganhando relevância em diferentes partes do mundo. No campo brasileiro, também acontece o mesmo. Impulsionado especialmente pela expansão da demanda de alimentos saudáveis, o setor cresce a cada ano, embora permaneça relativamente marginalizado na agenda de prioridades da política agrícola praticada no país.\n\nAQUINO, J. R.; GAZOLLA, M.; SCHNEIDER, S. In: SAMBUICHI, R. H. R. et al. (Org.). A política nacional de agroecologia e produção orgânica no Brasil: uma trajetória de luta pelo desenvolvimento rural sustentável. Brasília: Ipea, 2017 (adaptado).\n\nQue tipo de intervenção do poder público no espaço rural é capaz de reduzir a marginalização produtiva apresentada no texto?",
+    "question": "Que tipo de intervenção do poder público no espaço rural é capaz de reduzir a marginalização produtiva apresentada?",
+    "images": [],
+    "alternatives": {
+      "A": "Subsidiar os cultivos de base familiar.",
+      "B": "Favorecer as práticas de fertilização química.",
+      "C": "Restringir o emprego de maquinário moderno.",
+      "D": "Controlar a expansão de sistemas de irrigação.",
+      "E": "Regulamentar o uso de sementes selecionadas."
+    },
+    "answer": "A"
+  },
+  {
+    "questionId": "Espm_G0794",
+    "questionText": "Sertão nordestino, Pampa gaúcho, Pantanal, Sul mineiro, Triângulo mineiro têm em comum serem:",
+    "question": "Sertão nordestino, Pampa gaúcho, Pantanal, Sul mineiro e Triângulo mineiro têm em comum serem",
+    "images": [],
+    "alternatives": {
+      "A": "áreas de extração do látex.",
+      "B": "tradicionais regiões criatórias de gado bovino.",
+      "C": "regiões de intensa exploração mineral metálica.",
+      "D": "regiões de intensa exploração carbonífera.",
+      "E": "notadamente regiões marcadas pela produção tritícola."
+    },
+    "answer": "B"
+  },
+  {
+    "questionId": "Uema_G0795",
+    "questionText": "De acordo com o estudo da Organização para Cooperação e Desenvolvimento Econômico (OCDE), a produção agrícola brasileira apresentava, em 2011, índices de desenvolvimento acima da média mundial. Projeções mostram que, até 2022, a produção de grãos aumentará 22%, a de carne de frango, que se baseia na produção agrícola, poderá crescer 4,2% e deve liderar o ranking. O trigo, o milho, as carnes bovina e suína também aparecem nos resultados preliminares como produtos que vão puxar esse crescimento.\n\nhttp://www.cidademarketing.com.br/. Adaptado.\n\nO aumento da produção agrícola brasileira ocorreu pela incorporação de novas áreas e tecnologias. Os dois fatores que contribuíram para que a Região Centro-Oeste se transformasse em grande produtora de grãos são o tipo de clima e de plantio, respectivamente, indicados em",
+    "question": "Os fatores que contribuíram para que a Região Centro-Oeste se transformasse em grande produtora de grãos são quais tipos de clima e de plantio?",
+    "images": [],
+    "alternatives": {
+      "A": "CLIMA – Tropical litorâneo; TIPO DE PLANTIO – Arroz",
+      "B": "CLIMA – Semiárido; TIPO DE PLANTIO – Milho",
+      "C": "CLIMA – Tropical de altitude; TIPO DE PLANTIO – Cana-de-açúcar",
+      "D": "CLIMA – Equatorial; TIPO DE PLANTIO – Café",
+      "E": "CLIMA – Tropical; TIPO DE PLANTIO – Soja"
+    },
+    "answer": "E"
+  },
+  {
+    "questionId": "Fuvest_G0789",
+    "questionText": "Sobre a produção agrícola brasileira e os dados apresentados nos cartogramas, é correto afirmar:",
+    "question": "Sobre a produção agrícola brasileira e os dados apresentados nos cartogramas, é correto afirmar que",
+    "images": [
+      "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/ca5f3432-4b20-4dc9-9c93-a005d79bae28-arquivo-editor",
+      "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/ae65e777-e5af-4b6c-a967-6410df039fd0-arquivo-editor"
+    ],
+    "alternatives": {
+      "A": "A agricultura familiar, que utiliza a maior extensão de terras agricultáveis do país, foi responsável pela produção da maior parte do volume agrícola exportado.",
+      "B": "A agricultura familiar, que utiliza uma extensão de terras menor que a agricultura não familiar, tem destaque na produção de alimentos para o mercado interno.",
+      "C": "A agricultura não familiar, que detém a maior extensão de terras agricultáveis do país, consiste em uma barreira ao desenvolvimento das atividades ligadas ao agronegócio.",
+      "D": "A agricultura não familiar, que apresenta o maior número de estabelecimentos rurais no país, é responsável pela produção de parte das chamadas commodities brasileiras.",
+      "E": "A concentração fundiária foi superada no país em função de a agricultura familiar ocupar, com seus estabelecimentos, a maior parte das terras."
+    },
+    "answer": "B"
+  },
+   {
+    "questionId": "Ifsc_G0805",
+    "questionText": "Dados disponível em: http://ruralcentro.uol.com.br/analises. Acesso: 13 set. 2013.\n\nCom base nos dados do quadro, a macrorregião geográfica do IBGE que concentra mais de 35% de abates de bovino por cabeça, no ano de 2012, é a Região:",
+    "question": "A macrorregião geográfica do IBGE que concentra mais de 35% de abates de bovino por cabeça, em 2012, é",
+    "images": [
+      "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/d08c2801-23a6-4d55-8c9d-54ff569aa34b-arquivo-editor"
+    ],
+    "alternatives": {
+      "A": "Nordeste.",
+      "B": "Sudeste.",
+      "C": "Norte.",
+      "D": "Sul.",
+      "E": "Centro-Oeste."
+    },
+    "answer": "E"
+  },
+  {
+    "questionId": "Ufg_G0810",
+    "questionText": "O Brasil é um dos maiores exportadores de commodities do mundo. O termo commodities está associado a produtos primários com baixo valor agregado, sejam eles minerais, sejam agrícolas. São produzidos em larga escala, negociados prioritariamente no mercado internacional e têm os seus valores estabelecidos em bolsas de mercadorias que definem seus preços futuros. São exemplos de commodities agrícolas:",
+    "question": "São exemplos de commodities agrícolas",
+    "images": [],
+    "alternatives": {
+      "A": "trigo, feijão, batata, cacau e café.",
+      "B": "açúcar, soja, milho, algodão e café.",
+      "C": "soja, arroz, trigo, feijão e banana.",
+      "D": "milho, mandioca, cacau, açúcar e arroz.",
+      "E": "café, algodão, feijão, banana e arroz."
+    },
+    "answer": "B"
+  },
+  {
+    "questionId": "Uece_G0790",
+    "questionText": "No grande setor agropecuário, alimentar e energético do Brasil, podem ser identificados diversos ramos e produtos específicos, cada um apresentando sua configuração regional e conformando seu próprio circuito espacial produtivo. Com base nesse tema, relacione corretamente os produtos apresentados a seguir com suas respectivas distribuições geográficas, numerando a Coluna II de acordo com a Coluna I.\n\nA sequência correta, de cima para baixo, é:",
+    "question": "A sequência correta de associação entre produtos e distribuições geográficas é",
+    "images": [
+      "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/80fcb028-63c3-4ccc-b0f5-6266f2d95d09-arquivo-editor"
+    ],
+    "alternatives": {
+      "A": "4, 1, 2, 3.",
+      "B": "2, 3, 4, 1.",
+      "C": "1, 4, 2, 3.",
+      "D": "4, 1, 3, 2."
+    },
+    "answer": "A"
+  },
+  {
+    "questionId": "Udesc_G0801",
+    "questionText": "O setor agropecuário é responsável por grande parte do PIB brasileiro, comportando a produção para o consumo interno e para a exportação. Numere a coluna, relacionando o cultivo descrito a sua característica.\n\nA sequência correta é, de cima para baixo.",
+    "question": "A sequência correta que relaciona os cultivos às suas características é",
+    "images": [
+      "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/8d9ab578-4f9c-4e5a-bc59-8191ffb105cb-arquivo-editor"
+    ],
+    "alternatives": {
+      "A": "1 - 2 - 4 - 5 - 3",
+      "B": "4 - 3 - 1 - 5 - 2",
+      "C": "2 - 3 - 4 - 1 - 5",
+      "D": "3 - 4 - 2 - 1 - 5",
+      "E": "5 - 3 - 2 - 1 - 4"
+    },
+    "answer": "C"
+  },
+    {
+    "questionId": "Espm_G0802",
+    "questionText": "O mapa a seguir menciona os dois maiores produtores brasileiros de:",
+    "question": "O mapa apresentado menciona os dois maiores produtores brasileiros de",
+    "images": [
+      "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/ec9f4ee6-ea37-42a5-9eeb-0b4428edc401-arquivo-editor"
+    ],
+    "alternatives": {
+      "A": "Café.",
+      "B": "Ferro.",
+      "C": "Aço.",
+      "D": "Cana-de-açúcar.",
+      "E": "Carne."
+    },
+    "answer": "A"
+  },
+  {
+    "questionId": "Enem_G0786",
+    "questionText": "Observe a imagem a seguir.\n\nA dinâmica produtiva apresentada na imagem tem como estratégia central:",
+    "question": "A dinâmica produtiva apresentada na imagem tem como estratégia central",
+    "images": [
+      "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/93144bef-def5-4a7c-86b7-1bb8862e79fa-arquivo-editor"
+    ],
+    "alternatives": {
+      "A": "separação pelo tipo de solo.",
+      "B": "exportação da colheita sazonal.",
+      "C": "priorização da tecnologia moderna.",
+      "D": "adequação pelo tempo da natureza.",
+      "E": "intensificação da atividade pecuária."
+    },
+    "answer": "D"
+  },
+  {
+    "questionId": "Ufrgs_G0809",
+    "questionText": "Observe o quadro abaixo.\n\nCom base nos dados do quadro, considere as seguintes afirmações sobre a produção leiteira no Brasil.\n\nI. A produção leiteira foi maior no período de 2000 a 2011.\nII. A produtividade do leite pouco cresceu, visto que acompanhou apenas o crescimento proporcional da produção de leite.\nIII. O rebanho bovino leiteiro cresceu no período de 1975 a 2011, conforme demonstram a produção e a produtividade de leite.\n\nQuais estão corretas?",
+    "question": "Sobre a produção leiteira no Brasil, quais afirmações estão corretas",
+    "images": [
+      "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/5cc8e213-ca9a-4a1b-847b-ac40a16490d6-arquivo-editor"
+    ],
+    "alternatives": {
+      "A": "Apenas I.",
+      "B": "Apenas III.",
+      "C": "Apenas I e III.",
+      "D": "Apenas II e III.",
+      "E": "I, II e III."
+    },
+    "answer": "C"
+  },
+  {
+    "questionId": "Cps_G0785",
+    "questionText": "“No Brasil, o Vale do rio São Francisco é o único lugar que produz uva até três vezes ao ano.\n\nAs parreiras são divididas em grandes áreas. Enquanto em uma parte elas estão prontas para a colheita, na outra a fase é de poda e, logo ao lado, as uvas ainda estão começando a aparecer. Esse não é o milagre da multiplicação. É o milagre da irrigação. Controlando a água, é possível controlar todo o ciclo de vida da parreira.”",
+    "question": "A localização geográfica do cenário descrito no texto situa-se em qual região do Brasil",
+    "images": [],
+    "alternatives": {
+      "A": "Sul do Brasil e sofre a influência do clima semiárido.",
+      "B": "Sul do Brasil e sofre a influência do clima subtropical.",
+      "C": "Nordeste do Brasil e sofre a influência do clima semiárido.",
+      "D": "Nordeste do Brasil e sofre a influência do clima subtropical.",
+      "E": "Centro-Oeste do Brasil e sofre a influência do clima tropical de altitude."
+    },
+    "answer": "C"
+  },
+    {
+    "questionId": "Uece_G0797",
+    "questionText": "O café brasileiro representa uma das mais importantes commodities do País. No Brasil, a área plantada é superior a 2 milhões de hectares, destacando-se como as principais regiões produtoras",
+    "question": "Quais são as principais regiões produtoras de café no Brasil",
+    "images": [],
+    "alternatives": {
+      "A": "os estados de São Paulo, Minas Gerais, Bahia, Paraná, Espírito Santo e Rondônia.",
+      "B": "a zona da mata pernambucana, São Paulo, Acre, Goiás e o litoral Sul fluminense.",
+      "C": "Sergipe, Alagoas, Bahia, Minas Gerais e São Paulo.",
+      "D": "São Paulo, Minas Gerais, Rio de Janeiro, Tocantins e Maranhão."
+    },
+    "answer": "A"
+  },
+  {
+    "questionId": "Unesp_G0799",
+    "questionText": "Se, até a década de 1980, o conjunto da agropecuária nordestina permaneceu quase inalterado, a partir de então se vislumbra a ocupação de novas fronteiras pelo agronegócio globalizado, tomando alguns lugares específicos dessa região, que passam a receber vultosos investimentos de algumas importantes empresas do setor, difundindo-se a agricultura científica e o agronegócio. Existe hoje no Nordeste, assim como de resto em todo o país, uma dicotomia entre uma agricultura tradicional e uma agricultura científica, apresentando-se esta em algumas partes bem delimitadas do território nordestino, constituindo verdadeiros pontos luminosos.",
+    "question": "Qual é um exemplo de espaço nordestino luminoso incorporado aos circuitos produtivos globalizados do agronegócio",
+    "images": [],
+    "alternatives": {
+      "A": "soja, na Zona da Mata.",
+      "B": "mandioca, na Chapada Diamantina.",
+      "C": "cacau, no Agreste.",
+      "D": "cana-de-açúcar, no Sertão.",
+      "E": "frutas, no vale do São Francisco."
+    },
+    "answer": "E"
+  },
+  {
+    "questionId": "Espm_G0807",
+    "questionText": "A alternativa que encerra corretamente o tipo climático e o respectivo gênero agrícola cultivado em larga escala atualmente é:",
+    "question": "Qual alternativa associa corretamente o tipo climático ao gênero agrícola cultivado em larga escala",
+    "images": [
+      "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/4c0efa26-bf2a-481d-96f2-fc746de19485-arquivo-editor"
+    ],
+    "alternatives": {
+      "A": "2 Tropical típico, Trigo",
+      "B": "3 Árido, Cacau",
+      "C": "4 Tropical úmido, Soja",
+      "D": "5 Subtropical, Fruticultura de irrigação",
+      "E": "6 Tropical de altitude, Café"
+    },
+    "answer": "E"
+  },
+  {
+    "questionId": "Ufrgs_G0804",
+    "questionText": "Observe a charge abaixo.\n\nA crítica referida na charge deve-se",
+    "question": "A crítica apresentada na charge refere-se a que processo",
+    "images": [
+      "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/8d1c6701-2711-4b24-aa62-def8a680214a-arquivo-editor"
+    ],
+    "alternatives": {
+      "A": "à ampliação da atividade pastoril no Norte do Brasil e à silvicultura de eucalipto no Sul, que acarreta a degradação dos biomas.",
+      "B": "às queimadas no Noroeste do país e à recuperação da vegetação original para uso farmacêutico.",
+      "C": "à biopirataria e ao plantio de pínus nas áreas desmatadas para utilização comercial.",
+      "D": "ao agronegócio que se expande no Norte e ao reflorestamento de áreas de Mata Atlântica para uso na indústria de cosméticos.",
+      "E": "à expansão do cultivo de grãos no Norte do país e ao reflorestamento com araucária nas áreas de campo no Sul para uso na indústria moveleira."
+    },
+    "answer": "A"
+  },
+    {
+    "questionId": "Unesp_G0791",
+    "questionText": "Esse produto percorreu ampla região, desde o Morro da Tijuca, no Rio de Janeiro, no primeiro quartel do século XIX, até o norte do Paraná, onde praticamente cessou sua marcha na década de 1970. Nesse período, seu percurso deixou marcas significativas na paisagem: vasta rede urbana e densa malha ferroviária, solos empobrecidos pela erosão, florestas dizimadas e extensivas pastagens, quase sempre de baixa produtividade.\n\n(Jurandyr L. S. Ross. Ecogeografia do Brasil, 2009. Adaptado.)\n\nO excerto refere-se à produção do espaço brasileiro relacionada ao ciclo econômico",
+    "question": "O excerto refere-se à produção do espaço brasileiro relacionada a qual ciclo econômico",
+    "images": [],
+    "alternatives": {
+      "A": "da borracha.",
+      "B": "da cana-de-açúcar.",
+      "C": "do café.",
+      "D": "do ouro.",
+      "E": "do algodão."
+    },
+    "answer": "C"
+  },
+  {
+    "questionId": "Unicamp_G0783",
+    "questionText": "Os mapas anteriores apresentam três culturas temporárias de extrema importância para os mercados interno e externo. Com base na sua espacialização, podemos afirmar que os mapas 1, 2, e 3 representam, respectivamente, as culturas de",
+    "question": "Quais culturas temporárias são representadas, respectivamente, nos mapas 1, 2 e 3",
+    "images": [
+      "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/fd87c816-0fe7-4fae-9aa1-c3e3423c1bf7-arquivo-editor",
+      "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/5158c322-929a-41e3-8582-5fa88d25f6d1-arquivo-editor",
+      "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/90b5e12f-4084-4f66-948d-20e775101ef1-arquivo-editor"
+    ],
+    "alternatives": {
+      "A": "mandioca, trigo e laranja.",
+      "B": "trigo, laranja e mandioca.",
+      "C": "laranja, mandioca e trigo.",
+      "D": "mandioca, laranja, trigo.",
+      "E": ""
+    },
+    "answer": "A"
+  },
+  {
+    "questionId": "Unicamp_G0784",
+    "questionText": "A produção agrícola nacional, para os mercados interno e externo, aparece como ponto fundamental para o Produto Interno Bruto nacional. Sobre as culturas de cana-de-açúcar e manga é correto afirmar:",
+    "question": "Sobre as culturas de cana-de-açúcar e manga, qual afirmativa está correta",
+    "images": [
+      "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/2d1b2f20-6dad-483e-a2c0-685e2a9381cc-arquivo-editor",
+      "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/0d5455f6-c7bd-48c0-8d27-6283c178c4b5-arquivo-editor"
+    ],
+    "alternatives": {
+      "A": "Pouco concentrada espacialmente, a cana-de-açúcar é uma cultura permanente voltada para exportação.",
+      "B": "A manga é uma cultura permanente, que tem importante produção nas áreas irrigadas no Nordeste.",
+      "C": "A cana-de-açúcar é uma cultura temporária no litoral nordestino e permanente na região Sudeste.",
+      "D": "Inteiramente voltada para o mercado interno, a cultura da manga é uma cultura temporária na região Sudeste.",
+      "E": ""
+    },
+    "answer": "B"
+  },
+  {
+    "questionId": "Fmp_G0787",
+    "questionText": "Considere o texto sobre a cultura agrícola do algodão no Brasil.\n\nCom o otimismo de uma safra de algodão, com aumento de área, bom desenvolvimento das plantações, além da expectativa de crescimento nas exportações de pluma, cotonicultores dos maiores estados produtores da cultura, têm um encontro marcado. Junto com empresários rurais precursores do algodão brasileiro e especialistas na cultura, os participantes terão a oportunidade de debater as melhores estratégias para a viabilização do algodão. De acordo com o nono levantamento da Conab (Companhia Nacional de Abastecimento), o desenvolvimento das lavouras de algodão continua muito bom, com destaque para os maiores estados produtores da cultura. Em alguns desses estados, a comercialização já se encontra em torno de 85% da produção, e a colheita já teve início nas lavouras de sequeiro. Além da expectativa de um novo recorde na produção nacional, de 2,015 milhões de toneladas de algodão em pluma, o Brasil também poderá alcançar uma nova posição na exportação mundial, superando Austrália e atrás apenas dos Estados Unidos e da Índia.\n\nDisponível em: <https://www.grupocultivar.com.br/noticias/em-meio-a-crescente-safra-de-algodao-cotonicultores-debatem-a-cultura-no-centro-oeste>. Acesso em: 12 jul. 2019. Adaptado.\n\nDentre os maiores produtores de algodão no Brasil, destaca-se o seguinte estado:",
+    "question": "Dentre os maiores produtores de algodão no Brasil, qual estado se destaca",
+    "images": [],
+    "alternatives": {
+      "A": "Bahia",
+      "B": "Santa Catarina",
+      "C": "Rio Grande do Sul",
+      "D": "Paraná",
+      "E": "Rio de Janeiro"
+    },
+    "answer": "A"
+  },
+    {
+    "questionId": "Enem_G1488",
+    "questionText": "Atualmente, o Programa de Melhoramento “Uvas do Brasil” utiliza métodos clássicos de melhoramento, como seleção massal, seleção clonal e hibridações. Ações de ajuste de manejo de seleções avançadas vêm sendo desenvolvidas paralelamente ao Programa de Melhoramento, no sentido de viabilização desses materiais. Ao longo dos seus 40 anos, uma grande equipe técnica trabalhou para executar projetos de pesquisa para atender às necessidades e às demandas de diferentes atores da vitivinicultura nacional, incluindo produtores de uvas de mesa para exportação do semiárido nordestino, viticultores interessados em produzir sucos em regiões tropicais ou pequenos produtores familiares da região da Serra Gaúcha, interessados em melhorar a qualidade do vinho artesanal que produzem.\n\nPrograma de Melhoramento Genético “uvas do Brasil”. Disponível em: www.embrapa.br. Acesso em: 24 nov. 2018 (adaptado).\n\nPara melhorar a produção agrícola nas regiões mencionadas, as técnicas referidas no texto buscaram adaptar o cultivo aos(às)",
+    "question": "Para melhorar a produção agrícola nas regiões mencionadas, as técnicas buscaram adaptar o cultivo a que fatores",
+    "images": [],
+    "alternatives": {
+      "A": "espécies nativas ameaçadas.",
+      "B": "cadeias econômicas autônomas.",
+      "C": "estruturas fundiárias tradicionais.",
+      "D": "elementos ambientais singulares.",
+      "E": "mercados consumidores internos."
+    },
+    "answer": "D"
+  },
+  {
+    "questionId": "Fuvest_G0806",
+    "questionText": "Considere as anamorfoses:\n\nAs condições da produção agrícola, no Brasil, são bastante heterogêneas, porém alguns aspectos estão presentes em todas as regiões do País.\n\nNas anamorfoses acima, estão representadas formas de produção agrícola das diferentes regiões administrativas. Assinale a alternativa que contém, respectivamente, a produção agrícola representada em I e em II.",
+    "question": "Quais formas de produção agrícola estão representadas, respectivamente, em I e em II",
+    "images": [
+      "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/64e43b03-fc51-4764-bfcf-a97149c5e557-arquivo-editor"
+    ],
+    "alternatives": {
+      "A": "De subsistência e patronal.",
+      "B": "Familiar e itinerante.",
+      "C": "Patronal e familiar.",
+      "D": "Familiar e de subsistência.",
+      "E": "Itinerante e patronal."
+    },
+    "answer": "C"
+  },
+  {
+    "questionId": "Fuvest_G0803",
+    "questionText": "Considere os mapas sobre a produção de leite no Brasil.\n\nCom base nos mapas e em seus conhecimentos, é correto afirmar que a produção de leite no Brasil, no período retratado,",
+    "question": "Sobre a produção de leite no Brasil no período retratado, qual alternativa está correta",
+    "images": [
+      "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/d43c5445-66ed-4b6c-8a7b-e5533e1048c1-arquivo-editor"
+    ],
+    "alternatives": {
+      "A": "cresceu na região Nordeste, devido à substituição das plantações de algodão, na Zona da Mata, pelos rebanhos leiteiros.",
+      "B": "avançou em direção aos estados do Norte e do Centro-Oeste, em função da predominância, nessas regiões, de climas mais secos.",
+      "C": "consolidou a hegemonia de Minas Gerais, graças à alta produtividade alcançada com o melhoramento genético dos rebanhos no Vale do Jequitinhonha.",
+      "D": "aumentou, tanto em quantidade produzida quanto em número de estados produtores, graças, em grande parte, ao crescimento do consumo interno.",
+      "E": "abarcou todo o território nacional, excetuando-se os estados recobertos pela floresta amazônica, devido à presença de unidades de conservação."
+    },
+    "answer": "D"
+  },
+  {
+    "questionId": "Ufrgs_G0800",
+    "questionText": "Assinale a alternativa que indica a correta relação entre a região brasileira, a atividade econômica existente, o uso de tecnologia e o relevo em que se desenvolve.",
+    "question": "Qual alternativa indica corretamente a relação entre região brasileira, atividade econômica, uso de tecnologia e relevo",
+    "images": [],
+    "alternatives": {
+      "A": "Região Sul - pecuária - melhoria genética - chapadões",
+      "B": "Região Centro-Oeste agricultura comercial - irrigação - chapadões",
+      "C": "Região Nordeste - pecuária extensiva - melhoria genética - planície costeira",
+      "D": "Região Centro-Oeste - agricultura de subsistência - sementes modificadas - serras",
+      "E": "Região Sul - agricultura comercial - terraceamento - planície costeira"
+    },
+    "answer": "B"
+  },
+   {
+    "questionId": "Ifsp_G0808",
+    "questionText": "Como ocorreu na região Centro-Oeste, há um produto agrícola provocando uma verdadeira transformação econômica nos cerrados nordestinos, principalmente nos estados da Bahia, do Piauí e do Maranhão, conforme se pode observar nas áreas destacadas do mapa.\n\nO produto referido no texto e cultivado nas áreas destacadas do mapa é",
+    "question": "Qual produto agrícola tem provocado transformação econômica nos cerrados nordestinos",
+    "images": [
+      "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/2ffc1357-1b42-4cbd-b00c-50090920a59e-arquivo-editor"
+    ],
+    "alternatives": {
+      "A": "a cana-de-açúcar.",
+      "B": "a soja.",
+      "C": "o arroz.",
+      "D": "a laranja.",
+      "E": "o cacau."
+    },
+    "answer": "B"
+  },
+  {
+    "questionId": "EnemPPL_G1554",
+    "questionText": "Há quinze anos, a média de cana cortada era de seis toneladas por trabalhador por dia. Hoje, os trabalhadores cortam dez toneladas. Intensificou-se o ritmo da jornada de trabalho para que o trabalhador seja competitivo. A referência dele passou a ser a máquina. As usinas, para terem um trabalhador com esse perfil, não podem tratar-lhes como os migrantes de antigamente. Ele precisa de uma comida especial. Então, melhorou o padrão de alimentação. Precisa de descanso especial, por isso os alojamentos foram melhorados.\n\nO paradoxo no mundo do trabalho. Disponível em: http://amaivos.uol.com.br. Acesso em: 19 maio 2013 (adaptado).\n\nNa perspectiva apresentada no texto, as melhorias das condições de vida do trabalhador são explicadas pelo(a)",
+    "question": "Segundo o texto, por que ocorreram melhorias nas condições de vida do trabalhador",
+    "images": [],
+    "alternatives": {
+      "A": "distribuição equitativa de terras.",
+      "B": "incremento da oferta de emprego.",
+      "C": "demanda de elevada qualificação.",
+      "D": "exigência crescente de produtividade.",
+      "E": "aperfeiçoamento do marco normativo."
+    },
+    "answer": "D"
+  },
+  {
+    "questionId": "EnemPPL_G1549",
+    "questionText": "A dinâmica espacial expressa no mapa foi viabilizada pela",
+    "question": "Qual fator viabilizou a dinâmica espacial expressa no mapa",
+    "images": [
+      "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/c54aba1f-7746-4aeb-9891-028fce16a220-arquivo-editor"
+    ],
+    "alternatives": {
+      "A": "fragmentação da rede urbana.",
+      "B": "mecanização do setor primário.",
+      "C": "criação de reservas ecológicas.",
+      "D": "estagnação do mercado interno.",
+      "E": "concentração da produção fabril."
+    },
+    "answer": "B"
+  },
+  {
+    "questionId": "EnemPPL_G1575",
+    "questionText": "Em regiões antes consideradas periféricas, a exemplo do Centro-Oeste, sob o impulso da técnica, há condições para atividades com alto nível de capital, tecnologia e organização, dando lugar a fenômenos de descentralização seletiva. Ainda que as atividades de comando tendam a se manter concentradas, a rede de atividades produtivas mais modernas tende a se expandir territorialmente.\n\nBERNARDES, J. A. As estratégias do capital no complexo da soja. In: CASTRO, I. E.; GOMES, P. C. C.; CORREA, R. L. (Org.). Brasil: questões atuais da reorganização do território. Rio de Janeiro: Bertrand Brasil, 2008 (adaptado).\n\nO processo característico do espaço rural responsável pela forma descrita de ocupação produtiva do Centro-Oeste brasileiro foi o(a)",
+    "question": "Qual processo do espaço rural explica a ocupação produtiva descrita do Centro-Oeste",
+    "images": [],
+    "alternatives": {
+      "A": "difusão de sistemas extensivos.",
+      "B": "propagação do cultivo itinerante.",
+      "C": "introdução de práticas ecológicas.",
+      "D": "fortalecimento do trabalho familiar.",
+      "E": "desenvolvimento do setor agroindustrial."
+    },
+    "answer": "E"
+  },
+    {
+    "questionId": "EnemPPL_G1576",
+    "questionText": "A partir da década de 1990, parte significativa da agricultura brasileira sofreu grandes transformações com a adoção de novas tecnologias de informação, menor intervenção estatal e maior regulação das empresas mundiais de insumos e comércio agrícola. Trata-se da emergência de uma agricultura científica e globalizada.\n\nFEDERICO, S. Agricultura científica globalizada e fronteira agrícola no mundo moderno. Disponível em: www.confins.revues.org. Acesso em: 11 fev. 2015 (adaptado).\n\nNo campo brasileiro, as transformações descritas no texto tiveram como efeito o(a)",
+    "question": "Qual foi um efeito das transformações da agricultura científica e globalizada no campo brasileiro",
+    "images": [],
+    "alternatives": {
+      "A": "primazia do cultivo orgânico.",
+      "B": "superação do modelo exportador.",
+      "C": "valorização de saberes tradicionais.",
+      "D": "abrandamento dos conflitos violentos.",
+      "E": "fortalecimento de atividades monocultoras."
+    },
+    "answer": "E"
+  },
+  {
+    "questionId": "EnemPPL_G1581",
+    "questionText": "A agropecuária é uma das atividades humanas que causam maior impacto sobre o ambiente natural, alterando o equilíbrio ecológico e diminuindo a biodiversidade nos biomas. Dos seis biomas encontrados em território nacional, o que mais sofre pressão dessa atividade é o Pampa, que tem 71% da sua área ocupada com estabelecimentos agropecuários.\n\nDisponível em: http://saladeimprensa.ibge.gov.br. Acesso em: 7 nov. 2014.\n\nUm impacto ambiental que vem se processando no Sul do Brasil em função dos excessos praticados pela atividade econômica descrita é a",
+    "question": "Qual impacto ambiental ocorre no Sul do Brasil em função da agropecuária no bioma Pampa",
+    "images": [],
+    "alternatives": {
+      "A": "uniformização da cobertura vegetal.",
+      "B": "arenização dos solos regionais.",
+      "C": "alteração da incidência solar.",
+      "D": "eutrofização dos cursos de água.",
+      "E": "ampliação das queimadas controladas."
+    },
+    "answer": "B"
+  },
+  {
+    "questionId": "EnemPPL_G1584",
+    "questionText": "A soja é a cultura agrícola brasileira que mais cresceu nas últimas três décadas e corresponde a 49% da área plantada em grãos do país. O aumento da produtividade está associado aos avanços tecnológicos, ao manejo e à eficiência dos produtores. O grão é componente essencial na fabricação de rações animais e, com uso crescente na alimentação humana, encontra-se em franco crescimento.\n\nDisponível em: www.agricultura.gov.br. Acesso em: 2 ago. 2012.\n\nUma causa para o crescimento, no Brasil, da produção agrícola especificada no texto é o(a)",
+    "question": "Qual fator explica o crescimento da produção de soja no Brasil",
+    "images": [],
+    "alternatives": {
+      "A": "ampliação da qualidade de vida no campo.",
+      "B": "priorização do crédito ao pequeno produtor.",
+      "C": "aumento do emprego de mão de obra informal.",
+      "D": "aplicação de leis que viabilizam a distribuição de terras.",
+      "E": "desenvolvimento de métodos que incrementam o cultivo."
+    },
+    "answer": "E"
+  },
+  {
+    "questionId": "EnemPPL_G1632",
+    "questionText": "A segurança alimentar perseguida por cada agrupamento humano ao longo da história passa a depender atualmente de algumas poucas corporações multinacionais que passam a deter uma posição privilegiada nas novas relações sociais e de poder. Essa concentração de dependência no ano de 2001 se aplica a cada um dos quatro principais grãos — trigo, arroz, milho e soja —, de forma que cerca de 90% da alimentação da população mundial procede de apenas 15 espécies de plantas e de 8 espécies de animais.\n\nPORTO-GONÇALVES, C. W. Geografia da riqueza, fome e meio ambiente. In: OLIVEIRA, A. U.; MARQUES, M. I. M. (Org.). O campo no século XXI: território de vida, de luta e de construção da justiça social. São Paulo: Casa Amarela; Paz e Terra, 2004 (adaptado).\n\nUma medida de segurança alimentar que contesta o modelo descrito é o(a)",
+    "question": "Qual medida de segurança alimentar contesta o modelo de concentração produtiva descrito",
+    "images": [],
+    "alternatives": {
+      "A": "estímulo à mecanização rural.",
+      "B": "ampliação de áreas de plantio.",
+      "C": "incentivo à produção orgânica.",
+      "D": "manutenção da estrutura fundiária.",
+      "E": "formalização do trabalhador do campo."
+    },
+    "answer": "C"
+  },
+  {
+    "questionId": "EnemPPL_G1635",
+    "questionText": "A expansão da fronteira agrícola chega ao semiárido do Nordeste do Brasil com a implantação de empresas transnacionais e nacionais que, beneficiando-se do fácil acesso à terra e água, se voltam especialmente para a fruticultura irrigada e o cultivo de camarões. O modelo de produção do agro-hidronegócio caracteriza-se pelo cultivo em extensas áreas, antecedido pelo desmatamento e consequente comprometimento da biodiversidade.\n\nDisponível em: www.abrasco.org.br. Acesso em: 22 out. 2015 (adaptado).\n\nAs atividades econômicas citadas no texto representam uma inovação técnica que trouxe como consequência para a região a",
+    "question": "Qual consequência regional decorre da expansão do agro-hidronegócio no semiárido nordestino",
+    "images": [],
+    "alternatives": {
+      "A": "intensificação da participação no mercado global.",
+      "B": "ampliação do processo de redistribuição fundiária.",
+      "C": "valorização da diversidade biológica.",
+      "D": "implementação do cultivo orgânico.",
+      "E": "expansão da agricultura familiar."
+    },
+    "answer": "A"
+  },
+    {
+    "questionId": "EnemPPL_G1638",
+    "questionText": "Empreende-se um programa de investimentos em infraestrutura para oferecer as condições materiais necessárias ao processo de transformação do território nacional em um espaço da economia global. Nessa configuração territorial, destacam-se hoje pontos de concentração de tecnologias de ponta. É o caso da chamada agricultura de precisão. Nos pomares paulistas, começou a ser utilizada uma máquina, de origem norte-americana, capaz de colher cem pés de laranja por hora, sob o controle de computadores.\n\nSANTOS, M.; SILVEIRA, M. L. O Brasil: território e sociedade no início do séc. XXI. Rio de Janeiro: Record, 2001.",
+    "question": "Qual a consequência socioambiental, no Brasil, da implementação da tecnologia exemplificada no texto",
+    "images": [],
+    "alternatives": {
+      "A": "A diminuição do uso intensivo do solo.",
+      "B": "O rebaixamento do nível dos aquíferos locais.",
+      "C": "A desestimulação do modelo orgânico de cultivo.",
+      "D": "A redução da competitividade do pequeno produtor.",
+      "E": "O enfraquecimento da atividade policultora de exportação."
+    },
+    "answer": "D"
+  },
+  {
+    "questionId": "EnemPPL_G1687",
+    "questionText": "GIRARDI, E. P. Atlas da questão agrária brasileira. Disponível em: www.fct.unesp.br. Acesso em: 7 ago. 2012 (adaptado).\n\nA formação do território da soja no Brasil refletiu a seguinte característica espacial:",
+    "question": "Qual característica espacial marcou a formação do território da soja no Brasil",
+    "images": [
+      "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/788ee55f-b509-4584-a592-200265ecbf62-arquivo-editor"
+    ],
+    "alternatives": {
+      "A": "Inclusão de regiões com elevadas concentrações populacionais.",
+      "B": "Incorporação de espaços com baixa fertilidade natural dos solos.",
+      "C": "Integração com espaços de consolidação de reservas extrativistas.",
+      "D": "Necessidade de proximidade física com os principais portos do país.",
+      "E": "Reutilização de áreas produtivas decadentes da tradicional cultura canavieira."
+    },
+    "answer": "B"
+  },
+  {
+    "questionId": "EnemPPL_G1624",
+    "questionText": "A manutenção da produtividade de grãos por hectare tem sido obtida, entre outros, graças ao aumento do uso de fertilizantes. Contudo, a incapacidade de regeneração do solo no longo prazo mostra que, mesmo aumentando o uso de fertilizantes, não é possível alcançar a mesma produtividade por hectare.\n\nPORTO-GONÇALVES, C. W. A globalização da natureza e a natureza da globalização. Rio de Janeiro: Civilização Brasileira, 2006 (adaptado).\n\nNo contexto descrito, uma estratégia que tem sido utilizada para a manutenção dos níveis de produtividade é o(a)",
+    "question": "Qual estratégia tem sido utilizada para manter os níveis de produtividade agrícola",
+    "images": [],
+    "alternatives": {
+      "A": "elevação do valor final do produto.",
+      "B": "adoção de políticas de subvenção.",
+      "C": "ampliação do modelo monocultor.",
+      "D": "investimento no uso da biotecnologia.",
+      "E": "crescimento da mão de obra empregada."
+    },
+    "answer": "D"
+  },
+  {
+    "questionId": "Fuvest_G1709",
+    "questionText": "Observe o mapa da expansão da cafeicultura nos estados de São Paulo e Rio de Janeiro nos séculos XIX e XX.\n\nSobre o papel da cafeicultura na dinâmica territorial dessas áreas, é correto afirmar:",
+    "question": "Qual foi o papel da cafeicultura na dinâmica territorial de São Paulo e Rio de Janeiro nos séculos XIX e XX",
+    "images": [
+      "https://api-assets-production.s3.dualstack.us-east-1.amazonaws.com/editor/2660619f-eccf-4ff4-923d-a85dcba121c6-arquivo-editor"
+    ],
+    "alternatives": {
+      "A": "Iniciada no Vale do Paraíba do Sul, entre São Paulo e Rio de Janeiro, na década de 1830, a cafeicultura teve pouco êxito nessa região pelas dificuldades de cultivo, em função do clima frio e da escassez de trabalho escravizado.",
+      "B": "A expansão da produção cafeeira no estado de São Paulo se deu em direção à zona oriental do estado, na década de 1850, em decorrência da infraestrutura de transporte existente na região e da presença de trabalho assalariado.",
+      "C": "O início da cafeicultura no estado de São Paulo se deu na região oeste, na década de 1930, em decorrência da expansão da produção no norte do Paraná, com expansão para o oeste paulista, aproveitando-se da qualidade do solo.",
+      "D": "A produção cafeeira, nos séculos XIX e XX, concentrava-se nos estados de Minas Gerais e Espírito Santo, com a introdução de novas variedades altamente produtivas e resistentes ao clima frio dessas regiões.",
+      "E": "Expandindo-se na direção oeste do território paulista, a produção cafeeira impulsionou, nos séculos XIX e XX, a estruturação econômica do estado de São Paulo, impactando o desenvolvimento da malha ferroviária e portuária."
+    },
+    "answer": "E"
+  }
+    ]}
