@@ -6,6 +6,7 @@ import { Subtopic } from "../entities/SubTopic.js";
 import { Subject } from "../entities/Subject.js";
 import { Topic } from "../entities/Topic.js";
 import { Question } from "../entities/Question.js";
+import { Like } from "typeorm";
 
 
 
@@ -388,6 +389,26 @@ class questionController {
       catch (error) 
       {
           return res.status(500).json("An error occured while acessing this route! " + error);    
+      }
+  }
+
+  filterQuestionByUniversity = async (req:Request, res: Response) =>
+  {
+      try 
+      {
+          const UniversityName = req.body.UniversityName;
+          
+          const QuestionFound = await this.QuestionRepository.find({
+                where: {
+                    QuestionId: Like(UniversityName + "%")
+                }
+            });
+  
+          return res.status(200).json(QuestionFound)
+      }
+      catch (error) 
+      {
+          return res.status(500).json("An error occured while acessing this route! " + error);      
       }
   }
 }
